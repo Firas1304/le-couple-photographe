@@ -60,4 +60,15 @@ if(f)f.addEventListener('submit',function(e){e.preventDefault();var v=function(i
  var txt='Bonjour, nous sommes '+v('nom')+' ('+v('mail')+'). Projet : '+v('type')+', lieu : '+v('zone')+(v('date')?', date : '+v('date'):'')+'. '+v('msg');
  var done=function(){note.textContent='Message copié. Collez-le dans un message à @le_couple_photographe sur Instagram.'};
  try{navigator.clipboard.writeText(txt).then(done,function(){note.textContent=txt})}catch(x){note.textContent=txt}});
+/* Google Analytics 4 : chargé seulement après consentement (RGPD). Actif si GA_ID est renseigné dans build.py */
+var GA=window.SITE_GA||'';
+function loadGA(){if(window.__ga)return;window.__ga=1;var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);
+ window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config',GA,{anonymize_ip:true})}
+if(GA){var ch=null;try{ch=localStorage.getItem('consent')}catch(e){}
+ if(ch==='yes')loadGA();
+ else if(ch!=='no'){var bar=document.createElement('div');bar.className='cookie';bar.setAttribute('role','dialog');bar.setAttribute('aria-label','Cookies');
+  bar.innerHTML='<p>Nous utilisons un outil de mesure d\'audience pour améliorer le site. Vous pouvez l\'accepter ou le refuser.</p><div><button type="button" id="ck-yes">Accepter</button><button type="button" id="ck-no">Refuser</button></div>';
+  document.body.appendChild(bar);
+  var set=function(v){try{localStorage.setItem('consent',v)}catch(e){}bar.remove();if(v==='yes')loadGA()};
+  $('#ck-yes').onclick=function(){set('yes')};$('#ck-no').onclick=function(){set('no')}}}
 })();

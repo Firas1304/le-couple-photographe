@@ -7,6 +7,8 @@ ART = '--artifact' in sys.argv
 OUT = sys.argv[sys.argv.index('--artifact')+1] if ART else '.'
 DOMAIN = 'https://www.lecouplephotographe.fr'   # à remplacer par votre vrai domaine
 IG = 'https://www.instagram.com/le_couple_photographe/'
+GA_ID = ''      # identifiant Google Analytics 4, ex. 'G-XXXXXXXXXX' (vide = rien n'est chargé)
+GSC_TOKEN = ''  # jeton de vérification Google Search Console (balise meta), vide = aucune balise
 NAME = 'Le Couple Photographe'
 esc = html.escape
 
@@ -110,6 +112,7 @@ def head(title, desc, path, depth, ld=None, home_fragment=False):
     h = '<title>%s</title>\n<meta name="description" content="%s">\n<meta name="robots" content="index,follow,max-image-preview:large">\n<meta name="theme-color" content="#0d0c0b">\n<link rel="canonical" href="%s">\n' % (esc(title), esc(desc,True), canon)
     h += '<meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:type" content="website"><meta property="og:locale" content="fr_FR"><meta property="og:url" content="%s">\n' % (esc(title,True), esc(desc,True), canon)
     h += '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Hanken+Grotesk:wght@300;400;500;700&display=swap">\n'
+    if GSC_TOKEN: h += '<meta name="google-site-verification" content="%s">\n' % esc(GSC_TOKEN,True)
     h += '<link rel="stylesheet" href="%s">\n' % asset(depth,'style.css')
     for o in (ld or []): h += '<script type="application/ld+json">%s</script>\n' % json.dumps(o, ensure_ascii=False)
     return h
@@ -133,7 +136,7 @@ def footer(depth):
     pal = ul([(x['name'],'services/%s/'%x['slug']) for x in _S]+[('Toutes les prestations','services/')])
     vil = ul([(x['name'],'zones/%s/'%x['slug']) for x in _P if x['slug'] in ('paris-4e','paris-7e','paris-8e','paris-16e','paris-18e','versailles','boulogne-billancourt','neuilly-sur-seine','vincennes','saint-germain-en-laye','fontainebleau')]+[('Toutes les zones','zones/')])
     cul = ul([(x['name'],'palaces/%s/'%x['slug']) for x in PALACES[:4]]+[('Palaces parisiens','palaces/'),('Villes de France','villes/')]+[(c['name'],'cultures/%s/'%c['slug']) for c in CULTURES]+[('Devis gratuit','contact/')])
-    return ('<footer class="ft"><div><a href="%s" class="logo">Le Couple Photographe</a><p>Photographes de mariage à Paris, en Île-de-France et partout en France.</p><p style="margin-top:14px"><a href="%s" target="_blank" rel="noopener">Instagram @le_couple_photographe</a></p></div><div><h4>Prestations</h4>%s</div><div><h4>Paris &amp; Île-de-France</h4>%s</div><div><h4>Lieux &amp; cultures</h4>%s</div></footer>\n<div class="big" aria-hidden="true">Le Couple</div>\n<p style="padding:0 var(--g) 30px;color:var(--mute);font-size:13px">© <span id="yr"></span> Le Couple Photographe · Photographe de mariage Paris &amp; Île-de-France</p>\n<a class="stick" href="%s" data-cursor>Demander un devis</a>\n<script src="%s"></script>\n<script src="%s"></script>') % (href(depth,''), IG, pal, vil, cul, href(depth,'contact/'), asset(depth,'photos.js'), asset(depth,'app.js'))
+    return ('<footer class="ft"><div><a href="%s" class="logo">Le Couple Photographe</a><p>Photographes de mariage à Paris, en Île-de-France et partout en France.</p><p style="margin-top:14px"><a href="%s" target="_blank" rel="noopener">Instagram @le_couple_photographe</a></p></div><div><h4>Prestations</h4>%s</div><div><h4>Paris &amp; Île-de-France</h4>%s</div><div><h4>Lieux &amp; cultures</h4>%s</div></footer>\n<div class="big" aria-hidden="true">Le Couple</div>\n<p style="padding:0 var(--g) 30px;color:var(--mute);font-size:13px">© <span id="yr"></span> Le Couple Photographe · Photographe de mariage Paris &amp; Île-de-France</p>\n<a class="stick" href="%s" data-cursor>Demander un devis</a>\n<script>window.SITE_GA=%s;</script>\n<script src="%s"></script>\n<script src="%s"></script>') % (href(depth,''), IG, pal, vil, cul, href(depth,'contact/'), json.dumps(GA_ID), asset(depth,'photos.js'), asset(depth,'app.js'))
 
 def img(i, alt, cls=''):
     return '<img data-ph="%d" alt="%s" loading="lazy"%s>' % (i, esc(alt,True), (' class="%s"'%cls if cls else ''))

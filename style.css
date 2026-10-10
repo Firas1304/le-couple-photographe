@@ -221,3 +221,10 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 .stick{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:48;background:var(--paper);color:var(--ink);padding:14px 22px;border-radius:60px;font:500 12px var(--sans);letter-spacing:.16em;text-transform:uppercase;box-shadow:0 10px 40px rgba(0,0,0,.5);transition:background .4s,transform .5s var(--ease)}
 .stick:hover{background:var(--gold);transform:translateY(-3px)}
 .rel .sec-h{margin-bottom:30px}
+
+/* bandeau cookies */
+.cookie{position:fixed;left:16px;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:120;max-width:640px;margin-inline:auto;background:var(--ink2);border:1px solid #3b362f;padding:18px 20px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;box-shadow:0 10px 40px rgba(0,0,0,.6)}
+.cookie p{font-size:14px;margin:0;max-width:44ch;color:var(--paper)}
+.cookie div{display:flex;gap:10px}
+.cookie button{font:500 12px var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:12px 20px;border-radius:40px;border:1px solid #4a443c;background:transparent;color:var(--paper);cursor:pointer}
+.cookie #ck-yes{background:var(--paper);color:var(--ink);border-color:var(--paper)}

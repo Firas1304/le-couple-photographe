@@ -36,3 +36,6 @@ Le propriétaire travaille en alternance sur le bureau (session locale, dossier 
 
 ## Déploiement
 GitHub Pages via `.github/workflows/pages.yml` (build + déploiement à chaque push sur main ou sur la branche de travail). Réglage à faire une fois dans GitHub : Settings > Pages > Source = « GitHub Actions ». Pour un domaine perso : créer un fichier `CNAME` à la racine avec le domaine, régler `DOMAIN` dans `build.py`, puis configurer les DNS chez le registrar.
+
+## Google Analytics / Search Console
+`GA_ID` (G-XXXXXXXXXX) et `GSC_TOKEN` (jeton de la balise meta de vérification) sont à renseigner en haut de `build.py`, puis `python3 build.py`. Vides = rien n'est chargé. GA4 ne se charge qu'après consentement (bandeau cookies dans `app.js`). À faire une fois le domaine réel en ligne : ajouter la propriété Search Console (méthode « Préfixe d'URL » ou DNS), soumettre `sitemap.xml`.
