@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Le premier regard, nous l'imaginons sur le parvis de la Collégiale Notre-Dame : pierre romane et gothique d'un côté, vous deux de l'autre, et une caméra qui saisit le pas hésitant puis le sourire. En fin de journée, la blancheur de la Villa Savoye découpe la robe et le costume comme une page d'architecture. Pour finir, une marche lente sur les Bords de Seine, sous les arbres, donne au film de mariage ses plans les plus tendres.",
+  "scene": "À Poissy, un mariage se photographie et se filme entre la Collégiale Notre-Dame, la Villa Savoye et les Bords de Seine, trois décors réunis dans une même ville. Le premier regard peut avoir lieu sur le parvis de la collégiale : pierre romane et gothique d'un côté, vous deux de l'autre, et une caméra qui saisit le pas hésitant puis le sourire. En fin de journée, la blancheur de la villa découpe la robe et le costume. Une marche lente au bord de l'eau donne au film ses plans les plus tendres.",
   "conseil": "Gardez le créneau des portraits de couple pour la lumière rasante de fin d'après-midi : c'est elle qui rend la Villa Savoye si graphique. Si vos invités viennent de Paris, rappelez-leur que le RER A dessert Poissy directement.",
   "faq": [
-   {"q": "Peut-on faire les photos de mariage devant la villa Savoye à Poissy ?", "a": "Le monument a ses propres conditions d'accès et de prise de vue. Nous vous conseillons de vous renseigner auprès du site bien avant la date ; nous adaptons ensuite le déroulé pour y placer vos portraits de couple au bon moment de la journée."},
-   {"q": "Un photographe mariage à Poissy peut-il aussi filmer la cérémonie à la collégiale ?", "a": "Oui, nous pouvons couvrir la cérémonie en photo et en vidéo, sous réserve de l'accord de la paroisse. Prévenez-nous de toute consigne particulière : nous choisirons des emplacements discrets pour ne pas gêner l'office ni vos invités."}
+   {
+    "q": "Peut-on faire les photos de mariage devant la villa Savoye à Poissy ?",
+    "a": "Pour un mariage à Poissy, la Villa Savoye a ses propres conditions d'accès et de prise de vue. Renseignez-vous auprès du site bien avant la date ; nous plaçons ensuite vos portraits de couple au bon moment de la journée."
+   },
+   {
+    "q": "Un photographe mariage à Poissy peut-il aussi filmer la cérémonie à la collégiale ?",
+    "a": "Oui, à Poissy, nous pouvons photographier et filmer la cérémonie de mariage à la Collégiale Notre-Dame, sous réserve de l'accord de la paroisse. Prévenez-nous des consignes : nous choisirons des emplacements discrets pour ne pas gêner l'office."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Sous l'ombre douce des Bords de Seine, vos mains se posent sur le ventre pendant que l'eau défile derrière vous : une séquence lente, presque silencieuse. Au Parc Meissonier, nous vous proposons de vous asseoir dans l'herbe, robe étalée, le futur papa allongé contre vous pour murmurer quelques mots au bébé. Et si l'envie de lignes pures vous tente, les volumes blancs de la Villa Savoye mettent la silhouette arrondie en valeur, de profil.",
+  "scene": "Pour un shooting grossesse à Poissy, nous vous proposons le Parc Meissonier et les Bords de Seine, deux décors calmes et ombragés, plus la Villa Savoye pour une silhouette graphique. Sur la promenade au bord de l'eau, vos mains se posent sur le ventre pendant que la Seine défile : une séquence lente, presque silencieuse. Au parc, vous vous asseyez dans l'herbe, robe étalée, le futur papa allongé contre vous pour murmurer quelques mots au bébé. Devant les volumes blancs de la villa, le ventre arrondi se dessine de profil.",
   "conseil": "Avec un ventre bien rond, privilégiez des trajets courts : les pelouses du parc permettent de s'asseoir souvent et de faire des pauses. Évitez les heures chaudes en été, la promenade ombragée au bord de l'eau reste plus confortable en matinée.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Poissy au calme ?", "a": "Le Parc Meissonier et la promenade le long de la Seine se prêtent bien à une séance tranquille : de l'ombre, de l'herbe pour s'asseoir et peu de dénivelé. Nous adaptons le rythme à votre forme du jour."},
-   {"q": "À combien de mois de grossesse prévoir la séance photo à Poissy ?", "a": "Beaucoup de futures mamans choisissent la fin du deuxième trimestre ou le début du troisième, quand le ventre est bien visible et que la marche reste agréable. Nous en parlons ensemble pour trouver le moment qui vous convient."}
+   {
+    "q": "Où faire un shooting grossesse à Poissy au calme ?",
+    "a": "Pour un shooting grossesse au calme à Poissy, le Parc Meissonier et la promenade des Bords de Seine conviennent bien : de l'ombre, de l'herbe pour s'asseoir et peu de dénivelé. Nous adaptons le rythme à votre forme du jour."
+   },
+   {
+    "q": "À combien de mois de grossesse prévoir la séance photo à Poissy ?",
+    "a": "Pour une séance photo grossesse à Poissy, beaucoup de futures mamans choisissent la fin du deuxième trimestre ou le début du troisième, quand le ventre est bien visible et que la marche reste agréable au bord de la Seine."
+   }
   ]
  },
  "couple": {
-  "scene": "Main dans la main, vous longez les Bords de Seine et vous parlez de tout et de rien : c'est ce dialogue que nous captons, en photo comme en images en mouvement. Plus loin, la Collégiale Notre-Dame offre ses vieilles pierres à un baiser volé dans un recoin. La Villa Savoye, avec ses pilotis et ses fenêtres en bandeau, invite à jouer avec les cadres : l'un sous la structure, l'autre en retrait, un regard qui se croise.",
+  "scene": "Une séance photo couple à Poissy relie les Bords de Seine, la Collégiale Notre-Dame et la Villa Savoye en une seule promenade à pied. Main dans la main le long de l'eau, vous parlez de tout et de rien : c'est ce dialogue que nous captons, en photo comme en images en mouvement. Les vieilles pierres de la collégiale abritent un baiser volé dans un recoin. Sous les pilotis de la villa, l'un se place sous la structure, l'autre en retrait, et vos regards se croisent.",
   "conseil": "La ville mêle ancien et moderne : choisissez deux tenues, une plus classique pour la collégiale, une plus épurée pour l'architecture de Le Corbusier. Venir en RER A vous évite de chercher à vous garer.",
   "faq": [
-   {"q": "Quel parcours pour un shooting couple à Poissy ?", "a": "Nous aimons enchaîner la collégiale, la promenade au bord de la Seine puis la villa Savoye en fin de journée. Ce trajet mêle pierres anciennes, nature et lignes modernes, pour des images variées en une seule séance."},
-   {"q": "Peut-on faire une séance fiançailles à Poissy ?", "a": "Bien sûr. Une séance couple se prête très bien à des fiançailles : nous pouvons glisser la demande ou la bague dans le récit, et réaliser un court film souvenir à partager avec vos proches avant le mariage."}
+   {
+    "q": "Quel parcours pour un shooting couple à Poissy ?",
+    "a": "Pour un shooting couple à Poissy, nous aimons enchaîner la Collégiale Notre-Dame, la promenade des Bords de Seine puis la Villa Savoye en fin de journée. Ce parcours mêle pierres anciennes, nature et lignes modernes en une seule séance."
+   },
+   {
+    "q": "Peut-on faire une séance fiançailles à Poissy ?",
+    "a": "Oui, une séance fiançailles se fait très bien à Poissy, dans le cadre d'une séance couple. Nous pouvons glisser la demande ou la bague dans le récit et réaliser un court film souvenir à partager avec vos proches avant le mariage."
+   }
   ]
  },
  "famille": {
-  "scene": "Course sur les pelouses du Parc Meissonier, roulades, grands-parents assis qui regardent : la séance famille commence par le jeu, et nos cadrages suivent les enfants plutôt que l'inverse. Ensuite, une balade sur les Bords de Seine, les plus petits sur les épaules, permet de filmer la famille de dos, tous alignés face à l'eau. Une photo de groupe devant la Collégiale Notre-Dame vient clore la sortie, plus posée.",
+  "scene": "Le Parc Meissonier est le point de départ que nous proposons pour une séance photo famille à Poissy : ses pelouses laissent les enfants courir librement. Courses, roulades, grands-parents assis qui regardent : nos cadrages suivent les enfants plutôt que l'inverse. Une balade sur les Bords de Seine, les plus petits sur les épaules, permet ensuite de filmer la famille de dos, alignée face à l'eau. Une photo de groupe plus posée devant la Collégiale Notre-Dame clôt la sortie.",
   "conseil": "Les pelouses du parc sont parfaites pour laisser les enfants se dépenser : prévoyez une couverture et un goûter. Calez la séance hors de l'heure de la sieste, et arrivez quelques minutes plus tôt pour repérer un coin d'ombre.",
   "faq": [
-   {"q": "Où faire des photos de famille en extérieur à Poissy ?", "a": "Le Parc Meissonier est notre point de départ favori pour les familles : ses pelouses laissent les enfants bouger librement. Les bords de Seine, tout proches, complètent la séance avec une promenade ombragée."},
-   {"q": "Les grands-parents peuvent-ils participer à la séance famille à Poissy ?", "a": "Oui, et nous le recommandons. Nous prévoyons des moments assis pour ceux qui marchent moins, puis des portraits par génération. Une séance à plusieurs foyers demande simplement un peu plus de temps."}
+   {
+    "q": "Où faire des photos de famille en extérieur à Poissy ?",
+    "a": "Pour des photos de famille en extérieur à Poissy, le Parc Meissonier est un bon point de départ : ses pelouses laissent les enfants bouger librement. Les Bords de Seine, tout proches, complètent la séance avec une promenade ombragée."
+   },
+   {
+    "q": "Les grands-parents peuvent-ils participer à la séance famille à Poissy ?",
+    "a": "Oui, les grands-parents ont toute leur place dans une séance famille à Poissy. Nous prévoyons des moments assis au Parc Meissonier pour ceux qui marchent moins, puis des portraits par génération. Plusieurs foyers demandent simplement un peu plus de temps."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Trois, deux, un… et la couleur jaillit ! Sur les pelouses dégagées du Parc Meissonier, l'espace permet de placer les invités en arc de cercle et de garder le couple bien au centre du cadre. Nous filmons la réaction au ralenti, puis les embrassades. Pour une version plus intime, l'ouverture d'une boîte au bord de l'eau, sur les Bords de Seine, ou devant la façade de la Collégiale Notre-Dame donne un décor original à l'annonce.",
+  "scene": "Pour un gender reveal à Poissy, les pelouses dégagées du Parc Meissonier offrent la place de réunir les invités en arc de cercle autour du couple. Trois, deux, un, et la couleur jaillit : nous filmons la réaction au ralenti, puis les embrassades. Pour une version plus intime, l'ouverture d'une boîte sur les Bords de Seine ou devant la façade de la Collégiale Notre-Dame donne un décor original à l'annonce. Vérifiez toujours les règles du lieu pour confettis, fumigènes et ballons.",
   "conseil": "Avant de choisir confettis, fumigènes ou ballons, vérifiez les règles du parc ou de l'espace public concerné. Testez le dispositif chez vous la veille, et demandez aux invités de rester derrière nous au moment clé.",
   "faq": [
-   {"q": "Peut-on faire un gender reveal avec fumigène au Parc Meissonier ?", "a": "Cela dépend du règlement du jardin public : renseignez-vous auprès de la ville avant de prévoir fumigènes, confettis ou ballons. Si ce n'est pas autorisé, une boîte surprise ou un gâteau coloré fonctionnent très bien en photo et en vidéo."},
-   {"q": "Combien de temps dure un shooting gender reveal à Poissy ?", "a": "La révélation elle-même ne prend que quelques secondes, mais nous prévoyons un temps avant pour les portraits du couple et l'installation, et un temps après pour les réactions et les photos de groupe."}
+   {
+    "q": "Peut-on faire un gender reveal avec fumigène au Parc Meissonier ?",
+    "a": "Un gender reveal avec fumigène au Parc Meissonier, à Poissy, dépend du règlement du jardin public : renseignez-vous auprès de la ville avant de prévoir fumigènes, confettis ou ballons. Sinon, une boîte surprise ou un gâteau coloré fonctionnent très bien en image."
+   },
+   {
+    "q": "Combien de temps dure un shooting gender reveal à Poissy ?",
+    "a": "Un shooting gender reveal à Poissy comprend la révélation, qui ne dure que quelques secondes, plus un temps avant pour les portraits du couple et l'installation, et un temps après pour les réactions et les photos de groupe."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un fond architectural sobre change la lecture d'un portrait. Devant les murs blancs de la Villa Savoye, une dirigeante ou un architecte trouve un décor net, cohérent avec une image rigoureuse. Pour une équipe, les arbres des Bords de Seine apportent une lumière filtrée qui adoucit les visages sans les écraser. Nous tournons aussi de courtes séquences de présentation, idéales pour LinkedIn ou une page « à propos », avec le Parc Meissonier en arrière-plan plus détendu.",
+  "scene": "Un portrait professionnel à Poissy peut s'appuyer sur les murs blancs de la Villa Savoye, un décor net pour une image rigoureuse. Une dirigeante ou un architecte y trouve un fond sobre et cohérent. Pour une équipe, les arbres des Bords de Seine filtrent la lumière et adoucissent les visages sans les écraser. Nous tournons aussi de courtes séquences de présentation pour LinkedIn ou une page « à propos », avec le Parc Meissonier en arrière-plan plus détendu.",
   "conseil": "Les volumes clairs de l'architecture moderniste réfléchissent beaucoup la lumière : évitez les vêtements blancs et les motifs chargés. Indiquez-nous vos usages, site, CV ou plaquette, pour que nous livrions les bons formats.",
   "faq": [
-   {"q": "Où faire un portrait corporate en extérieur à Poissy ?", "a": "Selon l'image souhaitée, nous vous proposons les abords de la villa Savoye pour un rendu graphique, ou la promenade le long de la Seine pour un portrait plus naturel. Nous pouvons aussi venir dans vos locaux s'ils offrent de la lumière naturelle."},
-   {"q": "Faites-vous des photos d'équipe pour les entreprises de Poissy ?", "a": "Oui. Nous organisons les portraits individuels puis les photos de groupe, dans vos bureaux ou en extérieur. Prévenez vos collaborateurs de la tenue conseillée et prévoyez une pièce calme pour les prises individuelles."}
+   {
+    "q": "Où faire un portrait corporate en extérieur à Poissy ?",
+    "a": "Pour un portrait corporate en extérieur à Poissy, nous proposons les abords de la Villa Savoye pour un rendu graphique, ou les Bords de Seine pour un portrait plus naturel. Nous pouvons aussi venir dans vos locaux s'ils ont de la lumière naturelle."
+   },
+   {
+    "q": "Faites-vous des photos d'équipe pour les entreprises de Poissy ?",
+    "a": "Oui, nous réalisons des photos d'équipe pour les entreprises de Poissy : portraits individuels puis photo de groupe, dans vos bureaux ou en extérieur. Prévenez vos collaborateurs de la tenue conseillée et prévoyez une pièce calme pour les prises individuelles."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Votre séminaire se tient à Poissy ? Entre deux sessions, nous pouvons emmener les participants pour une photo collective sur les Bords de Seine, ou devant la Collégiale Notre-Dame si le programme prévoit une visite du centre. Pendant les prises de parole, le reportage reste discret : orateurs, échanges, détails de la scénographie. Un teaser de quelques minutes, monté à partir de ces images, peut inclure un plan de la Villa Savoye pour situer l'événement dans la ville.",
+  "scene": "Pour un événement professionnel à Poissy, nous couvrons séminaires et conférences en reportage discret, avec des photos de groupe possibles sur les Bords de Seine ou devant la Collégiale Notre-Dame. Pendant les prises de parole, nous suivons les orateurs, les échanges et les détails de la scénographie. Un teaser de quelques minutes, monté à partir de ces images, peut inclure un plan de la Villa Savoye pour situer l'événement dans la ville.",
   "conseil": "Transmettez-nous le programme minuté et désignez un contact sur place. Si vos invités arrivent par le RER A, prévoyez des images d'accueil dès leur arrivée : ce sont souvent les plus vivantes de la journée.",
   "faq": [
-   {"q": "Quel vidéaste pour un séminaire d'entreprise à Poissy ?", "a": "Nous couvrons séminaires, conférences et soirées en photo et en vidéo, en binôme. Cela permet de suivre en même temps la salle et les coulisses, puis de livrer à la fois une galerie et un film court pour votre communication."},
-   {"q": "Pouvez-vous photographier une conférence sans déranger le public ?", "a": "Oui. Nous travaillons sans flash pendant les interventions et choisissons des emplacements définis avec vous. Signalez-nous les zones interdites ou confidentielles : nous les respectons strictement tout au long de l'événement."}
+   {
+    "q": "Quel vidéaste pour un séminaire d'entreprise à Poissy ?",
+    "a": "Pour un séminaire d'entreprise à Poissy, nous couvrons l'événement en photo et en vidéo, en binôme. Nous suivons en même temps la salle et les coulisses, puis livrons une galerie et un film court pour votre communication."
+   },
+   {
+    "q": "Pouvez-vous photographier une conférence sans déranger le public ?",
+    "a": "Oui, une conférence à Poissy se photographie sans déranger le public : nous travaillons sans flash pendant les interventions, depuis des emplacements définis avec vous. Les zones interdites ou confidentielles que vous signalez sont strictement respectées."
+   }
   ]
  },
  "solo": {
-  "scene": "Prenez la place centrale. Sous les pilotis de la Villa Savoye, une silhouette seule devient presque une sculpture : nous jouons avec les ombres, les lignes droites, votre posture. Puis la séance se change en promenade sur les Bords de Seine, où vous marchez à votre rythme pendant que la caméra suit de loin, sans vous diriger. Un passage par le Parc Meissonier, assis dans l'herbe, termine sur des portraits plus relâchés.",
+  "scene": "Un shooting portrait solo à Poissy joue sur le contraste entre la Villa Savoye, très graphique, et les Bords de Seine, plus libres. Sous les pilotis de la villa, une silhouette seule devient presque une sculpture : nous jouons avec les ombres, les lignes droites, votre posture. Sur la promenade au bord de l'eau, vous marchez à votre rythme pendant que la caméra suit de loin. Un passage par le Parc Meissonier, assis dans l'herbe, termine sur des portraits plus relâchés.",
   "conseil": "Apportez une tenue structurée pour l'architecture moderne et une plus fluide pour la nature. La lumière rasante, en fin de journée, souligne joliment les reliefs du visage : c'est le moment que nous préférons pour un portrait solo ici.",
   "faq": [
-   {"q": "Où faire un shooting portrait solo à Poissy ?", "a": "Nous aimons combiner la villa Savoye pour un rendu graphique et les bords de Seine pour un style plus spontané. Ce contraste donne une série variée, à votre image, que vous soyez à l'aise devant l'objectif ou non."},
-   {"q": "Je ne suis pas à l'aise en photo, une séance solo est-elle pour moi ?", "a": "Oui. Nous commençons par marcher et discuter, sans pose imposée. Dites-nous ce que vous aimez ou non dans votre apparence : nous adaptons les cadrages pour que vous vous reconnaissiez dans chaque image."}
+   {
+    "q": "Où faire un shooting portrait solo à Poissy ?",
+    "a": "Pour un shooting portrait solo à Poissy, nous aimons combiner la Villa Savoye pour un rendu graphique et les Bords de Seine pour un style plus spontané. Ce contraste donne une série variée, à votre image."
+   },
+   {
+    "q": "Je ne suis pas à l'aise en photo, une séance solo est-elle pour moi ?",
+    "a": "Oui, une séance portrait solo à Poissy convient aussi aux personnes mal à l'aise en photo. Nous commençons par marcher et discuter au bord de la Seine, sans pose imposée, et adaptons les cadrages à ce que vous aimez dans votre apparence."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Bougies soufflées, éclats de rire, et un oncle qui se lance dans un discours : la fête se raconte en photos et en vidéo, du premier toast au dernier verre. Avant le repas, profitez du Parc Meissonier pour une photo de groupe sur la pelouse, tout le monde encore frais. Une petite escapade au bord de l'eau, sur les Bords de Seine, ou devant la Collégiale Notre-Dame, offre ensuite un portrait de la personne fêtée, entourée de ses proches.",
+  "scene": "Photographier un anniversaire à Poissy, c'est suivre la fête du premier toast au dernier verre, avec une photo de groupe possible au Parc Meissonier avant le repas. Bougies soufflées, éclats de rire, un oncle qui se lance dans un discours : la vidéo garde le son et le mouvement. Sur la pelouse, tout le monde est encore frais pour le portrait collectif. Une petite escapade sur les Bords de Seine ou devant la Collégiale Notre-Dame offre ensuite un portrait de la personne fêtée, entourée de ses proches.",
   "conseil": "Faites la photo de groupe tôt, avant le dîner, et prévenez-nous du moment du gâteau pour que nous soyons bien placés. Si les invités viennent de loin, la gare du RER A simplifie les arrivées.",
   "faq": [
-   {"q": "Un photographe pour des 30 ans ou des 60 ans à Poissy ?", "a": "Oui, nous couvrons les anniversaires de tous âges, chez vous, dans une salle ou en extérieur. Nous suivons les temps forts, discours, gâteau, danse, et réalisons aussi des portraits de groupe et de famille."},
-   {"q": "Peut-on combiner fête d'anniversaire et séance photo en extérieur à Poissy ?", "a": "Tout à fait. Une courte séance au parc ou au bord de la Seine avant la fête permet d'avoir des portraits soignés à la lumière du jour, puis nous enchaînons sur le reportage de la soirée."}
+   {
+    "q": "Un photographe pour des 30 ans ou des 60 ans à Poissy ?",
+    "a": "Oui, nous photographions et filmons les anniversaires de tous âges à Poissy, des 30 ans aux 60 ans et au-delà, chez vous, dans une salle ou en extérieur. Nous suivons discours, gâteau et danse, avec des portraits de groupe."
+   },
+   {
+    "q": "Peut-on combiner fête d'anniversaire et séance photo en extérieur à Poissy ?",
+    "a": "Oui, à Poissy, une courte séance au Parc Meissonier ou au bord de la Seine avant la fête d'anniversaire donne des portraits soignés à la lumière du jour. Nous enchaînons ensuite sur le reportage de la soirée."
+   }
   ]
  },
  "diplome": {
-  "scene": "La toque vole, la toge flotte : après la cérémonie, ce geste mérite un décor à la hauteur. Les lignes nettes de la Villa Savoye donnent aux portraits de diplômés une allure affirmée, notamment pour les étudiants en architecture ou en design. Avec vos parents, la Collégiale Notre-Dame apporte une solennité qui convient à ce jour de fierté. Entre amis, filmez le lancer de toques au ralenti sur les pelouses du Parc Meissonier.",
+  "scene": "Après une remise de diplôme, Poissy offre trois décors de portrait : la Villa Savoye, la Collégiale Notre-Dame et le Parc Meissonier. Les lignes nettes de la villa donnent aux diplômés une allure affirmée, notamment en architecture ou en design. Avec vos parents, la collégiale apporte une solennité qui convient à ce jour de fierté. Entre amis, le lancer de toques se filme au ralenti sur les pelouses du parc, toge au vent.",
   "conseil": "Après la cérémonie, la file d'attente peut être longue : prévoyez la séance extérieure un peu plus tard, quand la lumière devient rasante. Gardez une tenue soignée sous la toge pour les portraits sans elle.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Poissy ?", "a": "Après la cérémonie, nous vous proposons la villa Savoye pour un portrait graphique, la collégiale pour une photo de famille plus solennelle, ou le parc Meissonier pour un lancer de toques entre amis."},
-   {"q": "Pouvez-vous filmer le lancer de toques entre étudiants ?", "a": "Oui, nous filmons ce moment au ralenti et le photographions en rafale pour ne rien manquer. Organisez-le à un endroit dégagé et prévenez vos camarades pour que tout le monde lance en même temps."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Poissy ?",
+    "a": "Pour des photos de remise de diplôme à Poissy, nous proposons la Villa Savoye pour un portrait graphique, la Collégiale Notre-Dame pour une photo de famille solennelle, ou le Parc Meissonier pour un lancer de toques entre amis."
+   },
+   {
+    "q": "Pouvez-vous filmer le lancer de toques entre étudiants ?",
+    "a": "Oui, à Poissy, nous filmons le lancer de toques de votre remise de diplôme au ralenti et le photographions en rafale. Choisissez un endroit dégagé comme les pelouses du Parc Meissonier et prévenez vos camarades pour lancer ensemble."
+   }
   ]
  },
  "naissance": {
-  "scene": "Les premières heures se vivent souvent à la maternité, et la prise de vue n'y est possible qu'avec l'accord de l'établissement. Si elle est acceptée, nous restons en retrait : une main minuscule sur un doigt, le regard des parents, un film court sans lumière ajoutée. Quelques jours plus tard, une sortie douce au Parc Meissonier ou sur les Bords de Seine, bébé en écharpe, prolonge le récit. Plus tard, la Villa Savoye ou la Collégiale Notre-Dame pourront accueillir d'autres souvenirs.",
+  "scene": "Un reportage de naissance à Poissy commence à la maternité, uniquement si l'établissement donne son accord, puis peut se prolonger au Parc Meissonier ou sur les Bords de Seine. À la maternité, nous restons en retrait : une main minuscule sur un doigt, le regard des parents, un film court sans lumière ajoutée. Quelques jours plus tard, une sortie douce au parc, bébé en écharpe, prolonge le récit. La Villa Savoye ou la Collégiale Notre-Dame pourront accueillir d'autres souvenirs plus tard.",
   "conseil": "Renseignez-vous dès la grossesse auprès de la maternité sur ses règles de prise de vue. Désignez un proche pour nous prévenir le moment venu, et attendez que la maman soit reposée pour la sortie au parc.",
   "faq": [
-   {"q": "Peut-on faire un reportage de naissance en maternité près de Poissy ?", "a": "Cela dépend uniquement de l'accord de la maternité. Nous vous invitons à poser la question à l'équipe pendant la grossesse. Sans autorisation, nous vous proposons une séance au retour à la maison ou en extérieur."},
-   {"q": "Faut-il réserver le reportage naissance avant l'accouchement ?", "a": "Oui, il vaut mieux réserver pendant la grossesse : la date exacte est imprévisible et nous organisons une disponibilité autour du terme. Un proche nous prévient ensuite pour venir au moment le plus serein."}
+   {
+    "q": "Peut-on faire un reportage de naissance en maternité près de Poissy ?",
+    "a": "Un reportage de naissance en maternité près de Poissy dépend uniquement de l'accord de l'établissement. Posez la question à l'équipe pendant la grossesse. Sans autorisation, nous proposons une séance au retour à la maison ou en extérieur à Poissy."
+   },
+   {
+    "q": "Faut-il réserver le reportage naissance avant l'accouchement ?",
+    "a": "Oui, un reportage naissance à Poissy se réserve pendant la grossesse : la date exacte est imprévisible et nous organisons une disponibilité autour du terme. Un proche nous prévient ensuite pour venir au moment le plus serein."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Tout se passe d'abord à la maison, dans une pièce bien chauffée : le bébé endormi dans vos bras, ses cils, ses plis, ses mains repliées. Nous n'imposons aucune pose délicate. Si le temps est doux et que vous en avez l'envie, une courte sortie sur les Bords de Seine, à l'ombre des arbres, ou une pause au Parc Meissonier ajoute quelques images de vous trois. La Villa Savoye et la Collégiale Notre-Dame attendront une prochaine séance, quand il saura marcher.",
+  "scene": "Une séance nouveau-né à Poissy se déroule d'abord à domicile, dans une pièce bien chauffée, avec une courte sortie possible sur les Bords de Seine par temps doux. Le bébé dort dans vos bras : ses cils, ses plis, ses mains repliées. Nous n'imposons aucune pose délicate. Une pause au Parc Meissonier ajoute quelques images de vous trois, à l'ombre. La Villa Savoye et la Collégiale Notre-Dame attendront une prochaine séance, quand il saura marcher.",
   "conseil": "Montez le chauffage de la pièce à environ 25 degrés et nourrissez le bébé juste avant notre arrivée. Pour la sortie, restez à l'ombre de la promenade et gardez-la très courte.",
   "faq": [
-   {"q": "Où faire une séance photo nouveau-né à Poissy ?", "a": "Nous préférons la séance à domicile, où le bébé est au chaud et dans ses repères. Si vous le souhaitez, une sortie brève au parc Meissonier ou au bord de la Seine peut compléter la série, par temps doux uniquement."},
-   {"q": "Quand réserver une séance nouveau-né à domicile à Poissy ?", "a": "Idéalement pendant la grossesse, pour fixer une période dans les premiers jours après la naissance. Nous ajustons ensuite la date selon l'arrivée du bébé et le rythme de la maman."}
+   {
+    "q": "Où faire une séance photo nouveau-né à Poissy ?",
+    "a": "Une séance photo nouveau-né à Poissy se fait de préférence à domicile, où le bébé est au chaud et dans ses repères. Par temps doux, une sortie brève au Parc Meissonier ou au bord de la Seine peut compléter la série."
+   },
+   {
+    "q": "Quand réserver une séance nouveau-né à domicile à Poissy ?",
+    "a": "Une séance nouveau-né à domicile à Poissy se réserve idéalement pendant la grossesse, pour fixer une période dans les premiers jours après la naissance. Nous ajustons ensuite la date selon l'arrivée du bébé et le rythme de la maman."
+   }
   ]
  }
 }
