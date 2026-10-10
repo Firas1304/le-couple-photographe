@@ -1,0 +1,6 @@
+TYPE : accueil
+NOM : Le Couple Photographe
+SERVICES : Photographe et vidéaste de mariage, Photographe et vidéaste de grossesse, Photographe et vidéaste de couple, Photographe et vidéaste de famille, Photographe et vidéaste de gender reveal, Photographe et vidéaste professionnel, Photographe et vidéaste d'événements professionnels, Photographe et vidéaste de portrait solo, Photographe et vidéaste d'anniversaire, Photographe et vidéaste de remise de diplôme, Photographe et vidéaste de naissance, Photographe et vidéaste de nouveau-né
+ZONES : Paris (20 arrondissements), 46 communes d'Île-de-France, toute la France ; palaces parisiens ; mariages marocain, tunisien, algérien.
+INSTAGRAM : @le_couple_photographe
+INFOS NON DISPONIBLES (ne rien inventer) : adresse, téléphone, tarifs, avis, années d'expérience, nombre de mariages.

@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : naissance
+NOM : Naissance
+INTITULÉ : Photographe et vidéaste de naissance
+ACCROCHE : Les premières heures d'un enfant ne reviennent pas. Un reportage de naissance garde les mains, les regards, les premiers gestes.
+PARAGRAPHES ACTUELS :
+- Selon les règles de la maternité et vos souhaits, nous intervenons à la maternité, à la maison ou lors de la visite des proches. Nous restons discrets : nous cherchons les premières heures du bébé, pas l'accouchement lui-même, sauf demande spécifique et accord de l'établissement.
+- Une courte vidéo garde les sons de la chambre : le premier cri, la voix des parents, les murmures des grands-parents. C'est le genre de souvenir qu'on revoit des années plus tard.
+DÉROULÉ : Préparation : Nous échangeons avant la naissance : vos souhaits, les règles de la maternité, les contacts. | Alerte : Dès que vous nous prévenez, nous nous organisons pour être présents dans les meilleurs délais. | Reportage : Quelques heures de photos et de vidéo, dans la chambre ou à la maison. | Livraison : Galerie privée et petit film, livrés rapidement pour partager avec les proches.
+DURÉE : Une à trois heures de reportage, selon vos souhaits et les règles de l'établissement.
+LIVRABLES PHOTO : Photos des premiers instants, des mains, des regards, des rencontres avec la famille.
+LIVRABLES VIDÉO : Film de 1 à 3 minutes, avec sons de la chambre et musique douce.
+CONSEILS : Renseignez-vous auprès de la maternité sur les règles de prises de vue avant la naissance. | Prévenez un proche qui pourra nous transmettre le moment venu. | Choisissez un moment après le repos de la maman pour rester sereins.
+SAISON : Toute l'année, disponibilité à confirmer selon la date prévue d'accouchement.
+FAQ ACTUELLE :
+- Pouvez-vous photographier l'accouchement ? -> Seulement avec l'accord de la maternité et des équipes médicales. En général, nous photographions les premières heures après la naissance.
+- Comment fonctionne la disponibilité autour de la date prévue ? -> Nous nous engageons sur une période autour de la date prévue et nous nous organisons pour être joignables.
+- Peut-on faire la séance à domicile ? -> Oui, quelques jours après le retour à la maison, dans une ambiance détendue.
+- Que faire si l'établissement refuse ? -> Nous passons sur un reportage à domicile quelques jours après, pour garder les premières rencontres avec la famille.

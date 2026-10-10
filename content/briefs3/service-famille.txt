@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : famille
+NOM : Famille
+INTITULÉ : Photographe et vidéaste de famille
+ACCROCHE : Les enfants grandissent, les grands-parents prennent de l'âge. Une séance famille arrête le temps, sans jamais se prendre au sérieux.
+PARAGRAPHES ACTUELS :
+- Nous aimons les séances où les enfants courent, grimpent, boudent un peu, puis finissent par rire. Nous nous adaptons à leur rythme et à celui des plus petits.
+- Les générations sont à l'honneur : un portrait de groupe, un portrait par branche, un moment seul à seul avec chaque enfant. La vidéo peut enregistrer une petite interview, la voix des enfants à un âge donné.
+DÉROULÉ : Préparation avec vous : Nombre de personnes, âges, goûts des enfants : nous vous aidons à choisir un lieu et un horaire. | Mise à l'aise : Quelques jeux au début pour apprivoiser l'objectif, surtout avec les enfants. | Les portraits : Portrait de groupe, par duo, parent-enfant, et un moment libre. | Livraison : Galerie en ligne facile à partager avec toute la famille, tirages ou album en option.
+DURÉE : Une heure à une heure trente, adaptée aux plus petits.
+LIVRABLES PHOTO : 40 à 80 images retouchées.
+LIVRABLES VIDÉO : Petit film de 2 à 3 minutes, avec interview ou jeux d'enfants.
+CONSEILS : Choisissez des couleurs qui s'accordent sans être identiques. | Évitez de planifier la séance à l'heure de la sieste. | Prévoyez un goûter ou un petit jeu pour les enfants.
+SAISON : Printemps et automne sont idéaux. L'hiver convient aux séances en intérieur.
+FAQ ACTUELLE :
+- Quel âge minimum pour les enfants ? -> Il n'y a pas de minimum. Pour les bébés de moins de six mois, nous recommandons une séance nouveau-né à domicile.
+- Combien de personnes peut-on réunir ? -> De 2 à 15 personnes environ. Au-delà, nous prévoyons un temps supplémentaire.
+- La séance est-elle possible à la maison ? -> Oui, c'est souvent le plus simple avec de jeunes enfants. Nous cherchons la meilleure fenêtre de lumière.
+- Et si un enfant est timide ? -> Nous prenons le temps de nous présenter, nous laissons l'enfant observer, et nous évitons les consignes trop directes.

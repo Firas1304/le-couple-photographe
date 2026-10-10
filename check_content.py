@@ -32,4 +32,14 @@ for k,v in seen.items():
     if v>1: err.append('phrase répétée: '+k[:50])
 extra=set(d)-{s['slug'] for s in SERVICES}
 if extra: err.append('clés en trop: %s'%extra)
+import re as _re
+toks=[w for w in pl['name'].lower().replace('-',' ').split() if len(w)>2 and w not in ('les','sur','des','la','le')]
+for sv in SERVICES:
+    e=d.get(sv['slug'])
+    if not e: continue
+    first=_re.split(r'(?<=[.!?])\s+',e['scene'])[0].lower()
+    if len(first.split())>40: err.append('%s: première phrase trop longue (%d mots)'%(sv['slug'],len(first.split())))
+    if not any(t in first for t in toks): err.append('%s: première phrase sans le nom du lieu'%sv['slug'])
+    for q in e['faq']:
+        if not any(t in q['a'].lower() for t in toks): err.append('%s: réponse FAQ sans le nom du lieu'%sv['slug'])
 print('OK' if not err else '\n'.join(err))

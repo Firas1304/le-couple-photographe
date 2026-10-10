@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : solo
+NOM : Solo
+INTITULÉ : Photographe et vidéaste de portrait solo
+ACCROCHE : Un portrait de vous, pour vous : un beau jour, une envie, un cap passé. Une séance solo se vit comme une promenade où vous reprenez la place centrale.
+PARAGRAPHES ACTUELS :
+- Pas besoin d'être modèle. Nous vous aidons à trouver votre posture, à choisir des tenues, à passer de la gêne au naturel. Nous parlons, nous marchons, nous laissons les images venir.
+- La séance sert aussi pour un book d'artiste, une présence en ligne, un profil de réseaux ou simplement un cadeau pour vous-même. Une courte vidéo façon portrait filmé met en scène votre voix, votre énergie.
+DÉROULÉ : Parler de vous : Style, envies, usages des images : nous construisons la séance autour de vous. | Tenues et lieux : Deux ou trois tenues, deux lieux proches, un changement de lumière. | La séance : Une heure de marche, de poses libres et de regards au loin. | Les images : Galerie retouchée, formats pour vos usages, vidéo courte en option.
+DURÉE : Une heure à une heure trente, avec deux ou trois changements de tenue.
+LIVRABLES PHOTO : 20 à 40 images retouchées, en couleur et en noir et blanc.
+LIVRABLES VIDÉO : Portrait filmé de 1 à 2 minutes, avec voix off ou ambiance sonore.
+CONSEILS : Apportez deux ou trois tenues qui vous ressemblent et dans lesquelles vous vous sentez bien. | Dites-nous ce que vous aimez et n'aimez pas dans votre apparence : nous adapterons les cadrages. | Prévoyez un moment de calme avant la séance pour arriver détendu.
+SAISON : Toute l'année. La lumière douce du matin et de la fin d'après-midi est idéale.
+FAQ ACTUELLE :
+- À quoi sert une séance solo ? -> À avoir des portraits qui vous ressemblent : réseaux, profil professionnel, cadeau, souvenir d'une étape de vie.
+- Faut-il savoir poser ? -> Non. Nous vous donnons des gestes simples et des idées de mouvement.
+- Peut-on faire la séance en intérieur ? -> Oui, si le lieu a de la lumière naturelle. Un studio léger peut aussi être installé chez vous.
+- Livrez-vous des retouches poussées ? -> Nous faisons une retouche naturelle. Une retouche plus poussée peut être discutée sur devis.

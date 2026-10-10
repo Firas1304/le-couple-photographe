@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : professionnels
+NOM : Professionnels
+INTITULÉ : Photographe et vidéaste professionnel
+ACCROCHE : Votre image professionnelle se lit en un coup d'œil. Un bon portrait, une équipe qui sourit sans être crispée : cela se voit sur un site, un CV, LinkedIn.
+PARAGRAPHES ACTUELS :
+- Nous réalisons des portraits individuels, des photos d'équipe, des images de locaux, des photos de produits et de métiers. Le tout dans un style cohérent avec votre marque.
+- La vidéo suit : portrait filmé du dirigeant, présentation de l'équipe, vidéo de recrutement, témoignage client. Nous travaillons avec un scénario court et un tournage efficace.
+DÉROULÉ : Brief : Nous cadrons votre besoin : usage des images, ton de marque, nombre de personnes. | Préparation : Choix du fond, du lieu, de la lumière et du planning pour limiter l'immobilisation des équipes. | Tournage ou prise de vues : Séance de 5 à 10 minutes par portrait, ou demi-journée de tournage. | Livraison : Images retouchées, formats adaptés (web, impression), vidéo montée avec sous-titres.
+DURÉE : Demi-journée ou journée complète, selon le volume.
+LIVRABLES PHOTO : Portraits retouchés, photos d'équipe, images d'ambiance, formats web et impression.
+LIVRABLES VIDÉO : Vidéo de présentation, interview, vidéo de recrutement, de 1 à 4 minutes.
+CONSEILS : Prévenez vos collaborateurs de la tenue à porter, en évitant les motifs trop chargés. | Prévoyez une pièce calme avec de la lumière naturelle. | Fournissez-nous vos usages (site, LinkedIn, plaquette) pour livrer les bons formats.
+SAISON : Toute l'année. Les périodes de rentrée et de début d'année sont chargées.
+FAQ ACTUELLE :
+- Quels types de prestations corporate proposez-vous ? -> Portraits individuels, photos d'équipe, images de locaux, reportages métier et vidéos de présentation.
+- Peut-on venir sur notre site ? -> Oui, nous nous déplaçons dans vos locaux avec un matériel léger et un fond portable.
+- Livrez-vous des fichiers adaptés à LinkedIn et au web ? -> Oui, nous fournissons les formats web, réseaux sociaux et impression.
+- Combien de temps pour un portrait individuel ? -> Entre 5 et 10 minutes par personne, avec une retouche légère incluse.

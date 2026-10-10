@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : evenements-professionnels
+NOM : Événements professionnels
+INTITULÉ : Photographe et vidéaste d'événements professionnels
+ACCROCHE : Séminaire, soirée de lancement, conférence, remise de prix : l'événement dure quelques heures, ses images servent pendant des mois.
+PARAGRAPHES ACTUELS :
+- Nous couvrons l'événement en discrétion : arrivée des invités, interventions, networking, ambiance, détails du lieu. Nous photographions aussi les partenaires et les temps forts de votre programme.
+- La vidéo peut prendre la forme d'un résumé de l'événement, d'une captation de conférence, de témoignages à chaud. Elle sert à vos réseaux, à votre site, à votre prochaine invitation.
+DÉROULÉ : Cadrage du programme : Horaires, intervenants, zones à couvrir, accès, règles de sécurité. | Repérage : Nous visitons le lieu ou étudions les plans pour anticiper lumière et circulation. | Couverture : Photo en continu, vidéo sur les temps forts, interviews courtes. | Livraison rapide : Sélection d'images sous 24 à 48 heures pour vos réseaux, puis galerie complète.
+DURÉE : De une heure à une journée entière, selon le programme.
+LIVRABLES PHOTO : Reportage complet, portraits des intervenants, photos de groupe, détails de la décoration.
+LIVRABLES VIDÉO : Résumé de 1 à 3 minutes, captation de conférence, interviews, vidéo teaser.
+CONSEILS : Transmettez-nous le programme minuté et la liste des personnes clés. | Précisez les zones interdites aux photographes (zones presse, confidentielles). | Prévoyez un contact sur place qui facilite l'accès.
+SAISON : Les événements de rentrée et de fin d'année sont très demandés : réservez tôt.
+FAQ ACTUELLE :
+- Livrez-vous les photos rapidement après l'événement ? -> Oui, une sélection de photos est livrée sous 24 à 48 heures pour vos communications.
+- Proposez-vous la captation vidéo d'une conférence ? -> Oui, avec un ou plusieurs angles, et un montage dynamique des temps forts.
+- Pouvez-vous photographier plusieurs salles ? -> Oui, avec plusieurs photographes si le programme est en parallèle.
+- Les droits à l'image sont-ils gérés ? -> Nous fournissons un modèle d'information pour vos invités. La gestion des autorisations reste à la charge de l'organisateur.

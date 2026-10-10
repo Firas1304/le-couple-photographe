@@ -41,15 +41,16 @@ def service_page(i,s):
     d=2;path='services/%s/'%s['slug']
     others=[(o['name'],'services/%s/'%o['slug']) for o in SERVICES if o['slug']!=s['slug']]
     zones=[(p['name'],'services/%s/%s/'%(s['slug'],p['slug'])) if (p['slug'] in PRIORITY or p['slug'] in CONTENT) else (p['name'],'zones/%s/'%p['slug']) for p in PLACES if p['slug'] in PRIORITY+['paris-1er','paris-11e','paris-12e']][:14]
-    faqs=s['faq']
+    G=B.load_page('service',s['slug'])
+    faqs=[(q['q'],q['a']) for q in G['faq']] if G else s['faq']
     ld=[B.BIZ,B.breadcrumb_ld([('Accueil',''),('Prestations','services/'),(s['name'],path)]),B.faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":s['nom'],"name":s['nom']+' à Paris et en Île-de-France',"provider":{"@type":"Photographer","name":B.NAME},"areaServed":"Île-de-France"}]
-    steps=''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(a),esc(b)) for a,b in s['deroule'])
+    steps=''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(e['titre']),esc(e['texte'])) for e in G['etapes']) if G else ''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(a),esc(b)) for a,b in s['deroule'])
     pv='<section class="cols"><div><div class="eyebrow">Photo et vidéo</div><h2 style="margin-top:18px">Deux regards, <em>une seule équipe</em></h2></div><div class="prose"><h3>Côté photo</h3><p>%s</p><h3>Côté vidéo</h3><p>%s</p><h3>Durée</h3><p>%s</p></div></section>'%(esc(s['photo']),esc(s['video']),esc(s['duree']))
-    dep='<section class="cols" id="details"><div><div class="eyebrow">Notre approche</div><h2 style="margin-top:18px">%s</h2></div><div class="prose">%s</div></section>'%(['Ce que nous <em>faisons</em>','Notre <em>manière</em> de travailler','Pourquoi <em>nous choisir</em>'][i%3],''.join('<p>%s</p>'%esc(p) for p in s['intro']))
+    dep='<section class="cols" id="details"><div><div class="eyebrow">Notre approche</div><h2 style="margin-top:18px">%s</h2></div><div class="prose">%s</div></section>'%(['Ce que nous <em>faisons</em>','Notre <em>manière</em> de travailler','Pourquoi <em>nous choisir</em>'][i%3],''.join('<p>%s</p>'%esc(p) for p in (G['intro'].split('\n\n') if G else s['intro'])))
     ste='<section class="cols"><div><div class="eyebrow">Déroulé</div><h2 style="margin-top:18px">Du premier échange <em>à la livraison</em></h2></div><div class="moments">%s</div></section>'%steps
     con='<section class="cols"><div><div class="eyebrow">Conseils</div><h2 style="margin-top:18px">Pour une <em>belle séance</em></h2></div><div class="prose">%s<h3>Quelle saison ?</h3><p>%s</p></div></section>'%(''.join('<p>%s</p>'%esc(c) for c in s['conseils']),esc(s['saison']))
     orders=[[dep,pv,ste,con],[dep,ste,con,pv],[pv,dep,con,ste]]
-    body=B.header(d)+B.hero(d,[('Accueil',''),('Prestations','services/'),(s['name'],None)],s['h1']+' <em>à Paris</em>' if False else s['h1']+' à Paris',esc(s['lead']),seed(s['slug']),s['nom']+' à Paris',ans='%s à Paris et en Île-de-France. Prestation : %s. %s %s'%(B.BRAND_DEF,s['nom'].lower(),s['photo'],s['video']))
+    body=B.header(d)+B.hero(d,[('Accueil',''),('Prestations','services/'),(s['name'],None)],s['h1']+' <em>à Paris</em>' if False else s['h1']+' à Paris',esc(s['lead']),seed(s['slug']),s['nom']+' à Paris',ans=(G['reponse'] if G else '%s à Paris et en Île-de-France. Prestation : %s. %s %s'%(B.BRAND_DEF,s['nom'].lower(),s['photo'],s['video'])))
     body+='<section class="facts"><div><small>Zone</small><b>Paris et Île-de-France</b></div><div><small>Photo</small><b>Galerie privée retouchée</b></div><div><small>Vidéo</small><b>Film monté sur mesure</b></div><div><small>Devis</small><b>Personnalisé</b></div></section>'
     body+=''.join(orders[i%3])+B.strip(seed(s['slug'])+4,s['nom'])+B.faq_html(faqs)
     body+=B.links_block(d,'%s près de chez vous'%s['name'],zones+[('Toutes les zones','zones/')])+B.cta(d)+B.links_block(d,'Autres prestations',others)+B.footer(d)

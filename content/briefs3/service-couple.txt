@@ -1,0 +1,19 @@
+TYPE : prestation
+SLUG : couple
+NOM : Couple
+INTITULÉ : Photographe et vidéaste de couple
+ACCROCHE : Une séance couple n'a pas besoin d'occasion : un anniversaire, des fiançailles, une envie de se regarder ensemble avec un peu de recul.
+PARAGRAPHES ACTUELS :
+- Nous marchons avec vous dans un quartier que vous aimez. Pas de poses à retenir : nous vous donnons de petites consignes qui vous font rire, parler, vous rapprocher. Les images viennent de là.
+- La séance dure une heure environ. Nous pouvons ajouter une courte vidéo façon film de voyage, avec le bruit de la ville et vos voix, à partager ou à garder pour vous.
+DÉROULÉ : Un échange avant : Vous nous dites ce que vous aimez, l'endroit qui compte pour vous, votre style. | Le repérage : Nous choisissons deux ou trois lieux proches, avec des changements de décor. | La balade : Une heure de marche et de petits jeux, pour que la gêne s'efface vite. | Les images : Galerie privée retouchée, et film court si vous l'avez choisi.
+DURÉE : Une heure à une heure trente, avec deux ou trois lieux à pied.
+LIVRABLES PHOTO : 30 à 60 images retouchées, tirages possibles.
+LIVRABLES VIDÉO : Mini-film de 1 à 3 minutes, sur ambiance sonore du lieu ou musique.
+CONSEILS : Portez des tenues dans lesquelles vous vous sentez vous-mêmes. | Venez avec une envie de parler : l'échange crée les expressions. | Prévoyez une petite pause café : elle fait gagner en naturel.
+SAISON : Toute l'année. Le matin tôt et la fin d'après-midi sont les plus doux.
+FAQ ACTUELLE :
+- Faut-il être à l'aise devant l'objectif ? -> Non. Beaucoup de couples se disent mal à l'aise au début. Nous vous guidons pas à pas.
+- Peut-on faire une séance de fiançailles ? -> Oui, c'est une séance couple classique. Elle sert aussi à tester notre façon de travailler avant le mariage.
+- Faites-vous des demandes en mariage surprises ? -> Oui, nous nous cachons à distance pour capturer la demande sans qu'elle se doute de rien.
+- Combien d'images reçoit-on ? -> Entre 30 et 60 images retouchées en général, selon la durée.
