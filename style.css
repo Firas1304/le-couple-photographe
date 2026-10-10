@@ -11,11 +11,24 @@ a{color:inherit;text-decoration:none}h1,h2,h3,p{margin:0}
 /* grain */
 body::after{content:"";position:fixed;inset:-50%;z-index:90;pointer-events:none;opacity:.07;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");animation:gr 1s steps(4) infinite}
 @keyframes gr{0%{transform:translate(0,0)}25%{transform:translate(-3%,2%)}50%{transform:translate(2%,-3%)}75%{transform:translate(-2%,-1%)}100%{transform:translate(0,0)}}
-/* preloader */
-.pre{position:fixed;inset:0;z-index:100;background:var(--ink);display:grid;place-items:center;transition:transform 1s var(--ease) .1s}
-.pre.out{transform:translateY(-100%)}
-.pre b{font:italic 400 clamp(60px,14vw,180px)/1 var(--serif);color:var(--paper)}
-.pre span{position:absolute;bottom:var(--g);left:var(--g);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--mute)}
+/* intro appareil photo */
+.pre{position:fixed;inset:0;z-index:100;background:var(--ink);display:grid;place-items:center;color:var(--paper)}
+.pre.gone{display:none}
+body.intro{overflow:hidden}
+.pre-in{display:grid;gap:clamp(18px,3vw,34px);justify-items:start}
+.cam{width:clamp(96px,14vw,160px);opacity:0;transform:scale(.9);animation:wi .5s var(--ease) .05s forwards}
+.cam .fl{color:var(--gold)}
+.pre.shoot .cam .fl{animation:glow .5s ease-out}
+.pre.shoot .cam .lens{stroke:var(--gold)}
+@keyframes glow{0%{r:3.4}30%{r:9;fill:#fff}100%{r:3.4}}
+.pre ul{list-style:none;margin:0;padding:0;font:400 clamp(38px,7vw,88px)/1.06 var(--sans);letter-spacing:-.025em}
+.pre li{opacity:0;transform:translateY(16px);animation:wi .5s var(--ease) forwards}
+.pre li:nth-child(1){animation-delay:.2s}.pre li:nth-child(2){animation-delay:.38s}.pre li:nth-child(3){animation-delay:.56s}
+.pre li em{font:italic 400 1.08em var(--serif);color:var(--gold)}
+@keyframes wi{to{opacity:1;transform:none}}
+.flash{position:fixed;inset:0;background:#fff;opacity:0;z-index:101;pointer-events:none}
+.flash.go{animation:fl .6s ease-out forwards}
+@keyframes fl{0%{opacity:0}10%{opacity:1}100%{opacity:0}}
 /* cursor */
 .cur{position:fixed;left:0;top:0;z-index:95;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--paper);mix-blend-mode:difference;pointer-events:none;transition:width .35s var(--ease),height .35s var(--ease),margin .35s var(--ease)}
 .cur.big{width:84px;height:84px;margin:-42px 0 0 -42px}
