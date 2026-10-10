@@ -1,0 +1,10 @@
+LIEU : Paris 20e (slug paris-20e) — Paris (75)
+INTRO : Le 20e arrondissement va de Belleville à Ménilmontant, avec le cimetière du Père-Lachaise et le parc de Belleville.
+AMBIANCE : Populaire, vallonné, avec des vues sur Paris.
+LUMIÈRE : Le parc de Belleville offre une vue dégagée au coucher du soleil.
+ACCÈS : Métro Belleville, Gambetta, Père Lachaise.
+SPOTS (noms exacts à citer) :
+- Parc de Belleville [P] : terrasses, cascade et vue sur la ville
+- Cimetière du Père-Lachaise [M] : allées pavées et monuments
+- Rue des Cascades [Q] : rue étroite et pentue
+- Place Gambetta [Q] : mairie et fontaine

@@ -1,0 +1,10 @@
+LIEU : Étampes (slug etampes) — Essonne (91)
+INTRO : Étampes est une ville historique avec la tour Guinette, la collégiale Notre-Dame-du-Fort et le Juine.
+AMBIANCE : Médiéval, pittoresque, avec des ponts.
+LUMIÈRE : Les quais de la Juine sont doux à l'aube.
+ACCÈS : RER C Étampes.
+SPOTS (noms exacts à citer) :
+- Tour Guinette [M] : donjon en ruine sur la colline
+- Collégiale Notre-Dame-du-Fort [M] : clocher roman
+- Rue Saint-Martin [Q] : maisons anciennes
+- Promenade des Prés [P] : allée le long de la Juine

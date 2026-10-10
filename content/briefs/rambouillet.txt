@@ -1,0 +1,10 @@
+LIEU : Rambouillet (slug rambouillet) — Yvelines (78)
+INTRO : Rambouillet est connue pour son château, son parc et son immense forêt de plus de 20 000 hectares.
+AMBIANCE : Vert, boisé, avec de grands espaces.
+LUMIÈRE : La forêt filtre la lumière, très douce même en plein été.
+ACCÈS : Transilien Rambouillet.
+SPOTS (noms exacts à citer) :
+- Château de Rambouillet [M] : tours de brique et douves
+- Parc du château [P] : jardins, canaux et chaumière
+- Forêt de Rambouillet [P] : chênes, étangs et sentiers
+- Étangs de Hollande [W] : étangs et roselières

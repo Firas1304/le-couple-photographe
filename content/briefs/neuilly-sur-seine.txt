@@ -1,0 +1,10 @@
+LIEU : Neuilly-sur-Seine (slug neuilly-sur-seine) — Hauts-de-Seine (92)
+INTRO : Neuilly-sur-Seine touche Paris à l'ouest et offre des avenues plantées, l'île de la Jatte et des hôtels particuliers.
+AMBIANCE : Chic, calme, avec de grandes avenues.
+LUMIÈRE : L'île de la Jatte est douce en fin de journée.
+ACCÈS : Métro Pont de Neuilly, Les Sablons.
+SPOTS (noms exacts à citer) :
+- Île de la Jatte [W] : promenade au bord de la Seine
+- Avenue Charles-de-Gaulle [Q] : grande perspective vers l'Arche de la Défense
+- Parc de Bagatelle voisin [P] : roseraie et pavillon
+- Rue de Chézy [Q] : ruelle résidentielle et maisons anciennes

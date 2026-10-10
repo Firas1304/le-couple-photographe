@@ -1,0 +1,10 @@
+LIEU : Saint-Ouen-sur-Seine (slug saint-ouen-sur-seine) — Seine-Saint-Denis (93)
+INTRO : Saint-Ouen-sur-Seine possède le plus grand marché aux puces du monde, des bords de Seine et des docks.
+AMBIANCE : Chiné, brut, avec des briques.
+LUMIÈRE : Les ruelles du marché aux puces sont lumineuses en matinée.
+ACCÈS : Métro Garibaldi, Mairie de Saint-Ouen.
+SPOTS (noms exacts à citer) :
+- Marché aux puces [Q] : allées d'antiquaires
+- Docks de Saint-Ouen [M] : anciens docks de brique
+- Parc des Docks [P] : parc contemporain au bord de la Seine
+- Mairie de Saint-Ouen [M] : façade Art déco

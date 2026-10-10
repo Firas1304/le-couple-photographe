@@ -1,0 +1,10 @@
+LIEU : Meaux (slug meaux) — Seine-et-Marne (77)
+INTRO : Meaux est connue pour sa cathédrale Saint-Étienne, ses remparts et ses bords de Marne.
+AMBIANCE : Historique, tranquille, avec de la verdure.
+LUMIÈRE : Les bords de Marne sont doux au lever du jour.
+ACCÈS : Transilien P Meaux.
+SPOTS (noms exacts à citer) :
+- Cathédrale Saint-Étienne [M] : façade gothique et jardin Bossuet
+- Jardin Bossuet [P] : parterres à la française
+- Bords de Marne [W] : promenade et pontons
+- Remparts [M] : murs gallo-romains

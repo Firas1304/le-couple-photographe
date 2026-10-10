@@ -1,0 +1,10 @@
+LIEU : Dourdan (slug dourdan) — Essonne (91)
+INTRO : Dourdan possède un château fort de Philippe Auguste, une forêt et des rues pavées.
+AMBIANCE : Médiéval, boisé, avec des fossés en eau.
+LUMIÈRE : Les fossés du château sont très lumineux en matinée.
+ACCÈS : Transilien Dourdan.
+SPOTS (noms exacts à citer) :
+- Château de Dourdan [M] : donjon cylindrique et douves
+- Forêt de Dourdan [P] : allées et sous-bois
+- Rue d'Étampes [Q] : maisons à pans de bois
+- Église Saint-Pierre [M] : gothique et clocher

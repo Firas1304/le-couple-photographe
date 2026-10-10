@@ -1,0 +1,10 @@
+LIEU : Fontainebleau (slug fontainebleau) — Seine-et-Marne (77)
+INTRO : Fontainebleau est la ville du château royal, de l'étang des Carpes et de la forêt de 25 000 hectares.
+AMBIANCE : Royal, boisé, avec de grands rochers.
+LUMIÈRE : La forêt est très douce en milieu de matinée.
+ACCÈS : Transilien Fontainebleau-Avon.
+SPOTS (noms exacts à citer) :
+- Château de Fontainebleau [M] : escalier en fer à cheval et cour des Adieux
+- Étang des Carpes [W] : pavillon central et allées
+- Forêt de Fontainebleau [P] : chaos de grès et sous-bois
+- Jardin de Diane [P] : parterres et bassin

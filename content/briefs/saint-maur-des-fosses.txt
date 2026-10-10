@@ -1,0 +1,10 @@
+LIEU : Saint-Maur-des-Fossés (slug saint-maur-des-fosses) — Val-de-Marne (94)
+INTRO : Saint-Maur-des-Fossés est entourée par la boucle de la Marne, avec des villas et des guinguettes.
+AMBIANCE : Résidentiel, au bord de l'eau, avec des villas.
+LUMIÈRE : Les quais de la Marne sont doux au lever du jour.
+ACCÈS : RER A Saint-Maur-Créteil.
+SPOTS (noms exacts à citer) :
+- Boucle de la Marne [W] : promenade en bord de rivière
+- Port de Saint-Maur [W] : quai et péniches
+- Parc de la Maison-Blanche [P] : jardin public
+- Quai de la Pie [Q] : maisons de bord de Marne

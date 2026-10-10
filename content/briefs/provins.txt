@@ -1,0 +1,10 @@
+LIEU : Provins (slug provins) — Seine-et-Marne (77)
+INTRO : Provins est une cité médiévale classée à l'UNESCO, avec ses remparts, la tour César et ses roses.
+AMBIANCE : Médiéval, fortifié, avec des ruelles en pente.
+LUMIÈRE : Les remparts sont dorés en fin de journée.
+ACCÈS : Transilien P Provins.
+SPOTS (noms exacts à citer) :
+- Tour César [M] : donjon du XIIe siècle
+- Remparts [M] : murs de pierre et fossés
+- Ville basse [Q] : maisons à colombages et ruelles
+- Jardins de roses [P] : roseraies anciennes

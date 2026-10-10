@@ -1,0 +1,10 @@
+LIEU : Paris 9e (slug paris-9e) — Paris (75)
+INTRO : Le 9e arrondissement abrite l'Opéra Garnier, les Grands Magasins, la Nouvelle Athènes et la rue des Martyrs.
+AMBIANCE : Théâtral, doré, avec des passages et des cafés.
+LUMIÈRE : Les escaliers de l'Opéra se photographient bien tôt le matin avant la foule.
+ACCÈS : Métro Opéra, Chaussée d'Antin, Pigalle.
+SPOTS (noms exacts à citer) :
+- Opéra Garnier [M] : façade dorée et escalier monumental
+- Passage Jouffroy [I] : galerie couverte du XIXe siècle
+- Rue des Martyrs [Q] : boulangeries, fromageries et étals
+- Square d'Orléans [Q] : cour résidentielle calme et arborée

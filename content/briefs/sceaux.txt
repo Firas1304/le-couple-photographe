@@ -1,0 +1,10 @@
+LIEU : Sceaux (slug sceaux) — Hauts-de-Seine (92)
+INTRO : Sceaux possède le parc de Sceaux, dessiné par André Le Nôtre, avec son château, son orangerie et son grand canal.
+AMBIANCE : Classique, élégant, avec de grandes perspectives.
+LUMIÈRE : Le grand canal est lumineux le matin, avec des reflets.
+ACCÈS : RER B Sceaux, Bourg-la-Reine.
+SPOTS (noms exacts à citer) :
+- Parc de Sceaux [P] : parterres à la française et allées bordées d'arbres
+- Grand Canal [W] : miroir d'eau de plus d'un kilomètre
+- Orangerie [M] : grande galerie vitrée
+- Petit Château [M] : ancien pavillon des gardes

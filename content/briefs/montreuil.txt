@@ -1,0 +1,10 @@
+LIEU : Montreuil (slug montreuil) — Seine-Saint-Denis (93)
+INTRO : Montreuil est célèbre pour ses murs à pêches, ses jardins de quartier et ses ateliers d'artistes.
+AMBIANCE : Créatif, vert, avec des murs de plâtre.
+LUMIÈRE : Les murs à pêches sont chauds en fin de journée.
+ACCÈS : Métro Mairie de Montreuil, Croix de Chavaux.
+SPOTS (noms exacts à citer) :
+- Murs à pêches [P] : jardins historiques et murs de plâtre
+- Parc des Beaumonts [P] : colline et vue sur Paris
+- Place Jean-Jaurès [Q] : marché et mairie
+- Quartier de la Boissière [Q] : ruelles et pavillons

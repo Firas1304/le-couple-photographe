@@ -1,0 +1,10 @@
+LIEU : Courbevoie (slug courbevoie) — Hauts-de-Seine (92)
+INTRO : Courbevoie accueille une partie de La Défense, le parc de Bécon et les bords de Seine.
+AMBIANCE : Mélange de gratte-ciel et de quartiers de village.
+LUMIÈRE : La Grande Arche est belle au lever du jour.
+ACCÈS : RER A La Défense, Transilien Courbevoie.
+SPOTS (noms exacts à citer) :
+- Parvis de La Défense [M] : tours en verre et grande esplanade
+- Parc de Bécon [P] : jardin de quartier avec pelouses
+- Bords de Seine [W] : promenade et péniches
+- Parc de la Défense [P] : jardins sur dalle et fontaines

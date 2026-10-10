@@ -1,0 +1,10 @@
+LIEU : Paris 1er (slug paris-1er) — Paris (75)
+INTRO : Le 1er arrondissement concentre le Louvre, le jardin des Tuileries et le Palais-Royal, au cœur historique de la capitale.
+AMBIANCE : Pierre claire, perspectives et grands jardins à la française.
+LUMIÈRE : Les Tuileries donnent de longues ombres douces en fin d'après-midi.
+ACCÈS : Métro Louvre-Rivoli, Tuileries, Palais-Royal.
+SPOTS (noms exacts à citer) :
+- Jardin des Tuileries [P] : allées de marronniers et bassins face au Louvre
+- Palais-Royal [M] : arcades, colonnes de Buren et jardin intérieur
+- Cour Carrée du Louvre [M] : façades Renaissance et grand pavé clair
+- Place Vendôme [Q] : colonne centrale et façades en pierre de taille

@@ -1,0 +1,10 @@
+LIEU : Paris 15e (slug paris-15e) — Paris (75)
+INTRO : Le 15e arrondissement est le plus peuplé de Paris, avec le parc André-Citroën, le front de Seine et le quartier Commerce.
+AMBIANCE : Familial, aéré, avec de grandes places.
+LUMIÈRE : Le parc André-Citroën offre des perspectives larges avec les serres.
+ACCÈS : Métro Javel, Commerce, Lourmel.
+SPOTS (noms exacts à citer) :
+- Parc André-Citroën [P] : jets d'eau, serres et grandes pelouses
+- Île aux Cygnes [W] : promenade ombragée et réplique de la statue de la Liberté
+- Rue du Commerce [Q] : commerces et façades de quartier
+- Front de Seine [M] : tours et reflets sur la Seine

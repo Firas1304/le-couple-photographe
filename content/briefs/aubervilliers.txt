@@ -1,0 +1,10 @@
+LIEU : Aubervilliers (slug aubervilliers) — Seine-Saint-Denis (93)
+INTRO : Aubervilliers est située au nord de Paris, entre le canal Saint-Denis et le fort d'Aubervilliers.
+AMBIANCE : Industriel, en mutation, avec des espaces verts.
+LUMIÈRE : Le canal est doux en fin de journée.
+ACCÈS : Métro Aimé Césaire, Fort d'Aubervilliers.
+SPOTS (noms exacts à citer) :
+- Canal Saint-Denis [W] : berges et péniches
+- Parc Eli-Lotar [P] : parc contemporain
+- Fort d'Aubervilliers [M] : ancien fort militaire
+- Manufacture des Allumettes [M] : bâtiment du XIXe siècle

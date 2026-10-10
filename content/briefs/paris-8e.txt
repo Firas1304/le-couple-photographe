@@ -1,0 +1,10 @@
+LIEU : Paris 8e (slug paris-8e) — Paris (75)
+INTRO : Le 8e arrondissement rassemble les Champs-Élysées, le parc Monceau, l'église de la Madeleine et les palaces de l'avenue Montaigne.
+AMBIANCE : Élégance haussmannienne, palaces, boutiques de luxe.
+LUMIÈRE : Le parc Monceau offre une lumière douce et des feuillages variés.
+ACCÈS : Métro Concorde, Madeleine, Monceau.
+SPOTS (noms exacts à citer) :
+- Parc Monceau [P] : colonnade, rotonde et arbres centenaires
+- Place de la Concorde [M] : obélisque et fontaines monumentales
+- Église de la Madeleine [M] : colonnade néoclassique
+- Pont Alexandre-III [W] : ornements dorés et vue sur le Grand Palais

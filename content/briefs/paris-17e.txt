@@ -1,0 +1,10 @@
+LIEU : Paris 17e (slug paris-17e) — Paris (75)
+INTRO : Le 17e arrondissement comprend les Batignolles, le parc Clichy-Batignolles et la place de Wagram.
+AMBIANCE : Quartier de village, pavillons et jardins.
+LUMIÈRE : Le square des Batignolles est très doux au lever du jour.
+ACCÈS : Métro Brochant, La Fourche, Villiers.
+SPOTS (noms exacts à citer) :
+- Square des Batignolles [P] : étang et arbres centenaires
+- Parc Clichy-Batignolles [P] : grandes pelouses et bassins
+- Place de Wagram [M] : hôtels particuliers et grands arbres
+- Passage Geoffroy-Didelot [Q] : ruelle fleurie et maisons anciennes

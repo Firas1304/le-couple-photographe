@@ -1,0 +1,10 @@
+LIEU : Saint-Cloud (slug saint-cloud) — Hauts-de-Seine (92)
+INTRO : Saint-Cloud abrite le domaine national et son parc de 460 hectares, avec cascades et vues sur Paris.
+AMBIANCE : Aristocratique, avec de grandes perspectives.
+LUMIÈRE : La Grande Cascade est très photogénique après la pluie.
+ACCÈS : Tram T2 Parc de Saint-Cloud, Transilien Saint-Cloud.
+SPOTS (noms exacts à citer) :
+- Parc de Saint-Cloud [P] : allées, bassins et cascades
+- Grande Cascade [W] : escalier d'eau monumental
+- Lanterne de Diogène [M] : belvédère avec vue sur Paris
+- Pont de Saint-Cloud [W] : vue sur la Seine

@@ -1,0 +1,10 @@
+LIEU : Saint-Germain-en-Laye (slug saint-germain-en-laye) — Yvelines (78)
+INTRO : Saint-Germain-en-Laye possède un château du XVIe siècle, une grande terrasse dessinée par Le Nôtre et une vaste forêt.
+AMBIANCE : Chic, historique, avec de grandes vues.
+LUMIÈRE : La Grande Terrasse est belle au coucher du soleil, avec la vallée de la Seine.
+ACCÈS : RER A Saint-Germain-en-Laye.
+SPOTS (noms exacts à citer) :
+- Château de Saint-Germain [M] : brique rouge et douves sèches
+- Grande Terrasse [M] : promenade de 2 kilomètres avec vue sur Paris
+- Forêt de Saint-Germain [P] : allées et sous-bois
+- Vieille ville [Q] : rues pavées et maisons anciennes

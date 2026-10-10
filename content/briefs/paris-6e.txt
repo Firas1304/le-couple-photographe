@@ -1,0 +1,10 @@
+LIEU : Paris 6e (slug paris-6e) — Paris (75)
+INTRO : Le 6e arrondissement mêle Saint-Germain-des-Prés, le jardin du Luxembourg et l'Institut de France.
+AMBIANCE : Élégance littéraire, cafés historiques et jardins ouverts.
+LUMIÈRE : Le jardin du Luxembourg est très lumineux en milieu de matinée.
+ACCÈS : Métro Saint-Sulpice, Odéon, Saint-Germain-des-Prés.
+SPOTS (noms exacts à citer) :
+- Jardin du Luxembourg [P] : parterres, bassin et chaises vertes
+- Place Saint-Sulpice [M] : fontaine et église aux deux tours
+- Pont des Arts [W] : passerelle sur la Seine face à l'Institut
+- Rue de Fleurus [Q] : hôtels particuliers et façades de pierre

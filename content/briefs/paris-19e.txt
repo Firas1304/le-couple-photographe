@@ -1,0 +1,10 @@
+LIEU : Paris 19e (slug paris-19e) — Paris (75)
+INTRO : Le 19e arrondissement est celui du parc des Buttes-Chaumont, de la Villette et du canal de l'Ourcq.
+AMBIANCE : Vert, populaire, avec de grands parcs.
+LUMIÈRE : Les Buttes-Chaumont sont belles en lumière de fin d'après-midi.
+ACCÈS : Métro Buttes-Chaumont, Laumière, Porte de Pantin.
+SPOTS (noms exacts à citer) :
+- Parc des Buttes-Chaumont [P] : lac, falaise et pont suspendu
+- Parc de la Villette [P] : grande halle, prairie et folies rouges
+- Bassin de la Villette [W] : quais, cinéma flottant et bancs
+- Quartier de la Mouzaïa [Q] : maisons basses et ruelles

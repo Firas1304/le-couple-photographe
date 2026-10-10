@@ -1,0 +1,10 @@
+LIEU : Paris 13e (slug paris-13e) — Paris (75)
+INTRO : Le 13e arrondissement mêle Butte-aux-Cailles, Chinatown, Bibliothèque François-Mitterrand et Manufacture des Gobelins.
+AMBIANCE : Contrasté, avec tours modernes et ruelles de village.
+LUMIÈRE : La Butte-aux-Cailles est belle en lumière douce de fin d'après-midi.
+ACCÈS : Métro Place d'Italie, Tolbiac, Corvisart.
+SPOTS (noms exacts à citer) :
+- Butte-aux-Cailles [Q] : rues pavées et maisons basses colorées
+- Parc de Choisy [P] : jardin asiatique avec kiosque
+- Bibliothèque François-Mitterrand [M] : tours en verre et esplanade
+- Rue Moulin des Prés [Q] : fresques murales et petites maisons

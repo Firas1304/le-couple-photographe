@@ -1,0 +1,10 @@
+LIEU : Évry-Courcouronnes (slug evry-courcouronnes) — Essonne (91)
+INTRO : Évry-Courcouronnes est une ville nouvelle avec la cathédrale de la Résurrection, l'Agora et le lac de Courcouronnes.
+AMBIANCE : Moderne, aéré, avec des bassins.
+LUMIÈRE : Le lac est agréable en fin de journée.
+ACCÈS : RER D Évry-Courcouronnes.
+SPOTS (noms exacts à citer) :
+- Cathédrale de la Résurrection [M] : brique rouge et forme cylindrique
+- Lac de Courcouronnes [W] : promenade et parc de loisirs
+- Agora [Q] : esplanade de béton et sculptures
+- Parc des Coquibus [P] : grandes pelouses

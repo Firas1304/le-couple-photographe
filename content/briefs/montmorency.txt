@@ -1,0 +1,10 @@
+LIEU : Montmorency (slug montmorency) — Val-d'Oise (95)
+INTRO : Montmorency domine la vallée avec sa collégiale Saint-Martin, sa forêt et la maison de Jean-Jacques Rousseau.
+AMBIANCE : Résidentiel, arboré, avec des vues sur la vallée.
+LUMIÈRE : La forêt est agréable en matinée.
+ACCÈS : Transilien Enghien puis bus.
+SPOTS (noms exacts à citer) :
+- Collégiale Saint-Martin [M] : église gothique et clocher
+- Forêt de Montmorency [P] : chênes et sentiers
+- Musée Jean-Jacques Rousseau [M] : maison et jardin
+- Rue du Château [Q] : ruelles pavées

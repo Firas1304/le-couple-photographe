@@ -1,0 +1,10 @@
+LIEU : Paris 11e (slug paris-11e) — Paris (75)
+INTRO : Le 11e arrondissement va de Bastille à Oberkampf, avec ses cours d'artisans, ses bars et ses jardins de quartier.
+AMBIANCE : Jeune, vivant, entre ateliers et terrasses.
+LUMIÈRE : La rue Oberkampf a une lumière rasante en fin de journée.
+ACCÈS : Métro Oberkampf, Bastille, Voltaire.
+SPOTS (noms exacts à citer) :
+- Place des Vosges voisine [Q] : à quelques minutes à pied
+- Passage du Chantier [Q] : allée d'ateliers et pavés
+- Square Maurice-Gardette [P] : jardin de quartier avec kiosque
+- Rue Oberkampf [Q] : terrasses, façades et fresques

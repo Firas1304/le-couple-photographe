@@ -1,0 +1,10 @@
+LIEU : Saint-Denis (slug saint-denis) — Seine-Saint-Denis (93)
+INTRO : Saint-Denis abrite la basilique des rois de France, le Stade de France et le canal Saint-Denis.
+AMBIANCE : Historique et moderne, avec un canal.
+LUMIÈRE : La basilique est très belle en lumière rasante de fin d'après-midi.
+ACCÈS : Métro Saint-Denis Basilique, RER D Stade de France.
+SPOTS (noms exacts à citer) :
+- Basilique Saint-Denis [M] : façade gothique et nécropole royale
+- Canal Saint-Denis [W] : berges aménagées
+- Stade de France [M] : stade monumental
+- Parc de la Légion d'honneur [P] : jardin arboré

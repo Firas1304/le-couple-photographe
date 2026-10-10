@@ -1,0 +1,10 @@
+LIEU : Levallois-Perret (slug levallois-perret) — Hauts-de-Seine (92)
+INTRO : Levallois-Perret borde la Seine et la porte de Champerret, avec le parc de la Planchette et l'île de la Jatte.
+AMBIANCE : Urbain, moderne, avec des berges aménagées.
+LUMIÈRE : Les berges offrent de belles réflexions au coucher du soleil.
+ACCÈS : Métro Anatole France, Louise Michel.
+SPOTS (noms exacts à citer) :
+- Berges de Seine [W] : promenade piétonne avec vue sur Paris
+- Parc de la Planchette [P] : jardin récent avec bassin
+- Quai Michelet [Q] : immeubles modernes et quais
+- Île de la Jatte [W] : ancienne île des impressionnistes

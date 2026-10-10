@@ -1,0 +1,10 @@
+LIEU : Enghien-les-Bains (slug enghien-les-bains) — Val-d'Oise (95)
+INTRO : Enghien-les-Bains est une station thermale avec son lac, son casino et ses villas du XIXe siècle.
+AMBIANCE : Élégant, au bord de l'eau, avec des villas.
+LUMIÈRE : Le lac est très doux au coucher du soleil.
+ACCÈS : Transilien Enghien-les-Bains.
+SPOTS (noms exacts à citer) :
+- Lac d'Enghien [W] : promenade, pédalos et jardins
+- Casino d'Enghien [M] : bâtiment Art déco
+- Établissement thermal [M] : façade classique
+- Rue de Mora [Q] : rue commerçante

@@ -1,0 +1,10 @@
+LIEU : Écouen (slug ecouen) — Val-d'Oise (95)
+INTRO : Écouen est dominée par son château Renaissance, qui abrite le musée national de la Renaissance.
+AMBIANCE : Renaissance, avec de grandes douves.
+LUMIÈRE : Les douves du château sont photogéniques par temps clair.
+ACCÈS : Transilien Écouen-Ézanville.
+SPOTS (noms exacts à citer) :
+- Château d'Écouen [M] : brique et pierre, style Renaissance
+- Douves [W] : fossés autour du château
+- Parc de la Ville [P] : allées et pelouses
+- Église Saint-Acceul [M] : église gothique

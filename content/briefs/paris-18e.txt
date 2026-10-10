@@ -1,0 +1,10 @@
+LIEU : Paris 18e (slug paris-18e) — Paris (75)
+INTRO : Le 18e arrondissement est celui de Montmartre, du Sacré-Cœur, de la place du Tertre et de la rue Cortot.
+AMBIANCE : Village, escaliers, vignes et ruelles pavées.
+LUMIÈRE : Les escaliers de Montmartre sont plus calmes avant 9 heures du matin.
+ACCÈS : Métro Abbesses, Lamarck-Caulaincourt, Blanche.
+SPOTS (noms exacts à citer) :
+- Sacré-Cœur et ses escaliers [M] : basilique blanche et vue sur Paris
+- Place du Tertre [Q] : place d'artistes et terrasses
+- Rue de l'Abreuvoir [Q] : rue pavée et maisons fleuries
+- Vignes de Montmartre [P] : vignoble en pente au cœur de la ville

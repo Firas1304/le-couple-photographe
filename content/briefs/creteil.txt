@@ -1,0 +1,10 @@
+LIEU : Créteil (slug creteil) — Val-de-Marne (94)
+INTRO : Créteil possède un lac, l'île de Brise-Pain et la cathédrale Notre-Dame, dans une ville aux grands espaces verts.
+AMBIANCE : Moderne, aéré, avec un grand lac.
+LUMIÈRE : Le lac est photogénique en fin d'après-midi.
+ACCÈS : Métro Créteil-Préfecture.
+SPOTS (noms exacts à citer) :
+- Lac de Créteil [W] : voiles et promenade
+- Île de Brise-Pain [P] : île boisée sur la Marne
+- Cathédrale Notre-Dame [M] : architecture moderne
+- Parc Dupeyroux [P] : grandes pelouses

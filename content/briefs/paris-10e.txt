@@ -1,0 +1,10 @@
+LIEU : Paris 10e (slug paris-10e) — Paris (75)
+INTRO : Le 10e arrondissement comprend le canal Saint-Martin, les gares de l'Est et du Nord, et le faubourg Saint-Denis.
+AMBIANCE : Populaire, créatif, avec passerelles métalliques et terrasses.
+LUMIÈRE : Les passerelles du canal sont lumineuses en fin d'après-midi.
+ACCÈS : Métro Jacques Bonsergent, République, Gare de l'Est.
+SPOTS (noms exacts à citer) :
+- Canal Saint-Martin [W] : passerelles, écluses et rangées d'arbres
+- Passage Brady [I] : galerie couverte aux enseignes colorées
+- Square Villemin [P] : jardin de quartier avec kiosque
+- Porte Saint-Denis [M] : arc de triomphe du XVIIe siècle

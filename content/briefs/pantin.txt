@@ -1,0 +1,10 @@
+LIEU : Pantin (slug pantin) — Seine-Saint-Denis (93)
+INTRO : Pantin est traversée par le canal de l'Ourcq et possède les Grands Moulins, bâtiment industriel de brique.
+AMBIANCE : Industriel et créatif, avec un canal.
+LUMIÈRE : Le canal est lumineux en fin d'après-midi.
+ACCÈS : Métro Église de Pantin, RER E Pantin.
+SPOTS (noms exacts à citer) :
+- Canal de l'Ourcq [W] : berges aménagées
+- Grands Moulins [M] : bâtiment industriel de 1921
+- Parc Diderot [P] : parc ombragé
+- Cité Rurale [Q] : ruelles et maisons basses

@@ -1,0 +1,10 @@
+LIEU : Antony (slug antony) — Hauts-de-Seine (92)
+INTRO : Antony accueille le parc Heller, une partie de la Coulée verte et la rivière Bièvre.
+AMBIANCE : Résidentiel, vert, avec de petits jardins.
+LUMIÈRE : Le parc Heller est ombragé et très agréable l'été.
+ACCÈS : RER B Antony.
+SPOTS (noms exacts à citer) :
+- Parc Heller [P] : jardin arboré avec étang
+- Coulée verte [P] : promenade ombragée de plusieurs kilomètres
+- Bièvre [W] : berges plantées
+- Parc de Sceaux voisin [P] : grande perspective à la française

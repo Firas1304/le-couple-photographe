@@ -1,0 +1,10 @@
+LIEU : Vaux-le-Vicomte (slug vaux-le-vicomte) — Seine-et-Marne (77)
+INTRO : Le château de Vaux-le-Vicomte, près de Melun, est le modèle de Versailles, avec ses jardins de Le Nôtre.
+AMBIANCE : Majestueux, symétrique, avec de grands miroirs d'eau.
+LUMIÈRE : Les miroirs d'eau sont superbes par temps calme.
+ACCÈS : Voiture conseillée, depuis Melun.
+SPOTS (noms exacts à citer) :
+- Château de Vaux-le-Vicomte [M] : façade et douves
+- Jardins de Le Nôtre [P] : parterres et perspectives
+- Miroir d'eau [W] : reflets symétriques du château
+- Grand Canal [W] : pièce d'eau monumentale

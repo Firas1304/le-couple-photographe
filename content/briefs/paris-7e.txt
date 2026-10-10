@@ -1,0 +1,10 @@
+LIEU : Paris 7e (slug paris-7e) — Paris (75)
+INTRO : Le 7e arrondissement est celui de la tour Eiffel, du Champ-de-Mars, des Invalides et de nombreux ministères.
+AMBIANCE : Monumental, ordonné, avec de grandes perspectives.
+LUMIÈRE : Le Champ-de-Mars est photogénique à l'aube, quand les pelouses sont encore calmes.
+ACCÈS : Métro École Militaire, Invalides, Bir-Hakeim.
+SPOTS (noms exacts à citer) :
+- Champ-de-Mars [P] : grandes pelouses avec la tour Eiffel en toile de fond
+- Esplanade des Invalides [M] : dôme doré et pelouses symétriques
+- Pont Alexandre-III [W] : lampadaires dorés et statues sur la Seine
+- Rue Cler [Q] : marché de quartier et façades colorées

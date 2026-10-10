@@ -1,0 +1,10 @@
+LIEU : Meudon (slug meudon) — Hauts-de-Seine (92)
+INTRO : Meudon domine la Seine avec sa grande terrasse, son observatoire et sa forêt de plus de 1 000 hectares.
+AMBIANCE : Vert, vallonné, avec des vues dégagées.
+LUMIÈRE : La terrasse de Meudon donne sur Paris, idéale au coucher du soleil.
+ACCÈS : RER C Meudon-Val-Fleury, Transilien Meudon.
+SPOTS (noms exacts à citer) :
+- Terrasse de Meudon [M] : vue panoramique sur Paris
+- Observatoire de Meudon [M] : coupole historique et jardins
+- Forêt de Meudon [P] : allées et sous-bois
+- Rue Banes [Q] : escaliers et rues pentues

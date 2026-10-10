@@ -1,0 +1,10 @@
+LIEU : Paris 5e (slug paris-5e) — Paris (75)
+INTRO : Le 5e arrondissement est le quartier Latin : Panthéon, Sorbonne, rue Mouffetard et Jardin des Plantes.
+AMBIANCE : Étudiant, littéraire, ruelles en pente et places arborées.
+LUMIÈRE : Le Jardin des Plantes se prête bien aux séances en début de matinée.
+ACCÈS : Métro Cardinal Lemoine, Place Monge, Jussieu.
+SPOTS (noms exacts à citer) :
+- Jardin des Plantes [P] : serres, allées et massifs botaniques
+- Panthéon [M] : dôme néoclassique et grand escalier
+- Rue Mouffetard [Q] : rue pavée, marché et cafés
+- Arènes de Lutèce [M] : amphithéâtre gallo-romain au cœur du quartier

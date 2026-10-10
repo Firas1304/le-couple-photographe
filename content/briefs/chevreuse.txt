@@ -1,0 +1,10 @@
+LIEU : Chevreuse (slug chevreuse) — Yvelines (78)
+INTRO : Chevreuse est située dans la haute vallée du même nom, avec son château médiéval et ses paysages de campagne.
+AMBIANCE : Rural, vallonné, avec des maisons anciennes.
+LUMIÈRE : Les prairies de la vallée sont dorées en fin de journée.
+ACCÈS : RER B Saint-Rémy-lès-Chevreuse puis bus.
+SPOTS (noms exacts à citer) :
+- Château de la Madeleine [M] : ruines du XIe siècle sur une colline
+- Vallée de Chevreuse [P] : prairies et bois
+- Vieux Chevreuse [Q] : maisons de pierre et rues étroites
+- Abbaye de Port-Royal [M] : ruines et jardin

@@ -1,0 +1,10 @@
+LIEU : Poissy (slug poissy) — Yvelines (78)
+INTRO : Poissy possède la villa Savoye de Le Corbusier, la collégiale Notre-Dame et des bords de Seine.
+AMBIANCE : Mélange d'architecture ancienne et moderne.
+LUMIÈRE : La villa Savoye est très graphique en lumière rasante.
+ACCÈS : RER A Poissy.
+SPOTS (noms exacts à citer) :
+- Villa Savoye [M] : chef-d'œuvre moderniste de Le Corbusier
+- Collégiale Notre-Dame [M] : église romane et gothique
+- Bords de Seine [W] : promenade ombragée
+- Parc Meissonier [P] : jardin public avec pelouses

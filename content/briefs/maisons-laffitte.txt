@@ -1,0 +1,10 @@
+LIEU : Maisons-Laffitte (slug maisons-laffitte) — Yvelines (78)
+INTRO : Maisons-Laffitte est connue pour son château de Mansart, son hippodrome et son parc aux grands arbres.
+AMBIANCE : Chic, boisé, avec de grandes pelouses.
+LUMIÈRE : Le parc est ombragé et très lumineux en milieu d'après-midi.
+ACCÈS : RER A Maisons-Laffitte.
+SPOTS (noms exacts à citer) :
+- Château de Maisons [M] : façade classique de François Mansart
+- Parc de Maisons-Laffitte [P] : grands arbres et allées
+- Hippodrome [Q] : pistes et tribunes en bois
+- Bords de Seine [W] : promenade et pontons

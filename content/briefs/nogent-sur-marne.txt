@@ -1,0 +1,10 @@
+LIEU : Nogent-sur-Marne (slug nogent-sur-marne) — Val-de-Marne (94)
+INTRO : Nogent-sur-Marne possède le pavillon Baltard, des bords de Marne et d'anciennes guinguettes.
+AMBIANCE : Estival, au bord de l'eau.
+LUMIÈRE : Les quais de la Marne sont lumineux en fin de journée.
+ACCÈS : RER A Nogent-sur-Marne.
+SPOTS (noms exacts à citer) :
+- Pavillon Baltard [M] : halle métallique du XIXe siècle
+- Bords de Marne [W] : quais et guinguettes
+- Quai de Plaisance [W] : promenade et péniches
+- Parc de la Gare [P] : jardin public

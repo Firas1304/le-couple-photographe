@@ -1,0 +1,10 @@
+LIEU : Barbizon (slug barbizon) — Seine-et-Marne (77)
+INTRO : Barbizon, à l'orée de la forêt de Fontainebleau, a donné son nom à l'école de peintres paysagistes.
+AMBIANCE : Pittoresque, boisé, avec de petites rues.
+LUMIÈRE : La forêt voisine est très douce en matinée.
+ACCÈS : Voiture conseillée, depuis Fontainebleau.
+SPOTS (noms exacts à citer) :
+- Grande Rue [Q] : galeries, hôtels et maisons de pierre
+- Forêt de Fontainebleau [P] : chênes et rochers
+- Auberge Ganne [M] : ancienne auberge d'artistes
+- Plaine de Chailly [P] : champs ouverts

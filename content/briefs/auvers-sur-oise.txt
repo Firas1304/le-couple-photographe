@@ -1,0 +1,10 @@
+LIEU : Auvers-sur-Oise (slug auvers-sur-oise) — Val-d'Oise (95)
+INTRO : Auvers-sur-Oise est le village où Vincent van Gogh a vécu ses derniers mois, entouré de champs et d'églises.
+AMBIANCE : Impressionniste, rural, avec des champs.
+LUMIÈRE : Les champs de blé sont dorés en juillet.
+ACCÈS : Transilien Auvers-sur-Oise.
+SPOTS (noms exacts à citer) :
+- Église d'Auvers [M] : église peinte par Van Gogh
+- Auberge Ravoux [M] : dernière chambre du peintre
+- Champs de blé [P] : paysages de la plaine
+- Château d'Auvers [M] : château Renaissance

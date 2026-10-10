@@ -1,0 +1,10 @@
+LIEU : Joinville-le-Pont (slug joinville-le-pont) — Val-de-Marne (94)
+INTRO : Joinville-le-Pont borde la Marne, avec l'île Fanac et le quartier de Polangis.
+AMBIANCE : Détendu, au bord de l'eau, avec des îles.
+LUMIÈRE : La Marne est calme en début de matinée.
+ACCÈS : RER A Joinville-le-Pont.
+SPOTS (noms exacts à citer) :
+- Île Fanac [W] : île boisée sur la Marne
+- Bords de Marne [W] : promenade et pontons
+- Parc du Parangon [P] : parc ombragé
+- Quartier de Polangis [Q] : pavillons et jardins

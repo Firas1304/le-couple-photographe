@@ -1,0 +1,10 @@
+LIEU : Paris 12e (slug paris-12e) — Paris (75)
+INTRO : Le 12e arrondissement s'étend de Bercy au bois de Vincennes, avec la Promenade plantée et le quartier Daumesnil.
+AMBIANCE : Aéré, vert, avec de grands espaces.
+LUMIÈRE : Le lac Daumesnil offre de belles réflexions en fin de journée.
+ACCÈS : Métro Bercy, Daumesnil, Gare de Lyon.
+SPOTS (noms exacts à citer) :
+- Parc de Bercy [P] : pelouses, jardins thématiques et vieux arbres
+- Promenade plantée [P] : ancienne voie ferrée transformée en balade arborée
+- Lac Daumesnil [W] : îles, rochers et pédalos
+- Bercy Village [Q] : anciens chais en pierre et rails pavés

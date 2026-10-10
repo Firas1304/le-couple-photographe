@@ -1,0 +1,10 @@
+LIEU : Le Vésinet (slug le-vesinet) — Yvelines (78)
+INTRO : Le Vésinet est une ville-parc avec lacs, rivières et villas du XIXe siècle.
+AMBIANCE : Calme, paysager, avec de grandes villas.
+LUMIÈRE : Les lacs offrent des reflets doux en matinée.
+ACCÈS : RER A Le Vésinet-Le Pecq.
+SPOTS (noms exacts à citer) :
+- Lac Inférieur [W] : îles et ponts
+- Parc Princesse [P] : grand parc paysager
+- Villas du Vésinet [Q] : architectures variées du XIXe siècle
+- Pont du Vésinet [W] : perspective sur le lac

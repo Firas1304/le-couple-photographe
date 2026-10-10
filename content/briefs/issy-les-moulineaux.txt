@@ -1,0 +1,10 @@
+LIEU : Issy-les-Moulineaux (slug issy-les-moulineaux) — Hauts-de-Seine (92)
+INTRO : Issy-les-Moulineaux possède l'île Saint-Germain, le fort d'Issy et des quartiers modernes en bord de Seine.
+AMBIANCE : Moderne, aéré, avec de grands espaces verts.
+LUMIÈRE : Le parc de l'île Saint-Germain est très lumineux en milieu d'après-midi.
+ACCÈS : Tram T2 Issy-Val de Seine, Métro Mairie d'Issy.
+SPOTS (noms exacts à citer) :
+- Parc de l'île Saint-Germain [P] : sculptures et grandes pelouses
+- Parc Henri-Barbusse [P] : jardin avec bassin et collines
+- Fort d'Issy [M] : ancien fort transformé en parc
+- Bords de Seine [W] : promenade et passerelles

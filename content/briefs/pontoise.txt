@@ -1,0 +1,10 @@
+LIEU : Pontoise (slug pontoise) — Val-d'Oise (95)
+INTRO : Pontoise est une ville d'art et d'histoire avec la cathédrale Saint-Maclou, un jardin en terrasses et le musée Pissarro.
+AMBIANCE : Médiéval, vallonné, avec des vues sur l'Oise.
+LUMIÈRE : Les terrasses ouvrent sur la vallée en fin d'après-midi.
+ACCÈS : RER C Pontoise.
+SPOTS (noms exacts à citer) :
+- Cathédrale Saint-Maclou [M] : façade gothique
+- Jardin des terrasses [P] : vue sur la vallée
+- Musée Pissarro [M] : hôtel particulier
+- Quai de l'Oise [W] : berges et ponts

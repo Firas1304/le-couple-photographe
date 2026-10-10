@@ -1,0 +1,10 @@
+LIEU : Paris 4e (slug paris-4e) — Paris (75)
+INTRO : Le 4e arrondissement réunit l'île de la Cité, l'île Saint-Louis, la place des Vosges et le bas Marais.
+AMBIANCE : Pierre ancienne, quais, ruelles médiévales.
+LUMIÈRE : Les quais de l'île Saint-Louis offrent des reflets dorés au coucher du soleil.
+ACCÈS : Métro Saint-Paul, Hôtel de Ville, Pont Marie.
+SPOTS (noms exacts à citer) :
+- Place des Vosges [Q] : arcades de brique rouge et jardin carré
+- Île Saint-Louis [W] : quais, péniches et hôtels particuliers
+- Notre-Dame et son parvis [M] : vue sur la cathédrale et la Seine
+- Rue des Rosiers [Q] : boutiques, façades colorées et rues étroites

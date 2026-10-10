@@ -1,0 +1,10 @@
+LIEU : Vincennes (slug vincennes) — Val-de-Marne (94)
+INTRO : Vincennes borde le bois de Vincennes et possède un château médiéval, un cours Marigny et de nombreux cafés.
+AMBIANCE : Familial, vert, avec des rues commerçantes.
+LUMIÈRE : Le bois offre une lumière douce toute la journée.
+ACCÈS : Métro Château de Vincennes, RER A Vincennes.
+SPOTS (noms exacts à citer) :
+- Château de Vincennes [M] : donjon du XIVe siècle et douves
+- Bois de Vincennes [P] : lacs, prairies et allées
+- Parc floral [P] : jardins et massifs de fleurs
+- Cours Marigny [Q] : rue piétonne et terrasses

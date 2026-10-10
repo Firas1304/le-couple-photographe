@@ -1,0 +1,10 @@
+LIEU : Chamarande (slug chamarande) — Essonne (91)
+INTRO : Le domaine départemental de Chamarande est un château du XVIIe siècle avec un parc de 98 hectares.
+AMBIANCE : Paysager, avec des miroirs d'eau.
+LUMIÈRE : Le parc est très doux en lumière de fin d'après-midi.
+ACCÈS : Voiture conseillée.
+SPOTS (noms exacts à citer) :
+- Château de Chamarande [M] : brique et pierre avec douves
+- Parc de Chamarande [P] : allées et pelouses
+- Miroir d'eau [W] : reflets du château
+- Orangerie [M] : bâtiment du XVIIIe siècle

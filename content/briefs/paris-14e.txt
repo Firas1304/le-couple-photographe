@@ -1,0 +1,10 @@
+LIEU : Paris 14e (slug paris-14e) — Paris (75)
+INTRO : Le 14e arrondissement est celui de Montparnasse, des catacombes et du parc Montsouris.
+AMBIANCE : Artistique, résidentiel, avec de grands parcs.
+LUMIÈRE : Le parc Montsouris est très doux en milieu d'après-midi.
+ACCÈS : Métro Denfert-Rochereau, Montparnasse, Gaîté.
+SPOTS (noms exacts à citer) :
+- Parc Montsouris [P] : lac, pont et grandes pelouses
+- Cité internationale universitaire [P] : campus aux pavillons de styles variés
+- Rue Daguerre [Q] : marché pittoresque et façades colorées
+- Villa Adrienne [Q] : impasse pavée et maisons anciennes

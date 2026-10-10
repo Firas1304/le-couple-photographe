@@ -1,0 +1,10 @@
+LIEU : Paris 16e (slug paris-16e) — Paris (75)
+INTRO : Le 16e arrondissement va du Trocadéro au bois de Boulogne, avec Passy, Auteuil et de nombreux hôtels particuliers.
+AMBIANCE : Calme, bourgeois, avec de grands parcs.
+LUMIÈRE : Le Trocadéro est à son meilleur au lever du jour.
+ACCÈS : Métro Trocadéro, Passy, Jasmin.
+SPOTS (noms exacts à citer) :
+- Trocadéro [M] : esplanade et vue sur la tour Eiffel
+- Bois de Boulogne [P] : lacs, allées et clairières
+- Rue de l'Alboni [Q] : escaliers et façades de Passy
+- Jardin d'Acclimatation [P] : jardin avec manèges et espaces ouverts

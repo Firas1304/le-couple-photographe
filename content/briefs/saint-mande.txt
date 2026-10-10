@@ -1,0 +1,10 @@
+LIEU : Saint-Mandé (slug saint-mande) — Val-de-Marne (94)
+INTRO : Saint-Mandé est adossée au bois de Vincennes, avec son lac et ses avenues résidentielles.
+AMBIANCE : Calme, résidentiel, avec un lac de poche.
+LUMIÈRE : Le lac de Saint-Mandé est doux le matin.
+ACCÈS : Métro Saint-Mandé, Berault.
+SPOTS (noms exacts à citer) :
+- Lac de Saint-Mandé [W] : petit lac et île
+- Bois de Vincennes [P] : allées arborées
+- Avenue du Général-de-Gaulle [Q] : immeubles et marronniers
+- Parc de Bercy voisin [P] : grands espaces

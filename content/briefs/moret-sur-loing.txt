@@ -1,0 +1,10 @@
+LIEU : Moret-sur-Loing (slug moret-sur-loing) — Seine-et-Marne (77)
+INTRO : Moret-sur-Loing est une cité médiévale sur le Loing, célèbre pour avoir inspiré Alfred Sisley.
+AMBIANCE : Fortifié, paisible, avec des reflets sur l'eau.
+LUMIÈRE : Le pont sur le Loing est magnifique à l'aube.
+ACCÈS : Transilien Moret-Veneux-les-Sablons.
+SPOTS (noms exacts à citer) :
+- Pont de Moret [W] : pont médiéval et moulin
+- Porte de Bourgogne [M] : porte fortifiée
+- Église Notre-Dame [M] : gothique et façade en pierre
+- Bords du Loing [W] : berges et saules

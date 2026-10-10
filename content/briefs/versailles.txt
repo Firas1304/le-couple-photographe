@@ -1,0 +1,10 @@
+LIEU : Versailles (slug versailles) — Yvelines (78)
+INTRO : Versailles est la ville du château, de ses jardins, du Grand Canal et du quartier Saint-Louis.
+AMBIANCE : Royal, symétrique, avec de grands espaces.
+LUMIÈRE : Les jardins du château sont très lumineux en milieu de matinée.
+ACCÈS : RER C Versailles-Château, Transilien Versailles.
+SPOTS (noms exacts à citer) :
+- Château de Versailles [M] : façade dorée et cour d'honneur
+- Jardins de Versailles [P] : parterres, bosquets et bassins
+- Grand Canal [W] : miroir d'eau en croix
+- Marché Notre-Dame [Q] : halles et étals du quartier

@@ -1,0 +1,10 @@
+LIEU : Cergy (slug cergy) — Val-d'Oise (95)
+INTRO : Cergy est une ville nouvelle avec l'Axe Majeur, la boucle de l'Oise et des quartiers modernes.
+AMBIANCE : Moderne, aéré, avec des perspectives.
+LUMIÈRE : L'Axe Majeur est spectaculaire au coucher du soleil.
+ACCÈS : RER A Cergy-Préfecture.
+SPOTS (noms exacts à citer) :
+- Axe Majeur [M] : belvédère et perspective monumentale
+- Boucle de l'Oise [W] : berges et prairies
+- Tour Belvédère [M] : tour de 30 mètres avec vue
+- Parc François-Mitterrand [P] : grande pelouse et étangs

@@ -1,0 +1,10 @@
+LIEU : Boulogne-Billancourt (slug boulogne-billancourt) — Hauts-de-Seine (92)
+INTRO : Boulogne-Billancourt borde le bois de Boulogne et compte les jardins Albert-Kahn, l'île Seguin et un riche patrimoine Art déco.
+AMBIANCE : Résidentiel, vert, avec des bords de Seine.
+LUMIÈRE : Les jardins Albert-Kahn sont très photogéniques au printemps et à l'automne.
+ACCÈS : Métro Marcel Sembat, Pont de Sèvres, Porte de Saint-Cloud.
+SPOTS (noms exacts à citer) :
+- Jardins Albert-Kahn [P] : jardin japonais, roseraie et forêt bleue
+- Île Seguin et La Seine Musicale [W] : architecture contemporaine au bord de l'eau
+- Bois de Boulogne [P] : lacs et allées en lisière
+- Rue de Sèvres [Q] : immeubles Art déco et boutiques

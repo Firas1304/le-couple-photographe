@@ -1,0 +1,10 @@
+LIEU : Puteaux (slug puteaux) — Hauts-de-Seine (92)
+INTRO : Puteaux est située sur la rive gauche de la Seine, avec l'île de Puteaux et le quartier de La Défense.
+AMBIANCE : Urbain, avec des îles et des bords de Seine.
+LUMIÈRE : Les bords de Seine sont agréables en fin de journée.
+ACCÈS : Tram T2 Puteaux, RER A La Défense.
+SPOTS (noms exacts à citer) :
+- Île de Puteaux [W] : promenade ombragée entre deux bras de Seine
+- Esplanade de La Défense [M] : sculptures monumentales
+- Bords de Seine [W] : berges aménagées
+- Parc Eiffel [P] : jardin récent avec pelouses

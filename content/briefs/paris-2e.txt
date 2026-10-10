@@ -1,0 +1,10 @@
+LIEU : Paris 2e (slug paris-2e) — Paris (75)
+INTRO : Le 2e arrondissement est le plus petit de Paris, entre Bourse, passages couverts et rue Montorgueil.
+AMBIANCE : Passages vitrés, boutiques anciennes, rues piétonnes animées.
+LUMIÈRE : Les verrières des passages filtrent une lumière chaude toute la journée.
+ACCÈS : Métro Bourse, Sentier, Quatre-Septembre.
+SPOTS (noms exacts à citer) :
+- Galerie Vivienne [I] : mosaïques au sol et verrière du XIXe siècle
+- Passage des Panoramas [I] : boutiques anciennes et enseignes d'époque
+- Rue Montorgueil [Q] : rue piétonne, terrasses et étals de marché
+- Place des Victoires [M] : place circulaire autour de la statue équestre

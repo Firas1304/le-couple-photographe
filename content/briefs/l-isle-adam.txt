@@ -1,0 +1,10 @@
+LIEU : L'Isle-Adam (slug l-isle-adam) — Val-d'Oise (95)
+INTRO : L'Isle-Adam est installée sur l'Oise, avec une plage de sable, un parc et une forêt.
+AMBIANCE : Estival, paisible, avec des bords d'eau.
+LUMIÈRE : La plage est agréable en soirée d'été.
+ACCÈS : Transilien L'Isle-Adam-Parmain.
+SPOTS (noms exacts à citer) :
+- Plage de L'Isle-Adam [W] : plage de sable au bord de l'Oise
+- Parc de Cassan [P] : parc paysager
+- Pont Cabouillet [W] : pont sur l'Oise
+- Forêt de L'Isle-Adam [P] : sous-bois et sentiers

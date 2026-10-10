@@ -1,0 +1,10 @@
+LIEU : Milly-la-Forêt (slug milly-la-foret) — Essonne (91)
+INTRO : Milly-la-Forêt est connue pour ses halles du XVe siècle, la chapelle de Jean Cocteau et sa forêt.
+AMBIANCE : Rural, authentique, avec un village de pierre.
+LUMIÈRE : Les halles et le village sont doux en lumière de fin d'après-midi.
+ACCÈS : Voiture conseillée.
+SPOTS (noms exacts à citer) :
+- Halles de Milly [M] : charpente en bois du XVe siècle
+- Chapelle Saint-Blaise-des-Simples [M] : décors de Jean Cocteau
+- Le Cyclop [M] : sculpture monumentale de Jean Tinguely
+- Forêt des Trois Pignons [P] : sentiers et rochers

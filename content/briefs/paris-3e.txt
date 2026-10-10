@@ -1,0 +1,10 @@
+LIEU : Paris 3e (slug paris-3e) — Paris (75)
+INTRO : Le haut Marais s'étend sur le 3e arrondissement, avec ses hôtels particuliers, ses cours cachées et ses galeries.
+AMBIANCE : Cours pavées, murs de pierre, boutiques de créateurs.
+LUMIÈRE : Les cours intérieures captent une lumière douce même par temps couvert.
+ACCÈS : Métro Temple, Arts et Métiers, Filles du Calvaire.
+SPOTS (noms exacts à citer) :
+- Carreau du Temple [I] : halle métallique du XIXe siècle devenue lieu culturel
+- Musée Picasso [M] : hôtel Salé et sa cour intérieure
+- Rue des Francs-Bourgeois [Q] : hôtels particuliers et boutiques
+- Square du Temple [P] : jardin à l'anglaise avec rocailles

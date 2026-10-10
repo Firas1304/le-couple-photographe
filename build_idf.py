@@ -5,6 +5,11 @@ import build as B
 from data_services import SERVICES
 from data_places import PLACES, PRIORITY, DEPS
 esc=B.esc; href=B.href; img=B.img
+import glob, os
+CONTENT={}
+for _f in glob.glob('content/*.json'):
+    try: CONTENT[os.path.basename(_f)[:-5]]=json.load(open(_f,encoding='utf-8'))
+    except Exception: pass
 SV={s['slug']:s for s in SERVICES}; PL={p['slug']:p for p in PLACES}
 CATN={'P':'nature et jardins','M':'monuments et architecture','W':'bords d\'eau','Q':'rues et quartiers','I':'lieux intérieurs'}
 def h(s,m): return int(hashlib.md5(s.encode()).hexdigest(),16)%m
@@ -35,7 +40,7 @@ def hub_services():
 def service_page(i,s):
     d=2;path='services/%s/'%s['slug']
     others=[(o['name'],'services/%s/'%o['slug']) for o in SERVICES if o['slug']!=s['slug']]
-    zones=[(p['name'],'services/%s/%s/'%(s['slug'],p['slug'])) if p['slug'] in PRIORITY else (p['name'],'zones/%s/'%p['slug']) for p in PLACES if p['slug'] in PRIORITY+['paris-1er','paris-11e','paris-12e']][:14]
+    zones=[(p['name'],'services/%s/%s/'%(s['slug'],p['slug'])) if (p['slug'] in PRIORITY or p['slug'] in CONTENT) else (p['name'],'zones/%s/'%p['slug']) for p in PLACES if p['slug'] in PRIORITY+['paris-1er','paris-11e','paris-12e']][:14]
     faqs=s['faq']
     ld=[B.BIZ,B.breadcrumb_ld([('Accueil',''),('Prestations','services/'),(s['name'],path)]),B.faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":s['nom'],"name":s['nom']+' à Paris et en Île-de-France',"provider":{"@type":"Photographer","name":B.NAME},"areaServed":"Île-de-France"}]
     steps=''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(a),esc(b)) for a,b in s['deroule'])
@@ -68,7 +73,7 @@ def zone_page(p):
     d=2;path='zones/%s/'%p['slug']
     sp=p['spots']
     spots=''.join('<div class="rv"><h3>%s</h3><p>%s.</p></div>'%(esc(n),esc(c[0].upper()+c[1:])) for n,_,c in sp)
-    svc=''.join('<a class="tile rv" href="%s" data-cursor><div class="im">%s</div><h3>%s</h3><span>%s</span></a>'%(href(d,'services/%s/%s/'%(s['slug'],p['slug']) if p['slug'] in PRIORITY else 'services/%s/'%s['slug']),img(seed(s['slug']+p['slug']),s['name']+' à '+p['name']),esc(s['name']),'à '+esc(p['name'])) for s in SERVICES)
+    svc=''.join('<a class="tile rv" href="%s" data-cursor><div class="im">%s</div><h3>%s</h3><span>%s</span></a>'%(href(d,'services/%s/%s/'%(s['slug'],p['slug']) if (p['slug'] in PRIORITY or p['slug'] in CONTENT) else 'services/%s/'%s['slug']),img(seed(s['slug']+p['slug']),s['name']+' à '+p['name']),esc(s['name']),'à '+esc(p['name'])) for s in SERVICES)
     same=[q for q in PLACES if q['dep']==p['dep'] and q['slug']!=p['slug']][:8]
     faqs=[("Êtes-vous photographe et vidéaste à %s ?"%p['name'],"Oui. Nous intervenons à %s (%s) pour les mariages, les séances de couple, de famille, de grossesse, les naissances et les événements professionnels."%(p['name'],dep_label(p))),
           ("Quels sont les lieux que vous aimez photographier à %s ?"%p['name'],"Parmi nos lieux favoris : %s."%'; '.join('%s (%s)'%(n,c) for n,_,c in sp)),
@@ -102,15 +107,20 @@ def combo_page(s,p):
                "%s %s Nous vous proposons de commencer à %s, puis de poursuivre à %s."%(p['vibe'],s['lead'],s1,s2),
                "%s Une séance à %s, c'est aussi la possibilité de varier les ambiances entre %s et %s."%(s['lead'],p['name'],s1,s2)]
     lead=lead_opts[k]
+    C=CONTENT.get(p['slug'],{}).get(s['slug'])
     faqs=[("Où faire un shooting %s à %s ?"%(low(s['name']),p['name']),"Nos lieux préférés pour ce type de séance : %s. Nous choisissons avec vous selon votre style et la météo."%'; '.join('%s (%s)'%(n,c) for n,_,c in top)),
           ("Quelle est la meilleure lumière à %s pour une séance %s ?"%(p['name'],low(s['name'])),p['light']+" "+s['saison']),
           ("Comment venir à %s ?"%p['name'],p['acc']+" Nous nous déplaçons avec notre matériel photo et vidéo."),
           s['faq'][h(p['slug'],len(s['faq']))]]
+    if C: faqs=[(q['q'],q['a']) for q in C['faq']]+faqs[2:3]+[faqs[3]]
     ld=[B.BIZ,B.breadcrumb_ld([('Accueil',''),('Prestations','services/'),(s['name'],'services/%s/'%s['slug']),(p['name'],path)]),B.faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":s['nom'],"name":"%s à %s"%(s['nom'],p['name']),"provider":{"@type":"Photographer","name":B.NAME},"areaServed":{"@type":"Place","name":p['name']}}]
     sec_spots='<section class="cols" id="details"><div><div class="eyebrow">Lieux à %s</div><h2 style="margin-top:18px">Nos lieux <em>pour cette séance</em></h2></div><div class="moments">%s</div></section>'%(esc(p['name']),cards)
+    if C: cons=C['conseil']
+    sec_scene=('<section class="cols" id="details"><div><div class="eyebrow">Prises de vue à %s</div><h2 style="margin-top:18px">Où faire <em>votre shooting</em></h2></div><div class="prose"><p>%s</p></div></section>'%(esc(p['name']),esc(C['scene']))) if C else ''
     sec_conseil='<section class="cols"><div><div class="eyebrow">Notre conseil</div><h2 style="margin-top:18px">%s</h2></div><div class="prose"><p>%s</p><p>%s</p><p>%s</p><p>%s</p></div></section>'%(['Bien <em>choisir</em> son moment','Sur <em>place</em>','Pour que tout <em>se passe bien</em>'][k],esc(p['vibe']+' '+p['light']),esc(s['intro'][k%2]),esc(cons),esc('À %s, vous êtes à %s : %s'%(p['name'],low(p['acc'].split('.')[0]) if False else p['acc'].split('.')[0],'nous préparons l\'itinéraire entre les lieux avec vous.')))
     sec_deroule='<section class="cols"><div><div class="eyebrow">Déroulé</div><h2 style="margin-top:18px">%s</h2></div><div class="moments">%s</div></section>'%('De l\'échange <em>à la livraison</em>',''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(a),esc(b)) for a,b in s['deroule'][:3]))
-    orders=[[sec_spots,sec_conseil],[sec_conseil,sec_spots],[sec_spots,sec_conseil]]
+    sec_spots=sec_spots.replace(' id="details"','') if C else sec_spots
+    orders=[[sec_scene,sec_spots,sec_conseil],[sec_scene,sec_conseil,sec_spots],[sec_scene,sec_spots,sec_conseil]] if C else [[sec_spots,sec_conseil],[sec_conseil,sec_spots],[sec_spots,sec_conseil]]
     zones_near=[(q['name'],'services/%s/%s/'%(s['slug'],q['slug'])) for q in PLACES if q['slug'] in PRIORITY and q['slug']!=p['slug']][:6]
     body=B.header(d)+B.hero(d,[('Accueil',''),(s['name'],'services/%s/'%s['slug']),(p['name'],None)],H1[s['slug']]%esc(p['name']),esc(lead),seed(s['slug']+p['slug']),s['nom']+' à '+p['name'])
     body+='<section class="facts"><div><small>Prestation</small><b>%s</b></div><div><small>Lieu</small><b>%s</b></div><div><small>Durée</small><b>%s</b></div><div><small>Livraison</small><b>Photo et vidéo</b></div></section>'%(esc(s['name']),esc(p['name']),esc(s['duree'].split(',')[0].rstrip('.')))
@@ -125,6 +135,7 @@ def run():
     for i,s in enumerate(SERVICES): urls+=service_page(i,s)
     urls+=hub_zones()
     for p in PLACES: urls+=zone_page(p)
+    combos=[pid for pid in [p['slug'] for p in PLACES] if pid in CONTENT or pid in PRIORITY]
     for s in SERVICES:
-        for pid in PRIORITY: urls+=combo_page(s,PL[pid])
+        for pid in combos: urls+=combo_page(s,PL[pid])
     return urls
