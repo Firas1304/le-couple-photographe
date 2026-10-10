@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Sortie de cérémonie, pétales qui tombent : la Place Saint-Sulpice, avec sa fontaine et son église aux deux tours, offre un décor ample pour les félicitations et la photo de groupe. Ensuite, nous vous proposons de traverser le Pont des Arts à pas lents, la Seine d'un côté, l'Institut de France en face, pendant que la caméra suit vos mains enlacées. Les façades de pierre de la Rue de Fleurus accueillent enfin quelques portraits plus intimes, avant de filmer le premier toast du mariage.",
+  "scene": "Pour un mariage à Paris 6e, nous enchaînons la Place Saint-Sulpice, le Pont des Arts et la Rue de Fleurus, en photo comme en film. À la sortie de cérémonie, la fontaine et l'église aux deux tours de la Place Saint-Sulpice encadrent les félicitations et la photo de groupe. Vous traversez ensuite le Pont des Arts à pas lents, l'Institut de France en face, pendant que la caméra suit vos mains enlacées. Les façades de pierre de la Rue de Fleurus accueillent enfin des portraits plus intimes, avant le premier toast.",
   "conseil": "Le Pont des Arts est une passerelle très fréquentée. Pour vos portraits de mariés, visez la fin de journée et gardez une marge de quarante minutes : nous composons avec les passants plutôt que de les attendre.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage dans le 6e arrondissement de Paris ?", "a": "Nous aimons enchaîner la Place Saint-Sulpice, le Pont des Arts et la Rue de Fleurus : trois ambiances proches, accessibles à pied depuis les métros Saint-Sulpice, Odéon ou Saint-Germain-des-Prés, sans perdre de temps en voiture."},
-   {"q": "Peut-on filmer une cérémonie religieuse près de Saint-Sulpice ?", "a": "Cela dépend toujours de la paroisse et du célébrant. Interrogez-les en amont et transmettez-nous leurs consignes : nous adaptons la place de la caméra, le silence des déclenchements et les moments où nous restons en retrait."}
+   {
+    "q": "Où faire les photos de couple d'un mariage dans le 6e arrondissement de Paris ?",
+    "a": "Pour les photos de couple d'un mariage à Paris 6e, nous enchaînons la Place Saint-Sulpice, le Pont des Arts et la Rue de Fleurus : trois ambiances proches, accessibles à pied depuis les métros Saint-Sulpice, Odéon ou Saint-Germain-des-Prés."
+   },
+   {
+    "q": "Peut-on filmer une cérémonie religieuse près de Saint-Sulpice ?",
+    "a": "Filmer une cérémonie de mariage religieuse près de la Place Saint-Sulpice, à Paris 6e, dépend toujours de la paroisse et du célébrant. Transmettez-nous leurs consignes : nous adaptons la place de la caméra, le silence des déclenchements et nos moments de retrait."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Une chaise verte, un ventre rond, un livre posé sur les genoux. Au Jardin du Luxembourg, la séance grossesse prend un rythme de promenade : quelques pas le long des parterres, une pause près du bassin, vos mains qui dessinent la courbe du ventre. Plus loin, la Rue de Fleurus et ses hôtels particuliers apportent un fond minéral, sobre, idéal pour un portrait de profil en robe fluide. Quelques plans filmés, lents et silencieux, gardent le mouvement du tissu.",
+  "scene": "Le Jardin du Luxembourg et la Rue de Fleurus sont les deux décors que nous proposons pour un shooting grossesse à Paris 6e. Une chaise verte, un ventre rond, un livre posé sur les genoux : la séance prend un rythme de promenade. Quelques pas le long des parterres, une pause près du bassin, vos mains qui dessinent la courbe du ventre. Rue de Fleurus, les hôtels particuliers offrent un fond minéral pour un portrait de profil en robe fluide. Des plans filmés lents gardent le mouvement du tissu.",
   "conseil": "En milieu de matinée, le Luxembourg baigne dans une lumière franche et flatteuse. Fixez la séance à cette heure-là, repérez un banc pour souffler entre deux poses et pensez à une veste légère.",
   "faq": [
-   {"q": "Shooting grossesse au jardin du Luxembourg : quand venir ?", "a": "Nous conseillons le milieu de matinée, quand le jardin est lumineux et que vous êtes encore reposée. Le dernier trimestre, autour du septième ou huitième mois, montre bien le ventre tout en restant confortable pour marcher."},
-   {"q": "Une séance grossesse dans Paris 6e est-elle fatigante ?", "a": "Nous la pensons courte et à pied, avec des pauses assises sur les chaises du Luxembourg. Les distances entre le jardin et la Rue de Fleurus restent raisonnables, et vous décidez du rythme à chaque instant."}
+   {
+    "q": "Shooting grossesse au jardin du Luxembourg : quand venir ?",
+    "a": "Un shooting grossesse au Jardin du Luxembourg, à Paris 6e, se fait de préférence en milieu de matinée, quand le jardin est lumineux. Le dernier trimestre, vers le septième ou huitième mois, montre bien le ventre tout en restant confortable pour marcher."
+   },
+   {
+    "q": "Une séance grossesse dans Paris 6e est-elle fatigante ?",
+    "a": "Une séance grossesse à Paris 6e reste courte et se fait à pied, avec des pauses assises sur les chaises du Jardin du Luxembourg. La distance jusqu'à la Rue de Fleurus est raisonnable, et vous décidez du rythme à chaque instant."
+   }
   ]
  },
  "couple": {
-  "scene": "Café en terrasse à Saint-Germain-des-Prés, puis vous partez main dans la main. Sur le Pont des Arts, nous vous laissons marcher vers l'Institut, vous arrêter, vous retourner l'un vers l'autre : le vent de la Seine fait le reste. Le Jardin du Luxembourg invite à tirer deux chaises vertes côte à côte et à bavarder, sans pose imposée. Un court film de votre balade, monté comme un souvenir de week-end, accompagne les tirages.",
+  "scene": "Une séance couple à Paris 6e relie les terrasses de Saint-Germain-des-Prés, le Pont des Arts et le Jardin du Luxembourg, à pied. Après un café en terrasse, vous partez main dans la main. Sur le Pont des Arts, vous marchez vers l'Institut, vous vous arrêtez, vous vous retournez l'un vers l'autre : le vent de la Seine fait le reste. Au Jardin du Luxembourg, deux chaises vertes côte à côte invitent à bavarder sans pose imposée. Un court film de la balade, monté comme un souvenir de week-end, accompagne les tirages.",
   "conseil": "Vous voulez un Pont des Arts presque à vous ? Venez tôt le matin, en semaine si possible. Des chaussures confortables comptent aussi : entre le pont et le jardin, la balade se fait à pied.",
   "faq": [
-   {"q": "Où faire une séance photo de couple romantique à Paris 6e ?", "a": "Le Pont des Arts pour la Seine et l'Institut de France, le Jardin du Luxembourg pour la verdure, la Rue de Fleurus pour la pierre : nous composons un trajet selon votre style et la saison."},
-   {"q": "Peut-on faire une demande en fiançailles filmée sur le Pont des Arts ?", "a": "Oui, nous pouvons nous placer discrètement parmi les promeneurs pour capter la surprise. Convenons ensemble d'un signal et d'un point précis sur la passerelle afin que l'autre ne remarque rien."}
+   {
+    "q": "Où faire une séance photo de couple romantique à Paris 6e ?",
+    "a": "Une séance photo de couple romantique à Paris 6e associe le Pont des Arts pour la Seine et l'Institut de France, le Jardin du Luxembourg pour la verdure et la Rue de Fleurus pour la pierre. Nous composons le trajet selon votre style."
+   },
+   {
+    "q": "Peut-on faire une demande en fiançailles filmée sur le Pont des Arts ?",
+    "a": "Une demande en fiançailles filmée sur le Pont des Arts, à Paris 6e, est possible : nous nous plaçons discrètement parmi les promeneurs pour capter la surprise. Convenons d'un signal et d'un point précis sur la passerelle pour que rien ne soit remarqué."
+   }
   ]
  },
  "famille": {
-  "scene": "Les enfants courent vers le bassin, les parents suivent : au Jardin du Luxembourg, la séance famille part du jeu. Nous cadrons les courses dans les allées, un grand-parent qui raconte une histoire assis sur une chaise verte, une fratrie alignée devant les parterres. Si l'énergie baisse, la Place Saint-Sulpice et sa fontaine offrent une dernière série plus posée, toute la tribu réunie. Côté vidéo, quelques séquences de rires et de pas pressés suffisent à raconter la journée.",
+  "scene": "Les allées et le bassin du Jardin du Luxembourg accueillent notre séance famille à Paris 6e, avec une dernière série Place Saint-Sulpice. Les enfants courent vers le bassin, les parents suivent : tout part du jeu. Nous cadrons les courses dans les allées, un grand-parent qui raconte une histoire sur une chaise verte, une fratrie alignée devant les parterres. Quand l'énergie baisse, la fontaine de la Place Saint-Sulpice offre une série plus posée, toute la tribu réunie. Quelques séquences de rires suffisent à raconter la journée.",
   "conseil": "Le matin, le Luxembourg est clair et les enfants sont frais. Arrivez par le métro Odéon ou Saint-Sulpice, prévoyez une poussette pliable et un goûter dans le sac pour relancer les plus petits.",
   "faq": [
-   {"q": "Quel parc choisir pour une photo de famille dans le 6e ?", "a": "Le Jardin du Luxembourg réunit tout ce qu'il faut : espace pour courir, chaises pour les aînés, bassin et parterres en fond. Il permet de varier les scènes sans imposer de longs déplacements aux enfants."},
-   {"q": "Shooting famille à Paris 6e avec des enfants en bas âge : combien de temps ?", "a": "Nous gardons une séance courte, adaptée à leur patience, avec des pauses jeu. L'essentiel se fait au Luxembourg ; la Place Saint-Sulpice vient en option si tout le monde a encore envie."}
+   {
+    "q": "Quel parc choisir pour une photo de famille dans le 6e ?",
+    "a": "Pour une photo de famille à Paris 6e, le Jardin du Luxembourg réunit l'essentiel : espace pour courir, chaises pour les aînés, bassin et parterres en fond. Il permet de varier les scènes sans imposer de longs déplacements aux enfants."
+   },
+   {
+    "q": "Shooting famille à Paris 6e avec des enfants en bas âge : combien de temps ?",
+    "a": "Un shooting famille à Paris 6e avec des enfants en bas âge reste court, adapté à leur patience, avec des pauses jeu. L'essentiel se fait au Jardin du Luxembourg ; la Place Saint-Sulpice vient en option si tout le monde a encore envie."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Compte à rebours, souffles retenus, puis la couleur éclate ! Pour une annonce en petit comité, nous vous proposons un coin dégagé au Jardin du Luxembourg, les chaises vertes en arc de cercle autour des futurs parents. La Place Saint-Sulpice, plus ouverte, se prête à une révélation avec carte ou boîte à ouvrir devant la fontaine. Ralenti sur les visages, plan large sur les embrassades : le teaser se partage le soir même avec les proches restés loin.",
+  "scene": "Un gender reveal à Paris 6e peut se tenir en petit comité au Jardin du Luxembourg ou devant la fontaine de la Place Saint-Sulpice, selon les règles du lieu. Compte à rebours, souffles retenus, puis la couleur éclate ! Au Luxembourg, les chaises vertes se placent en arc de cercle autour des futurs parents. Sur la place, plus ouverte, une carte ou une boîte s'ouvre face à l'église aux deux tours. Ralenti sur les visages, plan large sur les embrassades : le teaser se partage le soir même avec les proches restés loin.",
   "conseil": "Jardins et places publiques encadrent souvent confettis, fumigènes et ballons : vérifiez les règles du lieu avant de choisir votre dispositif. Une révélation par gâteau ou par carte reste simple et sans trace.",
   "faq": [
-   {"q": "Peut-on faire un gender reveal au jardin du Luxembourg ?", "a": "Une révélation discrète peut s'envisager, mais vérifiez les règles du lieu pour les confettis, fumigènes et ballons. Nous vous conseillons un dispositif propre, comme une boîte ou un gâteau coloré à l'intérieur."},
-   {"q": "Où organiser une annonce du sexe du bébé dans Paris 6e avec un vidéaste ?", "a": "Un salon chez vous ou un espace privatisé donne plus de liberté pour les effets colorés. Nous pouvons ensuite compléter par quelques portraits à la Place Saint-Sulpice, en extérieur, pour fêter la nouvelle."}
+   {
+    "q": "Peut-on faire un gender reveal au jardin du Luxembourg ?",
+    "a": "Un gender reveal au Jardin du Luxembourg, à Paris 6e, peut s'envisager de façon discrète, mais vérifiez les règles du lieu pour les confettis, fumigènes et ballons. Un dispositif propre, comme une boîte ou un gâteau coloré à l'intérieur, reste conseillé."
+   },
+   {
+    "q": "Où organiser une annonce du sexe du bébé dans Paris 6e avec un vidéaste ?",
+    "a": "Une annonce du sexe du bébé filmée à Paris 6e gagne en liberté dans un salon chez vous ou un espace privatisé, pour les effets colorés. Quelques portraits à la Place Saint-Sulpice, en extérieur, peuvent ensuite fêter la nouvelle."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Avocat, éditeur, architecte ou libraire : votre portrait gagne à refléter l'élégance sobre du quartier. Les façades de pierre de la Rue de Fleurus donnent un arrière-plan neutre et chaleureux, parfait pour une photo LinkedIn nette. Sur la Place Saint-Sulpice, une tenue de ville et la fontaine floue derrière vous suggèrent une activité parisienne sans en faire trop. Une courte vidéo de présentation, tournée sur le même trajet, complète les visuels de votre site.",
+  "scene": "Nous photographions vos portraits professionnels à Paris 6e sur la Rue de Fleurus et la Place Saint-Sulpice, deux décors sobres pour LinkedIn ou un site. Avocat, éditeur, architecte ou libraire : votre image gagne à refléter l'élégance du quartier. Les façades de pierre de la Rue de Fleurus donnent un arrière-plan neutre et chaleureux pour une photo nette. Place Saint-Sulpice, une tenue de ville et la fontaine floue derrière vous suggèrent une activité parisienne sans en faire trop. Une courte vidéo de présentation complète vos visuels.",
   "conseil": "Pour un portrait corporate en extérieur, la Rue de Fleurus reste calme et ombragée par endroits, ce qui évite les ombres dures. Venez avec une tenue unie et une seconde option plus détendue.",
   "faq": [
-   {"q": "Où faire un portrait corporate en extérieur à Paris 6e ?", "a": "La Rue de Fleurus offre des façades sobres et la Place Saint-Sulpice un décor plus ouvert. Les deux restent proches de vos bureaux du quartier et évitent la location d'un studio."},
-   {"q": "Un photographe peut-il venir dans nos locaux de Saint-Germain-des-Prés pour toute l'équipe ?", "a": "Oui. Nous installons un petit espace près d'une fenêtre pour des portraits homogènes, puis nous pouvons sortir avec ceux qui le souhaitent pour quelques images en extérieur dans le quartier."}
+   {
+    "q": "Où faire un portrait corporate en extérieur à Paris 6e ?",
+    "a": "Un portrait corporate en extérieur à Paris 6e trouve des façades sobres Rue de Fleurus et un décor plus ouvert Place Saint-Sulpice. Les deux restent proches des bureaux du quartier et évitent la location d'un studio pour vos photos professionnelles."
+   },
+   {
+    "q": "Un photographe peut-il venir dans nos locaux de Saint-Germain-des-Prés pour toute l'équipe ?",
+    "a": "Les portraits d'équipe dans vos locaux de Saint-Germain-des-Prés, à Paris 6e, se font près d'une fenêtre pour un rendu homogène. Ceux qui le souhaitent peuvent ensuite sortir avec nous pour quelques images professionnelles en extérieur dans le quartier."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Lancement d'un livre, soirée d'agence, rencontre d'auteurs : le 6e accueille des événements où la parole compte. Nous suivons l'intervenant au pupitre, les échanges autour du cocktail, les poignées de main. Avant l'arrivée des invités, une série d'ouverture sur le Pont des Arts, face à l'Institut, ou devant la Place Saint-Sulpice pose le cadre parisien de votre communication. Un récapitulatif filmé de deux minutes peut suivre, monté pour vos réseaux.",
+  "scene": "Pour un lancement de livre, une soirée d'agence ou un séminaire à Paris 6e, nous couvrons l'événement en photo et en vidéo, avec une série d'ouverture au Pont des Arts. Nous suivons l'intervenant au pupitre, les échanges autour du cocktail, les poignées de main. Avant l'arrivée des invités, quelques images sur le Pont des Arts, face à l'Institut, ou sur la Place Saint-Sulpice posent le cadre parisien de votre communication. Un récapitulatif filmé et court peut suivre, monté pour vos réseaux.",
   "conseil": "Si votre événement a lieu près d'Odéon ou de Saint-Germain-des-Prés, signalez-nous l'accès livraison ou l'entrée de service : nous arrivons avec du matériel et gagnons du temps sur l'installation.",
   "faq": [
-   {"q": "Faut-il un photographe pour une soirée de lancement à Saint-Germain-des-Prés ?", "a": "Une soirée de lancement produit des images utiles pendant des mois : presse, réseaux, rapport annuel. Un reportage discret capte les prises de parole, les invités clés et l'ambiance sans perturber le déroulé."},
-   {"q": "Pouvez-vous filmer un séminaire dans le 6e arrondissement et livrer un montage court ?", "a": "Oui. Transmettez-nous le programme et les personnes clés : nous filmons les temps forts, quelques interviews rapides si vous le souhaitez, puis livrons un montage court adapté à vos canaux."}
+   {
+    "q": "Faut-il un photographe pour une soirée de lancement à Saint-Germain-des-Prés ?",
+    "a": "Une soirée de lancement à Saint-Germain-des-Prés, à Paris 6e, produit des images utiles pendant des mois : presse, réseaux, rapport annuel. Notre reportage discret capte les prises de parole, les invités clés et l'ambiance sans perturber le déroulé."
+   },
+   {
+    "q": "Pouvez-vous filmer un séminaire dans le 6e arrondissement et livrer un montage court ?",
+    "a": "Un séminaire dans le 6e arrondissement de Paris peut être filmé puis livré en montage court. Transmettez-nous le programme et les personnes clés : nous filmons les temps forts, quelques interviews rapides si vous le souhaitez, adaptés à vos canaux."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul face à l'objectif, mais jamais livré à vous-même. La séance commence Rue de Fleurus, où les hôtels particuliers composent un décor de roman : appuyé contre une porte cochère, un manteau sur l'épaule. Le Pont des Arts prend le relais pour des portraits en mouvement, cheveux au vent, regard vers la Seine. Une halte au Jardin du Luxembourg, sur une chaise verte, offre un moment plus calme. Quelques plans filmés au ralenti feront un joli format vertical.",
+  "scene": "Un shooting solo à Paris 6e suit la Rue de Fleurus, le Pont des Arts puis le Jardin du Luxembourg, pour varier les fonds à pied. Seul face à l'objectif, vous n'êtes jamais livré à vous-même. Rue de Fleurus, les hôtels particuliers composent un décor de roman : appuyé contre une porte cochère, un manteau sur l'épaule. Le Pont des Arts prend le relais pour des portraits en mouvement, regard vers la Seine. Une chaise verte du Luxembourg offre un moment plus calme. Des plans au ralenti donnent un format vertical.",
   "conseil": "Changer de tenue en pleine rue n'a rien de pratique. Un café du quartier peut servir de pause entre deux looks ; sinon, choisissez des superpositions simples, une veste ou un foulard à ôter.",
   "faq": [
-   {"q": "Où faire un shooting solo à Saint-Germain-des-Prés ?", "a": "Nous combinons la Rue de Fleurus pour un portrait élégant, le Pont des Arts pour la Seine et le Jardin du Luxembourg pour la verdure. Ce trajet varie les fonds tout en restant à pied."},
-   {"q": "Je ne suis pas à l'aise en photo, une séance solo dans Paris 6e est-elle adaptée ?", "a": "C'est même le cas de la plupart des personnes. Nous marchons, discutons et vous guidons pas à pas sur les postures. Les ruelles calmes aident à oublier l'appareil avant de rejoindre les lieux plus animés."}
+   {
+    "q": "Où faire un shooting solo à Saint-Germain-des-Prés ?",
+    "a": "Un shooting solo autour de Saint-Germain-des-Prés, à Paris 6e, combine la Rue de Fleurus pour un portrait élégant, le Pont des Arts pour la Seine et le Jardin du Luxembourg pour la verdure. Le trajet varie les fonds tout en restant à pied."
+   },
+   {
+    "q": "Je ne suis pas à l'aise en photo, une séance solo dans Paris 6e est-elle adaptée ?",
+    "a": "Une séance solo à Paris 6e convient aussi aux personnes peu à l'aise en photo. Nous marchons, discutons et vous guidons pas à pas sur les postures. Les rues calmes aident à oublier l'appareil avant de rejoindre les lieux plus animés."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Trente bougies ou soixante, peu importe : on trinque ! Avant la fête, rassemblez vos amis au Jardin du Luxembourg pour une photo de groupe joyeuse, chaises vertes tirées en désordre devant le bassin. En fin d'après-midi, le Pont des Arts se prête à un portrait de la personne fêtée, bouquet ou ballon à la main. Le soir, nous captons le gâteau, les discours, les éclats de rire. Un petit film souvenir rassemble ensuite ces moments en quelques minutes.",
+  "scene": "Trente bougies ou soixante, un anniversaire à Paris 6e se photographie et se filme au Jardin du Luxembourg puis sur le Pont des Arts. Avant la fête, rassemblez vos amis au Luxembourg pour une photo de groupe joyeuse, chaises vertes tirées en désordre devant le bassin. En fin d'après-midi, le Pont des Arts se prête à un portrait de la personne fêtée, bouquet ou ballon à la main. Le soir, nous captons le gâteau, les discours, les éclats de rire. Un petit film souvenir rassemble ces moments.",
   "conseil": "Le dimanche, le Luxembourg accueille beaucoup de promeneurs. Pour une photo d'anniversaire en groupe, préférez un samedi matin ou un jour de semaine et donnez rendez-vous à vos invités près d'une entrée précise.",
   "faq": [
-   {"q": "Comment organiser une séance photo d'anniversaire au jardin du Luxembourg ?", "a": "Fixez un point de rendez-vous clair, prévenez vos invités de l'heure et gardez les décorations légères. Nous gérons la mise en place du groupe, puis quelques portraits individuels autour des parterres."},
-   {"q": "Un vidéaste peut-il filmer un anniversaire surprise dans le 6e ?", "a": "Oui. Indiquez-nous le moment exact de l'arrivée de la personne fêtée et l'endroit où elle entrera : nous nous plaçons à l'avance pour filmer sa réaction sans être vus."}
+   {
+    "q": "Comment organiser une séance photo d'anniversaire au jardin du Luxembourg ?",
+    "a": "Une séance photo d'anniversaire au Jardin du Luxembourg, à Paris 6e, demande un point de rendez-vous clair, une heure précise pour les invités et des décorations légères. Nous gérons la mise en place du groupe, puis quelques portraits autour des parterres."
+   },
+   {
+    "q": "Un vidéaste peut-il filmer un anniversaire surprise dans le 6e ?",
+    "a": "Un anniversaire surprise à Paris 6e se filme en préparant l'arrivée de la personne fêtée : indiquez-nous le moment exact et l'endroit où elle entrera. Nous nous plaçons à l'avance pour filmer sa réaction sans être vus."
+   }
   ]
  },
  "diplome": {
-  "scene": "Toge sur les épaules, diplôme roulé dans la main : le 6e, quartier d'étudiants et de lettres, convient parfaitement à ce jour de fierté. Au Jardin du Luxembourg, un portrait assis sur une chaise verte, le parchemin sur les genoux, raconte des années de révisions. Sur le Pont des Arts, la toque lancée vers le ciel face à l'Institut de France donne l'image phare. La Rue de Fleurus accueille enfin la photo avec vos parents, émus.",
+  "scene": "Une remise de diplôme à Paris 6e se célèbre en photo au Jardin du Luxembourg, sur le Pont des Arts et Rue de Fleurus, avec vos proches. Toge sur les épaules, vous posez assis sur une chaise verte du Luxembourg, le parchemin sur les genoux, comme après des années de révisions. Sur le Pont des Arts, la toque lancée vers le ciel face à l'Institut de France donne l'image phare, filmée au ralenti. La Rue de Fleurus accueille enfin la photo avec vos parents, émus, devant une façade de pierre.",
   "conseil": "Après la cérémonie, les abords des écoles se remplissent vite. Prévoyez un créneau pour rejoindre le Luxembourg ou le Pont des Arts à pied, et gardez la toge à portée pour éviter les plis.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Paris 6e ?", "a": "Le Pont des Arts, avec l'Institut de France en fond, se prête au lancer de toque. Le Jardin du Luxembourg ajoute un décor plus doux, et la Rue de Fleurus un portrait familial sobre."},
-   {"q": "Peut-on avoir photo et vidéo de la cérémonie de diplôme puis un shooting dehors ?", "a": "Oui, si l'établissement autorise les prises de vue dans la salle. Nous couvrons la remise, puis nous partons ensemble pour une courte séance extérieure dans le quartier, avec famille ou camarades."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Paris 6e ?",
+    "a": "Pour des photos de remise de diplôme à Paris 6e, le Pont des Arts, avec l'Institut de France en fond, se prête au lancer de toque. Le Jardin du Luxembourg ajoute un décor plus doux, et la Rue de Fleurus un portrait familial sobre."
+   },
+   {
+    "q": "Peut-on avoir photo et vidéo de la cérémonie de diplôme puis un shooting dehors ?",
+    "a": "Une cérémonie de remise de diplôme dans le 6e arrondissement de Paris peut être couverte en photo et vidéo si l'établissement autorise les prises de vue. Nous partons ensuite pour une courte séance extérieure dans le quartier, avec famille ou camarades."
+   }
   ]
  },
  "naissance": {
-  "scene": "Doucement, à la sortie de la maternité, une première promenade en famille peut devenir un souvenir. Nous vous proposons quelques pas au Jardin du Luxembourg, le bébé contre vous en écharpe, sur une chaise verte à l'ombre. La Rue de Fleurus, plus calme, accueille un portrait des jeunes parents devant une façade de pierre, sans foule autour. Des séquences filmées très courtes, prises de loin, gardent l'émotion de ces premiers jours.",
+  "scene": "Un reportage de naissance à Paris 6e se fait en maternité avec l'accord de l'établissement, puis lors d'une première sortie au Jardin du Luxembourg. Doucement, quand la maman se sent prête, la promenade en famille devient un souvenir : quelques pas sous les arbres, le bébé contre vous en écharpe, une chaise verte à l'ombre. La Rue de Fleurus, plus calme, accueille un portrait des jeunes parents devant une façade de pierre, sans foule autour. Des séquences filmées très courtes, prises de loin, gardent l'émotion de ces premiers jours.",
   "conseil": "La prise de vue en maternité dépend de l'accord de l'établissement : renseignez-vous avant la naissance. Pour l'extérieur, attendez que la maman se sente prête et privilégiez un matin calme au Luxembourg.",
   "faq": [
-   {"q": "Peut-on faire un reportage de naissance en maternité près du 6e arrondissement ?", "a": "C'est possible uniquement avec l'accord de l'établissement. Renseignez-vous auprès de la maternité avant le terme ; si les prises de vue ne sont pas acceptées, nous vous proposons une séance à domicile dès votre retour."},
-   {"q": "Quand faire des photos de bébé après la naissance dans Paris 6e ?", "a": "Quand la maman a récupéré, sans contrainte de date. Une première séance chez vous, au calme, reste souvent la plus sereine ; une sortie au Jardin du Luxembourg peut suivre quelques semaines plus tard."}
+   {
+    "q": "Peut-on faire un reportage de naissance en maternité près du 6e arrondissement ?",
+    "a": "Un reportage de naissance en maternité à Paris 6e n'est possible qu'avec l'accord de l'établissement. Renseignez-vous avant le terme ; si les prises de vue ne sont pas acceptées, nous vous proposons une séance à domicile dès votre retour."
+   },
+   {
+    "q": "Quand faire des photos de bébé après la naissance dans Paris 6e ?",
+    "a": "Les photos de bébé après la naissance à Paris 6e se font quand la maman a récupéré, sans contrainte de date. Une première séance chez vous reste la plus sereine ; une sortie au Jardin du Luxembourg peut suivre quelques semaines plus tard."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, pièce chauffée, bébé endormi : la séance nouveau-né se fait à domicile, en douceur, sans pose forcée. Ses petits pieds, ses mains fermées, ses cils occupent tout le cadre. Si vous habitez près de la Rue de Fleurus, une fenêtre donnant sur les façades de pierre apporte une lumière claire. Plus tard, une sortie au Jardin du Luxembourg, landau sous les arbres, ou un passage par la Place Saint-Sulpice complète l'album. Le film reste lent, presque murmuré.",
+  "scene": "La séance nouveau-né à Paris 6e se fait à domicile, en douceur, puis peut se prolonger par une sortie au Jardin du Luxembourg ou Place Saint-Sulpice. Pièce chauffée, bébé endormi, aucune pose forcée : ses petits pieds, ses mains fermées et ses cils occupent tout le cadre. Près de la Rue de Fleurus, une fenêtre donnant sur les façades de pierre apporte une lumière claire. Plus tard, un landau sous les arbres du Luxembourg complète l'album. Le film reste lent, presque murmuré.",
   "conseil": "Dans les appartements anciens du 6e, la lumière vient souvent d'une seule façade. Choisissez la pièce la plus claire, chauffez-la bien et dégagez un coin près de la fenêtre avant notre arrivée.",
   "faq": [
-   {"q": "Photographe nouveau-né à domicile dans Paris 6e : comment se passe la séance ?", "a": "Nous venons chez vous avec un matériel léger, sans flash agressif. Le bébé dort, vous le nourrissez quand il le faut, et nous suivons son rythme. Aucune pose risquée : la sécurité passe avant l'image."},
-   {"q": "À quel âge faire une séance nouveau-né et peut-on sortir au Luxembourg ?", "a": "Les premiers jours conviennent pour capter les plis et le sommeil profond. La séance se fait au chaud chez vous ; une sortie au Jardin du Luxembourg peut venir plus tard, si vous le souhaitez."}
+   {
+    "q": "Photographe nouveau-né à domicile dans Paris 6e : comment se passe la séance ?",
+    "a": "Une séance photo nouveau-né à domicile à Paris 6e se fait avec un matériel léger, sans flash agressif. Le bébé dort, vous le nourrissez quand il le faut, et nous suivons son rythme. Aucune pose risquée : la sécurité passe avant l'image."
+   },
+   {
+    "q": "À quel âge faire une séance nouveau-né et peut-on sortir au Luxembourg ?",
+    "a": "Une séance nouveau-né à Paris 6e se fait de préférence dans les premiers jours, pour capter les plis et le sommeil profond, au chaud chez vous. Une sortie au Jardin du Luxembourg peut venir plus tard, si vous le souhaitez."
+   }
   ]
  }
 }
