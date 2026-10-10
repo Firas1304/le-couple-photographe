@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Brique rouge, pierre claire, façades Renaissance : le Château d'Écouen donne au mariage un décor d'époque sans artifice. Nous vous proposons d'y placer le premier regard, puis de longer les Douves pour des portraits de couple main dans la main, robe et costume découpés sur les fossés. Si la cérémonie religieuse a lieu à l'Église Saint-Acceul, le film suit la sortie sous les voûtes gothiques, les pétales et les embrassades sur le parvis. Votre photographe mariage à Écouen garde ainsi trois chapitres d'une même journée.",
+  "scene": "Pour un mariage à Écouen, nous vous proposons trois décors accessibles à pied : le Château d'Écouen, les Douves et l'Église Saint-Acceul. Brique rouge et pierre claire donnent au premier regard un décor Renaissance sans artifice. Les portraits de couple suivent le long des Douves, main dans la main, robe et costume découpés sur les fossés. Si la cérémonie religieuse a lieu à l'Église Saint-Acceul, le film suit la sortie sous les voûtes gothiques, les pétales et les embrassades sur le parvis.",
   "conseil": "Par temps clair, les fossés renvoient une belle lumière en fin de journée : gardez ce créneau pour les portraits à deux. Renseignez-vous auprès du château et de la paroisse sur les autorisations de prise de vue avant de fixer le déroulé.",
   "faq": [
-   {"q": "Peut-on faire les photos de couple du mariage autour du château d'Écouen ?", "a": "Oui, nous pouvons organiser les portraits aux abords du château et le long des fossés. Les règles d'accès et de tournage relèvent du site lui-même : nous vous conseillons de les vérifier avec lui, et nous adaptons le parcours à ce qui est permis."},
-   {"q": "Un vidéaste mariage à Écouen peut-il filmer la messe à l'église Saint-Acceul ?", "a": "C'est possible si la paroisse l'accepte. Nous filmons discrètement, sans lumière ajoutée pendant l'office, et nous nous plaçons là où le célébrant le souhaite. Posez la question lors de votre préparation au mariage pour connaître les consignes exactes."}
+   {
+    "q": "Peut-on faire les photos de couple du mariage autour du château d'Écouen ?",
+    "a": "Oui, pour un mariage à Écouen, nous pouvons organiser les portraits de couple aux abords du Château d'Écouen et le long des Douves. Les règles d'accès et de tournage relèvent du site : vérifiez-les avec lui, et nous adaptons le parcours à ce qui est permis."
+   },
+   {
+    "q": "Un vidéaste mariage à Écouen peut-il filmer la messe à l'église Saint-Acceul ?",
+    "a": "Filmer un mariage à l'Église Saint-Acceul d'Écouen est possible si la paroisse l'accepte. Nous filmons discrètement, sans lumière ajoutée pendant l'office, à l'endroit choisi par le célébrant. Posez la question lors de la préparation au mariage pour connaître les consignes exactes."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Un ventre rond, une robe longue qui accroche le vent, des pelouses à perte de regard : le Parc de la Ville se prête à une séance grossesse calme, où vous marchez à votre rythme et vous asseyez quand vous le voulez. Les mains posées sur le ventre trouvent ensuite un écrin plus solennel devant les Douves, dont l'eau ou l'herbe des fossés adoucit l'arrière-plan. Quelques secondes de vidéo au ralenti, un tissu soulevé, un murmure au bébé, complètent les photos.",
+  "scene": "Un shooting grossesse à Écouen se fait idéalement au Parc de la Ville, puis devant les Douves du château, deux décors calmes et proches. Une robe longue accroche le vent sur les pelouses, où vous marchez à votre rythme et vous asseyez quand vous le voulez. Les mains posées sur le ventre trouvent ensuite un écrin plus solennel au bord des fossés, dont l'herbe adoucit l'arrière-plan. Quelques secondes de vidéo au ralenti, un tissu soulevé, un murmure au bébé, complètent les photos.",
   "conseil": "Choisissez une journée claire et un horaire de fin d'après-midi, quand la chaleur retombe. Le parc offre des endroits plats et des bancs pour souffler : nous prévoyons des pauses régulières plutôt qu'un long parcours autour du château.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Écouen sans trop marcher ?", "a": "Le parc de la Ville est le choix le plus simple : allées planes, pelouses et possibilité de s'asseoir. Nous pouvons ensuite rejoindre les abords du château en douceur si vous en avez envie, sans vous imposer de distance."},
-   {"q": "À combien de mois faire une séance photo grossesse dans le Val-d'Oise ?", "a": "On conseille souvent la période située entre le septième et le huitième mois, quand le ventre est bien visible et que vous restez à l'aise pour bouger. Le plus important reste votre confort : nous ajustons la date avec vous."}
+   {
+    "q": "Où faire un shooting grossesse à Écouen sans trop marcher ?",
+    "a": "Pour un shooting grossesse à Écouen sans trop marcher, le Parc de la Ville est le choix le plus simple : allées planes, pelouses et bancs pour s'asseoir. Nous pouvons ensuite rejoindre les abords du Château d'Écouen en douceur, sans vous imposer de distance."
+   },
+   {
+    "q": "À combien de mois faire une séance photo grossesse à Écouen ?",
+    "a": "Une séance grossesse à Écouen se prévoit souvent au septième ou au huitième mois, quand le ventre est bien visible et que vous restez à l'aise pour bouger. Votre confort passe avant tout : nous ajustons la date avec vous."
+   }
   ]
  },
  "couple": {
-  "scene": "Et si vous vous retrouviez au pied d'un château Renaissance, juste pour vous ? Au Château d'Écouen, les murs de brique et de pierre encadrent une marche lente, un rire, un front contre un front. Les Douves invitent ensuite à des images plus graphiques : vous deux sur le bord, la ligne des fossés qui file derrière. Pour finir, une conversation assise sur une pelouse du Parc de la Ville, filmée de loin, garde vos gestes sans que vous pensiez à l'objectif.",
+  "scene": "Une séance couple à Écouen trouve au Château d'Écouen et à ses Douves un décor Renaissance, juste pour vous deux. Les murs de brique et de pierre encadrent une marche lente, un rire, un front contre un front. Les fossés invitent ensuite à des images plus graphiques : vous deux sur le bord, la ligne d'eau ou d'herbe qui file derrière. Pour finir, une conversation assise sur une pelouse du Parc de la Ville, filmée de loin, garde vos gestes sans que vous pensiez à l'objectif.",
   "conseil": "Les week-ends de beau temps attirent des promeneurs autour du château. Un rendez-vous en semaine ou en début de matinée vous laisse plus d'intimité, et la lumière rasante met en valeur le relief des façades.",
   "faq": [
-   {"q": "Quel lieu romantique pour un shooting couple près d'Écouen ?", "a": "Les abords du château Renaissance et ses fossés offrent un décor romantique sans quitter la commune. Pour une ambiance plus détendue, le parc de la Ville apporte verdure et allées ombragées. Nous pouvons combiner les deux en une seule séance."},
-   {"q": "Peut-on faire une séance fiançailles à Écouen avec une courte vidéo ?", "a": "Oui. En plus des photos, nous vous proposons un petit film de quelques dizaines de secondes, idéal pour annoncer vos fiançailles ou accompagner un faire-part numérique. Les deux se tournent pendant la même promenade."}
+   {
+    "q": "Quel lieu romantique pour un shooting couple à Écouen ?",
+    "a": "Pour un shooting couple romantique à Écouen, les abords du Château d'Écouen et ses Douves offrent un décor Renaissance sans quitter la commune. Le Parc de la Ville apporte une ambiance plus détendue, avec verdure et allées. Nous pouvons combiner les deux en une seule séance."
+   },
+   {
+    "q": "Peut-on faire une séance fiançailles à Écouen avec une courte vidéo ?",
+    "a": "Oui, une séance fiançailles à Écouen peut inclure un petit film de quelques dizaines de secondes, utile pour annoncer vos fiançailles ou accompagner un faire-part numérique. Photos et vidéo se tournent pendant la même promenade autour du château."
+   }
   ]
  },
  "famille": {
-  "scene": "Les enfants courent, les parents suivent, les grands-parents s'installent sur un banc : le Parc de la Ville accueille cette agitation joyeuse avec ses allées et ses grandes pelouses. Nous y lançons des jeux simples, une course, une ronde, une pluie de feuilles en automne. Puis toute la tribu se rassemble devant le Château d'Écouen pour la photo de groupe, chacun à sa place, avant un dernier détour par l'Église Saint-Acceul et ses pierres anciennes pour quelques portraits par génération.",
+  "scene": "À Écouen, une séance photo famille commence au Parc de la Ville pour les jeux, puis se termine devant le Château d'Écouen pour la photo de groupe. Les enfants courent, les grands-parents s'installent sur un banc, et les allées accueillent cette agitation joyeuse. Nous lançons des jeux simples : une course, une ronde, une pluie de feuilles en automne. Toute la tribu se rassemble ensuite devant le château, chacun à sa place, avant un détour par l'Église Saint-Acceul pour quelques portraits par génération.",
   "conseil": "Commencez par le parc, où les plus jeunes se dépensent avant d'être sollicités. Gardez la photo devant le château pour le milieu de séance, quand tout le monde est encore coiffé et de bonne humeur.",
   "faq": [
-   {"q": "Où faire une séance photo famille en extérieur à Écouen ?", "a": "Le parc de la Ville convient bien aux enfants grâce à ses pelouses dégagées. Les abords du château permettent ensuite une photo de famille plus posée, avec un fond Renaissance reconnaissable. Nous organisons le trajet entre les deux à pied."},
-   {"q": "Une séance famille à Écouen convient-elle avec des enfants en bas âge ?", "a": "Oui, à condition d'adapter le rythme. Nous prévoyons des pauses, laissons les petits explorer et déclenchons pendant le jeu plutôt que pendant la pose. Une poussette passe sans difficulté dans les allées du parc."}
+   {
+    "q": "Où faire une séance photo famille en extérieur à Écouen ?",
+    "a": "Pour une séance photo famille en extérieur à Écouen, le Parc de la Ville convient bien aux enfants grâce à ses pelouses dégagées. Les abords du Château d'Écouen permettent ensuite une photo plus posée, avec un fond Renaissance. Le trajet entre les deux se fait à pied."
+   },
+   {
+    "q": "Une séance famille à Écouen convient-elle avec des enfants en bas âge ?",
+    "a": "Oui, une séance famille à Écouen convient aux enfants en bas âge si le rythme s'adapte. Nous prévoyons des pauses, laissons les petits explorer et déclenchons pendant le jeu. Une poussette passe sans difficulté dans les allées du Parc de la Ville."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Trois, deux, un : la couleur jaillit et tout le monde crie. Pour ce moment festif, le Parc de la Ville offre l'espace dégagé qu'il faut, avec des pelouses où vos proches forment un cercle autour de vous. Avant l'annonce, une photo des futurs parents devant le Château d'Écouen pose le décor ; après, une promenade le long des Douves capte vos premiers échanges sur le prénom. Nous filmons le jaillissement au ralenti pour revoir chaque réaction.",
+  "scene": "Un gender reveal à Écouen se déroule bien sur les pelouses du Parc de la Ville, avec le Château d'Écouen comme décor des portraits. Trois, deux, un : la couleur jaillit et tout le monde crie, vos proches en cercle autour de vous. Avant l'annonce, une photo des futurs parents devant le château pose le décor. Après, une promenade le long des Douves capte vos premiers échanges sur le prénom. Nous filmons le jaillissement au ralenti pour revoir chaque réaction.",
   "conseil": "Vérifiez les règles du lieu pour les confettis, fumigènes et ballons avant d'acheter le matériel : un parc public et les abords d'un monument ont souvent leurs propres consignes. Prévoyez aussi de quoi ramasser chaque débris après la fête.",
   "faq": [
-   {"q": "Où organiser un gender reveal en plein air à Écouen ?", "a": "Une pelouse du parc de la Ville offre un fond vert neutre et de la place pour vos invités. Renseignez-vous auprès de la mairie sur ce qui est autorisé, notamment pour les fumigènes, confettis et ballons, avant de fixer le lieu."},
-   {"q": "Faut-il un vidéaste pour un gender reveal ?", "a": "Le moment clé dure quelques secondes : l'avoir en film permet de revoir les réactions de chacun. Pendant que l'un de nous filme au ralenti, l'autre photographie les visages, ce qui évite de devoir choisir entre image fixe et vidéo."}
+   {
+    "q": "Où organiser un gender reveal en plein air à Écouen ?",
+    "a": "Pour un gender reveal en plein air à Écouen, une pelouse du Parc de la Ville offre un fond vert neutre et de la place pour vos invités. Renseignez-vous auprès de la mairie sur les fumigènes, confettis et ballons autorisés avant de fixer le lieu."
+   },
+   {
+    "q": "Faut-il un vidéaste pour un gender reveal à Écouen ?",
+    "a": "Pour un gender reveal à Écouen, le film permet de revoir les réactions de chacun, car le moment clé dure quelques secondes. Pendant que l'un de nous filme au ralenti, l'autre photographie les visages : pas besoin de choisir entre image fixe et vidéo."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Vous travaillez à Écouen ou dans les environs et cherchez une image sobre, avec un ancrage local ? Un portrait sur fond de brique devant le Château d'Écouen donne du caractère à un profil d'avocat, d'artisan ou de consultant. Les allées du Parc de la Ville apportent un arrière-plan vert et flou pour des photos d'équipe plus décontractées. Une courte présentation filmée, où vous parlez de votre métier, complète utilement votre site ou votre page LinkedIn.",
+  "scene": "Pour un portrait professionnel à Écouen, nous vous proposons la brique du Château d'Écouen ou la verdure du Parc de la Ville. Un portrait sur fond de brique donne du caractère à un profil d'avocat, d'artisan ou de consultant installé dans les environs. Les allées du parc apportent un arrière-plan vert et flou pour des photos d'équipe plus décontractées. Une courte présentation filmée, où vous parlez de votre métier, complète utilement votre site ou votre page LinkedIn.",
   "conseil": "Évitez les tenues à rayures fines, qui vibrent à l'image, et prévoyez une veste neutre. Un ciel légèrement voilé suffit pour des portraits d'affaires en extérieur : il adoucit les ombres sur le visage.",
   "faq": [
-   {"q": "Où faire un portrait professionnel à Écouen pour LinkedIn ?", "a": "Nous pouvons réaliser vos portraits dans vos locaux ou en extérieur, devant les façades du château ou dans le parc de la Ville. Indiquez-nous l'usage prévu, site, réseau ou plaquette, pour adapter le cadrage et le format."},
-   {"q": "Proposez-vous des photos d'équipe en entreprise dans le Val-d'Oise ?", "a": "Oui. Nous nous déplaçons dans vos bureaux avec un éclairage portable, ou nous emmenons votre équipe dans un décor extérieur proche. Une séance d'équipe se prépare en amont avec une liste des personnes et des tenues conseillées."}
+   {
+    "q": "Où faire un portrait professionnel à Écouen pour LinkedIn ?",
+    "a": "Pour un portrait professionnel LinkedIn à Écouen, nous travaillons dans vos locaux ou en extérieur, devant les façades du Château d'Écouen ou dans le Parc de la Ville. Indiquez l'usage prévu, site, réseau ou plaquette, pour adapter le cadrage et le format."
+   },
+   {
+    "q": "Proposez-vous des photos d'équipe en entreprise à Écouen ?",
+    "a": "Oui, nous réalisons des photos d'équipe en entreprise à Écouen et dans le Val-d'Oise. Nous venons dans vos bureaux avec un éclairage portable, ou nous emmenons l'équipe dans un décor extérieur proche. La séance se prépare avec une liste des personnes et des tenues conseillées."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Un séminaire, une réunion de clients, une soirée d'entreprise : à Écouen, la journée peut s'ouvrir par une visite du Château d'Écouen et de son musée national de la Renaissance, que nous suivons en images discrètes. Les pauses en extérieur, le long des Douves ou sur les pelouses du Parc de la Ville, se prêtent aux photos de groupe et aux échanges informels. Le montage final résume l'événement en un film court, prêt pour votre communication interne.",
+  "scene": "Lors d'un événement professionnel à Écouen, nous couvrons la visite du Château d'Écouen, les pauses le long des Douves et les échanges informels. Séminaire, réunion de clients ou soirée d'entreprise : la journée peut s'ouvrir par une visite du musée national de la Renaissance, que nous suivons en images discrètes. Les pauses en extérieur, sur les pelouses du Parc de la Ville, se prêtent aux photos de groupe. Le montage final résume l'événement en un film court, prêt pour votre communication interne.",
   "conseil": "Le Transilien Écouen-Ézanville simplifie la venue de vos invités depuis Paris : précisez l'heure d'arrivée du groupe pour que nous soyons présents dès l'accueil. Transmettez aussi le programme minuté et la liste des intervenants.",
   "faq": [
-   {"q": "Peut-on photographier un séminaire d'entreprise au château d'Écouen ?", "a": "Si votre événement inclut une visite ou un temps sur place, nous pouvons le couvrir dans le respect des règles du musée. Celles-ci sont à confirmer en amont avec l'établissement, en même temps que votre réservation de groupe."},
-   {"q": "Quelle couverture vidéo pour un événement professionnel dans le Val-d'Oise ?", "a": "Selon vos besoins, nous livrons un film récapitulatif de quelques minutes, des extraits courts pour les réseaux sociaux et les prises de parole complètes. Nous définissons ensemble les moments clés à ne pas manquer."}
+   {
+    "q": "Peut-on photographier un séminaire d'entreprise au château d'Écouen ?",
+    "a": "Un séminaire d'entreprise au Château d'Écouen peut être photographié s'il inclut une visite ou un temps sur place, dans le respect des règles du musée. Ces règles sont à confirmer avec l'établissement, en même temps que votre réservation de groupe."
+   },
+   {
+    "q": "Quelle couverture vidéo pour un événement professionnel à Écouen ?",
+    "a": "Pour un événement professionnel à Écouen ou ailleurs dans le Val-d'Oise, nous livrons selon vos besoins un film récapitulatif de quelques minutes, des extraits courts pour les réseaux sociaux et les prises de parole complètes. Nous définissons ensemble les moments clés."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul face à un château Renaissance, on se tient autrement. Nous commençons aux abords du Château d'Écouen, en marchant, pour que vos épaules se relâchent et que le regard se fasse plus franc. L'Église Saint-Acceul offre ensuite une pierre gothique patinée, parfaite pour des portraits serrés et graves. Changement de tenue, puis retour vers les Douves : vous vous appuyez, vous regardez au loin, et une caméra glisse lentement autour de vous pour un clip personnel.",
+  "scene": "Une séance portrait solo à Écouen relie trois décors proches : le Château d'Écouen, l'Église Saint-Acceul et les Douves. Seul face à un château Renaissance, on se tient autrement. Nous commençons en marchant, pour que vos épaules se relâchent et que le regard se fasse plus franc. La pierre gothique patinée de l'église se prête ensuite à des portraits serrés et graves. Changement de tenue, puis retour vers les fossés : une caméra glisse lentement autour de vous pour un clip personnel.",
   "conseil": "Apportez une tenue claire et une plus sombre : la première ressort sur la brique, la seconde sur la pierre. Un rendez-vous en matinée vous évite la foule des visiteurs et vous laisse le temps de prendre vos marques.",
   "faq": [
-   {"q": "Où faire un shooting portrait solo à Écouen ?", "a": "Les abords du château, ses fossés et le parvis de l'église Saint-Acceul offrent trois ambiances différentes dans un périmètre réduit. Nous construisons le parcours selon vos envies, plutôt patrimoine, plutôt nature, ou un mélange des deux."},
-   {"q": "Je ne suis pas à l'aise devant l'objectif, une séance solo est-elle possible ?", "a": "Oui, c'est même fréquent. Nous démarrons en marchant et en discutant, sans pose imposée, et nous vous montrons quelques images en cours de route. La confiance vient vite quand on comprend ce qui fonctionne."}
+   {
+    "q": "Où faire un shooting portrait solo à Écouen ?",
+    "a": "Pour un shooting portrait solo à Écouen, les abords du Château d'Écouen, les Douves et le parvis de l'Église Saint-Acceul offrent trois ambiances dans un périmètre réduit. Le parcours suit vos envies : patrimoine, nature, ou un mélange des deux."
+   },
+   {
+    "q": "Je ne suis pas à l'aise devant l'objectif, une séance solo à Écouen est-elle possible ?",
+    "a": "Oui, une séance solo à Écouen convient aux personnes peu à l'aise devant l'objectif. Nous démarrons en marchant et en discutant, sans pose imposée, et nous montrons quelques images en cours de route. La confiance vient vite."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Soufflez les bougies, puis sortez prendre l'air ! Pour un anniversaire à Écouen, nous aimons emmener les invités au Parc de la Ville le temps d'une photo de groupe joyeuse, verres levés ou bras en l'air. Les enfants y jouent pendant que les adultes discutent, et nous saisissons ces instants sans les interrompre. Une dernière série devant le Château d'Écouen, la personne fêtée au centre, ajoute un souvenir solennel au milieu de la fête, avec un montage vidéo rythmé.",
+  "scene": "Un anniversaire à Écouen se photographie bien au Parc de la Ville pour le groupe, puis devant le Château d'Écouen pour la personne fêtée. Soufflez les bougies, puis sortez prendre l'air ! Sur les pelouses, la photo de groupe se fait verres levés ou bras en l'air. Les enfants jouent pendant que les adultes discutent, et nous saisissons ces instants sans les interrompre. La série devant le château, la personne fêtée au centre, ajoute un souvenir solennel, et un montage vidéo rythmé garde l'ambiance.",
   "conseil": "Calez la photo de groupe en extérieur avant le repas, tant que la lumière est belle et que les tenues sont impeccables. En cas de pluie, nous prévoyons une alternative à l'intérieur de votre salle.",
   "faq": [
-   {"q": "Un photographe peut-il couvrir un anniversaire à domicile à Écouen ?", "a": "Oui, nous nous déplaçons chez vous ou dans la salle que vous avez choisie. Nous photographions l'arrivée des invités, le gâteau, les discours et la piste de danse, et nous filmons les moments forts pour un petit montage."},
-   {"q": "Comment réussir la photo de groupe d'un anniversaire de 50 ans ?", "a": "Faites-la tôt, avant le dîner, en extérieur si possible. Demandez à un proche de rassembler tout le monde et prévoyez un escabeau : une prise légèrement en hauteur permet de voir chaque visage, même dans un grand groupe."}
+   {
+    "q": "Un photographe peut-il couvrir un anniversaire à domicile à Écouen ?",
+    "a": "Oui, pour un anniversaire à domicile à Écouen, nous venons chez vous ou dans la salle choisie. Nous photographions l'arrivée des invités, le gâteau, les discours et la piste de danse, et filmons les moments forts pour un petit montage."
+   },
+   {
+    "q": "Comment réussir la photo de groupe d'un anniversaire de 50 ans à Écouen ?",
+    "a": "Pour la photo de groupe d'un anniversaire de 50 ans à Écouen, faites-la tôt, avant le dîner, au Parc de la Ville si possible. Un proche rassemble tout le monde, et une prise légèrement en hauteur montre chaque visage, même dans un grand groupe."
+   }
   ]
  },
  "diplome": {
-  "scene": "Toge sur les épaules, diplôme en main : la fierté mérite un décor à sa hauteur. Le Château d'Écouen, avec ses façades de la Renaissance, rappelle des siècles de savoir et donne du poids à ce portrait de fin d'études. Nous y lançons la toque, plusieurs fois s'il le faut, puis vous posons avec vos parents devant l'Église Saint-Acceul. Le long des Douves, une séquence filmée de vous marchant vers l'objectif clôt l'histoire, comme un générique.",
+  "scene": "Pour une séance photo de remise de diplôme à Écouen, le Château d'Écouen offre un fond solennel et l'Église Saint-Acceul un décor familial. Toge sur les épaules, diplôme en main : la fierté mérite ce décor de la Renaissance. Nous y lançons la toque, plusieurs fois s'il le faut. Vous posez ensuite avec vos parents devant l'église. Le long des Douves, une séquence filmée de vous marchant vers l'objectif clôt l'histoire, comme un générique.",
   "conseil": "Si la remise a lieu ailleurs, réservez la séance à Écouen le lendemain, dans le calme, avec la toge louée. Par temps clair, préférez la fin d'après-midi pour éviter un soleil trop dur sur les visages.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme près d'Écouen ?", "a": "Les abords du château Renaissance offrent un fond solennel, et le parc de la Ville un décor plus détendu pour poser entre amis. Nous pouvons aussi couvrir la cérémonie elle-même avant de rejoindre ces lieux."},
-   {"q": "Peut-on faire un shooting diplôme entre amis de promotion ?", "a": "Oui, une séance de groupe fonctionne très bien : lancers de toques, portraits individuels et photos par petits groupes. Prévoyez un horaire commun et un point de rendez-vous, par exemple en sortant du Transilien Écouen-Ézanville."}
+   {
+    "q": "Où faire des photos de remise de diplôme près d'Écouen ?",
+    "a": "Pour des photos de remise de diplôme à Écouen, les abords du Château d'Écouen offrent un fond solennel, et le Parc de la Ville un décor détendu pour poser entre amis. Nous pouvons aussi couvrir la cérémonie avant de rejoindre ces lieux."
+   },
+   {
+    "q": "Peut-on faire un shooting diplôme entre amis de promotion à Écouen ?",
+    "a": "Oui, un shooting diplôme entre amis de promotion fonctionne bien à Écouen : lancers de toques, portraits individuels et petits groupes. Prévoyez un horaire commun et un point de rendez-vous, par exemple à la sortie du Transilien Écouen-Ézanville."
+   }
   ]
  },
  "naissance": {
-  "scene": "Le premier jour se raconte surtout au retour : un berceau près de la fenêtre, des parents épuisés et émerveillés. Avec l'accord de la maternité, nous pouvons aussi saisir les premières heures, une main minuscule autour d'un doigt. Quelques jours plus tard, une sortie douce vers le Parc de la Ville, poussette ou écharpe, ou un passage devant le Château d'Écouen pour présenter le bébé à sa ville, prolonge le récit. La vidéo reste silencieuse, faite de plans lents.",
+  "scene": "Un reportage de naissance à Écouen se fait d'abord chez vous ou, avec l'accord de la maternité, dans les premières heures. Un berceau près de la fenêtre, des parents épuisés et émerveillés, une main minuscule autour d'un doigt. Quelques jours plus tard, une sortie douce vers le Parc de la Ville, poussette ou écharpe, prolonge le récit. Un passage devant le Château d'Écouen présente le bébé à sa ville. La vidéo reste silencieuse, faite de plans lents.",
   "conseil": "Demandez dès la grossesse à votre maternité si un photographe extérieur est accepté et à quelles conditions. Pour la sortie en extérieur, attendez que la maman soit reposée et choisissez une journée douce, sans vent.",
   "faq": [
-   {"q": "Peut-on faire un reportage photo de naissance à la maternité ?", "a": "Cela dépend entièrement de l'établissement : certaines maternités l'acceptent après la naissance, d'autres non. Renseignez-vous avant le terme. Si ce n'est pas possible, nous réalisons le reportage à votre retour à Écouen, chez vous."},
-   {"q": "Combien de temps après la naissance prévoir le photographe à domicile ?", "a": "Nous nous adaptons à votre rythme : quelques jours après le retour est souvent un bon moment. Nous restons discrets, sans flash, et la séance s'interrompt aussi souvent que nécessaire pour les tétées et le repos."}
+   {
+    "q": "Peut-on faire un reportage photo de naissance à la maternité près d'Écouen ?",
+    "a": "Un reportage photo de naissance à la maternité dépend entièrement de l'établissement : certaines l'acceptent, d'autres non. Renseignez-vous avant le terme. Si ce n'est pas possible, nous réalisons le reportage de naissance chez vous, à votre retour à Écouen."
+   },
+   {
+    "q": "Combien de temps après la naissance prévoir le photographe à domicile à Écouen ?",
+    "a": "Pour un reportage de naissance à domicile à Écouen, quelques jours après le retour est souvent un bon moment. Nous restons discrets, sans flash, et la séance s'interrompt aussi souvent que nécessaire pour les tétées et le repos."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce chauffée, le bébé dort contre la peau de sa maman : c'est là que se fait l'essentiel de la séance nouveau-né. Plis des doigts, cils, pied tenu dans la paume, nous travaillons à la lumière de la fenêtre, sans flash. Si le temps le permet, une courte sortie au Parc de la Ville offre une image des parents portant leur enfant sous les arbres, puis un passage devant le Château d'Écouen rappelle sa ville de naissance.",
+  "scene": "Une séance nouveau-né à Écouen se fait chez vous, dans une pièce chauffée, avec une courte sortie possible au Parc de la Ville. Le bébé dort contre la peau de sa maman. Plis des doigts, cils, pied tenu dans la paume : nous travaillons à la lumière de la fenêtre, sans flash. Si le temps le permet, les parents portent leur enfant sous les arbres du parc, puis un passage devant le Château d'Écouen rappelle sa ville de naissance.",
   "conseil": "La séance à domicile reste la plus sereine : pas de trajet, une température maîtrisée, des pauses à volonté. Gardez la sortie en extérieur facultative et décidez-la le jour même selon la météo et la fatigue.",
   "faq": [
-   {"q": "Quand faire une séance photo nouveau-né à Écouen ?", "a": "Les premiers jours, souvent dans les deux premières semaines, le bébé dort profondément et se laisse photographier en douceur. Prenez contact pendant la grossesse : nous fixons une date provisoire, ajustée après la naissance."},
-   {"q": "La séance nouveau-né se fait-elle à domicile ?", "a": "Oui, nous venons chez vous avec un matériel léger. Le bébé reste dans son environnement, au chaud, et chaque manipulation se fait avec douceur et sous vos yeux. Les parents peuvent intervenir à tout moment."}
+   {
+    "q": "Quand faire une séance photo nouveau-né à Écouen ?",
+    "a": "Une séance photo nouveau-né à Écouen se fait idéalement dans les deux premières semaines, quand le bébé dort profondément. Prenez contact pendant la grossesse : nous fixons une date provisoire, ajustée après la naissance."
+   },
+   {
+    "q": "La séance nouveau-né à Écouen se fait-elle à domicile ?",
+    "a": "Oui, la séance nouveau-né à Écouen se fait à domicile : nous venons chez vous avec un matériel léger. Le bébé reste au chaud dans son environnement, et chaque manipulation se fait avec douceur et sous vos yeux."
+   }
   ]
  }
 }

@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Votre mariage à Cergy peut commencer par une marche lente sur l'Axe Majeur : la perspective monumentale encadre la mariée et le marié comme une nef à ciel ouvert, et le film y gagne un long plan qui s'éloigne vers l'horizon. Plus bas, les berges de la Boucle de l'Oise accueillent des portraits plus intimes, robe effleurant les prairies. Au Parc François-Mitterrand, la grande pelouse se prête aux photos de groupe, avec les étangs en arrière-plan pour les témoins et les familles.",
+  "scene": "Pour un mariage à Cergy, nous proposons l'Axe Majeur, la Boucle de l'Oise et le Parc François-Mitterrand comme décors de portraits. Une marche lente sur l'Axe Majeur ouvre la séance : la perspective monumentale encadre les mariés comme une nef à ciel ouvert. Le film y gagne un long plan qui s'éloigne vers l'horizon. Plus bas, les berges de la Boucle de l'Oise accueillent des portraits intimes, robe effleurant les prairies. La grande pelouse du parc se prête aux photos de groupe, étangs en arrière-plan.",
   "conseil": "Calez les portraits de couple sur la fin de journée : le coucher de soleil sur l'Axe Majeur donne une lumière rasante qui sculpte les visages. Depuis la gare RER A Cergy-Préfecture, vos invités rejoignent facilement le site, ce qui simplifie un rendez-vous photo entre cérémonie et réception.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Cergy ?", "a": "Nous vous proposons l'Axe Majeur pour sa perspective et son belvédère, puis la Boucle de l'Oise pour un registre plus champêtre. Le Parc François-Mitterrand reste pratique pour les photos de groupe grâce à sa grande pelouse dégagée."},
-   {"q": "Un vidéaste mariage à Cergy peut-il filmer toute la journée ?", "a": "Oui, nous pouvons suivre la journée des préparatifs jusqu'à la soirée, en photo comme en film. Nous vérifions avec vous les règles de chaque lieu de cérémonie et de réception avant le jour J, afin d'anticiper les éventuelles restrictions."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Cergy ?",
+    "a": "Pour les photos de couple d'un mariage à Cergy, nous proposons l'Axe Majeur pour sa perspective et son belvédère, puis la Boucle de l'Oise pour un registre champêtre. Le Parc François-Mitterrand reste pratique pour les photos de groupe grâce à sa grande pelouse."
+   },
+   {
+    "q": "Un vidéaste mariage à Cergy peut-il filmer toute la journée ?",
+    "a": "Oui, un vidéaste peut filmer un mariage à Cergy toute la journée, des préparatifs jusqu'à la soirée, en photo comme en film. Nous vérifions avec vous les règles de chaque lieu de cérémonie et de réception avant le jour J."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Un ventre rond face à l'horizon : voilà l'image que nous imaginons au pied de la Tour Belvédère, la future maman de profil, les mains posées sous le nombril. Sur les berges de la Boucle de l'Oise, la séance devient promenade, robe légère qui bouge dans l'herbe des prairies, et quelques secondes de vidéo gardent le geste du papa qui pose l'oreille contre le ventre. Le Parc François-Mitterrand offre ensuite un banc près des étangs pour souffler entre deux poses.",
+  "scene": "Un shooting grossesse à Cergy se déroule au pied de la Tour Belvédère, sur les berges de la Boucle de l'Oise et au Parc François-Mitterrand. Au pied de la tour, la future maman pose de profil face à l'horizon, les mains sous le nombril. Sur les berges, la séance devient promenade, robe légère qui bouge dans l'herbe des prairies. Quelques secondes de vidéo gardent le geste du papa qui pose l'oreille contre le ventre. Un banc près des étangs du parc permet de souffler entre deux poses.",
   "conseil": "Les grandes esplanades de Cergy sont très ouvertes au vent et au soleil. Prévoyez un gilet léger et une bouteille d'eau, et préférez la fin d'après-midi : la marche reste courte entre les spots et la lumière devient plus douce pour la peau.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Cergy en extérieur ?", "a": "Nous aimons la Boucle de l'Oise pour ses prairies et ses berges calmes, et le Parc François-Mitterrand pour ses étangs. Ces deux endroits permettent de marcher peu et de s'asseoir facilement entre les poses."},
-   {"q": "À quel mois de grossesse prévoir la séance à Cergy ?", "a": "La plupart des futures mamans choisissent la fin du deuxième trimestre ou le début du troisième, quand le ventre est bien visible et que la marche reste confortable. Nous adaptons le parcours à votre forme du jour."}
+   {
+    "q": "Où faire un shooting grossesse à Cergy en extérieur ?",
+    "a": "Pour un shooting grossesse en extérieur à Cergy, nous aimons la Boucle de l'Oise pour ses prairies et ses berges calmes, et le Parc François-Mitterrand pour ses étangs. Ces deux lieux permettent de marcher peu et de s'asseoir facilement entre les poses."
+   },
+   {
+    "q": "À quel mois de grossesse prévoir la séance à Cergy ?",
+    "a": "Une séance grossesse à Cergy se prévoit souvent à la fin du deuxième trimestre ou au début du troisième, quand le ventre est bien visible et que la marche reste confortable. Nous adaptons le parcours à votre forme du jour."
+   }
   ]
  },
  "couple": {
-  "scene": "Deux silhouettes minuscules au bout d'une ligne immense. L'Axe Majeur permet ce jeu d'échelle que nous adorons en séance couple : vous marchez main dans la main vers le belvédère pendant que nous reculons, et la séquence filmée se termine sur votre baiser à contre-jour. Ensuite, direction la Boucle de l'Oise, où une couverture étalée sur l'herbe invite aux confidences, puis le Parc François-Mitterrand pour un dernier tour au bord des étangs.",
+  "scene": "Une séance couple à Cergy joue sur l'échelle de l'Axe Majeur, puis se poursuit à la Boucle de l'Oise et au Parc François-Mitterrand. Deux silhouettes minuscules au bout d'une ligne immense : vous marchez main dans la main vers le belvédère pendant que nous reculons. La séquence filmée se termine sur votre baiser à contre-jour. Sur les berges de l'Oise, une couverture étalée sur l'herbe invite aux confidences. Un dernier tour au bord des étangs du parc clôt la séance.",
   "conseil": "Réservez le créneau du coucher de soleil : sur l'Axe Majeur, la perspective se colore et vos ombres s'allongent. Venez en RER A jusqu'à Cergy-Préfecture si vous voulez profiter de la séance sans souci de stationnement.",
   "faq": [
-   {"q": "Quel est le bon endroit pour une séance photo couple à Cergy ?", "a": "L'Axe Majeur est le décor le plus graphique de la ville, idéal pour des fiançailles ou une demande en mariage. Pour une ambiance plus nature, nous enchaînons volontiers avec les berges de la Boucle de l'Oise."},
-   {"q": "Peut-on organiser une demande en mariage filmée à Cergy ?", "a": "Oui, nous pouvons nous placer discrètement le long de l'Axe Majeur ou près de la Tour Belvédère et filmer la scène à distance. Nous préparons avec vous le point de rendez-vous et un signal pour lancer le moment."}
+   {
+    "q": "Quel est le bon endroit pour une séance photo couple à Cergy ?",
+    "a": "Pour une séance photo couple à Cergy, l'Axe Majeur est le décor le plus graphique, adapté à des fiançailles ou à une demande en mariage. Pour une ambiance plus nature, les berges de la Boucle de l'Oise prennent le relais dans la même séance."
+   },
+   {
+    "q": "Peut-on organiser une demande en mariage filmée à Cergy ?",
+    "a": "Oui, une demande en mariage peut être filmée à Cergy. Nous nous plaçons discrètement le long de l'Axe Majeur ou près de la Tour Belvédère pour filmer la scène à distance, avec un point de rendez-vous et un signal préparés ensemble."
+   }
   ]
  },
  "famille": {
-  "scene": "Courses sur la grande pelouse, cerceaux, ballon qui roule jusqu'aux étangs : au Parc François-Mitterrand, les enfants mènent la danse et nous suivons. Les grands-parents s'installent sur un banc pour une photo à trois générations, puis tout le monde rejoint la Boucle de l'Oise où les prairies laissent aux petits la liberté de cueillir, sauter, se cacher. Un court film monté à partir de ces moments spontanés rappelle les rires bien mieux qu'une pose figée.",
+  "scene": "En famille à Cergy, la séance photo se passe au Parc François-Mitterrand puis dans les prairies de la Boucle de l'Oise. Courses sur la grande pelouse, cerceaux, ballon qui roule jusqu'aux étangs : les enfants mènent la danse et nous suivons. Les grands-parents s'installent sur un banc pour une photo à trois générations. Dans les prairies au bord de l'eau, les petits sont libres de cueillir, sauter, se cacher. Un court film de ces moments spontanés garde les rires mieux qu'une pose figée.",
   "conseil": "Le week-end, le Parc François-Mitterrand attire beaucoup de promeneurs en milieu de journée. Un rendez-vous en matinée ou en fin d'après-midi offre une pelouse plus libre, une lumière moins dure et des enfants encore pleins d'énergie.",
   "faq": [
-   {"q": "Où faire une séance photo famille avec de jeunes enfants à Cergy ?", "a": "Le Parc François-Mitterrand est très adapté : grande pelouse pour courir, étangs à observer, terrain plat pour une poussette. Les prairies de la Boucle de l'Oise complètent la séance si les enfants ont encore envie de bouger."},
-   {"q": "Combien de personnes peut-on réunir pour une photo de famille à Cergy ?", "a": "Une petite tribu comme une grande cousinade trouvent leur place sur les espaces ouverts de Cergy. Nous organisons les groupes par branches familiales, puis une photo d'ensemble, en prévoyant du temps pour chaque combinaison demandée."}
+   {
+    "q": "Où faire une séance photo famille avec de jeunes enfants à Cergy ?",
+    "a": "Pour une séance photo famille avec de jeunes enfants à Cergy, le Parc François-Mitterrand est adapté : grande pelouse pour courir, étangs à observer, terrain plat pour une poussette. Les prairies de la Boucle de l'Oise complètent la séance si les enfants ont envie de bouger."
+   },
+   {
+    "q": "Combien de personnes peut-on réunir pour une photo de famille à Cergy ?",
+    "a": "Une photo de famille à Cergy peut réunir une petite tribu comme une grande cousinade, grâce aux espaces ouverts de la ville. Nous organisons les groupes par branches familiales, puis une photo d'ensemble, avec du temps pour chaque combinaison demandée."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Trois, deux, un... et la couleur jaillit ! Sur la grande pelouse du Parc François-Mitterrand, nous plaçons les futurs parents au centre, les proches en arc de cercle, pour saisir à la fois le nuage coloré et les cris de joie. Le ralenti filmé capte chaque réaction. Envie d'un décor plus spectaculaire ? Les marches de l'Axe Majeur offrent une perspective géométrique où le rose ou le bleu tranche sur le béton clair, tandis que la Boucle de l'Oise accueille un pique-nique festif après la révélation.",
+  "scene": "Un gender reveal à Cergy trouve sa place sur la grande pelouse du Parc François-Mitterrand, sur les marches de l'Axe Majeur ou près de la Boucle de l'Oise. Trois, deux, un... et la couleur jaillit ! Les futurs parents se placent au centre, les proches en arc de cercle, pour saisir le nuage coloré et les cris de joie. Le ralenti filmé capte chaque réaction. Sur l'Axe Majeur, le rose ou le bleu tranche sur le béton clair. Au bord de l'Oise, un pique-nique festif suit la révélation.",
   "conseil": "Avant de choisir canon à confettis, fumigène ou lâcher de ballons, vérifiez les règles du lieu auprès de la commune ou du gestionnaire du parc. Le vent souffle souvent sur ces espaces dégagés : placez-vous dos au vent pour que la couleur reste dans le cadre.",
   "faq": [
-   {"q": "Peut-on utiliser des fumigènes pour un gender reveal à Cergy ?", "a": "Cela dépend du lieu choisi et de ses règles. Renseignez-vous avant la fête sur l'usage des fumigènes, confettis et ballons au Parc François-Mitterrand ou sur l'Axe Majeur. Nous pouvons aussi vous suggérer des alternatives comme un gâteau ou une boîte surprise."},
-   {"q": "Où organiser un gender reveal en plein air à Cergy ?", "a": "La grande pelouse du Parc François-Mitterrand offre un fond dégagé et de la place pour les invités. Pour un cadre plus naturel, les prairies de la Boucle de l'Oise conviennent bien, sous réserve de laisser l'endroit propre après la fête."}
+   {
+    "q": "Peut-on utiliser des fumigènes pour un gender reveal à Cergy ?",
+    "a": "L'usage de fumigènes pour un gender reveal à Cergy dépend des règles du lieu choisi. Renseignez-vous avant la fête pour les fumigènes, confettis et ballons au Parc François-Mitterrand ou sur l'Axe Majeur. Un gâteau ou une boîte surprise sont des alternatives possibles."
+   },
+   {
+    "q": "Où organiser un gender reveal en plein air à Cergy ?",
+    "a": "Pour un gender reveal en plein air à Cergy, la grande pelouse du Parc François-Mitterrand offre un fond dégagé et de la place pour les invités. Les prairies de la Boucle de l'Oise donnent un cadre plus naturel, à laisser propre après la fête."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un fond architectural net, sans distraction : l'Axe Majeur sert de toile pour des portraits corporate modernes, adaptés à LinkedIn ou à une page équipe. Nous jouons sur ses lignes pour donner une impression de direction et d'ambition, puis nous resserrons le cadrage au pied de la Tour Belvédère pour un portrait plus vertical. Une courte vidéo de présentation peut être tournée au Parc François-Mitterrand, la voix posée face caméra, avec les étangs en profondeur de champ.",
+  "scene": "Un portrait professionnel à Cergy peut se faire sur l'Axe Majeur, au pied de la Tour Belvédère ou au Parc François-Mitterrand. Le fond architectural net de l'Axe Majeur sert de toile pour des portraits corporate modernes, adaptés à LinkedIn ou à une page équipe. Ses lignes donnent une impression de direction. Au pied de la tour, le cadrage se resserre pour un portrait plus vertical. Une courte vidéo de présentation peut se tourner au parc, voix posée face caméra, étangs en profondeur de champ.",
   "conseil": "Pour une équipe venant de plusieurs sites, la gare RER A Cergy-Préfecture facilite un point de rendez-vous commun. Évitez le plein soleil de midi qui creuse les visages : un ciel voilé ou une fin de journée donnent un rendu plus homogène d'un portrait à l'autre.",
   "faq": [
-   {"q": "Où faire un portrait professionnel en extérieur à Cergy ?", "a": "Nous vous proposons l'Axe Majeur et la Tour Belvédère pour un rendu urbain et contemporain, ou le Parc François-Mitterrand pour un arrière-plan végétal plus doux. Nous pouvons aussi venir dans vos locaux si vous disposez d'une pièce lumineuse."},
-   {"q": "Peut-on photographier toute une équipe d'entreprise à Cergy en une matinée ?", "a": "Oui, en organisant un passage individuel court pour chaque collaborateur puis une photo collective. Transmettez-nous la liste des participants et les formats attendus pour que le planning tienne dans le temps prévu."}
+   {
+    "q": "Où faire un portrait professionnel en extérieur à Cergy ?",
+    "a": "Pour un portrait professionnel en extérieur à Cergy, nous proposons l'Axe Majeur et la Tour Belvédère pour un rendu urbain et contemporain, ou le Parc François-Mitterrand pour un arrière-plan végétal. Nous pouvons aussi venir dans vos locaux s'ils disposent d'une pièce lumineuse."
+   },
+   {
+    "q": "Peut-on photographier toute une équipe d'entreprise à Cergy en une matinée ?",
+    "a": "Oui, toute une équipe d'entreprise peut être photographiée à Cergy en une matinée, avec un passage individuel court pour chaque collaborateur puis une photo collective. Transmettez-nous la liste des participants et les formats attendus pour tenir le planning."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Séminaire en salle le matin, respiration dehors l'après-midi : Cergy permet ce double décor. Nous couvrons les prises de parole et les ateliers, puis nous accompagnons vos équipes sur l'Axe Majeur pour une photo collective le long de la perspective, utile pour votre communication interne. Une marche d'équipe vers la Boucle de l'Oise ou un moment informel au Parc François-Mitterrand fournit des images naturelles, et un récapitulatif vidéo de quelques minutes résume la journée pour vos réseaux.",
+  "scene": "Pour un événement professionnel à Cergy, nous couvrons les prises de parole en salle puis une photo collective sur l'Axe Majeur. Séminaire le matin, respiration dehors l'après-midi : la ville permet ce double décor. Nous suivons aussi les ateliers et les pauses. La photo d'équipe le long de la perspective sert votre communication interne. Une marche vers la Boucle de l'Oise ou un moment informel au Parc François-Mitterrand fournit des images naturelles. Un récapitulatif vidéo de quelques minutes résume la journée pour vos réseaux.",
   "conseil": "Prévoyez la photo de groupe en extérieur juste après la pause déjeuner, quand tous les participants sont réunis. Indiquez-nous un plan B couvert en cas de pluie : les esplanades de Cergy sont très exposées et la météo change vite.",
   "faq": [
-   {"q": "Faites-vous la couverture photo d'un séminaire à Cergy ?", "a": "Oui, nous couvrons conférences, séminaires et soirées d'entreprise à Cergy et dans le Val-d'Oise. Nous suivons votre programme minuté et livrons des images adaptées à vos usages internes, presse ou réseaux sociaux."},
-   {"q": "Peut-on intégrer une activité en extérieur filmée lors d'un événement d'entreprise à Cergy ?", "a": "Nous pouvons filmer une marche, un team building ou une photo collective sur l'Axe Majeur ou au Parc François-Mitterrand. Vérifiez au préalable les autorisations éventuelles pour un grand groupe dans l'espace public."}
+   {
+    "q": "Faites-vous la couverture photo d'un séminaire à Cergy ?",
+    "a": "Oui, la couverture photo d'un séminaire à Cergy fait partie de nos prestations, comme les conférences et soirées d'entreprise du Val-d'Oise. Nous suivons votre programme minuté et livrons des images adaptées à vos usages internes, presse ou réseaux sociaux."
+   },
+   {
+    "q": "Peut-on intégrer une activité en extérieur filmée lors d'un événement d'entreprise à Cergy ?",
+    "a": "Une activité en extérieur peut être filmée lors d'un événement d'entreprise à Cergy : marche, team building ou photo collective sur l'Axe Majeur ou au Parc François-Mitterrand. Vérifiez au préalable les autorisations éventuelles pour un grand groupe dans l'espace public."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul face à une ligne qui file jusqu'à l'horizon, vous reprenez de la place. Sur l'Axe Majeur, nous cherchons des portraits épurés, minimalistes, où votre tenue se détache sur le béton clair. La Tour Belvédère offre ensuite une verticale forte pour des plans en contre-plongée. Puis la séance ralentit le long de la Boucle de l'Oise : marche tranquille, regard vers l'eau, quelques images en mouvement pour un reel personnel ou un simple souvenir.",
+  "scene": "Votre shooting solo à Cergy s'appuie sur l'Axe Majeur, la Tour Belvédère et les berges de la Boucle de l'Oise. Seul face à une ligne qui file jusqu'à l'horizon, vous reprenez de la place. Sur l'Axe Majeur, nous cherchons des portraits épurés où votre tenue se détache sur le béton clair. La tour offre une verticale forte pour des plans en contre-plongée. Puis la séance ralentit au bord de l'eau : marche tranquille, regard vers l'Oise, quelques images en mouvement pour un reel ou un souvenir.",
   "conseil": "Choisissez des couleurs unies qui contrastent avec les surfaces claires de l'Axe Majeur. Si vous appréhendez le regard des passants, un créneau en semaine ou tôt le matin vous laisse plus de tranquillité pour vous détendre devant l'objectif.",
   "faq": [
-   {"q": "Où faire un shooting photo solo original à Cergy ?", "a": "L'Axe Majeur et la Tour Belvédère offrent un décor graphique peu commun en Île-de-France, parfait pour un portrait artistique ou un book. Les berges de la Boucle de l'Oise apportent une variante plus nature dans la même séance."},
-   {"q": "Je ne suis pas à l'aise devant l'objectif, la séance solo à Cergy est-elle adaptée ?", "a": "Oui. Nous commençons par marcher et discuter, sans poser, pour que vous oubliiez l'appareil. Les grands espaces de Cergy laissent de la distance avec les passants, ce qui aide souvent à se sentir libre."}
+   {
+    "q": "Où faire un shooting photo solo original à Cergy ?",
+    "a": "Pour un shooting photo solo original à Cergy, l'Axe Majeur et la Tour Belvédère offrent un décor graphique peu commun en Île-de-France, adapté à un portrait artistique ou un book. Les berges de la Boucle de l'Oise apportent une variante plus nature dans la même séance."
+   },
+   {
+    "q": "Je ne suis pas à l'aise devant l'objectif, la séance solo à Cergy est-elle adaptée ?",
+    "a": "Oui, une séance solo à Cergy convient aux personnes peu à l'aise devant l'objectif. Nous commençons par marcher et discuter, sans poser, pour que vous oubliiez l'appareil. Les grands espaces de Cergy laissent de la distance avec les passants."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Ballons noués au poignet, couronne en carton, éclats de rire : la fête peut commencer en plein air au Parc François-Mitterrand, où un pique-nique d'anniversaire sur la grande pelouse se transforme en reportage joyeux. Nous lançons une photo de groupe surprise devant les étangs, puis une petite escapade sur l'Axe Majeur pour un portrait de la personne fêtée au coucher du soleil. Le soir, un clip festif rassemble souffle des bougies, toasts et danses.",
+  "scene": "Pour un anniversaire à Cergy, nous proposons un reportage au Parc François-Mitterrand et des portraits sur l'Axe Majeur au coucher du soleil. Ballons noués au poignet, couronne en carton, éclats de rire : le pique-nique sur la grande pelouse devient un reportage joyeux. Une photo de groupe surprise se prend devant les étangs. La personne fêtée pose ensuite sur la perspective, dans la lumière dorée. Le soir, un clip festif rassemble souffle des bougies, toasts et danses.",
   "conseil": "Si la fête se déroule en partie dehors, gardez une heure en fin d'après-midi pour l'Axe Majeur et sa lumière dorée. Prévenez les invités du point de rendez-vous et de l'accès depuis la gare RER A Cergy-Préfecture.",
   "faq": [
-   {"q": "Peut-on faire un shooting anniversaire en extérieur à Cergy ?", "a": "Oui, le Parc François-Mitterrand se prête bien à un pique-nique ou à un goûter d'anniversaire, et l'Axe Majeur à quelques portraits au coucher du soleil. Nous adaptons le reportage à l'âge et au rythme des invités."},
-   {"q": "Couvrez-vous les fêtes des 30, 40 ou 60 ans à Cergy et alentour ?", "a": "Oui, nous couvrons tous les anniversaires, de la première bougie aux grandes décennies, à Cergy comme dans le reste du Val-d'Oise. Nous pouvons combiner reportage photo et film souvenir de la soirée."}
+   {
+    "q": "Peut-on faire un shooting anniversaire en extérieur à Cergy ?",
+    "a": "Oui, un shooting anniversaire en extérieur à Cergy est possible : le Parc François-Mitterrand se prête à un pique-nique ou à un goûter, et l'Axe Majeur à des portraits au coucher du soleil. Nous adaptons le reportage à l'âge des invités."
+   },
+   {
+    "q": "Couvrez-vous les fêtes des 30, 40 ou 60 ans à Cergy et alentour ?",
+    "a": "Oui, les fêtes des 30, 40 ou 60 ans se couvrent à Cergy comme dans le reste du Val-d'Oise, de la première bougie aux grandes décennies. Nous pouvons combiner reportage photo et film souvenir de la soirée d'anniversaire."
+   }
   ]
  },
  "diplome": {
-  "scene": "La toque en l'air au bout d'une perspective monumentale : l'Axe Majeur donne au jour du diplôme une ampleur à la hauteur des années d'efforts. Nous immortalisons le lancer en rafale, puis un portrait fier au pied de la Tour Belvédère, diplôme tenu devant soi. Les camarades de promo se retrouvent ensuite au Parc François-Mitterrand pour des photos de groupe détendues et une courte vidéo d'au revoir entre amis.",
+  "scene": "Des photos de remise de diplôme à Cergy prennent de l'ampleur sur l'Axe Majeur, au pied de la Tour Belvédère et au Parc François-Mitterrand. La toque s'envole au bout d'une perspective monumentale, à la hauteur des années d'efforts. Nous saisissons le lancer en rafale. Un portrait fier se fait ensuite au pied de la tour, diplôme tenu devant soi. Les camarades de promo se retrouvent au parc pour des photos de groupe détendues et une courte vidéo d'au revoir.",
   "conseil": "Après la cérémonie, beaucoup de diplômés cherchent le même décor. Fixez votre séance sur l'Axe Majeur juste avant ou longtemps après la sortie de salle, et gardez la toge pliée dans un sac pour éviter les plis pendant le trajet.",
   "faq": [
-   {"q": "Où faire ses photos de remise de diplôme à Cergy ?", "a": "Nous vous proposons l'Axe Majeur pour un cliché de lancer de toque spectaculaire, la Tour Belvédère pour un portrait solennel et le Parc François-Mitterrand pour les photos entre amis de promotion."},
-   {"q": "Peut-on réserver une séance diplôme à Cergy pour toute une promo ?", "a": "Oui, nous pouvons organiser un shooting de groupe pour une classe ou une association étudiante, avec des portraits individuels rapides puis une photo d'ensemble. Indiquez-nous le nombre de diplômés pour prévoir la durée."}
+   {
+    "q": "Où faire ses photos de remise de diplôme à Cergy ?",
+    "a": "Pour des photos de remise de diplôme à Cergy, nous proposons l'Axe Majeur pour le lancer de toque, la Tour Belvédère pour un portrait solennel et le Parc François-Mitterrand pour les photos entre amis de promotion."
+   },
+   {
+    "q": "Peut-on réserver une séance diplôme à Cergy pour toute une promo ?",
+    "a": "Oui, une séance diplôme à Cergy peut réunir toute une promo, une classe ou une association étudiante, avec des portraits individuels rapides puis une photo d'ensemble. Indiquez-nous le nombre de diplômés pour prévoir la durée."
+   }
   ]
  },
  "naissance": {
-  "scene": "Quelques heures après l'arrivée du bébé, tout se joue dans les détails : la petite main qui serre un doigt, le premier regard du papa, le silence de la chambre. Ce reportage se fait d'abord à la maternité, uniquement si l'établissement donne son accord. Plus tard, quand toute la famille est prête, une première sortie au Parc François-Mitterrand ou au bord de la Boucle de l'Oise offre de douces images en mouvement, bébé lové en écharpe.",
+  "scene": "Un reportage de naissance à Cergy commence à la maternité, uniquement si l'établissement donne son accord, puis se prolonge lors d'une première sortie en famille. Quelques heures après l'arrivée du bébé, tout se joue dans les détails : la petite main qui serre un doigt, le premier regard du papa, le silence de la chambre. Plus tard, une sortie au Parc François-Mitterrand ou au bord de la Boucle de l'Oise offre de douces images en mouvement, bébé lové en écharpe.",
   "conseil": "Renseignez-vous dès le début du dernier trimestre auprès de votre maternité sur l'autorisation des prises de vue. Pour une première balade dehors, choisissez un jour sans vent sur les berges de la Boucle de l'Oise et une sortie courte, au rythme de la maman.",
   "faq": [
-   {"q": "Peut-on faire un reportage photo de naissance dans une maternité près de Cergy ?", "a": "Cela dépend entièrement de l'accord de l'établissement. Nous vous conseillons de poser la question à l'équipe de la maternité avant l'accouchement ; si la séance n'est pas possible sur place, nous vous proposons de venir à domicile après le retour."},
-   {"q": "Quand organiser une première sortie photographiée avec bébé à Cergy ?", "a": "Attendez que la maman soit reposée et que le pédiatre ne voie pas de contre-indication. Une courte promenade au Parc François-Mitterrand par temps doux suffit : nous travaillons vite et sans flash pour préserver le calme du nourrisson."}
+   {
+    "q": "Peut-on faire un reportage photo de naissance dans une maternité près de Cergy ?",
+    "a": "Un reportage photo de naissance dans une maternité près de Cergy dépend entièrement de l'accord de l'établissement. Posez la question à l'équipe avant l'accouchement. Si la séance n'est pas possible sur place, le reportage de naissance se fait à votre domicile de Cergy."
+   },
+   {
+    "q": "Quand organiser une première sortie photographiée avec bébé à Cergy ?",
+    "a": "Une première sortie photographiée avec bébé à Cergy s'organise quand la maman est reposée et que le pédiatre ne voit pas de contre-indication. Une courte promenade au Parc François-Mitterrand par temps doux suffit, sans flash, pour préserver le calme du nourrisson."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce chauffée, nous photographions le bébé endormi : orteils, cils, plis du poignet, petit bâillement. La séance se fait à domicile, sans poses risquées, au rythme des tétées. Pour ceux qui le souhaitent, une touche locale s'ajoute ensuite quelques semaines plus tard : un portrait des parents portant l'enfant face à la perspective de l'Axe Majeur, ou un instant paisible sur un banc du Parc François-Mitterrand, filmé en plans lents et silencieux.",
+  "scene": "La séance nouveau-né à Cergy se fait à domicile, dans une pièce chauffée, au rythme des tétées et sans poses risquées. Nous photographions le bébé endormi : orteils, cils, plis du poignet, petit bâillement. Quelques semaines plus tard, une touche locale peut s'ajouter. Les parents portent l'enfant face à la perspective de l'Axe Majeur, ou s'installent sur un banc du Parc François-Mitterrand pour un instant paisible, filmé en plans lents et silencieux.",
   "conseil": "La séance nouveau-né se tient chez vous, dans les premiers jours. Si vous voulez un clin d'œil à Cergy, gardez-le pour plus tard et par temps calme : les esplanades exposées au vent ne conviennent pas à un nourrisson de quelques jours.",
   "faq": [
-   {"q": "Faites-vous les séances photo nouveau-né à domicile à Cergy ?", "a": "Oui, nous venons chez vous à Cergy et dans les communes voisines du Val-d'Oise, avec un matériel léger. La séance suit le rythme du bébé, avec des pauses pour les tétées et les changes."},
-   {"q": "Quel est le bon âge pour une séance nouveau-né près de Cergy ?", "a": "Les premiers jours de vie sont souvent privilégiés car le bébé dort profondément et garde sa position recroquevillée. Contactez-nous avant la naissance pour réserver un créneau souple que nous fixerons après l'arrivée du bébé."}
+   {
+    "q": "Faites-vous les séances photo nouveau-né à domicile à Cergy ?",
+    "a": "Oui, les séances photo nouveau-né à domicile se font à Cergy et dans les communes voisines du Val-d'Oise, avec un matériel léger. La séance suit le rythme du bébé, avec des pauses pour les tétées et les changes."
+   },
+   {
+    "q": "Quel est le bon âge pour une séance nouveau-né près de Cergy ?",
+    "a": "Pour une séance nouveau-né près de Cergy, les premiers jours de vie sont souvent privilégiés car le bébé dort profondément et garde sa position recroquevillée. Contactez-nous avant la naissance pour réserver un créneau souple, fixé après l'arrivée du bébé."
+   }
   ]
  }
 }

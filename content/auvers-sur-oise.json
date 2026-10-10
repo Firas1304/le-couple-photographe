@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Imaginez la sortie de cérémonie sur le parvis de l'Église d'Auvers, ce clocher que Van Gogh a peint, puis la photo de groupe posée devant la façade Renaissance du Château d'Auvers. En fin d'après-midi, nous vous emmenons quelques minutes dans les Champs de blé pour les portraits à deux : la robe frôle les épis, le voile prend le vent. Côté film, un plan large de la plaine ouvre votre teaser, avant les vœux échangés en gros plan.",
+  "scene": "Pour un mariage à Auvers-sur-Oise, nous vous proposons trois décors : l'Église d'Auvers, le Château d'Auvers et les Champs de blé de la plaine. La sortie de cérémonie se photographie sur le parvis de l'église, ce clocher que Van Gogh a peint. La photo de groupe se pose devant la façade Renaissance du château. En fin d'après-midi, les portraits à deux se font dans les blés : la robe frôle les épis, le voile prend le vent. Côté film, un plan large de la plaine ouvre votre teaser.",
   "conseil": "Un mariage en juillet à Auvers-sur-Oise offre des blés dorés derrière vous. Prévoyez des chaussures de rechange pour marcher sur les chemins de terre et gardez quarante minutes de marge avant le dîner pour profiter de la lumière rasante sur la plaine.",
   "faq": [
-   {"q": "Peut-on faire les photos de couple dans les champs de blé le jour du mariage à Auvers-sur-Oise ?", "a": "Oui, c'est l'un des cadres que nous vous proposons pour les portraits de couple. Nous restons sur les chemins et en bordure des parcelles, sans piétiner les cultures, et nous adaptons le cadrage selon la hauteur des blés et la saison."},
-   {"q": "Un photographe mariage à Auvers-sur-Oise peut-il filmer la cérémonie à l'église ?", "a": "Nous pouvons filmer et photographier la cérémonie à l'Église d'Auvers si la paroisse l'autorise. Prenez contact avec elle en amont : selon ses règles, nous travaillons sans flash et depuis des emplacements discrets, au fond ou sur les côtés."}
+   {
+    "q": "Peut-on faire les photos de couple dans les champs de blé le jour du mariage à Auvers-sur-Oise ?",
+    "a": "Oui, les Champs de blé d'Auvers-sur-Oise font partie des cadres que nous proposons pour les portraits de couple le jour du mariage. Nous restons sur les chemins et en bordure des parcelles, sans piétiner les cultures, et nous adaptons le cadrage à la hauteur des blés."
+   },
+   {
+    "q": "Un photographe mariage à Auvers-sur-Oise peut-il filmer la cérémonie à l'église ?",
+    "a": "La cérémonie de mariage à l'Église d'Auvers, à Auvers-sur-Oise, peut être photographiée et filmée si la paroisse l'autorise. Contactez-la en amont : selon ses règles, nous travaillons sans flash, depuis des emplacements discrets au fond ou sur les côtés."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Le ventre arrondi au milieu des Champs de blé, vos mains posées dessus et l'horizon de la plaine derrière : voilà l'image que nous aimons construire en premier. Ensuite, une marche lente vers l'Église d'Auvers permet des profils sereins contre la pierre claire. Les jardins du Château d'Auvers accueillent enfin un moment assis, le partenaire penché vers le bébé, pendant qu'une courte séquence filmée garde les mots murmurés.",
+  "scene": "Un shooting grossesse à Auvers-sur-Oise se déroule dans les Champs de blé, devant l'Église d'Auvers et aux abords du Château d'Auvers. Dans les blés, vos mains se posent sur le ventre arrondi, l'horizon de la plaine derrière vous. Une marche lente vers l'église donne des profils sereins contre la pierre claire. Près du château, un moment assis réunit le partenaire penché vers le bébé, pendant qu'une courte séquence filmée garde les mots murmurés.",
   "conseil": "Les chemins entre les champs sont parfois inégaux : choisissez des chaussures plates et gardez la robe longue dans un sac jusqu'au premier spot. Une séance tôt le matin évite la chaleur estivale de la plaine, plus fatigante en fin de grossesse.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Auvers-sur-Oise ?", "a": "Nous aimons les Champs de blé pour la douceur de la plaine, l'Église d'Auvers pour sa pierre lumineuse et les abords du Château d'Auvers pour un moment plus calme. Le parcours se fait à pied et reste court pour vous ménager."},
-   {"q": "À quel mois de grossesse faire une séance photo dans les champs à Auvers ?", "a": "Beaucoup de futures mamans choisissent le septième ou le huitième mois, quand le ventre est bien visible et que la marche reste confortable. Si votre terme tombe en été, les blés dorés de juillet forment un décor très doux."}
+   {
+    "q": "Où faire un shooting grossesse à Auvers-sur-Oise ?",
+    "a": "À Auvers-sur-Oise, un shooting grossesse peut se faire dans les Champs de blé pour la douceur de la plaine, devant l'Église d'Auvers pour sa pierre lumineuse et près du Château d'Auvers pour un moment calme. Le parcours se fait à pied et reste court."
+   },
+   {
+    "q": "À quel mois de grossesse faire une séance photo dans les champs à Auvers-sur-Oise ?",
+    "a": "Une séance grossesse dans les Champs de blé d'Auvers-sur-Oise se prévoit souvent au septième ou au huitième mois, quand le ventre est bien visible et que la marche reste confortable. Si votre terme tombe en été, les blés dorés de juillet forment un décor doux."
+   }
   ]
  },
  "couple": {
-  "scene": "Main dans la main sur un chemin des Champs de blé, vous avancez sans regarder l'objectif : c'est souvent là que naissent les plus beaux sourires. Plus loin, la ruelle qui monte vers l'Église d'Auvers se prête à une étreinte contre le mur ancien. Et pourquoi ne pas terminer devant l'Auberge Ravoux, où vécut le peintre, pour un portrait à la terrasse ? Quelques secondes d'images en mouvement complètent la galerie.",
+  "scene": "Une séance couple à Auvers-sur-Oise relie trois lieux du village de Van Gogh : les Champs de blé, l'Église d'Auvers et l'Auberge Ravoux. Main dans la main sur un chemin des blés, vous avancez sans regarder l'objectif. La ruelle qui monte vers l'église se prête à une étreinte contre le mur ancien. Devant l'Auberge Ravoux, où se trouve la dernière chambre du peintre, un portrait en terrasse termine la promenade. Quelques secondes d'images en mouvement complètent la galerie.",
   "conseil": "Venez à Auvers-sur-Oise en Transilien pour arriver détendus, sans souci de stationnement. En semaine, le village reste calme et les abords de l'église se photographient sans foule, ce qui laisse plus de place aux gestes spontanés.",
   "faq": [
-   {"q": "Quel lieu choisir pour un shooting couple à Auvers-sur-Oise ?", "a": "Pour une ambiance champêtre, les Champs de blé de la plaine conviennent bien. Si vous aimez l'histoire et la pierre, l'Église d'Auvers et la façade de l'Auberge Ravoux racontent le village de Van Gogh. Nous combinons souvent deux de ces décors."},
-   {"q": "Peut-on faire une séance de fiançailles à Auvers-sur-Oise au coucher du soleil ?", "a": "Oui, la fin de journée est un moment que nous vous recommandons volontiers. La lumière basse sur la plaine réchauffe les visages et allonge les ombres. Nous calons l'heure de rendez-vous selon la saison pour profiter de cette période."}
+   {
+    "q": "Quel lieu choisir pour un shooting couple à Auvers-sur-Oise ?",
+    "a": "Pour un shooting couple à Auvers-sur-Oise, les Champs de blé conviennent à une ambiance champêtre. L'Église d'Auvers et la façade de l'Auberge Ravoux racontent le village de Van Gogh, pour les amoureux d'histoire et de pierre. Nous combinons souvent deux de ces décors."
+   },
+   {
+    "q": "Peut-on faire une séance de fiançailles à Auvers-sur-Oise au coucher du soleil ?",
+    "a": "Oui, une séance de fiançailles à Auvers-sur-Oise au coucher du soleil est possible et nous la recommandons volontiers. La lumière basse sur la plaine réchauffe les visages et allonge les ombres. Nous fixons l'heure du rendez-vous selon la saison."
+   }
   ]
  },
  "famille": {
-  "scene": "Les enfants courent entre les épis pendant que les parents les suivent du regard : aux Champs de blé, la séance famille ressemble à une promenade de campagne. Nous poursuivons sur la pelouse devant le Château d'Auvers, idéale pour un pique-nique improvisé et une photo réunissant grands-parents et petits-enfants. Un détour par l'Église d'Auvers, que les plus grands reconnaîtront peut-être d'un livre de peinture, termine la sortie, avec un petit film souvenir.",
+  "scene": "En famille à Auvers-sur-Oise, la séance photo devient une promenade de campagne entre les Champs de blé, le Château d'Auvers et l'Église d'Auvers. Les enfants courent entre les épis pendant que les parents les suivent du regard. Sur la pelouse devant le château, un pique-nique improvisé réunit grands-parents et petits-enfants pour une photo de groupe. Le détour par l'église, que les plus grands reconnaîtront peut-être d'un livre de peinture, termine la sortie avec un petit film souvenir.",
   "conseil": "Avec de jeunes enfants, privilégiez une matinée à Auvers-sur-Oise et prévoyez une poussette tout-terrain pour les chemins agricoles. Emportez de l'eau et un chapeau : la plaine offre peu d'ombre en été.",
   "faq": [
-   {"q": "Une séance photo famille à Auvers-sur-Oise convient-elle aux tout-petits ?", "a": "Oui, le format promenade s'adapte bien aux petits. Nous enchaînons des étapes courtes entre les champs et le château, avec des pauses quand l'attention baisse. Les enfants jouent librement et nous saisissons les moments au fil de la balade."},
-   {"q": "Combien de personnes peuvent participer à un shooting famille dans le Val-d'Oise ?", "a": "Une séance peut réunir un foyer de quatre personnes comme une famille élargie sur trois générations. Indiquez-nous le nombre de participants : nous choisissons alors un spot assez dégagé, par exemple devant le Château d'Auvers, pour les photos de groupe."}
+   {
+    "q": "Une séance photo famille à Auvers-sur-Oise convient-elle aux tout-petits ?",
+    "a": "Oui, une séance famille à Auvers-sur-Oise convient aux tout-petits grâce à son format de promenade. Nous enchaînons des étapes courtes entre les Champs de blé et le Château d'Auvers, avec des pauses quand l'attention baisse. Les enfants jouent librement pendant que nous saisissons les moments."
+   },
+   {
+    "q": "Combien de personnes peuvent participer à un shooting famille à Auvers-sur-Oise ?",
+    "a": "Un shooting famille à Auvers-sur-Oise peut réunir un foyer de quatre personnes comme une famille élargie sur trois générations. Indiquez-nous le nombre de participants : nous choisissons alors un spot dégagé, par exemple devant le Château d'Auvers, pour les photos de groupe."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Trois, deux, un : le nuage de couleur jaillit au-dessus des Champs de blé et tout le monde crie en même temps. Ce décor ouvert fait ressortir le rose ou le bleu sur l'or des épis. Autre option festive, la pelouse proche du Château d'Auvers, où les invités forment un cercle autour de vous. Nous filmons la réaction au ralenti, puis réalisons un portrait joyeux du futur trio sur le chemin qui mène à l'Église d'Auvers.",
+  "scene": "Votre gender reveal à Auvers-sur-Oise peut se dérouler dans les Champs de blé, où le rose ou le bleu ressort sur l'or des épis. Trois, deux, un : le nuage de couleur jaillit et tout le monde crie en même temps. Autre option festive, la pelouse proche du Château d'Auvers, où les invités forment un cercle autour de vous. Nous filmons la réaction au ralenti. Un portrait joyeux du futur trio se fait ensuite sur le chemin qui mène à l'Église d'Auvers.",
   "conseil": "Avant de lancer confettis, fumigènes ou ballons, vérifiez les règles du lieu et demandez l'accord des propriétaires des parcelles ou du château. Le vent de la plaine peut dévier la fumée : placez-vous dos au vent.",
   "faq": [
-   {"q": "Où organiser un gender reveal en plein air à Auvers-sur-Oise ?", "a": "Les Champs de blé offrent un espace dégagé et un fond neutre qui fait ressortir les couleurs. Les abords du Château d'Auvers conviennent aussi. Renseignez-vous toujours sur les règles du lieu concernant confettis, fumigènes et ballons avant de réserver."},
-   {"q": "Les fumigènes de couleur sont-ils autorisés pour un gender reveal près du château d'Auvers ?", "a": "Cela dépend du gestionnaire du site, que vous devez contacter avant la fête. Si les fumigènes ne sont pas permis, nous vous proposons des alternatives comme un gâteau surprise ou un ballon rempli de papier, à valider également auprès du lieu."}
+   {
+    "q": "Où organiser un gender reveal en plein air à Auvers-sur-Oise ?",
+    "a": "Pour un gender reveal en plein air à Auvers-sur-Oise, les Champs de blé offrent un espace dégagé et un fond neutre qui fait ressortir les couleurs. Les abords du Château d'Auvers conviennent aussi. Vérifiez toujours les règles du lieu pour confettis, fumigènes et ballons."
+   },
+   {
+    "q": "Les fumigènes de couleur sont-ils autorisés pour un gender reveal près du château d'Auvers ?",
+    "a": "L'usage de fumigènes pour un gender reveal près du Château d'Auvers, à Auvers-sur-Oise, dépend du gestionnaire du site, à contacter avant la fête. S'ils ne sont pas permis, nous proposons un gâteau surprise ou un ballon rempli de papier, à valider aussi auprès du lieu."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Artisan, galeriste, artiste ou consultant installé dans le Val-d'Oise ? Un portrait devant la façade du Château d'Auvers donne une image structurée et posée, adaptée à LinkedIn. Pour une identité plus créative, la pierre de l'Église d'Auvers et la devanture de l'Auberge Ravoux évoquent le patrimoine artistique du village. Nous ajoutons, si besoin, une courte vidéo de présentation tournée en extérieur pour votre site.",
+  "scene": "Un portrait professionnel à Auvers-sur-Oise peut se faire devant le Château d'Auvers, l'Église d'Auvers ou l'Auberge Ravoux. Artisan, galeriste, artiste ou consultant installé dans le Val-d'Oise ? La façade du château donne une image structurée et posée, adaptée à LinkedIn. Pour une identité plus créative, la pierre de l'église et la devanture de l'auberge évoquent le patrimoine artistique du village. Si besoin, nous ajoutons une courte vidéo de présentation tournée en extérieur pour votre site.",
   "conseil": "Le Château d'Auvers et l'Auberge Ravoux sont des sites ouverts au public : demandez l'autorisation de photographier à des fins commerciales avant la séance. Venez avec deux tenues sobres, l'une plus formelle, l'autre plus détendue.",
   "faq": [
-   {"q": "Où faire un portrait professionnel en extérieur à Auvers-sur-Oise ?", "a": "Nous vous proposons les abords du Château d'Auvers pour un rendu classique, ou les ruelles près de l'Église d'Auvers pour une ambiance plus artistique. Le choix dépend de votre secteur et de l'image que vous souhaitez transmettre à vos clients."},
-   {"q": "Un photographe professionnel peut-il venir dans une entreprise d'Auvers-sur-Oise ?", "a": "Oui, nous nous déplaçons dans vos locaux pour des portraits d'équipe ou des photos d'ambiance. Prévoyez une pièce calme avec de la lumière naturelle, et nous pouvons compléter la séance par quelques portraits dans le village si vous le souhaitez."}
+   {
+    "q": "Où faire un portrait professionnel en extérieur à Auvers-sur-Oise ?",
+    "a": "Pour un portrait professionnel en extérieur à Auvers-sur-Oise, nous proposons les abords du Château d'Auvers pour un rendu classique, ou les ruelles près de l'Église d'Auvers pour une ambiance plus artistique. Le choix dépend de votre secteur et de l'image recherchée."
+   },
+   {
+    "q": "Un photographe professionnel peut-il venir dans une entreprise d'Auvers-sur-Oise ?",
+    "a": "Oui, un photographe peut se déplacer dans une entreprise d'Auvers-sur-Oise pour des portraits d'équipe ou des photos d'ambiance. Prévoyez une pièce calme avec de la lumière naturelle. Quelques portraits dans le village peuvent compléter la séance."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Séminaire au vert, journée de cohésion ou visite d'équipe : Auvers-sur-Oise se prête aux rencontres hors des bureaux. Nous couvrons les prises de parole au Château d'Auvers puis la photo collective sur sa pelouse. Une balade culturelle vers l'Église d'Auvers et l'Auberge Ravoux fournit des images d'échanges informels. En parallèle, un récapitulatif vidéo de deux minutes peut servir à votre communication interne.",
+  "scene": "Pour un événement professionnel à Auvers-sur-Oise, nous couvrons les prises de parole au Château d'Auvers et la photo collective sur sa pelouse. Séminaire au vert, journée de cohésion ou visite d'équipe : le village se prête aux rencontres hors des bureaux. Une balade culturelle vers l'Église d'Auvers et l'Auberge Ravoux fournit des images d'échanges informels. En parallèle, un récapitulatif vidéo de deux minutes peut servir à votre communication interne.",
   "conseil": "Transmettez-nous le programme et indiquez-nous si des participants ne souhaitent pas apparaître. Pour un groupe venant de Paris, le Transilien jusqu'à Auvers-sur-Oise simplifie la logistique ; prévoyez un plan B couvert en cas de pluie.",
   "faq": [
-   {"q": "Peut-on photographier un séminaire d'entreprise au château d'Auvers ?", "a": "C'est possible si l'organisateur du séminaire obtient l'accord du site pour la prise de vue. Nous travaillons discrètement pendant les interventions et respectons les zones confidentielles que vous nous signalez à l'avance."},
-   {"q": "Faut-il un vidéaste pour un événement d'entreprise dans le Val-d'Oise ?", "a": "Un vidéaste apporte un format court facile à partager en interne ou sur les réseaux. Nous pouvons couvrir à la fois la photo et le film de votre événement à Auvers-sur-Oise, avec une seule équipe et un seul interlocuteur."}
+   {
+    "q": "Peut-on photographier un séminaire d'entreprise au Château d'Auvers ?",
+    "a": "Un séminaire d'entreprise au Château d'Auvers, à Auvers-sur-Oise, peut être photographié si l'organisateur obtient l'accord du site. Nous travaillons discrètement pendant les interventions et respectons les zones confidentielles signalées à l'avance."
+   },
+   {
+    "q": "Faut-il un vidéaste pour un événement d'entreprise à Auvers-sur-Oise ?",
+    "a": "Un vidéaste apporte à un événement d'entreprise à Auvers-sur-Oise un format court, facile à partager en interne ou sur les réseaux. Nous couvrons à la fois la photo et le film de l'événement, avec une seule équipe et un seul interlocuteur."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul face à la plaine, vous marchez à votre rythme : un portrait solo aux Champs de blé a le calme d'une toile. Nous cadrons large pour vous situer dans le paysage, puis serrons sur le regard. La deuxième partie se joue devant l'Auberge Ravoux, assis comme un voyageur de passage, et contre le mur de l'Église d'Auvers pour une lumière plus douce. Un plan filmé au ralenti peut accompagner vos photos.",
+  "scene": "Un portrait solo à Auvers-sur-Oise commence dans les Champs de blé, puis se poursuit devant l'Auberge Ravoux et l'Église d'Auvers. Seul face à la plaine, vous marchez à votre rythme, avec le calme d'une toile. Nous cadrons large pour vous situer dans le paysage, puis serrons sur le regard. Devant l'auberge, vous posez assis comme un voyageur de passage. Contre le mur de l'église, la lumière devient plus douce. Un plan filmé au ralenti peut accompagner vos photos.",
   "conseil": "Si vous aimez l'univers impressionniste, choisissez des matières naturelles et des teintes chaudes qui répondent aux champs. Une séance solo en matinée à Auvers-sur-Oise offre plus de tranquillité et moins de visiteurs autour des monuments.",
   "faq": [
-   {"q": "Comment se passe un shooting portrait solo à Auvers-sur-Oise ?", "a": "La séance prend la forme d'une promenade entre deux ou trois lieux du village. Nous commençons par des images détendues pour vous mettre à l'aise, puis guidons vos postures avec douceur. Vous pouvez changer de tenue entre deux étapes."},
-   {"q": "Un shooting solo à Auvers peut-il servir pour un book d'artiste ?", "a": "Oui, l'ambiance du village de Van Gogh se prête bien aux portraits d'artistes, comédiens ou créateurs. Dites-nous l'usage prévu et nous adaptons les cadrages, du plan serré pour un dossier au plan large pour un site."}
+   {
+    "q": "Comment se passe un shooting portrait solo à Auvers-sur-Oise ?",
+    "a": "Un shooting portrait solo à Auvers-sur-Oise prend la forme d'une promenade entre deux ou trois lieux du village, comme les Champs de blé et l'Auberge Ravoux. Les premières images sont détendues, puis nous guidons vos postures avec douceur. Un changement de tenue est possible entre deux étapes."
+   },
+   {
+    "q": "Un shooting solo à Auvers-sur-Oise peut-il servir pour un book d'artiste ?",
+    "a": "Oui, un shooting solo à Auvers-sur-Oise peut servir pour un book d'artiste, de comédien ou de créateur : l'ambiance du village de Van Gogh s'y prête. Dites-nous l'usage prévu et nous adaptons les cadrages, du plan serré pour un dossier au plan large pour un site."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Soufflez les bougies, levez les verres, et laissez-nous saisir les éclats de rire. Pour des 30 ans ou des 60 ans à Auvers-sur-Oise, nous commençons par un portrait de groupe devant le Château d'Auvers, tous réunis en souriant. Une promenade dans les Champs de blé, verre à la main, apporte des photos plus libres. La façade de l'Auberge Ravoux peut servir de décor au portrait de l'invité d'honneur, pendant qu'un clip festif résume la journée.",
+  "scene": "Pour fêter un anniversaire à Auvers-sur-Oise, nous proposons une photo de groupe devant le Château d'Auvers et une promenade dans les Champs de blé. Soufflez les bougies, levez les verres, et laissez-nous saisir les éclats de rire. Pour des 30 ans ou des 60 ans, tout le monde se réunit d'abord en souriant devant le château. Dans les blés, verre à la main, les photos deviennent plus libres. La façade de l'Auberge Ravoux sert de décor au portrait de l'invité d'honneur, pendant qu'un clip festif résume la journée.",
   "conseil": "Pour une fête d'anniversaire en extérieur à Auvers-sur-Oise, prévoyez la photo de groupe avant le repas, quand chacun est encore frais. Signalez-nous l'heure du gâteau pour que nous soyons bien placés.",
   "faq": [
-   {"q": "Peut-on faire un shooting anniversaire dans les champs à Auvers-sur-Oise ?", "a": "Oui, une balade dans les Champs de blé donne des images joyeuses et lumineuses, surtout en été. Nous l'intégrons volontiers avant ou après la réception, en restant sur les chemins pour respecter les cultures."},
-   {"q": "Faites-vous des vidéos souvenirs pour un anniversaire dans le Val-d'Oise ?", "a": "Oui, nous réalisons un petit film qui reprend les temps forts : arrivée des invités, discours, gâteau et danse. Il complète la série de photos et se partage facilement avec ceux qui n'ont pas pu venir."}
+   {
+    "q": "Peut-on faire un shooting anniversaire dans les champs à Auvers-sur-Oise ?",
+    "a": "Oui, un shooting anniversaire dans les Champs de blé d'Auvers-sur-Oise donne des images joyeuses et lumineuses, surtout en été. Nous l'intégrons avant ou après la réception, en restant sur les chemins pour respecter les cultures."
+   },
+   {
+    "q": "Faites-vous des vidéos souvenirs pour un anniversaire à Auvers-sur-Oise ?",
+    "a": "Oui, pour un anniversaire à Auvers-sur-Oise, nous réalisons un petit film qui reprend les temps forts : arrivée des invités, discours, gâteau et danse. Il complète la série de photos et se partage facilement avec les proches absents."
+   }
   ]
  },
  "diplome": {
-  "scene": "Toge sur les épaules, diplôme serré dans la main : vous avez mérité ce portrait. Nous aimons le lancer de toque au-dessus des Champs de blé, sur fond de ciel ouvert, un symbole d'horizon qui s'élargit. Une photo plus solennelle devant la façade du Château d'Auvers rappelle le sérieux du parcours. Avec vos parents, posez enfin devant l'Église d'Auvers. Quelques secondes de vidéo gardent le cri de joie.",
+  "scene": "Des photos de remise de diplôme à Auvers-sur-Oise se font dans les Champs de blé, devant le Château d'Auvers et devant l'Église d'Auvers. Toge sur les épaules, diplôme serré dans la main : vous avez mérité ce portrait. Le lancer de toque au-dessus des blés, sur fond de ciel ouvert, symbolise un horizon qui s'élargit. Une photo plus solennelle devant la façade du château rappelle le sérieux du parcours. Avec vos parents, posez enfin devant l'église. Quelques secondes de vidéo gardent le cri de joie.",
   "conseil": "Prévoyez la séance de diplôme à Auvers-sur-Oise le lendemain de la cérémonie, pour profiter du lieu sans courir. Apportez la toge dans une housse et une tenue soignée en dessous.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Auvers-sur-Oise ?", "a": "Pour des portraits fiers et lumineux, nous vous proposons les Champs de blé et les abords du Château d'Auvers. Ces deux décors se combinent facilement en une seule séance et conviennent aussi bien aux photos individuelles qu'aux photos avec la famille."},
-   {"q": "Peut-on faire un lancer de toque dans les champs près d'Auvers ?", "a": "Oui, l'espace ouvert des champs se prête bien au lancer de toque. Nous restons sur les chemins et prenons plusieurs essais pour obtenir la bonne image. Pensez à récupérer la toque après chaque lancer."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Auvers-sur-Oise ?",
+    "a": "Pour des photos de remise de diplôme à Auvers-sur-Oise, nous proposons les Champs de blé et les abords du Château d'Auvers. Ces deux décors se combinent en une seule séance et conviennent aux portraits individuels comme aux photos avec la famille."
+   },
+   {
+    "q": "Peut-on faire un lancer de toque dans les champs à Auvers-sur-Oise ?",
+    "a": "Oui, les Champs de blé d'Auvers-sur-Oise offrent un espace ouvert adapté au lancer de toque d'une séance diplôme. Nous restons sur les chemins et prenons plusieurs essais pour obtenir la bonne image. Pensez à récupérer la toque après chaque lancer."
+   }
   ]
  },
  "naissance": {
-  "scene": "Après la naissance, le premier retour à la maison mérite un reportage paisible. Si la maternité donne son accord, nous saisissons les premiers regards dans la chambre ; sinon, la séance a lieu chez vous. Quelques jours plus tard, une courte promenade devant l'Église d'Auvers ou près des Champs de blé, bébé blotti contre vous, raconte l'arrivée de l'enfant dans le village. Un film délicat garde les premiers gestes.",
+  "scene": "Un reportage de naissance à Auvers-sur-Oise se déroule à la maternité si l'établissement l'accepte, sinon chez vous, puis lors d'une courte sortie au village. Dans la chambre, avec l'accord de la maternité, nous saisissons les premiers regards. Le premier retour à la maison mérite aussi des images paisibles. Quelques jours plus tard, une courte promenade devant l'Église d'Auvers ou près des Champs de blé, bébé blotti contre vous, raconte l'arrivée de l'enfant dans le village. Un film délicat garde les premiers gestes.",
   "conseil": "Demandez à la maternité si les photographes extérieurs sont acceptés et dans quelles conditions. Pour une sortie à Auvers-sur-Oise avec un nourrisson, privilégiez un jour doux, sans vent, et une durée très courte.",
   "faq": [
-   {"q": "Peut-on faire un reportage photo de naissance à la maternité près d'Auvers-sur-Oise ?", "a": "La prise de vue en maternité dépend de l'accord de l'établissement. Renseignez-vous avant le terme. Si l'accès n'est pas possible, nous réalisons le reportage à votre domicile dès votre retour, dans le calme."},
-   {"q": "Quand organiser une séance naissance à Auvers ?", "a": "Nous attendons que la maman soit reposée et que vous vous sentiez prêts. Le reportage à domicile se fait souvent dans les premiers jours. Une sortie courte dans le village peut venir plus tard, si la météo le permet."}
+   {
+    "q": "Peut-on faire un reportage photo de naissance à la maternité près d'Auvers-sur-Oise ?",
+    "a": "Un reportage photo de naissance en maternité près d'Auvers-sur-Oise dépend de l'accord de l'établissement. Renseignez-vous avant le terme. Si l'accès n'est pas possible, nous réalisons le reportage de naissance à votre domicile d'Auvers-sur-Oise, dès votre retour."
+   },
+   {
+    "q": "Quand organiser une séance naissance à Auvers-sur-Oise ?",
+    "a": "Une séance naissance à Auvers-sur-Oise s'organise quand la maman est reposée et que vous vous sentez prêts. Le reportage à domicile se fait souvent dans les premiers jours. Une sortie courte dans le village peut venir plus tard, si la météo le permet."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce chauffée, bébé dort sur une couverture unie : la séance nouveau-né se déroule surtout à domicile, en douceur. Nous photographions les plis, les cils, les petites mains contre celles des parents. Pour ancrer ces souvenirs dans le village, nous pouvons ajouter un portrait des parents devant l'Église d'Auvers ou au bord des Champs de blé, bébé emmailloté. Une séquence lente complète les images.",
+  "scene": "La séance nouveau-né à Auvers-sur-Oise se déroule surtout à domicile, dans une pièce chauffée, bébé endormi sur une couverture unie. Nous photographions les plis, les cils, les petites mains contre celles des parents. Pour ancrer ces souvenirs dans le village, un portrait des parents peut s'ajouter devant l'Église d'Auvers ou au bord des Champs de blé, bébé emmailloté. Une séquence lente complète les images, en douceur.",
   "conseil": "Gardez l'essentiel de la séance à l'intérieur et chauffez la pièce. Si vous souhaitez une photo extérieure à Auvers-sur-Oise, choisissez un spot proche de chez vous et limitez-la à quelques minutes, à l'abri du vent.",
   "faq": [
-   {"q": "Faites-vous des séances nouveau-né à domicile à Auvers-sur-Oise ?", "a": "Oui, nous nous déplaçons chez vous à Auvers-sur-Oise et dans les communes voisines. Le domicile reste le cadre le plus confortable pour bébé : nous suivons son rythme, avec des pauses pour la tétée et les changes."},
-   {"q": "À quel âge photographier un bébé naissant dans le Val-d'Oise ?", "a": "Les premiers jours sont souvent choisis, car le bébé dort beaucoup et se laisse installer facilement. Contactez-nous avant la naissance pour réserver une période, puis nous fixons la date exacte après l'arrivée de l'enfant."}
+   {
+    "q": "Faites-vous des séances nouveau-né à domicile à Auvers-sur-Oise ?",
+    "a": "Oui, les séances nouveau-né à domicile se font à Auvers-sur-Oise et dans les communes voisines. Le domicile reste le cadre le plus confortable pour bébé : nous suivons son rythme, avec des pauses pour la tétée et les changes."
+   },
+   {
+    "q": "À quel âge photographier un nouveau-né à Auvers-sur-Oise ?",
+    "a": "Pour une séance nouveau-né à Auvers-sur-Oise, les premiers jours sont souvent choisis, car le bébé dort beaucoup et se laisse installer facilement. Contactez-nous avant la naissance pour réserver une période, puis la date exacte se fixe après l'arrivée de l'enfant."
+   }
   ]
  }
 }
