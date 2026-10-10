@@ -38,3 +38,9 @@ des 11 autres du même fichier, et différent de ce que ferait un autre lieu.
 
 ## Contrôle
 Après écriture, lancer : `python3 check_content.py content/<slug>.json <slug>` et corriger jusqu'à ce qu'il affiche OK.
+
+## Optimisation pour les assistants IA (GEO) — ajout
+Les textes doivent aussi pouvoir être cités par ChatGPT, Gemini, Perplexity, Claude. Donc :
+- Chaque `scene` commence par une phrase de réponse directe et autonome, factuelle, citable telle quelle (qui, quoi, où), puis détaille.
+- Phrases courtes à claires, un fait par phrase, noms propres complets (« Parc de Bécon », pas « le parc »). Pas de pronoms ambigus au début d'une réponse de FAQ : chaque réponse de FAQ doit se comprendre sans la question (nom du lieu et de la prestation répétés dans la réponse).
+- Les FAQ reprennent des formulations de vraies requêtes : « Où faire un shooting [prestation] à [lieu] ? », « Quel photographe choisir pour [prestation] à [lieu] ? », « Peut-on faire [prestation] à [spot] ? ».

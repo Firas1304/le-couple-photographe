@@ -114,14 +114,16 @@ def head(title, desc, path, depth, ld=None, home_fragment=False):
     h += '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Hanken+Grotesk:wght@300;400;500;700&display=swap">\n'
     if GSC_TOKEN: h += '<meta name="google-site-verification" content="%s">\n' % esc(GSC_TOKEN,True)
     h += '<link rel="stylesheet" href="%s">\n' % asset(depth,'style.css')
-    for o in (ld or []): h += '<script type="application/ld+json">%s</script>\n' % json.dumps(o, ensure_ascii=False)
+    wp={"@context":"https://schema.org","@type":"WebPage","name":title,"url":canon,"inLanguage":"fr","dateModified":LAST_UPDATE,"isPartOf":{"@type":"WebSite","name":NAME,"url":DOMAIN+'/'},"about":{"@type":"Photographer","name":NAME}}
+    for o in [wp]+(ld or []): h += '<script type="application/ld+json">%s</script>\n' % json.dumps(o, ensure_ascii=False)
     return h
 
 def breadcrumb_ld(items):
     return {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":i+1,"name":n,"item":DOMAIN+'/'+p} for i,(n,p) in enumerate(items)]}
 def faq_ld(faqs):
     return {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faqs]}
-BIZ = {"@context":"https://schema.org","@type":["Photographer","LocalBusiness"],"name":NAME,"url":DOMAIN+"/","sameAs":[IG],"description":"Photographes de mariage à Paris, en Île-de-France et partout en France.","areaServed":[{"@type":"Country","name":"France"},{"@type":"AdministrativeArea","name":"Île-de-France"}]}
+LAST_UPDATE='2026-10-10'
+BIZ = {"@context":"https://schema.org","@type":["Photographer","LocalBusiness"],"name":NAME,"url":DOMAIN+"/","sameAs":[IG],"description":"Photographes de mariage à Paris, en Île-de-France et partout en France.","areaServed":[{"@type":"Country","name":"France"},{"@type":"AdministrativeArea","name":"Île-de-France"}],"knowsLanguage":"fr","slogan":"Regarder, ressentir, capturer.","makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Service","name":n}} for n in ["Photographe et vidéaste de mariage","Séance photo grossesse","Séance couple","Séance famille","Gender reveal photo et vidéo","Photographe corporate","Photographe d'événements professionnels","Portrait solo","Photographe d'anniversaire","Photographe de remise de diplôme","Photographe de naissance","Photographe nouveau-né"]]}
 
 def header(depth):
     L = lambda a,t,c='': '<a href="%s"%s>%s</a>' % (a, (' class="%s"'%c if c else ''), t)
@@ -136,7 +138,7 @@ def footer(depth):
     pal = ul([(x['name'],'services/%s/'%x['slug']) for x in _S]+[('Toutes les prestations','services/')])
     vil = ul([(x['name'],'zones/%s/'%x['slug']) for x in _P if x['slug'] in ('paris-4e','paris-7e','paris-8e','paris-16e','paris-18e','versailles','boulogne-billancourt','neuilly-sur-seine','vincennes','saint-germain-en-laye','fontainebleau')]+[('Toutes les zones','zones/')])
     cul = ul([(x['name'],'palaces/%s/'%x['slug']) for x in PALACES[:4]]+[('Palaces parisiens','palaces/'),('Villes de France','villes/')]+[(c['name'],'cultures/%s/'%c['slug']) for c in CULTURES]+[('Devis gratuit','contact/')])
-    return ('<footer class="ft"><div><a href="%s" class="logo">Le Couple Photographe</a><p>Photographes de mariage à Paris, en Île-de-France et partout en France.</p><p style="margin-top:14px"><a href="%s" target="_blank" rel="noopener">Instagram @le_couple_photographe</a></p></div><div><h4>Prestations</h4>%s</div><div><h4>Paris &amp; Île-de-France</h4>%s</div><div><h4>Lieux &amp; cultures</h4>%s</div></footer>\n<div class="big" aria-hidden="true">Le Couple</div>\n<p style="padding:0 var(--g) 30px;color:var(--mute);font-size:13px">© <span id="yr"></span> Le Couple Photographe · Photographe de mariage Paris &amp; Île-de-France</p>\n<a class="stick" href="%s" data-cursor>Demander un devis</a>\n<script>window.SITE_GA=%s;</script>\n<script src="%s"></script>\n<script src="%s"></script>') % (href(depth,''), IG, pal, vil, cul, href(depth,'contact/'), json.dumps(GA_ID), asset(depth,'photos.js'), asset(depth,'app.js'))
+    return ('<footer class="ft"><div><a href="%s" class="logo">Le Couple Photographe</a><p>Photographes de mariage à Paris, en Île-de-France et partout en France.</p><p style="margin-top:14px"><a href="%s" target="_blank" rel="noopener">Instagram @le_couple_photographe</a></p></div><div><h4>Prestations</h4>%s</div><div><h4>Paris &amp; Île-de-France</h4>%s</div><div><h4>Lieux &amp; cultures</h4>%s</div></footer>\n<div class="big" aria-hidden="true">Le Couple</div>\n<p style="padding:0 var(--g) 30px;color:var(--mute);font-size:13px">© <span id="yr"></span> Le Couple Photographe · Photographe de mariage Paris &amp; Île-de-France · Mis à jour le 10 octobre 2026</p>\n<a class="stick" href="%s" data-cursor>Demander un devis</a>\n<script>window.SITE_GA=%s;</script>\n<script src="%s"></script>\n<script src="%s"></script>') % (href(depth,''), IG, pal, vil, cul, href(depth,'contact/'), json.dumps(GA_ID), asset(depth,'photos.js'), asset(depth,'app.js'))
 
 def img(i, alt, cls=''):
     return '<img data-ph="%d" alt="%s" loading="lazy"%s>' % (i, esc(alt,True), (' class="%s"'%cls if cls else ''))
@@ -177,9 +179,12 @@ def page(path, depth, title, desc, ld, body, home=False):
         doc = '<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n' + h + '</head>\n<body>\n' + body + '\n</body>\n</html>\n'
     open(out,'w',encoding='utf-8').write(doc)
 
-def hero(depth, crumbs, h1, lead, seed, alt):
+def answer(t): return '<aside class="answer"><b>En bref</b><p>%s</p></aside>' % esc(t)
+BRAND_DEF = "Le Couple Photographe est un duo de photographes et vidéastes"
+
+def hero(depth, crumbs, h1, lead, seed, alt, ans=''):
     c = ' <span>/</span> '.join('<a href="%s">%s</a>'%(href(depth,p),n) if p is not None else '<span>%s</span>'%n for n,p in crumbs)
-    return '<main><section class="ph"><nav class="crumb" aria-label="Fil d\'Ariane">%s</nav><h1>%s</h1><p class="lead">%s</p><div class="acts"><a class="btn" href="%s" data-cursor>Demander un devis</a><a class="btn alt" href="#details" data-cursor>En savoir plus</a></div></section><div class="hero-img">%s</div>' % (c, h1, lead, href(depth,'contact/'), img(seed, alt))
+    return '<main><section class="ph"><nav class="crumb" aria-label="Fil d\'Ariane">%s</nav><h1>%s</h1><p class="lead">%s</p><div class="acts"><a class="btn" href="%s" data-cursor>Demander un devis</a><a class="btn alt" href="#details" data-cursor>En savoir plus</a></div></section><div class="hero-img">%s</div>%s' % (c, h1, lead, href(depth,'contact/'), img(seed, alt), answer(ans) if ans else '')
 
 # ---------- pages palaces ----------
 def faq_palace(p):
@@ -195,7 +200,7 @@ def palace_pages():
         faqs=faq_palace(p)
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Palaces parisiens','palaces/'),(p['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe mariage %s"%p['name'],"provider":{"@type":"Photographer","name":NAME},"areaServed":"Paris"}]
         others=[(o['name'],'palaces/%s/'%o['slug']) for o in PALACES if o['slug']!=p['slug']][:6]
-        body = header(d)+hero(d,[('Accueil',''),('Palaces',"palaces/"),(p['name'],None)],'Photographe de mariage au <em>%s</em>'%esc(p['name']),esc(p['hook']),20+PALACES.index(p)%5,'Mariage au %s à Paris'%p['name'])
+        body = header(d)+hero(d,[('Accueil',''),('Palaces',"palaces/"),(p['name'],None)],'Photographe de mariage au <em>%s</em>'%esc(p['name']),esc(p['hook']),20+PALACES.index(p)%5,'Mariage au %s à Paris'%p['name'],ans='%s de mariage qui intervient à Paris et en Île-de-France. Pour un mariage au %s (%s), l\'équipe réalise un reportage photo et vidéo de la préparation à la soirée. Devis personnalisé sur demande.'%(BRAND_DEF,p['name'],p['addr']))
         body += '<section class="facts" id="details"><div><small>Adresse</small><b>%s</b></div><div><small>Quartier</small><b>%s</b></div><div><small>Prestation</small><b>Reportage de mariage</b></div><div><small>Livraison</small><b>Galerie privée en ligne</b></div></section>'%(esc(p['addr']),esc(p['area']))
         body += '<section class="cols"><div><div class="eyebrow">Le lieu</div><h2 style="margin-top:18px">Se marier au <em>%s</em></h2></div><div class="prose"><p>%s</p><h3>La lumière</h3><p>%s</p><h3>L\'organisation de la journée</h3><p>%s</p></div></section>'%(esc(p['name']),esc(p['lieu']),esc(p['lumiere']),esc(p['orga']))
         body += strip(30+PALACES.index(p)*4,'Photographe mariage %s'%p['name'])
@@ -219,7 +224,7 @@ def city_pages():
               ("Quelle lumière attendre à %s ?"%c['name'],c['lum'])]
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Villes',"villes/"),(c['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe mariage %s"%c['name'],"provider":{"@type":"Photographer","name":NAME},"areaServed":{"@type":"City","name":c['name']}}]
         others=[('Photographe mariage '+o['name'],'villes/%s/'%o['slug']) for o in CITIES if o['slug']!=c['slug']][:8]
-        body=header(d)+hero(d,[('Accueil',''),('Villes','villes/'),(c['name'],None)],'Photographe de mariage à <em>%s</em>'%esc(c['name']),esc(c['hook'])+' Reportage complet de votre mariage.',(1000 if c['slug']=='paris' else 60+i%6),'Mariage à %s'%c['name'])
+        body=header(d)+hero(d,[('Accueil',''),('Villes','villes/'),(c['name'],None)],'Photographe de mariage à <em>%s</em>'%esc(c['name']),esc(c['hook'])+' Reportage complet de votre mariage.',(1000 if c['slug']=='paris' else 60+i%6),'Mariage à %s'%c['name'],ans='%s de mariage qui intervient à Paris et se déplace dans toute la France. Pour un mariage à %s (%s), l\'équipe propose un reportage photo et vidéo complet. Lieux de prise de vue possibles : %s.'%(BRAND_DEF,c['name'],c['reg'],', '.join(c['lieux'])))
         body+='<section class="facts" id="details"><div><small>Ville</small><b>%s</b></div><div><small>Région</small><b>%s</b></div><div><small>Déplacement</small><b>Partout en France</b></div><div><small>Livraison</small><b>Galerie privée en ligne</b></div></section>'%(esc(c['name']),esc(c['reg']))
         body+='<section class="cols"><div><div class="eyebrow">Mariage à %s</div><h2 style="margin-top:18px">Votre mariage <em>à %s</em></h2></div><div class="prose"><p>%s Nous vous accompagnons de la préparation à la soirée, avec un reportage naturel et des portraits soignés.</p><h3>Où photographier à %s</h3><p>Parmi nos suggestions : %s.</p><h3>La lumière</h3><p>%s</p><h3>À prévoir</h3><p>%s</p></div></section>'%(esc(c['name']),esc(c['name']),esc(c['hook']),esc(c['name']),esc(', '.join(c['lieux'])),esc(c['lum']),esc(c['plan']))
         body+=strip(70+i*4,'Photographe de mariage %s'%c['name'])+faq_html(faqs)+cta(d)+links_block(d,'Autres villes',others+[('Toutes les villes','villes/')])+footer(d)
@@ -239,7 +244,7 @@ def culture_pages():
               ("Pouvez-vous photographier la soirée du henné ?","Oui, c'est un moment important que nous photographions volontiers, avec discrétion et respect de l'intimité de chacun."),
               ("Comment préparer notre mariage %s avec vous ?"%c['adj'],"Dites-nous les temps forts, les tenues et les personnes à ne pas oublier. Nous en tenons compte dans un planning que nous construisons avec vous.")]
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Cultures','cultures/'),(c['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe "+c['name'].lower(),"provider":{"@type":"Photographer","name":NAME},"areaServed":"Île-de-France"}]
-        body=header(d)+hero(d,[('Accueil',''),('Cultures','cultures/'),(c['name'],None)],'Photographe %s <em>à Paris et en Île-de-France</em>'%c['name'].lower(),esc(c['lead']),110+i,c['name'])
+        body=header(d)+hero(d,[('Accueil',''),('Cultures','cultures/'),(c['name'],None)],'Photographe %s <em>à Paris et en Île-de-France</em>'%c['name'].lower(),esc(c['lead']),110+i,c['name'],ans='%s qui réalise des reportages de %s à Paris et en Île-de-France, de la soirée du henné à la soirée dansante, en photo et en vidéo. Devis personnalisé sur demande.'%(BRAND_DEF,c['name'].lower()))
         body+='<section class="cols" id="details"><div><div class="eyebrow">Les temps forts</div><h2 style="margin-top:18px">Chaque tradition, <em>chaque détail</em></h2></div><div class="moments">%s</div></section>'%''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>'%(esc(a),esc(b)) for a,b in c['moments'])
         body+='<section class="cols"><div><div class="eyebrow">Conseils</div><h2 style="margin-top:18px">Bien <em>préparer</em></h2></div><div class="prose">%s<p>Nous intervenons à Paris, dans toute l\'Île-de-France et dans toute la France.</p></div></section>'%''.join('<p>%s</p>'%esc(t) for t in c['tips'])
         body+=strip(120+i*4,c['name'])+faq_html(faqs)+cta(d)+links_block(d,'À découvrir aussi',[(o['name'],'cultures/%s/'%o['slug']) for o in CULTURES if o['slug']!=c['slug']]+[('Photographe mariage Paris','villes/paris/'),('Palaces parisiens','palaces/')])+footer(d)
@@ -279,6 +284,7 @@ def home():
     from data_places import PLACES as _P
     sv='<section class="sec" aria-labelledby="sv"><div class="sec-h"><div class="eyebrow">Prestations</div><h2 id="sv">Photographe et vidéaste <em>pour chaque moment</em></h2></div><div class="tiles">%s</div></section>'%''.join('<a class="tile rv" href="%s" data-cursor><div class="im">%s</div><h3>%s</h3><span>Photo &amp; vidéo</span></a>'%(href(d,'services/%s/'%x['slug']),img(150+i,x['nom']),esc(x['name'])) for i,x in enumerate(_S))
     zn='<section class="sec" aria-labelledby="zn"><div class="sec-h"><div class="eyebrow">Paris &amp; Île-de-France</div><h2 id="zn">Votre photographe <em>dans votre ville</em></h2></div><div class="links">%s<a href="%s">Toutes les zones →</a></div></section>'%(''.join('<a href="%s">%s</a>'%(href(d,'zones/%s/'%x['slug']),esc(x['name'])) for x in _P),href(d,'zones/'))
+    main=main.replace('<section class="man"','<div style="padding:0 var(--g)">'+answer(BRAND_DEF+" à Paris et en Île-de-France : reportage de mariage (dont mariage marocain, tunisien et algérien), séance couple, famille, grossesse, naissance et nouveau-né, gender reveal, anniversaire, diplôme, portraits et événements professionnels. Photo et vidéo, devis personnalisé. Instagram : @le_couple_photographe.")+'</div><section class="man"',1)
     main=main.replace('<section class="sec" id="prestations"',sv+palaces+cult+vil+zn+'<section class="sec" id="prestations"')
     main=main.replace('href="#contact"','href="%s"'%href(d,'contact/'))
     main=re.sub(r'<footer>.*?</footer>','',main,flags=re.S)
@@ -290,7 +296,16 @@ def home():
 # ---------- fichiers techniques ----------
 def tech(urls):
     if ART: return
-    open('robots.txt','w').write('User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n'%DOMAIN)
+    ai=['GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','PerplexityBot','Google-Extended','Applebot-Extended']
+    open('robots.txt','w').write('User-agent: *\nAllow: /\n\n'+''.join('User-agent: %s\nAllow: /\n\n'%a for a in ai)+'Sitemap: %s/sitemap.xml\n'%DOMAIN)
+    from data_services import SERVICES as _S
+    from data_places import PLACES as _P
+    L=['# Le Couple Photographe','','> Duo de photographes et vidéastes à Paris et en Île-de-France : mariage (dont mariages marocain, tunisien, algérien), couple, famille, grossesse, naissance, nouveau-né, gender reveal, anniversaire, diplôme, portraits et événements professionnels. Photo et vidéo, devis personnalisé. Instagram : @le_couple_photographe.','','## Prestations']
+    L+=['- [%s](%s/services/%s/)'%(s['nom'],DOMAIN,s['slug']) for s in _S]
+    L+=['','## Zones couvertes (arrondissements de Paris et communes d\'Île-de-France)']
+    L+=['- [%s](%s/zones/%s/)'%(p['name'],DOMAIN,p['slug']) for p in _P]
+    L+=['','## Autres pages','- [Palaces parisiens](%s/palaces/)'%DOMAIN,'- [Villes de France](%s/villes/)'%DOMAIN,'- [Mariages marocain, tunisien, algérien](%s/cultures/)'%DOMAIN,'- [Demander un devis](%s/contact/)'%DOMAIN]
+    open('llms.txt','w',encoding='utf-8').write('\n'.join(L)+'\n')
     x='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>%s/%s</loc><priority>%s</priority></url>\n'%(DOMAIN,u,'1.0' if u=='' else '0.8') for u in urls)+'</urlset>\n'
     open('sitemap.xml','w').write(x)
 

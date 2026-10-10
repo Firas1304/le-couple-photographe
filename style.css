@@ -228,3 +228,8 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 .cookie div{display:flex;gap:10px}
 .cookie button{font:500 12px var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:12px 20px;border-radius:40px;border:1px solid #4a443c;background:transparent;color:var(--paper);cursor:pointer}
 .cookie #ck-yes{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+
+/* réponse directe (lisible par les assistants IA) */
+.answer{margin:0 var(--g) clamp(30px,5vw,60px);padding:22px 0 0;border-top:1px solid var(--gold);max-width:78ch}
+.answer b{display:block;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:400;margin-bottom:8px}
+.answer p{margin:0;font-size:clamp(16px,1.3vw,19px);line-height:1.6;color:var(--paper)}
