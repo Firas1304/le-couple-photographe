@@ -46,3 +46,12 @@ GitHub Pages via `.github/workflows/pages.yml` (build + déploiement à chaque p
 - Ajouter un lieu : l'ajouter dans `data_places.py`, régénérer les fiches (`content/briefs/`), faire écrire le JSON (un agent par lieu), valider, `python3 build.py`.
 - Contrôle d'unicité : `python3 check_unique.py` (dernier relevé : pages prestation × lieu, ressemblance moyenne 0,07, pire 0,28).
 - GEO : encadré « En bref » sur chaque page, JSON-LD enrichi, `llms.txt`, robots IA autorisés.
+
+## À faire en priorité (session locale sur le Mac, Chrome connecté à Google)
+Le propriétaire a demandé à Claude de s'en occuper seul (la session cloud n'a pas accès à son compte Google) :
+1. **Google Analytics 4** : créer compte + propriété + flux Web sur analytics.google.com, copier l'identifiant `G-XXXXXXXXXX` dans `GA_ID` (`build.py`).
+2. **Search Console** : ajouter la propriété (préfixe d'URL), récupérer le jeton de la balise meta dans `GSC_TOKEN` (`build.py`). Valider et soumettre `sitemap.xml` une fois le site en ligne.
+3. Puis `python3 build.py`, `git add -A`, commit, push.
+- Le nom de domaine est repoussé à la fin, une fois le site terminé (ne pas l'acheter ni toucher `DOMAIN` avant).
+- GitHub Pages : le déploiement échoue encore (404) tant que Settings > Pages > Source n'est pas « GitHub Actions » (dépôt public ou offre le permettant). Après activation, relancer le workflow « Déployer sur GitHub Pages ».
+- Photos : seules 4 vraies photos sont en place ; le reste est sur « DD Bleu » (à compresser et pousser depuis la session locale).
