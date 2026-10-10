@@ -33,3 +33,6 @@ Le propriétaire travaille en alternance sur le bureau (session locale, dossier 
 - Après CHAQUE mise à jour : régénérer (`python3 build.py`), `git add -A`, `git commit` avec un message clair, puis `git push`. Ne jamais laisser du travail seulement en local.
 - Ne pousser que des photos compressées (~250 Ko, 1600 px de large) ; les originaux restent sur le disque.
 - Ne pas créer de pull request sans demande explicite.
+
+## Déploiement
+GitHub Pages via `.github/workflows/pages.yml` (build + déploiement à chaque push sur main ou sur la branche de travail). Réglage à faire une fois dans GitHub : Settings > Pages > Source = « GitHub Actions ». Pour un domaine perso : créer un fichier `CNAME` à la racine avec le domaine, régler `DOMAIN` dans `build.py`, puis configurer les DNS chez le registrar.
