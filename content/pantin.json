@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "À Pantin, nous photographions et filmons votre mariage entre brique industrielle et eau calme. La façade des Grands Moulins, bâtiment de 1921, encadre une photo de groupe solide et graphique. Le long du Canal de l'Ourcq, les berges aménagées accueillent une marche main dans la main, que nous filmons de dos pour un teaser fluide. Pour un instant plus intime, les ruelles de la Cité Rurale offrent un premier regard à l'abri des passants, entre maisons basses.",
+  "scene": "À Pantin, nous photographions et filmons votre mariage entre la brique des Grands Moulins et l'eau calme du Canal de l'Ourcq. La façade des Grands Moulins, bâtiment de 1921, encadre une photo de groupe solide et graphique. Le long du Canal de l'Ourcq, les berges aménagées accueillent une marche main dans la main, que nous filmons de dos pour un teaser fluide. Pour un instant plus intime, les ruelles de la Cité Rurale offrent un premier regard à l'abri des passants, entre maisons basses.",
   "conseil": "Réservez les portraits de couple à la fin de l'après-midi, quand le Canal de l'Ourcq devient lumineux. Le métro Église de Pantin et le RER E Pantin facilitent l'arrivée des invités qui vous rejoignent pour les photos de groupe.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Pantin ?", "a": "Pour un mariage à Pantin, nous proposons les berges du Canal de l'Ourcq en fin d'après-midi, la brique des Grands Moulins pour un rendu architectural, et la Cité Rurale pour des portraits plus calmes entre maisons basses."},
-   {"q": "Peut-on filmer un mariage devant les Grands Moulins de Pantin ?", "a": "Oui, nous pouvons tourner des images de mariage devant les Grands Moulins de Pantin depuis l'espace public. Le bâtiment industriel de 1921 sert de décor aux plans larges. Nous vérifions avec vous les éventuelles règles du site avant le jour du mariage."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Pantin ?",
+    "a": "Pour un mariage à Pantin, nous proposons les berges du Canal de l'Ourcq en fin d'après-midi, la brique des Grands Moulins pour un rendu architectural, et la Cité Rurale pour des portraits plus calmes entre maisons basses."
+   },
+   {
+    "q": "Peut-on filmer un mariage devant les Grands Moulins de Pantin ?",
+    "a": "Oui, nous pouvons tourner des images de mariage devant les Grands Moulins de Pantin depuis l'espace public. Le bâtiment industriel de 1921 sert de décor aux plans larges. Nous vérifions avec vous les éventuelles règles du site avant le jour du mariage."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Le Parc Diderot de Pantin se prête bien à une séance grossesse au calme, à l'ombre des arbres. Sous ce feuillage, la lumière filtrée adoucit le ventre arrondi et les mains posées dessus. Ensuite, quelques pas sur les berges du Canal de l'Ourcq donnent une image plus ouverte, le regard vers l'eau. En vidéo, une courte séquence au ralenti garde les mots chuchotés au bébé. Les maisons basses de la Cité Rurale complètent la série avec un décor de village.",
+  "scene": "Pour un shooting grossesse à Pantin, le Parc Diderot offre un cadre calme, à l'ombre des arbres. Sous ce feuillage, la lumière filtrée adoucit le ventre arrondi et les mains posées dessus. Ensuite, quelques pas sur les berges du Canal de l'Ourcq donnent une image plus ouverte, le regard vers l'eau. En vidéo, une courte séquence au ralenti garde les mots chuchotés au bébé. Les maisons basses de la Cité Rurale complètent la série avec un décor de village.",
   "conseil": "Les journées chaudes, privilégiez l'ombre du Parc Diderot pour ménager la future maman. Choisissez une tenue souple et prévoyez des pauses assises : les distances entre les spots de Pantin restent courtes et se font à pied, sans fatigue inutile.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Pantin ?", "a": "Un shooting grossesse à Pantin peut se faire au Parc Diderot pour l'ombre et le calme, sur les berges du Canal de l'Ourcq pour la lumière de fin d'après-midi, ou dans la Cité Rurale pour un décor de maisons basses."},
-   {"q": "À quel moment de la grossesse faire une séance photo à Pantin ?", "a": "Une séance photo grossesse à Pantin se programme en général quand le ventre est bien arrondi et que la future maman se sent à l'aise pour marcher. Nous adaptons le parcours entre le Parc Diderot et le Canal de l'Ourcq à son confort."}
+   {
+    "q": "Où faire un shooting grossesse à Pantin ?",
+    "a": "Un shooting grossesse à Pantin peut se faire au Parc Diderot pour l'ombre et le calme, sur les berges du Canal de l'Ourcq pour la lumière de fin d'après-midi, ou dans la Cité Rurale pour un décor de maisons basses."
+   },
+   {
+    "q": "À quel moment de la grossesse faire une séance photo à Pantin ?",
+    "a": "Une séance photo grossesse à Pantin se programme en général quand le ventre est bien arrondi et que la future maman se sent à l'aise pour marcher. Nous adaptons le parcours entre le Parc Diderot et le Canal de l'Ourcq à son confort."
+   }
   ]
  },
  "couple": {
   "scene": "Une séance couple à Pantin associe l'eau du canal, la brique et des ruelles discrètes. Marchez le long du Canal de l'Ourcq en fin d'après-midi : la lumière dorée accompagne vos rires et nos images en mouvement. Adossez-vous ensuite au mur des Grands Moulins pour un portrait plus urbain, presque éditorial. Terminez dans la Cité Rurale, où les maisons basses créent une atmosphère de village propice aux confidences et aux gestes tendres.",
   "conseil": "Venez en métro jusqu'à Église de Pantin ou en RER E jusqu'à Pantin, puis rejoignez le Canal de l'Ourcq à pied. Le week-end, les berges sont fréquentées : nous choisissons alors des cadrages serrés pour garder votre bulle à deux.",
   "faq": [
-   {"q": "Où faire une séance photo couple à Pantin ?", "a": "Pour une séance photo couple à Pantin, nous aimons le Canal de l'Ourcq en fin d'après-midi, la façade de brique des Grands Moulins et les ruelles de la Cité Rurale. Les trois spots se rejoignent facilement à pied."},
-   {"q": "Peut-on faire des photos de fiançailles au bord du Canal de l'Ourcq à Pantin ?", "a": "Oui, les berges aménagées du Canal de l'Ourcq à Pantin conviennent bien à des photos de fiançailles. La fin d'après-midi offre la lumière la plus douce sur l'eau, et les Grands Moulins forment un arrière-plan reconnaissable."}
+   {
+    "q": "Où faire une séance photo couple à Pantin ?",
+    "a": "Pour une séance photo couple à Pantin, nous aimons le Canal de l'Ourcq en fin d'après-midi, la façade de brique des Grands Moulins et les ruelles de la Cité Rurale. Les trois spots se rejoignent facilement à pied."
+   },
+   {
+    "q": "Peut-on faire des photos de fiançailles au bord du Canal de l'Ourcq à Pantin ?",
+    "a": "Oui, les berges aménagées du Canal de l'Ourcq à Pantin conviennent bien à des photos de fiançailles. La fin d'après-midi offre la lumière la plus douce sur l'eau, et les Grands Moulins forment un arrière-plan reconnaissable."
+   }
   ]
  },
  "famille": {
-  "scene": "Pantin offre aux familles un parc ombragé et des ruelles tranquilles pour une séance photo sans contrainte. Au Parc Diderot, les enfants courent, grimpent sur les genoux des grands-parents et jouent pendant que nous captons les éclats de rire. Puis la Cité Rurale, avec ses maisons basses, donne un cadre de petit village pour une photo de groupe serrée. Un dernier arrêt au bord du Canal de l'Ourcq permet de filmer une promenade en famille, les plus petits sur les épaules.",
+  "scene": "Une séance photo de famille à Pantin se déroule sans contrainte entre le Parc Diderot, ombragé, et les ruelles tranquilles de la Cité Rurale. Au Parc Diderot, les enfants courent, grimpent sur les genoux des grands-parents et jouent pendant que nous captons les éclats de rire. Puis la Cité Rurale, avec ses maisons basses, donne un cadre de petit village pour une photo de groupe serrée. Un dernier arrêt au bord du Canal de l'Ourcq permet de filmer une promenade en famille, les plus petits sur les épaules.",
   "conseil": "Fixez la séance famille hors de l'heure de la sieste et commencez par le Parc Diderot, où l'ombre protège les enfants du soleil. Un goûter sur un banc du parc relance l'énergie avant de rejoindre la Cité Rurale.",
   "faq": [
-   {"q": "Quel lieu choisir pour une séance photo famille à Pantin ?", "a": "Pour une séance photo famille à Pantin, le Parc Diderot convient aux jeunes enfants grâce à son ombre. La Cité Rurale et le Canal de l'Ourcq complètent la séance avec un décor de village et une promenade au bord de l'eau."},
-   {"q": "Comment venir à une séance photo famille à Pantin sans voiture ?", "a": "Une séance photo famille à Pantin se rejoint en métro à la station Église de Pantin ou en RER E à la gare de Pantin. Les spots comme le Parc Diderot et le Canal de l'Ourcq se parcourent ensuite à pied."}
+   {
+    "q": "Quel lieu choisir pour une séance photo famille à Pantin ?",
+    "a": "Pour une séance photo famille à Pantin, le Parc Diderot convient aux jeunes enfants grâce à son ombre. La Cité Rurale et le Canal de l'Ourcq complètent la séance avec un décor de village et une promenade au bord de l'eau."
+   },
+   {
+    "q": "Comment venir à une séance photo famille à Pantin sans voiture ?",
+    "a": "Une séance photo famille à Pantin se rejoint en métro à la station Église de Pantin ou en RER E à la gare de Pantin. Les spots comme le Parc Diderot et le Canal de l'Ourcq se parcourent ensuite à pied."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Rose ou bleu, à Pantin ? Le Parc Diderot accueille un gender reveal en plein air, avec assez d'espace pour réunir vos proches en cercle. Nous nous plaçons face à vous pour saisir les réactions à la seconde où la couleur apparaît, tandis qu'un second angle filme les invités. Avant la révélation, quelques portraits complices au bord du Canal de l'Ourcq créent une jolie entrée en matière. Les berges dégagées font ressortir les couleurs choisies.",
+  "scene": "Un gender reveal à Pantin peut se tenir au Parc Diderot, en plein air, avec assez d'espace pour réunir vos proches en cercle. Nous nous plaçons face à vous pour saisir les réactions à la seconde où la couleur apparaît, tandis qu'un second angle filme les invités. Avant la révélation, quelques portraits complices au bord du Canal de l'Ourcq créent une jolie entrée en matière. Les berges dégagées font ressortir les couleurs choisies.",
   "conseil": "Vérifiez auprès de la ville de Pantin les règles du Parc Diderot et des berges du Canal de l'Ourcq pour les confettis, fumigènes et ballons. Testez votre dispositif la veille et privilégiez une révélation en fin d'après-midi, quand la lumière reste belle.",
   "faq": [
-   {"q": "Où organiser un gender reveal à Pantin ?", "a": "Un gender reveal à Pantin peut se faire au Parc Diderot ou sur les berges du Canal de l'Ourcq, deux espaces dégagés. Pensez à vérifier les règles du lieu concernant les confettis, les fumigènes et les ballons avant la fête."},
-   {"q": "Les fumigènes sont-ils autorisés pour un gender reveal au Canal de l'Ourcq à Pantin ?", "a": "Pour un gender reveal au Canal de l'Ourcq à Pantin, les fumigènes, confettis et ballons dépendent des règles en vigueur sur les berges. Renseignez-vous auprès de la mairie de Pantin avant la séance ; nous adaptons la mise en scène à la réponse."}
+   {
+    "q": "Où organiser un gender reveal à Pantin ?",
+    "a": "Un gender reveal à Pantin peut se faire au Parc Diderot ou sur les berges du Canal de l'Ourcq, deux espaces dégagés. Pensez à vérifier les règles du lieu concernant les confettis, les fumigènes et les ballons avant la fête."
+   },
+   {
+    "q": "Les fumigènes sont-ils autorisés pour un gender reveal au Canal de l'Ourcq à Pantin ?",
+    "a": "Pour un gender reveal au Canal de l'Ourcq à Pantin, les fumigènes, confettis et ballons dépendent des règles en vigueur sur les berges. Renseignez-vous auprès de la mairie de Pantin avant la séance ; nous adaptons la mise en scène à la réponse."
+   }
   ]
  },
  "professionnels": {
   "scene": "Pour des portraits professionnels à Pantin, la brique des Grands Moulins apporte un fond sobre et structuré. Devant ce bâtiment industriel de 1921, nous réalisons des portraits LinkedIn nets, cadrés à hauteur d'épaules. Les berges du Canal de l'Ourcq servent aux photos d'équipe plus détendues, en marche, et à de courtes vidéos de présentation. Si votre activité se veut plus créative, la Cité Rurale ajoute une touche intime pour un portrait de dirigeant ou d'indépendant.",
   "conseil": "Demandez à vos collaborateurs d'éviter les motifs chargés : la brique des Grands Moulins est déjà texturée. Une séance en fin d'après-midi au Canal de l'Ourcq donne une lumière flatteuse, utile pour vos photos de site et vos profils LinkedIn.",
   "faq": [
-   {"q": "Où faire une photo LinkedIn en extérieur à Pantin ?", "a": "Une photo LinkedIn en extérieur à Pantin peut se faire devant la façade de brique des Grands Moulins, au rendu sobre et professionnel, ou sur les berges du Canal de l'Ourcq pour un portrait plus ouvert et lumineux."},
-   {"q": "Quel photographe choisir pour les portraits d'équipe d'une entreprise à Pantin ?", "a": "Pour les portraits d'équipe d'une entreprise à Pantin, choisissez un photographe qui connaît les décors de la ville et livre les formats adaptés à votre site et à LinkedIn. Nous pouvons travailler dans vos locaux ou aux Grands Moulins."}
+   {
+    "q": "Où faire une photo LinkedIn en extérieur à Pantin ?",
+    "a": "Une photo LinkedIn en extérieur à Pantin peut se faire devant la façade de brique des Grands Moulins, au rendu sobre et professionnel, ou sur les berges du Canal de l'Ourcq pour un portrait plus ouvert et lumineux."
+   },
+   {
+    "q": "Quel photographe choisir pour les portraits d'équipe d'une entreprise à Pantin ?",
+    "a": "Pour les portraits d'équipe d'une entreprise à Pantin, choisissez un photographe qui connaît les décors de la ville et livre les formats adaptés à votre site et à LinkedIn. Nous pouvons travailler dans vos locaux ou aux Grands Moulins."
+   }
   ]
  },
  "evenements-professionnels": {
   "scene": "Séminaire, conférence ou soirée de lancement à Pantin : nous couvrons l'événement en photo et en vidéo, avec discrétion. Les intervenants sont saisis en pleine prise de parole, puis les échanges informels entre participants. À l'extérieur, la façade des Grands Moulins se prête à une photo de groupe de toute l'équipe. Une pause au bord du Canal de l'Ourcq donne des images plus respirantes pour vos réseaux, et un film récapitulatif rassemble les temps forts.",
   "conseil": "Envoyez-nous le programme minuté et la liste des personnes clés. Pour la photo de groupe devant les Grands Moulins, prévoyez-la avant la tombée du jour. Indiquez aux participants l'accès par le métro Église de Pantin ou le RER E Pantin.",
   "faq": [
-   {"q": "Quel photographe choisir pour un séminaire d'entreprise à Pantin ?", "a": "Pour un séminaire d'entreprise à Pantin, choisissez une équipe qui couvre à la fois la photo et la vidéo, travaille avec discrétion et connaît les décors extérieurs comme les Grands Moulins ou le Canal de l'Ourcq pour les photos de groupe."},
-   {"q": "Peut-on faire une vidéo d'événement d'entreprise au bord du Canal de l'Ourcq ?", "a": "Oui, une vidéo d'événement d'entreprise peut inclure des plans tournés au bord du Canal de l'Ourcq à Pantin, par exemple pendant une pause ou un cocktail. Les berges aménagées offrent un décor ouvert, lumineux en fin d'après-midi."}
+   {
+    "q": "Quel photographe choisir pour un séminaire d'entreprise à Pantin ?",
+    "a": "Pour un séminaire d'entreprise à Pantin, choisissez une équipe qui couvre à la fois la photo et la vidéo, travaille avec discrétion et connaît les décors extérieurs comme les Grands Moulins ou le Canal de l'Ourcq pour les photos de groupe."
+   },
+   {
+    "q": "Peut-on faire une vidéo d'événement d'entreprise au bord du Canal de l'Ourcq ?",
+    "a": "Oui, une vidéo d'événement d'entreprise peut inclure des plans tournés au bord du Canal de l'Ourcq à Pantin, par exemple pendant une pause ou un cocktail. Les berges aménagées offrent un décor ouvert, lumineux en fin d'après-midi."
+   }
   ]
  },
  "solo": {
-  "scene": "Envie de vous retrouver au centre de l'image ? Un portrait solo à Pantin se vit comme une balade entre canal, brique et ruelles. Sur les berges du Canal de l'Ourcq, vous avancez à votre rythme pendant que nous filmons quelques plans en mouvement. La brique des Grands Moulins donne un décor graphique pour des portraits affirmés. Les ruelles de la Cité Rurale apportent ensuite une ambiance plus douce, idéale pour un changement de tenue.",
+  "scene": "Un portrait solo à Pantin se vit comme une balade entre le Canal de l'Ourcq, la brique des Grands Moulins et les ruelles de la Cité Rurale. Sur les berges du Canal de l'Ourcq, vous avancez à votre rythme pendant que nous filmons quelques plans en mouvement. La brique des Grands Moulins donne un décor graphique pour des portraits affirmés. Les ruelles de la Cité Rurale apportent ensuite une ambiance plus douce, idéale pour un changement de tenue.",
   "conseil": "Apportez deux ou trois tenues : une plus urbaine pour les Grands Moulins, une plus légère pour le Canal de l'Ourcq. Visez la fin d'après-midi, quand le canal devient lumineux, et arrivez un peu en avance pour vous détendre.",
   "faq": [
-   {"q": "Où faire un shooting photo solo à Pantin ?", "a": "Un shooting photo solo à Pantin peut enchaîner le Canal de l'Ourcq, la façade de brique des Grands Moulins et les ruelles de la Cité Rurale. Ce parcours à pied mélange ambiance industrielle et coins plus intimes."},
-   {"q": "Faut-il être à l'aise devant l'objectif pour un portrait solo à Pantin ?", "a": "Non, un portrait solo à Pantin ne demande aucune expérience. La séance se déroule comme une promenade le long du Canal de l'Ourcq, et nous guidons chaque posture pour que vous restiez naturel."}
+   {
+    "q": "Où faire un shooting photo solo à Pantin ?",
+    "a": "Un shooting photo solo à Pantin peut enchaîner le Canal de l'Ourcq, la façade de brique des Grands Moulins et les ruelles de la Cité Rurale. Ce parcours à pied mélange ambiance industrielle et coins plus intimes."
+   },
+   {
+    "q": "Faut-il être à l'aise devant l'objectif pour un portrait solo à Pantin ?",
+    "a": "Non, un portrait solo à Pantin ne demande aucune expérience. La séance se déroule comme une promenade le long du Canal de l'Ourcq, et nous guidons chaque posture pour que vous restiez naturel."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Trente bougies, soixante ans ou premier anniversaire : à Pantin, la fête peut commencer par une séance photo en plein air. Rassemblez vos invités au Parc Diderot pour une grande photo de groupe à l'ombre, avant le gâteau. Une balade joyeuse le long du Canal de l'Ourcq donne de belles images spontanées, filmées en petites séquences. Pour les amateurs de décor industriel, un portrait devant les Grands Moulins marque le cap de la nouvelle année.",
+  "scene": "Un anniversaire à Pantin, trente bougies, soixante ans ou première année, peut commencer par une séance photo en plein air. Rassemblez vos invités au Parc Diderot pour une grande photo de groupe à l'ombre, avant le gâteau. Une balade joyeuse le long du Canal de l'Ourcq donne de belles images spontanées, filmées en petites séquences. Pour les amateurs de décor industriel, un portrait devant les Grands Moulins marque le cap de la nouvelle année.",
   "conseil": "Prévoyez la photo de groupe au Parc Diderot en début de fête, quand tout le monde est encore frais. Si la soirée se poursuit au bord du Canal de l'Ourcq, profitez de la fin d'après-midi pour les portraits avant la nuit.",
   "faq": [
-   {"q": "Où fêter un anniversaire en extérieur avec un photographe à Pantin ?", "a": "Pour un anniversaire en extérieur à Pantin, le Parc Diderot offre de l'ombre et de l'espace pour une photo de groupe. Les berges du Canal de l'Ourcq conviennent ensuite à une balade festive filmée en fin d'après-midi."},
-   {"q": "Peut-on faire filmer un anniversaire de 30 ans à Pantin ?", "a": "Oui, un anniversaire de 30 ans à Pantin peut être filmé en plus des photos. Nous réalisons un court film des temps forts : arrivée des invités, discours, gâteau, avec quelques plans au Canal de l'Ourcq ou aux Grands Moulins."}
+   {
+    "q": "Où fêter un anniversaire en extérieur avec un photographe à Pantin ?",
+    "a": "Pour un anniversaire en extérieur à Pantin, le Parc Diderot offre de l'ombre et de l'espace pour une photo de groupe. Les berges du Canal de l'Ourcq conviennent ensuite à une balade festive filmée en fin d'après-midi."
+   },
+   {
+    "q": "Peut-on faire filmer un anniversaire de 30 ans à Pantin ?",
+    "a": "Oui, un anniversaire de 30 ans à Pantin peut être filmé en plus des photos. Nous réalisons un court film des temps forts : arrivée des invités, discours, gâteau, avec quelques plans au Canal de l'Ourcq ou aux Grands Moulins."
+   }
   ]
  },
  "diplome": {
-  "scene": "Diplôme en poche, vous pouvez célébrer cette réussite à Pantin avec une séance photo fière et décontractée. Lancez votre toque devant la brique des Grands Moulins : le bâtiment de 1921 souligne le sérieux du parcours accompli. Sur les berges du Canal de l'Ourcq, une marche avec vos proches donne des images en mouvement pleines d'émotion. Le Parc Diderot complète la série avec un portrait de famille à l'ombre, diplôme en main.",
+  "scene": "Pour des photos de remise de diplôme à Pantin, nous proposons une séance fière et décontractée, diplôme en poche. Lancez votre toque devant la brique des Grands Moulins : le bâtiment de 1921 souligne le sérieux du parcours accompli. Sur les berges du Canal de l'Ourcq, une marche avec vos proches donne des images en mouvement pleines d'émotion. Le Parc Diderot complète la série avec un portrait de famille à l'ombre, diplôme en main.",
   "conseil": "Prévoyez la séance après la cérémonie, en fin d'après-midi, quand le Canal de l'Ourcq est lumineux. Gardez votre toge et votre diplôme à portée de main, et apportez une tenue soignée à porter dessous pour les portraits aux Grands Moulins.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Pantin ?", "a": "Des photos de remise de diplôme à Pantin peuvent se faire devant les Grands Moulins pour un décor de brique, sur les berges du Canal de l'Ourcq pour des images en mouvement, et au Parc Diderot pour un portrait familial."},
-   {"q": "Peut-on lancer sa toque devant les Grands Moulins de Pantin ?", "a": "Oui, le lancer de toque devant les Grands Moulins de Pantin se fait depuis l'espace public. Nous déclenchons en rafale et filmons au ralenti pour garder le geste. Évitez les heures de passage important pour plus de liberté."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Pantin ?",
+    "a": "Des photos de remise de diplôme à Pantin peuvent se faire devant les Grands Moulins pour un décor de brique, sur les berges du Canal de l'Ourcq pour des images en mouvement, et au Parc Diderot pour un portrait familial."
+   },
+   {
+    "q": "Peut-on lancer sa toque devant les Grands Moulins de Pantin ?",
+    "a": "Oui, le lancer de toque devant les Grands Moulins de Pantin se fait depuis l'espace public. Nous déclenchons en rafale et filmons au ralenti pour garder le geste. Évitez les heures de passage important pour plus de liberté."
+   }
   ]
  },
  "naissance": {
   "scene": "Un reportage de naissance pour une famille de Pantin se déroule avec douceur et discrétion. La prise de vue en maternité dépend toujours de l'accord de l'établissement : nous suivons ses consignes. Quelques heures plus tard, le retour à la maison devient une séquence tendre. Lorsque la jeune maman est prête, une première sortie au Parc Diderot, à l'ombre, ou sur les berges paisibles du Canal de l'Ourcq offre une photo de famille en plein air.",
   "conseil": "Renseignez-vous auprès de la maternité sur ses règles de photo et de vidéo bien avant le terme. Pour une première sortie à Pantin, choisissez le Parc Diderot, ombragé et calme, et attendez que la maman soit reposée.",
   "faq": [
-   {"q": "Peut-on faire un reportage photo de naissance en maternité pour une famille de Pantin ?", "a": "Un reportage photo de naissance en maternité pour une famille de Pantin dépend de l'accord de l'établissement. Nous vous invitons à vérifier ses règles à l'avance. À défaut, le reportage peut se faire au retour à la maison."},
-   {"q": "Où faire une première photo en extérieur avec bébé à Pantin ?", "a": "Une première photo en extérieur avec bébé à Pantin peut se faire au Parc Diderot, ombragé et calme, ou sur les berges du Canal de l'Ourcq. Attendez que la maman soit reposée et gardez la sortie courte."}
+   {
+    "q": "Peut-on faire un reportage photo de naissance en maternité pour une famille de Pantin ?",
+    "a": "Un reportage photo de naissance en maternité pour une famille de Pantin dépend de l'accord de l'établissement. Nous vous invitons à vérifier ses règles à l'avance. À défaut, le reportage peut se faire au retour à la maison."
+   },
+   {
+    "q": "Où faire une première photo en extérieur avec bébé à Pantin ?",
+    "a": "Une première photo en extérieur avec bébé à Pantin peut se faire au Parc Diderot, ombragé et calme, ou sur les berges du Canal de l'Ourcq. Attendez que la maman soit reposée et gardez la sortie courte."
+   }
   ]
  },
  "nouveau-ne": {
   "scene": "Une séance nouveau-né à Pantin se déroule d'abord chez vous, dans une pièce chauffée et calme. Le bébé dort pendant que nous photographions ses plis, ses mains et ses cils. Une courte vidéo garde ses petits bruits et les gestes des parents. Si vous le souhaitez et si la météo est douce, une brève sortie dans les ruelles de la Cité Rurale ou à l'ombre du Parc Diderot ajoute une image de famille dans votre quartier.",
   "conseil": "Chauffez la pièce à environ 25 degrés et nourrissez le bébé juste avant notre arrivée. Une éventuelle sortie au Parc Diderot reste courte, à l'ombre, et seulement si le temps est doux et que les parents se sentent prêts.",
   "faq": [
-   {"q": "Un photographe nouveau-né se déplace-t-il à domicile à Pantin ?", "a": "Oui, une séance nouveau-né à Pantin se fait à domicile. Nous apportons le matériel et travaillons dans une pièce chauffée, au rythme du bébé, sans le déplacer. Une courte vidéo peut compléter les photos."},
-   {"q": "Quand faire une séance photo nouveau-né à Pantin ?", "a": "Une séance photo nouveau-né à Pantin se programme de préférence dans les premiers jours de vie, quand le bébé dort beaucoup. Nous fixons la date avec vous après la naissance, selon votre fatigue et votre rythme."}
+   {
+    "q": "Un photographe nouveau-né se déplace-t-il à domicile à Pantin ?",
+    "a": "Oui, une séance nouveau-né à Pantin se fait à domicile. Nous apportons le matériel et travaillons dans une pièce chauffée, au rythme du bébé, sans le déplacer. Une courte vidéo peut compléter les photos."
+   },
+   {
+    "q": "Quand faire une séance photo nouveau-né à Pantin ?",
+    "a": "Une séance photo nouveau-né à Pantin se programme de préférence dans les premiers jours de vie, quand le bébé dort beaucoup. Nous fixons la date avec vous après la naissance, selon votre fatigue et votre rythme."
+   }
   ]
  }
 }

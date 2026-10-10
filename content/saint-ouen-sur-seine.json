@@ -3,96 +3,168 @@
   "scene": "Le couple photographe et vidéaste réalise votre reportage de mariage à Saint-Ouen-sur-Seine, entre brique, antiquités et bords de Seine. La sortie de la Mairie de Saint-Ouen offre une façade Art déco pour la pluie de pétales et les premières embrassades familiales. Ensuite, les portraits de couple se glissent dans les allées du Marché aux puces, au milieu des miroirs anciens et des fauteuils patinés. Le film se termine au Parc des Docks, où la Seine accompagne une marche lente main dans la main.",
   "conseil": "Les allées du Marché aux puces sont lumineuses le matin et plus animées ensuite. Pour des portraits de mariés au calme, placez la séance entre les antiquaires avant la cérémonie, puis gardez la fin de journée pour le Parc des Docks.",
   "faq": [
-   {"q": "Peut-on faire des photos de mariage à la Mairie de Saint-Ouen ?", "a": "Oui, la façade Art déco de la Mairie de Saint-Ouen se prête bien aux photos de sortie de mariage civil. Nous vous conseillons de vérifier auprès de la mairie les consignes pour la photo et la vidéo pendant la cérémonie."},
-   {"q": "Où faire les photos de couple d'un mariage à Saint-Ouen-sur-Seine ?", "a": "À Saint-Ouen-sur-Seine, nous proposons aux mariés trois décors proches : les allées d'antiquaires du Marché aux puces, la brique des Docks de Saint-Ouen et les pelouses du Parc des Docks au bord de la Seine."}
+   {
+    "q": "Peut-on faire des photos de mariage à la Mairie de Saint-Ouen ?",
+    "a": "Oui, la façade Art déco de la Mairie de Saint-Ouen se prête bien aux photos de sortie de mariage civil. Nous vous conseillons de vérifier auprès de la mairie les consignes pour la photo et la vidéo pendant la cérémonie."
+   },
+   {
+    "q": "Où faire les photos de couple d'un mariage à Saint-Ouen-sur-Seine ?",
+    "a": "À Saint-Ouen-sur-Seine, nous proposons aux mariés trois décors proches : les allées d'antiquaires du Marché aux puces, la brique des Docks de Saint-Ouen et les pelouses du Parc des Docks au bord de la Seine."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Un shooting grossesse à Saint-Ouen-sur-Seine peut associer la douceur de la Seine et le charme des objets chinés. Au Parc des Docks, la future maman pose les mains sur son ventre face à l'eau, dans une lumière ouverte. Plus loin, un vieux fauteuil du Marché aux puces devient un siège de pause, entouré de cadres dorés et de tissus anciens. Quelques plans filmés au ralenti gardent le tissu de la robe qui bouge et le regard porté vers le ventre.",
+  "scene": "Un shooting grossesse à Saint-Ouen-sur-Seine associe la douceur de la Seine, au Parc des Docks, et le charme des objets chinés du Marché aux puces. Au Parc des Docks, la future maman pose les mains sur son ventre face à l'eau, dans une lumière ouverte. Plus loin, un vieux fauteuil du Marché aux puces devient un siège de pause, entouré de cadres dorés et de tissus anciens. Quelques plans filmés au ralenti gardent le tissu de la robe qui bouge et le regard porté vers le ventre.",
   "conseil": "Les allées du Marché aux puces demandent de marcher un peu entre les stands. En fin de grossesse, privilégiez une séance courte au Parc des Docks, qui reste plat et dégagé, avec des bancs pour souffler entre deux poses.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Saint-Ouen-sur-Seine ?", "a": "Pour un shooting grossesse à Saint-Ouen-sur-Seine, le Parc des Docks offre un cadre plat et lumineux au bord de la Seine. Le Marché aux puces ajoute un décor vintage, avec du mobilier ancien pour des poses assises confortables."},
-   {"q": "Un shooting grossesse au Marché aux puces de Saint-Ouen est-il fatigant ?", "a": "Un shooting grossesse au Marché aux puces de Saint-Ouen reste doux si nous limitons la marche à quelques allées. Nous prévoyons des pauses assises et terminons volontiers au Parc des Docks, plus calme et facile d'accès."}
+   {
+    "q": "Où faire un shooting grossesse à Saint-Ouen-sur-Seine ?",
+    "a": "Pour un shooting grossesse à Saint-Ouen-sur-Seine, le Parc des Docks offre un cadre plat et lumineux au bord de la Seine. Le Marché aux puces ajoute un décor vintage, avec du mobilier ancien pour des poses assises confortables."
+   },
+   {
+    "q": "Un shooting grossesse au Marché aux puces de Saint-Ouen est-il fatigant ?",
+    "a": "Un shooting grossesse au Marché aux puces de Saint-Ouen reste doux si nous limitons la marche à quelques allées. Nous prévoyons des pauses assises et terminons volontiers au Parc des Docks, plus calme et facile d'accès."
+   }
   ]
  },
  "couple": {
-  "scene": "Chiner à deux : voilà l'idée de notre séance couple à Saint-Ouen-sur-Seine. Vous flânez dans les allées du Marché aux puces, vous essayez un chapeau ancien, vous riez devant un miroir piqué. Ces petits gestes complices font de belles images. La brique rouge des Docks de Saint-Ouen donne ensuite un fond brut pour des portraits plus graphiques. Un court teaser monté sur vos rires peut accompagner les photos, à partager avec vos proches.",
+  "scene": "Une séance couple à Saint-Ouen-sur-Seine se vit comme une chine à deux, entre le Marché aux puces et les Docks de Saint-Ouen. Vous flânez dans les allées du Marché aux puces, vous essayez un chapeau ancien, vous riez devant un miroir piqué. Ces petits gestes complices font de belles images. La brique rouge des Docks de Saint-Ouen donne ensuite un fond brut pour des portraits plus graphiques. Un court teaser monté sur vos rires peut accompagner les photos, à partager avec vos proches.",
   "conseil": "Venez au Marché aux puces en matinée : les ruelles sont lumineuses et vous profitez des stands avant l'affluence. Des tenues aux couleurs chaudes s'accordent avec la brique des Docks de Saint-Ouen et les bois anciens.",
   "faq": [
-   {"q": "Quel photographe choisir pour une séance couple à Saint-Ouen-sur-Seine ?", "a": "Pour une séance couple à Saint-Ouen-sur-Seine, choisissez un photographe qui connaît l'ambiance chinée du Marché aux puces et la brique des Docks de Saint-Ouen. Le Couple Photographe propose photos et vidéo, avec une approche naturelle et complice."},
-   {"q": "Peut-on faire des photos de fiançailles au Marché aux puces de Saint-Ouen ?", "a": "Oui, le Marché aux puces de Saint-Ouen convient aux photos de fiançailles. Ses allées d'antiquaires offrent des décors variés. Nous restons discrets avec les marchands et choisissons les stands où la prise de vue ne gêne personne."}
+   {
+    "q": "Quel photographe choisir pour une séance couple à Saint-Ouen-sur-Seine ?",
+    "a": "Pour une séance couple à Saint-Ouen-sur-Seine, choisissez un photographe qui connaît l'ambiance chinée du Marché aux puces et la brique des Docks de Saint-Ouen. Le Couple Photographe propose photos et vidéo, avec une approche naturelle et complice."
+   },
+   {
+    "q": "Peut-on faire des photos de fiançailles au Marché aux puces de Saint-Ouen ?",
+    "a": "Oui, le Marché aux puces de Saint-Ouen convient aux photos de fiançailles. Ses allées d'antiquaires offrent des décors variés. Nous restons discrets avec les marchands et choisissons les stands où la prise de vue ne gêne personne."
+   }
   ]
  },
  "famille": {
-  "scene": "Nous proposons aux familles une séance photo à Saint-Ouen-sur-Seine pensée comme une promenade du dimanche. Les enfants courent sur les pelouses du Parc des Docks pendant que les parents suivent au bord de la Seine. Une halte au Marché aux puces amuse les petits : vieux jouets, malles, globes terrestres deviennent des accessoires de jeu. Pour finir, une photo de groupe devant les Docks de Saint-Ouen rassemble grands-parents et petits-enfants sur un fond de brique.",
+  "scene": "Pour une séance photo de famille à Saint-Ouen-sur-Seine, nous proposons une promenade du dimanche entre le Parc des Docks et le Marché aux puces. Les enfants courent sur les pelouses du Parc des Docks pendant que les parents suivent au bord de la Seine. Une halte au Marché aux puces amuse les petits : vieux jouets, malles, globes terrestres deviennent des accessoires de jeu. Pour finir, une photo de groupe devant les Docks de Saint-Ouen rassemble grands-parents et petits-enfants sur un fond de brique.",
   "conseil": "Avec des enfants en poussette, le Parc des Docks est plus pratique que les allées étroites du Marché aux puces. Commencez par le parc pendant que les petits ont de l'énergie, et gardez la courte visite des antiquaires pour la fin.",
   "faq": [
-   {"q": "Où faire une séance photo de famille à Saint-Ouen-sur-Seine ?", "a": "Pour une séance photo de famille à Saint-Ouen-sur-Seine, le Parc des Docks offre de l'espace pour jouer au bord de la Seine. Les Docks de Saint-Ouen et le Marché aux puces complètent la séance avec de la brique et du vintage."},
-   {"q": "Une séance famille au Parc des Docks convient-elle aux jeunes enfants ?", "a": "Oui, une séance famille au Parc des Docks de Saint-Ouen convient aux jeunes enfants. Le parc est ouvert, les pelouses laissent courir les petits et nous adaptons le rythme de la séance photo aux siestes et aux goûters."}
+   {
+    "q": "Où faire une séance photo de famille à Saint-Ouen-sur-Seine ?",
+    "a": "Pour une séance photo de famille à Saint-Ouen-sur-Seine, le Parc des Docks offre de l'espace pour jouer au bord de la Seine. Les Docks de Saint-Ouen et le Marché aux puces complètent la séance avec de la brique et du vintage."
+   },
+   {
+    "q": "Une séance famille au Parc des Docks convient-elle aux jeunes enfants ?",
+    "a": "Oui, une séance famille au Parc des Docks de Saint-Ouen convient aux jeunes enfants. Le parc est ouvert, les pelouses laissent courir les petits et nous adaptons le rythme de la séance photo aux siestes et aux goûters."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Fille ou garçon ? À Saint-Ouen-sur-Seine, le Parc des Docks se prête à un gender reveal en plein air, avec de l'espace pour réunir vos proches. Les couleurs révélées ressortent sur le vert des pelouses et le gris de la Seine. Pour un rendu plus urbain, la brique des Docks de Saint-Ouen sert de fond au moment de l'annonce. Nous filmons les réactions des invités en séquence continue, puis composons quelques portraits festifs du futur trio.",
+  "scene": "Un gender reveal à Saint-Ouen-sur-Seine trouve sa place au Parc des Docks, en plein air, avec de l'espace pour réunir vos proches. Les couleurs révélées ressortent sur le vert des pelouses et le gris de la Seine. Pour un rendu plus urbain, la brique des Docks de Saint-Ouen sert de fond au moment de l'annonce. Nous filmons les réactions des invités en séquence continue, puis composons quelques portraits festifs du futur trio.",
   "conseil": "Avant la fête, vérifiez les règles du Parc des Docks pour les confettis, fumigènes et ballons. Ramassez ensuite chaque débris coloré. Un essai du canon ou de la boîte à ballons évite les ratés au moment clé.",
   "faq": [
-   {"q": "Peut-on faire un gender reveal au Parc des Docks de Saint-Ouen ?", "a": "Un gender reveal au Parc des Docks de Saint-Ouen est envisageable en petit comité. Vérifiez au préalable auprès de la ville les règles du parc pour les confettis, fumigènes et ballons, et laissez les lieux propres après l'annonce."},
-   {"q": "Où organiser une séance gender reveal à Saint-Ouen-sur-Seine ?", "a": "Pour une séance gender reveal à Saint-Ouen-sur-Seine, nous pouvons vous accompagner au Parc des Docks pour l'espace, ou devant les Docks de Saint-Ouen pour un fond de brique. Les règles de chaque lieu sur les ballons et fumigènes restent à vérifier."}
+   {
+    "q": "Peut-on faire un gender reveal au Parc des Docks de Saint-Ouen ?",
+    "a": "Un gender reveal au Parc des Docks de Saint-Ouen est envisageable en petit comité. Vérifiez au préalable auprès de la ville les règles du parc pour les confettis, fumigènes et ballons, et laissez les lieux propres après l'annonce."
+   },
+   {
+    "q": "Où organiser une séance gender reveal à Saint-Ouen-sur-Seine ?",
+    "a": "Pour une séance gender reveal à Saint-Ouen-sur-Seine, nous pouvons vous accompagner au Parc des Docks pour l'espace, ou devant les Docks de Saint-Ouen pour un fond de brique. Les règles de chaque lieu sur les ballons et fumigènes restent à vérifier."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Portraits d'entreprise, photos d'équipe et vidéos de présentation : nous les réalisons à Saint-Ouen-sur-Seine, dans un décor qui raconte un savoir-faire. Les artisans, créateurs et antiquaires peuvent poser dans leur stand du Marché aux puces, entourés de leurs objets. Les startups préfèrent souvent la brique des Docks de Saint-Ouen, sobre et contemporaine pour LinkedIn. Une courte interview filmée au Parc des Docks complète la page « À propos » de votre site.",
+  "scene": "Nous réalisons portraits professionnels, photos d'équipe et vidéos de présentation à Saint-Ouen-sur-Seine, dans des décors qui racontent un savoir-faire. Les artisans, créateurs et antiquaires peuvent poser dans leur stand du Marché aux puces, entourés de leurs objets. Les startups préfèrent souvent la brique des Docks de Saint-Ouen, sobre et contemporaine pour LinkedIn. Une courte interview filmée au Parc des Docks complète la page « À propos » de votre site.",
   "conseil": "Pour un portrait professionnel au Marché aux puces, planifiez la séance en matinée, quand les ruelles sont lumineuses et les clients encore rares. Prévenez les stands voisins si nous installons un réflecteur dans l'allée.",
   "faq": [
-   {"q": "Quel photographe pour un portrait LinkedIn à Saint-Ouen-sur-Seine ?", "a": "Pour un portrait LinkedIn à Saint-Ouen-sur-Seine, Le Couple Photographe se déplace dans vos locaux ou en extérieur. La brique des Docks de Saint-Ouen donne un fond neutre et moderne, adapté aux profils professionnels et aux sites d'entreprise."},
-   {"q": "Peut-on photographier un antiquaire dans son stand au Marché aux puces de Saint-Ouen ?", "a": "Oui, un antiquaire du Marché aux puces de Saint-Ouen peut être photographié et filmé dans son stand. Nous cadrons la personne avec ses pièces phares pour son site, ses réseaux et ses supports de vente."}
+   {
+    "q": "Quel photographe pour un portrait LinkedIn à Saint-Ouen-sur-Seine ?",
+    "a": "Pour un portrait LinkedIn à Saint-Ouen-sur-Seine, Le Couple Photographe se déplace dans vos locaux ou en extérieur. La brique des Docks de Saint-Ouen donne un fond neutre et moderne, adapté aux profils professionnels et aux sites d'entreprise."
+   },
+   {
+    "q": "Peut-on photographier un antiquaire dans son stand au Marché aux puces de Saint-Ouen ?",
+    "a": "Oui, un portrait professionnel d'antiquaire au Marché aux puces de Saint-Ouen peut être photographié et filmé dans son stand. Nous cadrons la personne avec ses pièces phares pour son site, ses réseaux et ses supports de vente."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "À Saint-Ouen-sur-Seine, nous couvrons séminaires, lancements et soirées d'entreprise en photo et en vidéo. L'ambiance industrielle des Docks de Saint-Ouen convient aux événements qui veulent un décor brut et assumé. Avant ou après les conférences, une visite d'équipe au Marché aux puces donne des images de cohésion moins posées. Les pauses en extérieur au Parc des Docks permettent des portraits d'intervenants et un aftermovie rythmé par la lumière de la Seine.",
+  "scene": "À Saint-Ouen-sur-Seine, nous couvrons vos événements professionnels, séminaires, lancements et soirées d'entreprise, en photo et en vidéo. L'ambiance industrielle des Docks de Saint-Ouen convient aux événements qui veulent un décor brut et assumé. Avant ou après les conférences, une visite d'équipe au Marché aux puces donne des images de cohésion moins posées. Les pauses en extérieur au Parc des Docks permettent des portraits d'intervenants et un aftermovie rythmé par la lumière de la Seine.",
   "conseil": "Les accès Métro Garibaldi et Mairie de Saint-Ouen facilitent la venue des participants. Indiquez-nous l'heure d'arrivée des groupes : nous photographions l'accueil en premier, avant que la salle ne se remplisse.",
   "faq": [
-   {"q": "Quel photographe pour un séminaire d'entreprise à Saint-Ouen-sur-Seine ?", "a": "Pour un séminaire d'entreprise à Saint-Ouen-sur-Seine, Le Couple Photographe couvre l'événement à deux : l'un photographie les intervenants et le public, l'autre filme les temps forts pour un aftermovie et des extraits destinés aux réseaux sociaux."},
-   {"q": "Peut-on organiser une activité d'équipe photographiée au Marché aux puces de Saint-Ouen ?", "a": "Oui, une activité d'équipe au Marché aux puces de Saint-Ouen peut être photographiée et filmée. Nous suivons le groupe dans les allées d'antiquaires en restant discrets envers les marchands, pour des images de cohésion naturelles."}
+   {
+    "q": "Quel photographe pour un séminaire d'entreprise à Saint-Ouen-sur-Seine ?",
+    "a": "Pour un séminaire d'entreprise à Saint-Ouen-sur-Seine, Le Couple Photographe couvre l'événement à deux : l'un photographie les intervenants et le public, l'autre filme les temps forts pour un aftermovie et des extraits destinés aux réseaux sociaux."
+   },
+   {
+    "q": "Peut-on organiser une activité d'équipe photographiée au Marché aux puces de Saint-Ouen ?",
+    "a": "Oui, une activité d'équipe au Marché aux puces de Saint-Ouen peut être photographiée et filmée. Nous suivons le groupe dans les allées d'antiquaires en restant discrets envers les marchands, pour des images de cohésion naturelles."
+   }
   ]
  },
  "solo": {
-  "scene": "Envie de vous retrouver face à l'objectif ? Une séance portrait solo à Saint-Ouen-sur-Seine joue sur le contraste entre vous et un décor chargé d'histoire. Vous vous asseyez dans un canapé ancien du Marché aux puces, vous vous regardez dans un miroir doré, vous feuilletez un vieux livre. La façade Art déco de la Mairie de Saint-Ouen apporte des lignes nettes pour des portraits plus graphiques. Quelques images en mouvement captent votre démarche.",
+  "scene": "Une séance portrait solo à Saint-Ouen-sur-Seine joue sur le contraste entre vous et le décor chargé d'histoire du Marché aux puces. Vous vous asseyez dans un canapé ancien du Marché aux puces, vous vous regardez dans un miroir doré, vous feuilletez un vieux livre. La façade Art déco de la Mairie de Saint-Ouen apporte des lignes nettes pour des portraits plus graphiques. Quelques images en mouvement captent votre démarche.",
   "conseil": "Des tenues unies ressortent mieux devant les objets très chargés du Marché aux puces. Arrivez en matinée par le Métro Garibaldi : les ruelles sont lumineuses et vous posez sans foule autour de vous.",
   "faq": [
-   {"q": "Où faire un shooting portrait solo à Saint-Ouen-sur-Seine ?", "a": "Pour un shooting portrait solo à Saint-Ouen-sur-Seine, nous aimons associer le Marché aux puces pour l'ambiance vintage et la Mairie de Saint-Ouen pour sa façade Art déco. Le Parc des Docks offre une option plus calme au bord de la Seine."},
-   {"q": "Un portrait solo au Marché aux puces de Saint-Ouen est-il intimidant ?", "a": "Un portrait solo au Marché aux puces de Saint-Ouen reste confortable si la séance a lieu tôt. Les allées sont alors plus calmes. Nous vous guidons pas à pas, avec des gestes simples, pour que les photos restent naturelles."}
+   {
+    "q": "Où faire un shooting portrait solo à Saint-Ouen-sur-Seine ?",
+    "a": "Pour un shooting portrait solo à Saint-Ouen-sur-Seine, nous aimons associer le Marché aux puces pour l'ambiance vintage et la Mairie de Saint-Ouen pour sa façade Art déco. Le Parc des Docks offre une option plus calme au bord de la Seine."
+   },
+   {
+    "q": "Un portrait solo au Marché aux puces de Saint-Ouen est-il intimidant ?",
+    "a": "Un portrait solo au Marché aux puces de Saint-Ouen reste confortable si la séance a lieu tôt. Les allées sont alors plus calmes. Nous vous guidons pas à pas, avec des gestes simples, pour que les photos restent naturelles."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Vos 30, 40 ou 60 ans peuvent se fêter et se photographier à Saint-Ouen-sur-Seine. Les invités qui arrivent par le Métro Mairie de Saint-Ouen posent pour une photo de groupe devant la façade Art déco de la Mairie de Saint-Ouen. Ensuite, une chasse aux trésors au Marché aux puces met tout le monde de bonne humeur : chacun cherche un objet souvenir. Le pique-nique d'anniversaire au Parc des Docks se termine par un gâteau filmé en gros plan.",
+  "scene": "Un anniversaire à Saint-Ouen-sur-Seine, pour vos 30, 40 ou 60 ans, se photographie et se filme entre la Mairie de Saint-Ouen, le Marché aux puces et le Parc des Docks. Les invités qui arrivent par le Métro Mairie de Saint-Ouen posent pour une photo de groupe devant la façade Art déco de la Mairie de Saint-Ouen. Ensuite, une chasse aux trésors au Marché aux puces met tout le monde de bonne humeur : chacun cherche un objet souvenir. Le pique-nique d'anniversaire au Parc des Docks se termine par un gâteau filmé en gros plan.",
   "conseil": "Si vous fêtez votre anniversaire en extérieur, choisissez le Parc des Docks pour son espace et prévoyez un repli couvert en cas de pluie. Nous signaler l'instant des bougies nous permet de nous placer face à vous.",
   "faq": [
-   {"q": "Où fêter un anniversaire avec photographe à Saint-Ouen-sur-Seine ?", "a": "Pour un anniversaire avec photographe à Saint-Ouen-sur-Seine, le Parc des Docks accueille facilement un pique-nique au bord de la Seine. Le Marché aux puces et la Mairie de Saint-Ouen ajoutent des décors pour les photos de groupe."},
-   {"q": "Peut-on filmer une fête d'anniversaire au Parc des Docks de Saint-Ouen ?", "a": "Oui, une fête d'anniversaire au Parc des Docks de Saint-Ouen peut être filmée et photographiée. Nous captons les arrivées, les jeux et le gâteau, en respectant les autres promeneurs et le règlement du parc."}
+   {
+    "q": "Où fêter un anniversaire avec photographe à Saint-Ouen-sur-Seine ?",
+    "a": "Pour un anniversaire avec photographe à Saint-Ouen-sur-Seine, le Parc des Docks accueille facilement un pique-nique au bord de la Seine. Le Marché aux puces et la Mairie de Saint-Ouen ajoutent des décors pour les photos de groupe."
+   },
+   {
+    "q": "Peut-on filmer une fête d'anniversaire au Parc des Docks de Saint-Ouen ?",
+    "a": "Oui, une fête d'anniversaire au Parc des Docks de Saint-Ouen peut être filmée et photographiée. Nous captons les arrivées, les jeux et le gâteau, en respectant les autres promeneurs et le règlement du parc."
+   }
   ]
  },
  "diplome": {
-  "scene": "Après la remise de diplôme, Saint-Ouen-sur-Seine offre trois décors pour célébrer votre réussite. La toge noire contraste avec la façade Art déco de la Mairie de Saint-Ouen, idéale pour un portrait fier et droit. Le lancer de toque se fait en groupe sur les pelouses du Parc des Docks, avec la Seine en fond. Les Docks de Saint-Ouen ajoutent une touche urbaine pour des photos entre amis de promotion, et une courte vidéo garde vos éclats de rire.",
+  "scene": "Pour des photos de remise de diplôme à Saint-Ouen-sur-Seine, trois décors célèbrent votre réussite. La toge noire contraste avec la façade Art déco de la Mairie de Saint-Ouen, idéale pour un portrait fier et droit. Le lancer de toque se fait en groupe sur les pelouses du Parc des Docks, avec la Seine en fond. Les Docks de Saint-Ouen ajoutent une touche urbaine pour des photos entre amis de promotion, et une courte vidéo garde vos éclats de rire.",
   "conseil": "Le Parc des Docks est dégagé : le lancer de toque y est plus simple qu'au milieu des allées du Marché aux puces. Prévoyez des chaussures confortables pour marcher entre la Mairie de Saint-Ouen et les bords de Seine.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Saint-Ouen-sur-Seine ?", "a": "Pour des photos de remise de diplôme à Saint-Ouen-sur-Seine, nous proposons la façade Art déco de la Mairie de Saint-Ouen pour les portraits officiels et le Parc des Docks pour le lancer de toque en groupe au bord de la Seine."},
-   {"q": "Peut-on faire un lancer de toque au Parc des Docks de Saint-Ouen ?", "a": "Oui, un lancer de toque au Parc des Docks de Saint-Ouen fonctionne bien grâce aux pelouses dégagées. Nous photographions la toque en l'air et filmons la scène au ralenti pour un souvenir de diplôme vivant."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Saint-Ouen-sur-Seine ?",
+    "a": "Pour des photos de remise de diplôme à Saint-Ouen-sur-Seine, nous proposons la façade Art déco de la Mairie de Saint-Ouen pour les portraits officiels et le Parc des Docks pour le lancer de toque en groupe au bord de la Seine."
+   },
+   {
+    "q": "Peut-on faire un lancer de toque au Parc des Docks de Saint-Ouen ?",
+    "a": "Oui, un lancer de toque au Parc des Docks de Saint-Ouen fonctionne bien grâce aux pelouses dégagées. Nous photographions la toque en l'air et filmons la scène au ralenti pour un souvenir de diplôme vivant."
+   }
   ]
  },
  "naissance": {
-  "scene": "Le reportage de naissance se déroule d'abord à la maternité, avec l'accord de l'établissement, puis chez vous à Saint-Ouen-sur-Seine. Nous gardons les premiers regards, la main du bébé autour d'un doigt, le retour à la maison. Quelques semaines plus tard, une sortie douce au Parc des Docks peut garder la première promenade en poussette au bord de la Seine. Pour la chambre, un berceau ou une malle chinée au Marché aux puces devient un décor plein de sens.",
+  "scene": "Un reportage de naissance à Saint-Ouen-sur-Seine commence à la maternité, avec l'accord de l'établissement, puis continue chez vous. Nous gardons les premiers regards, la main du bébé autour d'un doigt, le retour à la maison. Quelques semaines plus tard, une sortie douce au Parc des Docks peut garder la première promenade en poussette au bord de la Seine. Pour la chambre, un berceau ou une malle chinée au Marché aux puces devient un décor plein de sens.",
   "conseil": "Les règles de prise de vue varient selon chaque maternité : renseignez-vous avant le terme. Pour la première sortie au Parc des Docks, choisissez un jour sans vent et un horaire calme, sans affluence.",
   "faq": [
-   {"q": "Peut-on faire un reportage de naissance à la maternité près de Saint-Ouen-sur-Seine ?", "a": "Un reportage de naissance en maternité près de Saint-Ouen-sur-Seine dépend toujours de l'accord de l'établissement. Si la maternité refuse la prise de vue, nous réalisons le reportage de naissance chez vous, au retour avec le bébé."},
-   {"q": "Où faire les photos de la première sortie de bébé à Saint-Ouen-sur-Seine ?", "a": "Pour les photos de la première sortie de bébé à Saint-Ouen-sur-Seine, le Parc des Docks offre des allées calmes au bord de la Seine. La séance reste courte et suit le rythme du nourrisson et de sa maman."}
+   {
+    "q": "Peut-on faire un reportage de naissance à la maternité près de Saint-Ouen-sur-Seine ?",
+    "a": "Un reportage de naissance en maternité près de Saint-Ouen-sur-Seine dépend toujours de l'accord de l'établissement. Si la maternité refuse la prise de vue, nous réalisons le reportage de naissance chez vous, au retour avec le bébé."
+   },
+   {
+    "q": "Où faire les photos de la première sortie de bébé à Saint-Ouen-sur-Seine ?",
+    "a": "Pour les photos de la première sortie de bébé à Saint-Ouen-sur-Seine, le Parc des Docks offre des allées calmes au bord de la Seine. La séance reste courte et suit le rythme du nourrisson et de sa maman."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Doucement, chez vous : la séance nouveau-né à Saint-Ouen-sur-Seine a lieu à domicile, dans une pièce chauffée. Nous photographions les plis, les petits pieds, le sommeil sur le torse d'un parent. Un panier ou une couverture ancienne trouvés au Marché aux puces peuvent servir d'accessoires, toujours sous le contrôle des parents. Plus tard, quand bébé aura grandi, une balade au Parc des Docks ou devant les Docks de Saint-Ouen prolongera l'album.",
+  "scene": "La séance nouveau-né à Saint-Ouen-sur-Seine a lieu doucement à domicile, dans une pièce chauffée. Nous photographions les plis, les petits pieds, le sommeil sur le torse d'un parent. Un panier ou une couverture ancienne trouvés au Marché aux puces peuvent servir d'accessoires, toujours sous le contrôle des parents. Plus tard, quand bébé aura grandi, une balade au Parc des Docks ou devant les Docks de Saint-Ouen prolongera l'album.",
   "conseil": "Si vous chinez un accessoire au Marché aux puces pour la séance nouveau-né, lavez-le et vérifiez sa stabilité avant le jour J. La sécurité du bébé passe avant toute mise en scène.",
   "faq": [
-   {"q": "Quel photographe nouveau-né se déplace à domicile à Saint-Ouen-sur-Seine ?", "a": "Le Couple Photographe réalise des séances nouveau-né à domicile à Saint-Ouen-sur-Seine. Nous venons chez vous, nous adaptons la séance au sommeil et aux tétées du bébé, et nous filmons aussi quelques instants si vous le souhaitez."},
-   {"q": "Quand faire une séance photo nouveau-né à Saint-Ouen-sur-Seine ?", "a": "Une séance photo nouveau-né à Saint-Ouen-sur-Seine se prévoit de préférence dans les premiers jours, quand le bébé dort beaucoup. Nous fixons la date avec vous après la naissance, selon votre repos et celui du bébé."}
+   {
+    "q": "Quel photographe nouveau-né se déplace à domicile à Saint-Ouen-sur-Seine ?",
+    "a": "Le Couple Photographe réalise des séances nouveau-né à domicile à Saint-Ouen-sur-Seine. Nous venons chez vous, nous adaptons la séance au sommeil et aux tétées du bébé, et nous filmons aussi quelques instants si vous le souhaitez."
+   },
+   {
+    "q": "Quand faire une séance photo nouveau-né à Saint-Ouen-sur-Seine ?",
+    "a": "Une séance photo nouveau-né à Saint-Ouen-sur-Seine se prévoit de préférence dans les premiers jours, quand le bébé dort beaucoup. Nous fixons la date avec vous après la naissance, selon votre repos et celui du bébé."
+   }
   ]
  }
 }
