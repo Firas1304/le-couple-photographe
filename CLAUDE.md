@@ -39,3 +39,10 @@ GitHub Pages via `.github/workflows/pages.yml` (build + déploiement à chaque p
 
 ## Google Analytics / Search Console
 `GA_ID` (G-XXXXXXXXXX) et `GSC_TOKEN` (jeton de la balise meta de vérification) sont à renseigner en haut de `build.py`, puis `python3 build.py`. Vides = rien n'est chargé. GA4 ne se charge qu'après consentement (bandeau cookies dans `app.js`). À faire une fois le domaine réel en ligne : ajouter la propriété Search Console (méthode « Préfixe d'URL » ou DNS), soumettre `sitemap.xml`.
+
+## Contenu par lieu et prestation (état au 10/10/2026)
+- 66 lieux (20 arrondissements de Paris + 46 communes IDF) × 12 prestations = 792 pages `services/<prestation>/<lieu>/`, chacune avec un texte écrit à la main dans `content/<lieu>.json` (champs `scene`, `conseil`, `faq` x2 par prestation).
+- Règles de rédaction : `content/RULES.md` (faits locaux uniquement depuis `content/briefs/<lieu>.txt`, GEO inclus). Validateur : `python3 check_content.py content/<lieu>.json <lieu>`.
+- Ajouter un lieu : l'ajouter dans `data_places.py`, régénérer les fiches (`content/briefs/`), faire écrire le JSON (un agent par lieu), valider, `python3 build.py`.
+- Contrôle d'unicité : `python3 check_unique.py` (dernier relevé : pages prestation × lieu, ressemblance moyenne 0,07, pire 0,28).
+- GEO : encadré « En bref » sur chaque page, JSON-LD enrichi, `llms.txt`, robots IA autorisés.
