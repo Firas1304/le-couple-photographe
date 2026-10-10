@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://le-couple-photographe.fr/sitemap.xml
