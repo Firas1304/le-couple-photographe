@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Au bord du Lac d'Enghien, le soleil descendant pose sur l'eau une lumière douce qui convient aux portraits des mariés : quelques pas sur la promenade, un regard échangé entre les jardins, le voile soulevé par l'air du lac. Le Casino d'Enghien, avec ses lignes Art déco, offre un décor graphique pour la sortie des invités ou une photo de groupe élégante. Votre film de mariage peut ensuite s'ouvrir sur ces reflets, puis glisser vers la façade classique de l'Établissement thermal pour un plan large du cortège.",
+  "scene": "Pour un mariage à Enghien-les-Bains, nous photographions et filmons les portraits des mariés au bord du Lac d'Enghien au coucher du soleil, puis la sortie des invités devant le Casino d'Enghien. Sur la promenade, un regard échangé entre les jardins, le voile soulevé par l'air du lac. Les lignes Art déco du casino offrent un décor graphique pour une photo de groupe. Votre film s'ouvre sur les reflets, puis glisse vers la façade de l'Établissement thermal pour un plan large du cortège.",
   "conseil": "Réservez vos portraits de couple pour la fin de journée, quand le lac s'adoucit au coucher du soleil. Si vos invités viennent de Paris, le Transilien Enghien-les-Bains leur simplifie le trajet, et vous gardez du temps pour la séance au bord de l'eau.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Enghien-les-Bains ?", "a": "Le Lac d'Enghien reste le cadre le plus naturel : promenade, jardins et reflets au coucher du soleil. Nous pouvons compléter avec la façade Art déco du Casino d'Enghien pour varier les ambiances sans long déplacement entre deux séries."},
-   {"q": "Un photographe mariage à Enghien-les-Bains peut-il aussi filmer la journée ?", "a": "Oui, nous travaillons à deux : l'un photographie, l'autre tourne les images en mouvement. Vous recevez des photos et un film de mariage qui racontent la même journée, des préparatifs aux derniers pas de danse au bord de l'eau."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Enghien-les-Bains ?",
+    "a": "Pour les photos de couple d'un mariage à Enghien-les-Bains, le Lac d'Enghien est le cadre le plus naturel : promenade, jardins et reflets au coucher du soleil. La façade Art déco du Casino d'Enghien complète la série sans long déplacement."
+   },
+   {
+    "q": "Un photographe mariage à Enghien-les-Bains peut-il aussi filmer la journée ?",
+    "a": "Oui, pour un mariage à Enghien-les-Bains, nous travaillons à deux : l'un photographie, l'autre tourne les images en mouvement. Vous recevez des photos et un film qui racontent la même journée, des préparatifs aux derniers pas de danse."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Le ventre arrondi se dessine joliment à contre-jour, au bord du Lac d'Enghien, quand les jardins s'adoucissent en fin d'après-midi. Vous marchez lentement sur la promenade, une main posée sur le ventre, l'autre dans celle de votre partenaire. Plus loin, la façade classique de l'Établissement thermal donne un fond sobre pour un portrait de profil, robe fluide et regard baissé. Quelques secondes de vidéo au ralenti gardent le mouvement du tissu et les mots chuchotés au bébé.",
+  "scene": "Un shooting grossesse à Enghien-les-Bains se fait au bord du Lac d'Enghien en fin d'après-midi, puis devant l'Établissement thermal pour un portrait plus sobre. À contre-jour, le ventre arrondi se dessine joliment près des jardins. Vous marchez lentement sur la promenade, une main sur le ventre, l'autre dans celle de votre partenaire. La façade classique de l'Établissement thermal accueille un portrait de profil, robe fluide. Quelques secondes au ralenti gardent le mouvement du tissu.",
   "conseil": "La séance au bord du lac se fait à pied, à votre rythme : prévoyez des chaussures confortables, une bouteille d'eau et des pauses assises. Programmez-la vers le coucher du soleil, la lumière y est plus douce pour la peau et le ventre.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Enghien-les-Bains ?", "a": "Les jardins et la promenade du Lac d'Enghien se prêtent bien aux portraits de grossesse : de l'espace, des reflets et une lumière douce en fin de journée. Pour un rendu plus architectural, la façade de l'Établissement thermal offre un fond calme."},
-   {"q": "Quelle tenue porter pour une séance grossesse au bord du lac d'Enghien ?", "a": "Une robe longue et fluide bouge joliment avec l'air du lac et met le ventre en valeur. Choisissez des matières souples sans élastique serré, et une couche légère en plus : au bord de l'eau, la fin de journée peut vite fraîchir."}
+   {
+    "q": "Où faire un shooting grossesse à Enghien-les-Bains ?",
+    "a": "Pour un shooting grossesse à Enghien-les-Bains, les jardins et la promenade du Lac d'Enghien offrent de l'espace, des reflets et une lumière douce en fin de journée. Pour un rendu plus architectural, la façade de l'Établissement thermal donne un fond calme."
+   },
+   {
+    "q": "Quelle tenue porter pour une séance grossesse au bord du lac d'Enghien ?",
+    "a": "Pour une séance grossesse au bord du Lac d'Enghien, une robe longue et fluide bouge avec l'air du lac et met le ventre en valeur. Choisissez des matières souples sans élastique serré, et une couche légère : au bord de l'eau, la soirée fraîchit vite."
+   }
   ]
  },
  "couple": {
-  "scene": "Une promenade à deux, sans autre programme que vous-mêmes. Nous commençons Rue de Mora, entre les vitrines, avec un café partagé qui détend les épaules et fait naître les premiers rires. Direction ensuite le Lac d'Enghien : vous montez sur un pédalo, nous suivons depuis la rive, et le film garde vos éclats de voix sur l'eau. La séance se termine dans les jardins, quand le coucher du soleil rend les visages plus doux et les gestes plus lents.",
+  "scene": "Une séance photo couple à Enghien-les-Bains enchaîne un café Rue de Mora, un tour en pédalo sur le Lac d'Enghien et les jardins au coucher du soleil. Entre les vitrines, le café partagé détend les épaules et fait naître les premiers rires. Sur le lac, vous montez sur un pédalo, nous suivons depuis la rive, et le film garde vos éclats de voix sur l'eau. Dans les jardins, la lumière du soir rend les visages plus doux et les gestes plus lents.",
   "conseil": "Si vous préférez l'intimité, évitez les moments où la promenade du lac est la plus fréquentée : en semaine ou en toute fin de journée, les berges sont souvent plus calmes. Venir en Transilien vous laisse l'esprit libre pour la séance.",
   "faq": [
-   {"q": "Quel endroit romantique pour une séance photo couple à Enghien-les-Bains ?", "a": "Le Lac d'Enghien, pour un couple qui aime l'eau : promenade, jardins et pédalos composent un décor tranquille. La Rue de Mora apporte une touche plus urbaine si vous voulez mêler balade en ville et reflets du lac dans la même séance."},
-   {"q": "Peut-on faire une séance photo de fiançailles au bord du lac d'Enghien ?", "a": "Oui, une séance de fiançailles s'y prête très bien. Nous pouvons préparer la demande avec vous, rester discrets à distance, puis enchaîner sur des portraits à deux et une courte vidéo à partager avec vos proches."}
+   {
+    "q": "Quel endroit romantique pour une séance photo couple à Enghien-les-Bains ?",
+    "a": "Pour une séance photo couple à Enghien-les-Bains, le Lac d'Enghien est le cadre romantique : promenade, jardins et pédalos. La Rue de Mora apporte une touche urbaine si vous voulez mêler balade en ville et reflets du lac dans la même séance."
+   },
+   {
+    "q": "Peut-on faire une séance photo de fiançailles au bord du lac d'Enghien ?",
+    "a": "Oui, une séance de fiançailles au bord du Lac d'Enghien, à Enghien-les-Bains, s'y prête bien. Nous préparons la demande avec vous, restons discrets à distance, puis enchaînons sur des portraits à deux et une courte vidéo à partager."
+   }
   ]
  },
  "famille": {
-  "scene": "Qui montera le premier sur le pédalo ? Les enfants courent devant, les grands-parents suivent tranquillement sur la promenade du Lac d'Enghien, et nous saisissons ces allers-retours sans demander de poser longtemps. Une photo de groupe se cale ensuite dans les jardins, toutes les générations réunies. Pour finir, un goûter Rue de Mora offre des plans pris sur le vif, mains collantes et sourires compris, que la séquence vidéo rassemble en un petit souvenir de famille.",
+  "scene": "Pour une séance famille à Enghien-les-Bains, tout se passe sur la promenade du Lac d'Enghien, dans ses jardins puis Rue de Mora, au rythme des enfants. Qui montera le premier sur le pédalo ? Les petits courent devant, les grands-parents suivent tranquillement, et nous saisissons ces allers-retours sans poses longues. La photo de groupe se cale dans les jardins, toutes générations réunies. Un goûter Rue de Mora donne des plans pris sur le vif, mains collantes comprises.",
   "conseil": "Avec des enfants en bas âge, fixez la séance en dehors de la sieste et gardez une poussette à portée de main. La promenade du lac se parcourt tranquillement à pied, ce qui permet aux grands-parents de nous suivre sans se presser.",
   "faq": [
-   {"q": "Où faire une séance photo de famille en extérieur à Enghien-les-Bains ?", "a": "Les jardins et la promenade du Lac d'Enghien laissent les enfants bouger librement, ce qui donne des images spontanées. Si la famille préfère un décor plus urbain, la Rue de Mora et ses vitrines offrent une alternative pour une deuxième partie de séance."},
-   {"q": "Comment occuper les enfants pendant un shooting famille au lac d'Enghien ?", "a": "Nous intégrons le jeu à la séance : une course le long de la promenade, une balade en pédalo si vous le souhaitez, un goûter partagé. Les enfants oublient l'appareil, et les photos comme le film y gagnent en naturel."}
+   {
+    "q": "Où faire une séance photo de famille en extérieur à Enghien-les-Bains ?",
+    "a": "Pour une séance photo de famille en extérieur à Enghien-les-Bains, les jardins et la promenade du Lac d'Enghien laissent les enfants bouger librement. La Rue de Mora et ses vitrines offrent un décor plus urbain pour une deuxième partie de séance."
+   },
+   {
+    "q": "Comment occuper les enfants pendant un shooting famille au lac d'Enghien ?",
+    "a": "Pendant un shooting famille au Lac d'Enghien, nous intégrons le jeu : une course le long de la promenade, une balade en pédalo si vous le souhaitez, un goûter partagé. Les enfants oublient l'appareil, et les photos comme le film gagnent en naturel."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Rose ou bleu, la réponse jaillira devant l'eau ! Nous aimons placer ce moment sur la promenade du Lac d'Enghien, où le fond dégagé fait ressortir les couleurs des ballons ou des canons. Vos proches forment un demi-cercle, nous nous positionnons face à vous pour saisir les réactions, et un second angle filme la scène en continu. Avant ou après, la façade Art déco du Casino d'Enghien apporte un décor chic aux photos de groupe.",
+  "scene": "Pour un gender reveal à Enghien-les-Bains, la promenade du Lac d'Enghien offre un fond dégagé où ressortent les couleurs des ballons ou des canons. Rose ou bleu, la réponse jaillira devant l'eau ! Vos proches forment un demi-cercle, nous nous positionnons face à vous pour saisir les réactions, et un second angle filme la scène en continu. Avant ou après, la façade Art déco du Casino d'Enghien apporte un décor chic aux photos de groupe.",
   "conseil": "Vérifiez auprès de la mairie et des gestionnaires du lac les règles sur les confettis, fumigènes et ballons avant de choisir votre dispositif. Au bord de l'eau, le vent peut dévier la fumée : un essai la veille évite les mauvaises surprises.",
   "faq": [
-   {"q": "Peut-on faire un gender reveal au bord du lac d'Enghien-les-Bains ?", "a": "Renseignez-vous d'abord sur les règles du lieu concernant confettis, fumigènes et ballons, surtout près de l'eau et des jardins. Nous adaptons ensuite le dispositif pour que la révélation reste belle, festive et respectueuse de l'espace public."},
-   {"q": "Comment réussir la vidéo d'un gender reveal à Enghien-les-Bains ?", "a": "Nous travaillons à deux : l'un photographie les visages, l'autre filme la scène entière. Demandez à vos invités de ne pas se placer devant nous, et testez le dispositif pour connaître sa durée et sa direction."}
+   {
+    "q": "Peut-on faire un gender reveal au bord du lac d'Enghien-les-Bains ?",
+    "a": "Avant un gender reveal au bord du Lac d'Enghien, à Enghien-les-Bains, vérifiez les règles du lieu sur confettis, fumigènes et ballons, surtout près de l'eau. Nous adaptons ensuite le dispositif pour une révélation festive et respectueuse de l'espace public."
+   },
+   {
+    "q": "Comment réussir la vidéo d'un gender reveal à Enghien-les-Bains ?",
+    "a": "Pour réussir la vidéo d'un gender reveal à Enghien-les-Bains, nous travaillons à deux : l'un photographie les visages, l'autre filme la scène entière. Demandez aux invités de ne pas se placer devant nous et testez le dispositif à l'avance."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un portrait professionnel gagne en caractère quand le décor dit quelque chose de vous. La façade classique de l'Établissement thermal installe une image posée, adaptée à un profil de conseil ou de santé. Le Casino d'Enghien, avec ses lignes Art déco, convient mieux aux métiers créatifs ou de l'événementiel. Pour une équipe de commerçants, la Rue de Mora montre l'activité réelle de la ville. Une courte vidéo de présentation peut compléter les photos pour votre site ou LinkedIn.",
+  "scene": "Un portrait professionnel à Enghien-les-Bains peut se faire devant l'Établissement thermal, le Casino d'Enghien ou dans la Rue de Mora, selon l'image de votre métier. La façade classique de l'Établissement thermal installe une image posée, adaptée au conseil ou à la santé. Les lignes Art déco du Casino d'Enghien conviennent aux métiers créatifs ou de l'événementiel. Pour des commerçants, la Rue de Mora montre l'activité réelle. Une courte vidéo de présentation complète les photos.",
   "conseil": "Pour un portrait d'équipe en extérieur, choisissez un créneau de fin de journée : près du lac, la lumière est plus douce sur les visages. Venir en Transilien simplifie l'arrivée de vos collaborateurs et permet de démarrer à l'heure.",
   "faq": [
-   {"q": "Où faire des photos professionnelles LinkedIn à Enghien-les-Bains ?", "a": "Nous pouvons réaliser vos portraits en extérieur, devant l'Établissement thermal ou le Casino d'Enghien, ou directement dans vos locaux près d'une fenêtre. Le choix dépend de l'image que vous voulez transmettre : institutionnelle, créative ou plus proche du terrain."},
-   {"q": "Un commerçant de la rue de Mora peut-il faire photographier sa boutique ?", "a": "Oui. Pour une boutique, nous combinons portraits du gérant, détails des produits et plans de l'activité en vitrine. Une courte séquence vidéo peut aussi servir sur les réseaux sociaux. Indiquez-nous vos usages pour livrer les bons formats."}
+   {
+    "q": "Où faire des photos professionnelles LinkedIn à Enghien-les-Bains ?",
+    "a": "Pour des photos professionnelles LinkedIn à Enghien-les-Bains, nous réalisons vos portraits devant l'Établissement thermal, le Casino d'Enghien, ou dans vos locaux près d'une fenêtre. Le choix dépend de l'image voulue : institutionnelle, créative ou proche du terrain."
+   },
+   {
+    "q": "Un commerçant de la rue de Mora peut-il faire photographier sa boutique ?",
+    "a": "Oui, pour une boutique de la Rue de Mora à Enghien-les-Bains, nous combinons portraits du gérant, détails des produits et plans de l'activité en vitrine. Une courte vidéo peut servir sur les réseaux sociaux. Indiquez-nous vos usages pour les bons formats."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Séminaire, soirée de lancement, conférence : votre événement peut sortir de la salle le temps de quelques images. Une photo d'équipe au bord du Lac d'Enghien, en fin de journée, apporte de la respiration au reportage. Si vous recevez près du Casino d'Enghien, l'arrivée des invités devant son bâtiment Art déco forme une ouverture élégante pour le film récapitulatif. Entre les sessions, nous saisissons les échanges, les prises de parole et les poignées de main, avec discrétion.",
+  "scene": "Pour un séminaire ou une soirée d'entreprise à Enghien-les-Bains, nous couvrons les sessions puis réalisons une photo d'équipe au bord du Lac d'Enghien et l'arrivée des invités au Casino d'Enghien. En fin de journée, l'image au bord du lac apporte de la respiration au reportage. Devant le bâtiment Art déco du casino, l'accueil des invités forme une ouverture élégante pour le film récapitulatif. Entre les sessions, nous saisissons échanges et prises de parole avec discrétion.",
   "conseil": "Transmettez-nous le programme minuté et repérez le créneau le plus proche du coucher du soleil : c'est le bon moment pour une photo de groupe au bord du lac. Prévoyez aussi un contact sur place qui connaît les intervenants.",
   "faq": [
-   {"q": "Comment couvrir un séminaire d'entreprise à Enghien-les-Bains en photo et vidéo ?", "a": "Nous suivons le programme minuté : arrivées, prises de parole, ateliers, moments informels. L'un de nous reste sur les visages et les échanges, l'autre tourne des plans pour un film court. Une sortie au bord du lac peut compléter le reportage."},
-   {"q": "Vos invités peuvent-ils venir en transports à un événement à Enghien-les-Bains ?", "a": "La gare du Transilien Enghien-les-Bains dessert la ville, ce qui facilite la venue d'équipes depuis Paris. Pensez à l'indiquer sur l'invitation, et prévoyez une personne pour accueillir les invités et les orienter jusqu'au lieu."}
+   {
+    "q": "Comment couvrir un séminaire d'entreprise à Enghien-les-Bains en photo et vidéo ?",
+    "a": "Pour couvrir un séminaire d'entreprise à Enghien-les-Bains, nous suivons le programme minuté : arrivées, prises de parole, ateliers. L'un de nous reste sur les visages, l'autre tourne un film court. Une sortie au bord du Lac d'Enghien complète le reportage."
+   },
+   {
+    "q": "Vos invités peuvent-ils venir en transports à un événement à Enghien-les-Bains ?",
+    "a": "Pour un événement professionnel à Enghien-les-Bains, la gare du Transilien Enghien-les-Bains facilite la venue d'équipes depuis Paris. Indiquez-le sur l'invitation et prévoyez une personne pour accueillir les invités et les orienter jusqu'au lieu."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul ou seule face à l'objectif, rien ne presse. La séance démarre Rue de Mora, où vous flânez devant les vitrines pendant que nous cherchons vos angles. Vient ensuite la promenade du Lac d'Enghien : vous vous asseyez face à l'eau, le regard au loin, et la lumière du soir adoucit les traits. Une dernière série devant le Casino d'Enghien joue sur ses lignes Art déco et votre tenue la plus affirmée. Quelques images en mouvement complètent le portrait.",
+  "scene": "Un shooting portrait solo à Enghien-les-Bains suit trois ambiances : la Rue de Mora, la promenade du Lac d'Enghien et le Casino d'Enghien. Rien ne presse. Vous flânez d'abord devant les vitrines pendant que nous cherchons vos angles. Sur la promenade du lac, assis face à l'eau, le regard au loin, la lumière du soir adoucit les traits. Devant le casino, une dernière série joue sur les lignes Art déco et votre tenue la plus affirmée, avec quelques images en mouvement.",
   "conseil": "Apportez une deuxième tenue pour le passage devant le casino, plus habillée que celle de la balade. Au bord du lac, une veste légère évite d'avoir froid quand le soleil descend et vous aide à rester détendu jusqu'au bout.",
   "faq": [
-   {"q": "Où faire un shooting photo solo à Enghien-les-Bains ?", "a": "Nous vous proposons un parcours à pied : la Rue de Mora pour un rendu urbain, la promenade du Lac d'Enghien pour la douceur, le Casino d'Enghien pour un portrait plus graphique. Trois ambiances réunies en une seule séance."},
-   {"q": "Comment être à l'aise pendant une séance portrait à Enghien-les-Bains quand on n'aime pas être photographié ?", "a": "Dites-nous ce que vous aimez ou non dans votre apparence, nous adaptons les cadrages. La séance ressemble à une promenade au bord du lac : on marche, on parle, et les poses viennent d'elles-mêmes, sans pression."}
+   {
+    "q": "Où faire un shooting photo solo à Enghien-les-Bains ?",
+    "a": "Pour un shooting photo solo à Enghien-les-Bains, nous proposons un parcours à pied : la Rue de Mora pour un rendu urbain, la promenade du Lac d'Enghien pour la douceur, le Casino d'Enghien pour un portrait graphique. Trois ambiances en une séance."
+   },
+   {
+    "q": "Comment être à l'aise pendant une séance portrait à Enghien-les-Bains quand on n'aime pas être photographié ?",
+    "a": "Une séance portrait solo à Enghien-les-Bains ressemble à une promenade au bord du lac : on marche, on parle, et les poses viennent sans pression. Dites-nous ce que vous aimez ou non dans votre apparence, nous adaptons les cadrages."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Des 30 ans entre amis ou les 80 ans d'une grand-mère, la fête peut commencer par une balade. Rassemblez vos invités sur la promenade du Lac d'Enghien pour une grande photo de groupe avant le dîner, quand tout le monde est encore frais. Une virée en pédalo fournit les fous rires qui feront le sel du film. En ville, la Rue de Mora se prête aux clichés complices, bras dessus bras dessous, avant de rejoindre la fête.",
+  "scene": "Des 30 ans entre amis ou les 80 ans d'une grand-mère : un anniversaire à Enghien-les-Bains peut commencer par une photo de groupe au bord du Lac d'Enghien. Rassemblez vos invités sur la promenade avant le dîner, quand tout le monde est encore frais. Une virée en pédalo fournit les fous rires qui feront le sel du film. En ville, la Rue de Mora se prête aux clichés complices, bras dessus bras dessous, avant de rejoindre la fête.",
   "conseil": "Fixez la photo de groupe au bord du lac avant le coucher du soleil, quand la lumière est douce et que les invités sont encore disponibles. Prévenez-nous du moment du gâteau pour que nous soyons bien placés au retour.",
   "faq": [
-   {"q": "Où organiser une séance photo d'anniversaire à Enghien-les-Bains ?", "a": "Le Lac d'Enghien offre un cadre festif et détendu pour réunir tout le monde, avec ses jardins et ses pédalos. Nous pouvons ensuite suivre la fête là où vous la célébrez et garder les moments clés : discours, bougies, danse."},
-   {"q": "Peut-on faire filmer un anniversaire surprise à Enghien-les-Bains ?", "a": "Oui, à condition de nous transmettre le déroulé. Nous nous plaçons discrètement avant l'arrivée de la personne fêtée pour saisir sa réaction en photo et en vidéo. Un proche nous présente ensuite aux invités clés."}
+   {
+    "q": "Où organiser une séance photo d'anniversaire à Enghien-les-Bains ?",
+    "a": "Pour une séance photo d'anniversaire à Enghien-les-Bains, le Lac d'Enghien offre un cadre festif pour réunir tout le monde, avec ses jardins et ses pédalos. Nous suivons ensuite la fête et gardons les moments clés : discours, bougies, danse."
+   },
+   {
+    "q": "Peut-on faire filmer un anniversaire surprise à Enghien-les-Bains ?",
+    "a": "Oui, un anniversaire surprise à Enghien-les-Bains se filme si vous nous transmettez le déroulé. Nous nous plaçons discrètement avant l'arrivée de la personne fêtée pour saisir sa réaction en photo et en vidéo, puis un proche nous présente aux invités."
+   }
   ]
  },
  "diplome": {
-  "scene": "La toge sur les épaules, vous avez gagné le droit de prendre la pose. Devant la façade classique de l'Établissement thermal, un portrait en pied traduit le sérieux de ces années d'études. Puis le Lac d'Enghien accueille le lancer de toque, l'eau en arrière-plan et vos proches qui applaudissent. Une courte vidéo garde l'éclat de rire juste après, le diplôme brandi au-dessus de la tête et les accolades de la famille.",
+  "scene": "Les photos de remise de diplôme à Enghien-les-Bains associent un portrait en toge devant l'Établissement thermal et le lancer de toque au bord du Lac d'Enghien. Devant la façade classique, un portrait en pied traduit le sérieux de ces années d'études. Au bord du lac, la toque vole, l'eau en arrière-plan, et vos proches applaudissent. Une courte vidéo garde l'éclat de rire juste après, le diplôme brandi au-dessus de la tête et les accolades de la famille.",
   "conseil": "Après la cérémonie, rejoignez le lac en fin de journée : la lumière y est plus douce pour les portraits en toge. Gardez une tenue soignée sous la robe, et confiez le diplôme à un proche pendant la balade pour éviter de le froisser.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme à Enghien-les-Bains ?", "a": "La façade de l'Établissement thermal donne un cadre solennel aux portraits, tandis que le Lac d'Enghien se prête au lancer de toque et aux photos avec la famille. Nous enchaînons les deux pour varier les ambiances dans une même séance."},
-   {"q": "Peut-on réserver un vidéaste pour une remise de diplôme dans le Val-d'Oise ?", "a": "Oui, nous nous déplaçons dans le Val-d'Oise et à Enghien-les-Bains pour la cérémonie comme pour les portraits qui suivent. Transmettez-nous le programme exact pour que nous soyons à l'entrée de la salle au bon moment."}
+   {
+    "q": "Où faire des photos de remise de diplôme à Enghien-les-Bains ?",
+    "a": "Pour des photos de remise de diplôme à Enghien-les-Bains, la façade de l'Établissement thermal donne un cadre solennel aux portraits, et le Lac d'Enghien se prête au lancer de toque. Nous enchaînons les deux dans une même séance."
+   },
+   {
+    "q": "Peut-on réserver un vidéaste pour une remise de diplôme dans le Val-d'Oise ?",
+    "a": "Oui, nous filmons les remises de diplôme dans le Val-d'Oise, notamment à Enghien-les-Bains, pour la cérémonie comme pour les portraits qui suivent. Transmettez-nous le programme exact pour que nous soyons à l'entrée de la salle au bon moment."
+   }
   ]
  },
  "naissance": {
-  "scene": "Les premières heures se vivent souvent à la maternité, et la prise de vue y dépend toujours de l'accord de l'établissement. Si elle est autorisée, nous restons discrets : une main minuscule autour d'un doigt, le premier regard échangé. Le retour à la maison peut ensuite passer par une courte sortie au Lac d'Enghien, poussette sur la promenade, ou par la Rue de Mora pour présenter bébé au quartier, filmé avec douceur et sans flash.",
+  "scene": "Un reportage de naissance à Enghien-les-Bains commence à la maternité si l'établissement l'autorise, puis continue par une sortie au Lac d'Enghien ou Rue de Mora. À la maternité, nous restons discrets : une main minuscule autour d'un doigt, le premier regard échangé. Au retour, une courte promenade au bord du lac, poussette sur la promenade, ou un passage par la Rue de Mora présente bébé au quartier, filmé avec douceur et sans flash.",
   "conseil": "Interrogez la maternité sur ses règles de photo et de vidéo avant le terme, et désignez un proche pour nous prévenir. Pour une première sortie au bord du lac, attendez que la maman se sente reposée et choisissez une fin de journée calme.",
   "faq": [
-   {"q": "Peut-on faire un reportage photo de naissance à la maternité près d'Enghien-les-Bains ?", "a": "Cela dépend de l'accord de la maternité : chaque établissement fixe ses propres règles sur la photo et la vidéo. Renseignez-vous avant la naissance. Si ce n'est pas possible, nous proposons un reportage au retour à la maison."},
-   {"q": "Comment se passe un reportage naissance à domicile à Enghien-les-Bains ?", "a": "Nous venons chez vous à un moment choisi après le repos de la maman. Nous saisissons les gestes du quotidien, la tétée, les frères et sœurs qui découvrent le bébé, avec quelques séquences vidéo silencieuses et sans flash."}
+   {
+    "q": "Peut-on faire un reportage photo de naissance à la maternité près d'Enghien-les-Bains ?",
+    "a": "Un reportage de naissance en maternité près d'Enghien-les-Bains dépend de l'accord de l'établissement, qui fixe ses règles sur la photo et la vidéo. Renseignez-vous avant la naissance. Sinon, nous proposons un reportage au retour à la maison."
+   },
+   {
+    "q": "Comment se passe un reportage naissance à domicile à Enghien-les-Bains ?",
+    "a": "Pour un reportage naissance à domicile à Enghien-les-Bains, nous venons chez vous après le repos de la maman. Nous saisissons la tétée, les frères et sœurs qui découvrent le bébé, avec quelques séquences vidéo silencieuses et sans flash."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce bien chauffée, le nouveau-né dort et la séance suit son rythme. Nous photographions ses plis, ses cils, ses pieds au creux de vos mains, sans jamais le forcer à une pose. Le film garde son souffle et vos chuchotements. Si le temps le permet, une sortie courte Rue de Mora ou le long du Lac d'Enghien ajoute des images de vos premières promenades à trois, bébé bien emmitouflé.",
+  "scene": "La séance nouveau-né à Enghien-les-Bains se fait chez vous, dans une pièce chauffée, avec plus tard une courte sortie Rue de Mora ou au Lac d'Enghien. Le bébé dort et la séance suit son rythme. Nous photographions ses plis, ses cils, ses pieds au creux de vos mains, sans jamais forcer une pose. Le film garde son souffle et vos chuchotements. Par temps doux, la sortie ajoute des images de vos premières promenades à trois.",
   "conseil": "Réservez l'extérieur pour plus tard : les premiers jours, la séance se fait à domicile, pièce chauffée et bébé nourri juste avant notre arrivée. Si vous tenez à une image au bord du lac, une courte sortie par temps doux suffit.",
   "faq": [
-   {"q": "Comment se déroule une séance photo nouveau-né à domicile à Enghien-les-Bains ?", "a": "Nous venons chez vous avec un matériel léger et sans flash. La pièce est chauffée, le bébé nourri juste avant, et nous suivons ses temps d'éveil et de sommeil. Les parents restent toujours à côté pendant les poses."},
-   {"q": "Quand prévoir un shooting nouveau-né à Enghien-les-Bains après la naissance ?", "a": "Le plus tôt possible, dans les premiers jours : le bébé dort davantage et garde ses petits plis. Prévenez-nous dès la naissance et nous fixons ensemble une date chez vous, à Enghien-les-Bains ou alentour, selon votre rythme."}
+   {
+    "q": "Comment se déroule une séance photo nouveau-né à domicile à Enghien-les-Bains ?",
+    "a": "Une séance photo nouveau-né à Enghien-les-Bains se fait chez vous, avec un matériel léger et sans flash. La pièce est chauffée, le bébé nourri juste avant, et nous suivons ses temps d'éveil. Les parents restent toujours à côté."
+   },
+   {
+    "q": "Quand prévoir un shooting nouveau-né à Enghien-les-Bains après la naissance ?",
+    "a": "Un shooting nouveau-né à Enghien-les-Bains se prévoit dans les premiers jours : le bébé dort davantage et garde ses petits plis. Prévenez-nous dès la naissance et nous fixons ensemble une date chez vous, selon votre rythme."
+   }
   ]
  }
 }
