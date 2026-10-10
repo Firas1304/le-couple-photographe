@@ -18,7 +18,7 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-def seed(a): return 140+h(a,50)
+def seed(a): return {'paris-1er':300}.get(a, 140+h(a,50))
 
 def place_list_links(depth,places,limit=None):
     return [(p['name'],'zones/%s/'%p['slug']) for p in (places[:limit] if limit else places)]

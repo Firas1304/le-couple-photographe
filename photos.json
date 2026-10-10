@@ -1,0 +1,44 @@
+{
+ "0": {
+  "file": "photos/mariage-paris-louvre-arcades-promenade.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés main dans la main sous les arcades du Louvre à Paris, reportage de mariage"
+ },
+ "1": {
+  "file": "photos/mariage-paris-louvre-arcades-danse.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Les mariés dansent sous les arcades du Louvre, photographe de mariage à Paris"
+ },
+ "2": {
+  "file": "photos/mariage-couple-parc-bouquet-callas.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés enlacés dans un parc, bouquet de callas, photographe de mariage en Île-de-France"
+ },
+ "3": {
+  "file": "photos/mariage-paris-louvre-balustrade-baiser.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Baiser des mariés sur la balustrade du Louvre, mariage à Paris"
+ },
+ "9": {
+  "file": "photos/mariage-paris-louvre-arcades-danse.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": ""
+ },
+ "300": {
+  "file": "photos/mariage-paris-louvre-arcades-promenade.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariage sous les arcades du Louvre, Paris 1er arrondissement"
+ },
+ "1000": {
+  "file": "photos/mariage-paris-louvre-arcades-promenade.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés se tenant par la main dans une galerie du Louvre, photographe de mariage à Paris"
+ }
+}

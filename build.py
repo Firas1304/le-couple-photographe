@@ -150,9 +150,23 @@ def links_block(depth, title, items):
 def strip(seed, alt):
     return '<div class="strip">' + ''.join('<div class="im">%s</div>'%img(seed+i, alt) for i in range(4)) + '</div>'
 
+PHOTO_MAP = json.load(open('photos.json',encoding='utf-8')) if os.path.exists('photos.json') else {}
+def apply_photos(doc, depth):
+    def rep(m):
+        i, rest = m.group(1), m.group(2)
+        p = PHOTO_MAP.get(i)
+        if not p: return m.group(0)
+        mm = re.search(r'alt="([^"]*)"', rest); orig = mm.group(1) if mm else ''
+        rest = re.sub(r'\s*(alt|width|height|loading)="[^"]*"', '', rest)
+        alt = p['alt'] if orig else ''
+        lazy = '' if int(i) in (0,1,2) else ' loading="lazy"'
+        return '<img src="%s%s" width="%d" height="%d" alt="%s"%s%s>' % ('../'*depth, p['file'], p['w'], p['h'], esc(alt,True), lazy, rest)
+    return re.sub(r'<img data-ph="(\d+)"([^>]*)>', rep, doc)
+
 def page(path, depth, title, desc, ld, body, home=False):
     out = os.path.join(OUT, path, 'index.html') if path else os.path.join(OUT,'index.html')
     os.makedirs(os.path.dirname(out) or '.', exist_ok=True)
+    body = apply_photos(body, depth)
     h = head(title, desc, path, depth, ld)
     if ART and not path:   # le fichier d'entrée d'un artifact est enveloppé par la plateforme : fragment sans <html>
         doc = h + body
@@ -202,7 +216,7 @@ def city_pages():
               ("Quelle lumière attendre à %s ?"%c['name'],c['lum'])]
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Villes',"villes/"),(c['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe mariage %s"%c['name'],"provider":{"@type":"Photographer","name":NAME},"areaServed":{"@type":"City","name":c['name']}}]
         others=[('Photographe mariage '+o['name'],'villes/%s/'%o['slug']) for o in CITIES if o['slug']!=c['slug']][:8]
-        body=header(d)+hero(d,[('Accueil',''),('Villes','villes/'),(c['name'],None)],'Photographe de mariage à <em>%s</em>'%esc(c['name']),esc(c['hook'])+' Reportage complet de votre mariage.',60+i%6,'Mariage à %s'%c['name'])
+        body=header(d)+hero(d,[('Accueil',''),('Villes','villes/'),(c['name'],None)],'Photographe de mariage à <em>%s</em>'%esc(c['name']),esc(c['hook'])+' Reportage complet de votre mariage.',(1000 if c['slug']=='paris' else 60+i%6),'Mariage à %s'%c['name'])
         body+='<section class="facts" id="details"><div><small>Ville</small><b>%s</b></div><div><small>Région</small><b>%s</b></div><div><small>Déplacement</small><b>Partout en France</b></div><div><small>Livraison</small><b>Galerie privée en ligne</b></div></section>'%(esc(c['name']),esc(c['reg']))
         body+='<section class="cols"><div><div class="eyebrow">Mariage à %s</div><h2 style="margin-top:18px">Votre mariage <em>à %s</em></h2></div><div class="prose"><p>%s Nous vous accompagnons de la préparation à la soirée, avec un reportage naturel et des portraits soignés.</p><h3>Où photographier à %s</h3><p>Parmi nos suggestions : %s.</p><h3>La lumière</h3><p>%s</p><h3>À prévoir</h3><p>%s</p></div></section>'%(esc(c['name']),esc(c['name']),esc(c['hook']),esc(c['name']),esc(', '.join(c['lieux'])),esc(c['lum']),esc(c['plan']))
         body+=strip(70+i*4,'Photographe de mariage %s'%c['name'])+faq_html(faqs)+cta(d)+links_block(d,'Autres villes',others+[('Toutes les villes','villes/')])+footer(d)
@@ -283,6 +297,7 @@ if __name__=='__main__':
         if ART: shutil.copy(src, os.path.join(OUT,f)) if os.path.isdir(OUT) else (os.makedirs(OUT,exist_ok=True), shutil.copy(src, os.path.join(OUT,f)))
         elif f=='style.css': shutil.copy(src,f)
     os.makedirs(OUT,exist_ok=True)
+    if ART and os.path.isdir('photos'): shutil.copytree('photos', os.path.join(OUT,'photos'), dirs_exist_ok=True)
     home(); hub_palaces(); palace_pages(); hub_villes(); city_pages(); hub_cultures(); culture_pages(); contact()
     urls=['','palaces/','villes/','cultures/','contact/']+['palaces/%s/'%p['slug'] for p in PALACES]+['villes/%s/'%c['slug'] for c in CITIES]+['cultures/%s/'%c['slug'] for c in CULTURES]
     import build_idf; urls+=build_idf.run()
