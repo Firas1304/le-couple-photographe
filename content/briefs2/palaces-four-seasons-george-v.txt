@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : four-seasons-george-v
+NOM : Four Seasons Hotel George V
+ADRESSE : 31 avenue George V, 75008 Paris
+QUARTIER : Avenue George V (8e)
+ACCROCHE : Un palace réputé pour ses compositions florales, à quelques pas des Champs-Élysées.
+LIEU : Le George V se trouve avenue George V, près des Champs-Élysées. L'hôtel est connu pour ses grands arrangements floraux et sa cour intérieure.
+LUMIÈRE : Les fleurs et les dorures demandent un traitement soigné des couleurs. Nous veillons à garder des teintes naturelles sur vos portraits.
+ORGANISATION : Nous échangeons avec votre fleuriste et votre décorateur pour photographier les compositions avant l'arrivée des invités.

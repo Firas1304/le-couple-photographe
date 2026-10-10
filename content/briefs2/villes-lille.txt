@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : lille
+NOM : Lille
+RÉGION : Hauts-de-France
+ACCROCHE : Vieux-Lille, Grand-Place et briques flamandes.
+LIEUX DÉJÀ LISTÉS : Vieux-Lille, Grand-Place, châteaux et fermes des Hauts-de-France
+LUMIÈRE : Les façades de brique et de pierre ressortent bien sous un ciel couvert, fréquent dans le Nord.
+À PRÉVOIR : Prévoyez un plan B pluie, par exemple une salle ou une galerie couverte pour les portraits.

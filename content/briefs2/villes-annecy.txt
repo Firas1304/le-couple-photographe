@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : annecy
+NOM : Annecy
+RÉGION : Auvergne-Rhône-Alpes
+ACCROCHE : Lac d'Annecy, vieille ville et montagnes.
+LIEUX DÉJÀ LISTÉS : vieille ville et canaux, bords du lac, domaines de Haute-Savoie
+LUMIÈRE : Le lac et les montagnes offrent un décor spectaculaire à l'aube comme au crépuscule.
+À PRÉVOIR : Pour les lieux en hauteur, prévoyez le temps de trajet et la météo de montagne.

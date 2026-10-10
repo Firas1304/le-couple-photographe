@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : strasbourg
+NOM : Strasbourg
+RÉGION : Grand Est
+ACCROCHE : La Petite France, la cathédrale et les maisons à colombages.
+LIEUX DÉJÀ LISTÉS : Petite France, parvis de la cathédrale, domaines d'Alsace
+LUMIÈRE : Les canaux de la Petite France sont très photogéniques tôt le matin, sans foule.
+À PRÉVOIR : En hiver, les marchés de Noël animent la ville mais compliquent la circulation.

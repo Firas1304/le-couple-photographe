@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : cannes
+NOM : Cannes
+RÉGION : Provence-Alpes-Côte d'Azur
+ACCROCHE : La Croisette, le Suquet et les îles de Lérins.
+LIEUX DÉJÀ LISTÉS : La Croisette, le Suquet, villas et hôtels de la Côte d'Azur
+LUMIÈRE : La baie et le port donnent de belles réflexions en fin de journée.
+À PRÉVOIR : Pendant les grands événements de la ville, circulation et hébergements sont plus tendus : anticipez.

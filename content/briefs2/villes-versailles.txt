@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : versailles
+NOM : Versailles
+RÉGION : Yvelines
+ACCROCHE : Le château, ses jardins et les rues du vieux Versailles.
+LIEUX DÉJÀ LISTÉS : abords du château et jardins, domaines des Yvelines, rues du quartier Saint-Louis
+LUMIÈRE : Les jardins offrent de longues perspectives. Nous visons le début ou la fin de journée pour une lumière douce.
+À PRÉVOIR : Renseignez-vous sur les autorisations de prise de vue dans les lieux historiques bien en amont.

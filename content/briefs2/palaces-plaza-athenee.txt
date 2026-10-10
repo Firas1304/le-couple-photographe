@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : plaza-athenee
+NOM : Hôtel Plaza Athénée
+ADRESSE : 25 avenue Montaigne, 75008 Paris
+QUARTIER : Avenue Montaigne (8e)
+ACCROCHE : Les auvents rouges de l'avenue Montaigne, un décor devenu un symbole de Paris.
+LIEU : Le Plaza Athénée, avenue Montaigne, est reconnaissable à ses auvents rouges et à ses fleurs en façade. La cour intérieure et les salons offrent des arrière-plans très photogéniques.
+LUMIÈRE : La façade et la cour sont à leur avantage par temps clair comme par temps couvert, car la couleur ressort davantage sous un ciel gris.
+ORGANISATION : Nous repérons les angles de la façade et de la cour avec vous en amont, pour gagner du temps le jour J.

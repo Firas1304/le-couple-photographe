@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : toulouse
+NOM : Toulouse
+RÉGION : Occitanie
+ACCROCHE : La ville rose, le Capitole et les bords de Garonne.
+LIEUX DÉJÀ LISTÉS : place du Capitole, bords de la Garonne, domaines du Tarn et du Gers
+LUMIÈRE : La brique rose prend des teintes chaudes au coucher du soleil.
+À PRÉVOIR : Les mariages civils au Capitole sont très demandés : réservez la date tôt.

@@ -187,6 +187,20 @@ def hero(depth, crumbs, h1, lead, seed, alt, ans=''):
     return '<main><section class="ph"><nav class="crumb" aria-label="Fil d\'Ariane">%s</nav><h1>%s</h1><p class="lead">%s</p><div class="acts"><a class="btn" href="%s" data-cursor>Demander un devis</a><a class="btn alt" href="#details" data-cursor>En savoir plus</a></div></section><div class="hero-img">%s</div>%s' % (c, h1, lead, href(depth,'contact/'), img(seed, alt), answer(ans) if ans else '')
 
 # ---------- pages palaces ----------
+def load_page(kind, slug):
+    f = 'content/pages/%s-%s.json' % (kind, slug)
+    try: return json.load(open(f, encoding='utf-8'))
+    except Exception: return None
+
+def page_sections(C, name, eyebrow, h2):
+    """Sections riches (texte unique par page) : introduction, lieux, conseil et saison."""
+    intro = ''.join('<p>%s</p>' % esc(x) for x in C['intro'].split('\n\n'))
+    s = '<section class="cols"><div><div class="eyebrow">%s</div><h2 style="margin-top:18px">%s</h2></div><div class="prose">%s</div></section>' % (esc(eyebrow), h2, intro)
+    s += '<section class="cols"><div><div class="eyebrow">Où photographier</div><h2 style="margin-top:18px">Les lieux <em>de prise de vue</em></h2></div><div class="moments">%s</div></section>' % ''.join('<div class="rv"><h3>%s</h3><p>%s</p></div>' % (esc(l['nom']), esc(l['texte'])) for l in C['lieux'])
+    s += '<section class="cols"><div><div class="eyebrow">Conseils</div><h2 style="margin-top:18px">Bien <em>préparer</em></h2></div><div class="prose"><p>%s</p><h3>Quelle saison, quelle heure ?</h3><p>%s</p></div></section>' % (esc(C['conseil']), esc(C['saison']))
+    return s
+
+# ---------- pages palaces ----------
 def faq_palace(p):
     return [("Êtes-vous photographe de mariage au %s ?"%p['name'], "Nous photographions des mariages dans les palaces parisiens. Pour une réception au %s (%s), contactez-nous avec votre date : nous indiquons nos disponibilités et préparons le planning avec votre wedding planner."%(p['name'],p['addr'])),
             ("Comment organiser les photos au %s ?"%p['name'], p['orga']),
@@ -197,12 +211,13 @@ def palace_pages():
         path='palaces/%s/'%p['slug']; d=2
         t='Photographe mariage %s | Le Couple Photographe'%p['name']
         desc='Photographe de mariage au %s, %s. Reportage complet, portraits et lumière naturelle. Demandez votre devis.'%(p['name'],p['area'])
-        faqs=faq_palace(p)
+        C=load_page('palaces',p['slug'])
+        faqs=[(q['q'],q['a']) for q in C['faq']] if C else faq_palace(p)
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Palaces parisiens','palaces/'),(p['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe mariage %s"%p['name'],"provider":{"@type":"Photographer","name":NAME},"areaServed":"Paris"}]
         others=[(o['name'],'palaces/%s/'%o['slug']) for o in PALACES if o['slug']!=p['slug']][:6]
         body = header(d)+hero(d,[('Accueil',''),('Palaces',"palaces/"),(p['name'],None)],'Photographe de mariage au <em>%s</em>'%esc(p['name']),esc(p['hook']),20+PALACES.index(p)%5,'Mariage au %s à Paris'%p['name'],ans='%s de mariage qui intervient à Paris et en Île-de-France. Pour un mariage au %s (%s), l\'équipe réalise un reportage photo et vidéo de la préparation à la soirée. Devis personnalisé sur demande.'%(BRAND_DEF,p['name'],p['addr']))
         body += '<section class="facts" id="details"><div><small>Adresse</small><b>%s</b></div><div><small>Quartier</small><b>%s</b></div><div><small>Prestation</small><b>Reportage de mariage</b></div><div><small>Livraison</small><b>Galerie privée en ligne</b></div></section>'%(esc(p['addr']),esc(p['area']))
-        body += '<section class="cols"><div><div class="eyebrow">Le lieu</div><h2 style="margin-top:18px">Se marier au <em>%s</em></h2></div><div class="prose"><p>%s</p><h3>La lumière</h3><p>%s</p><h3>L\'organisation de la journée</h3><p>%s</p></div></section>'%(esc(p['name']),esc(p['lieu']),esc(p['lumiere']),esc(p['orga']))
+        body += page_sections(C,p['name'],'Le lieu','Se marier au <em>%s</em>'%esc(p['name'])) if C else '<section class="cols"><div><div class="eyebrow">Le lieu</div><h2 style="margin-top:18px">Se marier au <em>%s</em></h2></div><div class="prose"><p>%s</p><h3>La lumière</h3><p>%s</p><h3>L\'organisation de la journée</h3><p>%s</p></div></section>'%(esc(p['name']),esc(p['lieu']),esc(p['lumiere']),esc(p['orga']))
         body += strip(30+PALACES.index(p)*4,'Photographe mariage %s'%p['name'])
         body += faq_html(faqs)+cta(d)+links_block(d,'Autres palaces parisiens',others+[('Photographe mariage Paris','villes/paris/'),('Tous les palaces','palaces/')])+footer(d)
         page(path,d,t,desc,ld,body)
@@ -222,11 +237,14 @@ def city_pages():
               ("Comment préparer un mariage à %s ?"%c['name'],c['plan']+" Des frais de déplacement peuvent s'ajouter selon la distance depuis Paris, détaillés dans votre devis."),
               ("Quels sont les meilleurs lieux pour les photos à %s ?"%c['name'],"Parmi nos suggestions : %s. Nous choisissons avec vous selon votre style et la météo."%', '.join(c['lieux'])),
               ("Quelle lumière attendre à %s ?"%c['name'],c['lum'])]
+        C=load_page('villes',c['slug'])
+        if C: faqs=[(q['q'],q['a']) for q in C['faq']]
         ld=[BIZ,breadcrumb_ld([('Accueil',''),('Villes',"villes/"),(c['name'],path)]),faq_ld(faqs),{"@context":"https://schema.org","@type":"Service","serviceType":"Photographe de mariage","name":"Photographe mariage %s"%c['name'],"provider":{"@type":"Photographer","name":NAME},"areaServed":{"@type":"City","name":c['name']}}]
         others=[('Photographe mariage '+o['name'],'villes/%s/'%o['slug']) for o in CITIES if o['slug']!=c['slug']][:8]
         body=header(d)+hero(d,[('Accueil',''),('Villes','villes/'),(c['name'],None)],'Photographe de mariage à <em>%s</em>'%esc(c['name']),esc(c['hook'])+' Reportage complet de votre mariage.',(1000 if c['slug']=='paris' else 60+i%6),'Mariage à %s'%c['name'],ans='%s de mariage qui intervient à Paris et se déplace dans toute la France. Pour un mariage à %s (%s), l\'équipe propose un reportage photo et vidéo complet. Lieux de prise de vue possibles : %s.'%(BRAND_DEF,c['name'],c['reg'],', '.join(c['lieux'])))
         body+='<section class="facts" id="details"><div><small>Ville</small><b>%s</b></div><div><small>Région</small><b>%s</b></div><div><small>Déplacement</small><b>Partout en France</b></div><div><small>Livraison</small><b>Galerie privée en ligne</b></div></section>'%(esc(c['name']),esc(c['reg']))
-        body+='<section class="cols"><div><div class="eyebrow">Mariage à %s</div><h2 style="margin-top:18px">Votre mariage <em>à %s</em></h2></div><div class="prose"><p>%s Nous vous accompagnons de la préparation à la soirée, avec un reportage naturel et des portraits soignés.</p><h3>Où photographier à %s</h3><p>Parmi nos suggestions : %s.</p><h3>La lumière</h3><p>%s</p><h3>À prévoir</h3><p>%s</p></div></section>'%(esc(c['name']),esc(c['name']),esc(c['hook']),esc(c['name']),esc(', '.join(c['lieux'])),esc(c['lum']),esc(c['plan']))
+        body+=page_sections(C,c['name'],'Mariage à '+c['name'],'Votre mariage <em>à %s</em>'%esc(c['name'])) if C else ''
+        if not C: body+='<section class="cols"><div><div class="eyebrow">Mariage à %s</div><h2 style="margin-top:18px">Votre mariage <em>à %s</em></h2></div><div class="prose"><p>%s Nous vous accompagnons de la préparation à la soirée, avec un reportage naturel et des portraits soignés.</p><h3>Où photographier à %s</h3><p>Parmi nos suggestions : %s.</p><h3>La lumière</h3><p>%s</p><h3>À prévoir</h3><p>%s</p></div></section>'%(esc(c['name']),esc(c['name']),esc(c['hook']),esc(c['name']),esc(', '.join(c['lieux'])),esc(c['lum']),esc(c['plan']))
         body+=strip(70+i*4,'Photographe de mariage %s'%c['name'])+faq_html(faqs)+cta(d)+links_block(d,'Autres villes',others+[('Toutes les villes','villes/')])+footer(d)
         page(path,d,'Photographe mariage %s | Le Couple Photographe'%c['name'],'Photographe de mariage à %s (%s). Reportage naturel, portraits soignés, déplacement possible. Demandez votre devis.'%(c['name'],c['reg']),ld,body)
 def hub_villes():

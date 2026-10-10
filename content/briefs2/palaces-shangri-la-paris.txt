@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : shangri-la-paris
+NOM : Shangri-La Paris
+ADRESSE : 10 avenue d'Iéna, 75116 Paris
+QUARTIER : Avenue d'Iéna (16e)
+ACCROCHE : Une ancienne demeure du prince Roland Bonaparte, avec la tour Eiffel en toile de fond.
+LIEU : Le Shangri-La Paris occupe l'ancien hôtel particulier du prince Roland Bonaparte, avenue d'Iéna. Plusieurs espaces de l'hôtel ont une vue sur la tour Eiffel.
+LUMIÈRE : Les vues sur la tour Eiffel sont très sensibles à l'heure : nous repérons avec vous le meilleur moment pour les portraits sur terrasse ou en fenêtre.
+ORGANISATION : Nous préparons des repères visuels (étage, terrasse, salon) à l'avance pour que les portraits se fassent sans perte de temps.

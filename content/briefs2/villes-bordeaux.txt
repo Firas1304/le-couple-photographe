@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : bordeaux
+NOM : Bordeaux
+RÉGION : Nouvelle-Aquitaine
+ACCROCHE : Place de la Bourse, miroir d'eau et châteaux viticoles.
+LIEUX DÉJÀ LISTÉS : place de la Bourse et quais, châteaux de Saint-Émilion et du Médoc, bassin d'Arcachon
+LUMIÈRE : Les vignes à la fin de l'été donnent une lumière dorée très cinématographique.
+À PRÉVOIR : Pour un mariage dans un domaine viticole, prévoyez un temps d'installation plus long.

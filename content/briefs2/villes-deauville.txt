@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : deauville
+NOM : Deauville
+RÉGION : Normandie
+ACCROCHE : Planches, plages et manoirs normands.
+LIEUX DÉJÀ LISTÉS : les Planches et la plage, manoirs et haras de Normandie, Honfleur et la côte
+LUMIÈRE : Les plages normandes sont lumineuses même par temps couvert, avec de belles nuances de gris et de bleu.
+À PRÉVOIR : Prévoyez des tenues adaptées au vent pour les photos de bord de mer.

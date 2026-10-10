@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : nantes
+NOM : Nantes
+RÉGION : Pays de la Loire
+ACCROCHE : Château des ducs de Bretagne, Loire et île de Nantes.
+LIEUX DÉJÀ LISTÉS : château des ducs de Bretagne, bords de Loire, manoirs et domaines des Pays de la Loire
+LUMIÈRE : Les bords de Loire offrent une belle lumière douce en fin de journée.
+À PRÉVOIR : Pour un mariage en domaine, comptez un temps de trajet entre la mairie et le lieu de réception.

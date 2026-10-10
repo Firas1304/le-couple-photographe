@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : the-peninsula-paris
+NOM : The Peninsula Paris
+ADRESSE : 19 avenue Kléber, 75116 Paris
+QUARTIER : Avenue Kléber (16e)
+ACCROCHE : Un palace installé dans un bâtiment de 1908, près de l'Arc de Triomphe.
+LIEU : The Peninsula Paris occupe un bâtiment de 1908, avenue Kléber, à proximité de l'Arc de Triomphe. Les terrasses et les espaces de réception offrent des perspectives variées sur la ville.
+LUMIÈRE : Les terrasses en hauteur apportent une belle lumière de fin de journée. Nous les prévoyons pour la séance de couple pendant le cocktail.
+ORGANISATION : Nous synchronisons les portraits avec le service de l'hôtel pour ne pas retarder le dîner.

@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : fontainebleau
+NOM : Fontainebleau
+RÉGION : Seine-et-Marne
+ACCROCHE : Forêt, château et domaines de campagne à une heure de Paris.
+LIEUX DÉJÀ LISTÉS : abords du château, forêt de Fontainebleau, domaines et manoirs alentour
+LUMIÈRE : La forêt filtre la lumière et crée une ambiance douce, même en plein été.
+À PRÉVOIR : Si vous passez par la forêt, prévoyez des chaussures confortables pour la séance de couple.

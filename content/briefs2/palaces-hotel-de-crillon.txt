@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : hotel-de-crillon
+NOM : Hôtel de Crillon
+ADRESSE : 10 place de la Concorde, 75008 Paris
+QUARTIER : Place de la Concorde (8e)
+ACCROCHE : Une façade du XVIIIe siècle sur la place de la Concorde, pour des images intemporelles.
+LIEU : L'Hôtel de Crillon occupe l'un des deux palais qui bordent la place de la Concorde, construits au XVIIIe siècle. La place et les perspectives vers les Tuileries donnent un cadre monumental.
+LUMIÈRE : Tôt le matin ou au coucher du soleil, la place est dégagée et la lumière rasante met la pierre en valeur.
+ORGANISATION : Nous choisissons avec vous l'horaire des portraits extérieurs, pour éviter les heures de grande affluence.

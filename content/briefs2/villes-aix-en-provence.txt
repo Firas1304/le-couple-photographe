@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : aix-en-provence
+NOM : Aix-en-Provence
+RÉGION : Provence-Alpes-Côte d'Azur
+ACCROCHE : Bastides, champs de lavande et rues du centre ancien.
+LIEUX DÉJÀ LISTÉS : bastides et domaines, centre historique, campagne provençale
+LUMIÈRE : La lumière provençale est chaude et contrastée. Nous privilégions le début de soirée.
+À PRÉVOIR : En été, prévoyez de l'ombre et de l'eau pour vos invités pendant les photos de groupe.

@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : biarritz
+NOM : Biarritz
+RÉGION : Nouvelle-Aquitaine
+ACCROCHE : Côte basque, rocher de la Vierge et plages.
+LIEUX DÉJÀ LISTÉS : rocher de la Vierge, Grande Plage, villas et domaines du Pays basque
+LUMIÈRE : Le coucher de soleil sur l'océan est le moment fort de la journée pour les portraits.
+À PRÉVOIR : Le vent et la marée changent le décor : nous vérifions les horaires de marée avec vous.

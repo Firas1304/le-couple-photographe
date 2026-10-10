@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : le-bristol-paris
+NOM : Le Bristol Paris
+ADRESSE : 112 rue du Faubourg Saint-Honoré, 75008 Paris
+QUARTIER : Faubourg Saint-Honoré (8e)
+ACCROCHE : Un palace au jardin intérieur, à deux pas de l'Élysée, pour un mariage élégant.
+LIEU : Le Bristol est installé rue du Faubourg Saint-Honoré, dans le triangle d'or parisien. Son jardin intérieur offre un cadre verdoyant rare en plein 8e arrondissement.
+LUMIÈRE : Le jardin reçoit une lumière filtrée très flatteuse pour les portraits de couple et de famille. Nous l'utilisons de préférence avant le cocktail.
+ORGANISATION : Nous coordonnons les photos de groupe et les portraits pour qu'ils tiennent en quelques minutes, sans vous couper de vos invités.

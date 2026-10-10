@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : mandarin-oriental-paris
+NOM : Mandarin Oriental Paris
+ADRESSE : 251 rue Saint-Honoré, 75001 Paris
+QUARTIER : Rue Saint-Honoré (1er)
+ACCROCHE : Un palace contemporain avec jardin intérieur, au cœur du quartier Saint-Honoré.
+LIEU : Le Mandarin Oriental est situé rue Saint-Honoré, entre la place Vendôme et les Tuileries. Son jardin intérieur offre un décor calme et lumineux au centre de Paris.
+LUMIÈRE : Le jardin est un bon choix pour des portraits naturels, sans fond urbain. Nous l'associons à une séance rapide aux Tuileries si la météo le permet.
+ORGANISATION : Nous adaptons le planning selon les espaces réservés pour votre événement, en lien avec l'hôtel.

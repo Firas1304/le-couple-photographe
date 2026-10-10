@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : ritz-paris
+NOM : Ritz Paris
+ADRESSE : 15 place Vendôme, 75001 Paris
+QUARTIER : Place Vendôme (1er)
+ACCROCHE : La place Vendôme et son écrin de pierre blanche composent un décor de mariage unique.
+LIEU : Le Ritz Paris donne sur la place Vendôme, l'une des plus belles places de la capitale. Le palace dispose aussi d'un jardin intérieur, précieux pour des portraits au calme loin de la foule.
+LUMIÈRE : Les façades claires de la place Vendôme renvoient une lumière douce en fin de matinée. Nous prévoyons un créneau de portraits à ce moment, puis un second dans les salons.
+ORGANISATION : Prises de vue dans l'hôtel et sur la place : nous préparons le planning avec votre wedding planner et l'établissement pour que chaque lieu soit disponible à l'heure prévue.

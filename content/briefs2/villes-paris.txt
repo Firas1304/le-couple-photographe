@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : paris
+NOM : Paris
+RÉGION : Île-de-France
+ACCROCHE : Mairies, quais de Seine, palaces et toits de zinc.
+LIEUX DÉJÀ LISTÉS : hôtels de ville et mairies d'arrondissement, quais de Seine et ponts, palaces et hôtels particuliers
+LUMIÈRE : Les quais et les rues haussmanniennes sont superbes tôt le matin, quand la ville est encore calme.
+À PRÉVOIR : Prévoyez du temps pour les déplacements entre la mairie, le lieu de réception et les spots photo.

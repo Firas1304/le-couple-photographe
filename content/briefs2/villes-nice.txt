@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : nice
+NOM : Nice
+RÉGION : Provence-Alpes-Côte d'Azur
+ACCROCHE : Promenade des Anglais, vieille ville et arrière-pays.
+LIEUX DÉJÀ LISTÉS : Promenade des Anglais, vieille ville de Nice, villas de la Côte d'Azur
+LUMIÈRE : Le lever du soleil sur la baie offre des portraits très doux avant la chaleur.
+À PRÉVOIR : La Promenade est très fréquentée : nous choisissons des horaires et des spots plus calmes.

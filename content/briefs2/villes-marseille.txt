@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : marseille
+NOM : Marseille
+RÉGION : Provence-Alpes-Côte d'Azur
+ACCROCHE : Vieux-Port, Notre-Dame de la Garde et calanques.
+LIEUX DÉJÀ LISTÉS : Vieux-Port, Corniche et plages, calanques
+LUMIÈRE : La lumière méditerranéenne est forte à midi : nous plaçons les portraits tôt ou tard dans la journée.
+À PRÉVOIR : Le vent peut se lever sur la côte : prévoyez des tenues et des coiffures adaptées.

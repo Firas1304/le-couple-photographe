@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : le-meurice
+NOM : Le Meurice
+ADRESSE : 228 rue de Rivoli, 75001 Paris
+QUARTIER : Rue de Rivoli (1er)
+ACCROCHE : Face au jardin des Tuileries, un palace pour un mariage à la française.
+LIEU : Le Meurice fait face au jardin des Tuileries, sur la rue de Rivoli. Les salons ornés de l'hôtel et le jardin tout proche permettent de varier les ambiances en quelques pas.
+LUMIÈRE : Les Tuileries offrent de longues perspectives et une belle lumière en fin de journée, idéale pour une séance de couple après la cérémonie.
+ORGANISATION : Nous prévoyons un trajet court entre l'hôtel et le jardin, avec une marge pour la circulation et les invités.

@@ -1,0 +1,8 @@
+TYPE : ville
+SLUG : lyon
+NOM : Lyon
+RÉGION : Auvergne-Rhône-Alpes
+ACCROCHE : Vieux-Lyon, Fourvière, quais du Rhône et de la Saône.
+LIEUX DÉJÀ LISTÉS : Vieux-Lyon et ses traboules, colline de Fourvière, domaines du Beaujolais
+LUMIÈRE : Les ruelles du Vieux-Lyon sont plus intimes tôt le matin. Les quais sont idéaux au coucher du soleil.
+À PRÉVOIR : Les traboules sont étroites : nous prévoyons des portraits à deux ou en petit groupe.

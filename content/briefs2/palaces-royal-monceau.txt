@@ -1,0 +1,9 @@
+TYPE : palace
+SLUG : royal-monceau
+NOM : Le Royal Monceau
+ADRESSE : 37 avenue Hoche, 75008 Paris
+QUARTIER : Avenue Hoche (8e)
+ACCROCHE : Un palace du 8e arrondissement, près de l'Arc de Triomphe et du parc Monceau.
+LIEU : Le Royal Monceau est situé avenue Hoche, entre l'Arc de Triomphe et le parc Monceau. Le quartier permet des portraits dans un cadre haussmannien très parisien.
+LUMIÈRE : Les larges avenues haussmanniennes offrent une lumière uniforme en journée. Le parc Monceau, tout proche, apporte de la verdure pour une séance de couple.
+ORGANISATION : Nous préparons un petit itinéraire à pied pour que la séance extérieure reste courte et confortable.
