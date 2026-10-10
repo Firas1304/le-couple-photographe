@@ -1,2 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://le-couple-photographe.fr/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://www.lecouplephotographe.fr/</loc><priority>1.0</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/cultures/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/contact/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/ritz-paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/le-bristol-paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/plaza-athenee/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/le-meurice/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/four-seasons-george-v/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/hotel-de-crillon/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/shangri-la-paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/mandarin-oriental-paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/the-peninsula-paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/palaces/royal-monceau/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/paris/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/versailles/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/fontainebleau/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/lyon/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/bordeaux/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/marseille/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/aix-en-provence/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/nice/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/cannes/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/lille/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/toulouse/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/strasbourg/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/nantes/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/biarritz/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/annecy/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/villes/deauville/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/cultures/mariage-marocain/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/cultures/mariage-tunisien/</loc><priority>0.8</priority></url>
+<url><loc>https://www.lecouplephotographe.fr/cultures/mariage-algerien/</loc><priority>0.8</priority></url>
+</urlset>
