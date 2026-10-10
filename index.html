@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Le Couple Photographe</title>
-<meta name="description" content="Le Couple Photographe, photographes de mariage et de couple à Paris et partout en Île-de-France. Reportage sincère, lumière naturelle, souvenirs qui durent.">
+<title>Le Couple Photographe, photographe de mariage Paris</title>
+<meta name="description" content="Photographe de mariage à Paris et en Île-de-France. Reportage de mariage sincère, lumière naturelle, de la préparation à la soirée. Séances couple et fiançailles aussi.">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="theme-color" content="#0d0c0b">
 <meta property="og:title" content="Le Couple Photographe, photographes de mariage à Paris et en Île-de-France">
@@ -103,6 +103,14 @@ body::after{content:"";position:fixed;inset:-50%;z-index:90;pointer-events:none;
 .card figcaption b{font-weight:400;color:var(--paper)}
 @media(max-width:820px){.gal{height:auto!important}.gal-in{position:static;height:auto;padding-block:70px}.track{overflow-x:auto;scroll-snap-type:x mandatory;transform:none!important;padding-bottom:20px}.card{scroll-snap-align:center;width:72vw}.card:nth-child(even) .im{margin-top:0}}
 .hint{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--mute)}
+/* journée */
+.dg{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(14px,2vw,30px)}
+.dg .im{aspect-ratio:3/4;overflow:hidden;background:var(--ink2);margin-bottom:18px}
+.dg img{width:100%;height:100%;object-fit:cover;display:block;transition:transform 1.4s var(--ease)}
+.dg article:hover img{transform:scale(1.06)}
+.dg h3{font:400 clamp(24px,2.4vw,36px)/1.1 var(--serif);margin-bottom:8px}.dg p{color:var(--mute);font-size:14px}
+.dg article:nth-child(even){margin-top:clamp(0px,5vw,70px)}
+@media(max-width:900px){.dg{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.dg{grid-template-columns:1fr}.dg article:nth-child(even){margin-top:0}}
 /* services */
 .sec{padding:clamp(80px,12vw,170px) var(--g)}
 .sec-h{display:grid;grid-template-columns:1fr 2fr;gap:30px;margin-bottom:clamp(40px,6vw,90px)}
@@ -113,6 +121,7 @@ body::after{content:"";position:fixed;inset:-50%;z-index:90;pointer-events:none;
 .svc a{display:grid;grid-template-columns:70px 1.2fr 2fr 40px;gap:24px;align-items:center;padding:34px 0;border-bottom:1px solid var(--line);position:relative;transition:padding .6s var(--ease),color .4s}
 .svc a:hover{padding-left:22px;color:var(--gold)}
 .svc .n{font-size:12px;color:var(--mute);letter-spacing:.14em}
+.svc .main h3{font-size:clamp(34px,5vw,78px)}
 .svc h3{font:400 clamp(28px,3.6vw,56px)/1.05 var(--serif)}
 .svc p{color:var(--mute);max-width:52ch}.svc .ar{font-size:26px;transition:transform .5s var(--ease)}.svc a:hover .ar{transform:translateX(8px)}
 @media(max-width:820px){.svc a{grid-template-columns:1fr 30px;gap:8px}.svc .n{display:none}.svc p{grid-column:1}}
@@ -180,24 +189,24 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 
 <header class="nav">
   <a href="#top" class="logo" data-cursor>Le Couple Photographe</a>
-  <nav aria-label="Navigation principale"><a href="#galerie">Portfolio</a><a href="#prestations">Prestations</a><a href="#zones">Île-de-France</a><a href="#faq">Questions</a><a href="#contact">Contact</a></nav>
+  <nav aria-label="Navigation principale"><a href="#galerie">Mariages</a><a href="#deroule">Votre journée</a><a href="#prestations">Prestations</a><a href="#zones">Île-de-France</a><a href="#faq">Questions</a><a href="#contact">Contact</a></nav>
   <button class="burger" id="burger" aria-expanded="false">Menu</button>
 </header>
-<div class="menu" id="menu"><a href="#galerie">Portfolio</a><a href="#prestations">Prestations</a><a href="#zones">Zones</a><a href="#faq">Questions</a><a href="#contact">Contact</a></div>
+<div class="menu" id="menu"><a href="#galerie">Mariages</a><a href="#deroule">Votre journée</a><a href="#prestations">Prestations</a><a href="#zones">Zones</a><a href="#faq">Questions</a><a href="#contact">Contact</a></div>
 
 <main id="top">
 <section class="hero" aria-label="Accueil">
-  <div class="float f1" data-depth="0.05"><img data-ph="0" alt="Couple de mariés dans la lumière dorée, reportage de mariage à Paris" width="360" height="480"></div>
-  <div class="float f2" data-depth="-0.04"><img data-ph="1" alt="Séance couple en Île-de-France" width="230" height="230"></div>
-  <div class="float f3" data-depth="0.08"><img data-ph="2" alt="Détails de mariage, alliances et bouquet" width="170" height="212"></div>
+  <div class="float f1" data-depth="0.05"><img data-ph="0" alt="Mariés dans la lumière dorée, reportage de mariage à Paris" width="360" height="480"></div>
+  <div class="float f2" data-depth="-0.04"><img data-ph="1" alt="Cérémonie de mariage en Île-de-France" width="230" height="230"></div>
+  <div class="float f3" data-depth="0.08"><img data-ph="2" alt="Alliances et bouquet de la mariée" width="170" height="212"></div>
   <h1><span class="l"><span>Le couple</span></span><span class="l"><span>photographe</span></span></h1>
   <div class="hero-foot">
-    <p>Photographes de mariage et de couple à <strong>Paris</strong> et dans toute l'<strong>Île-de-France</strong>. Une lumière naturelle, des émotions vraies, des images qui vous ressemblent.</p>
+    <p><strong>Photographes de mariage</strong> à <strong>Paris</strong> et dans toute l'<strong>Île-de-France</strong>. Votre journée racontée dans une lumière naturelle, avec des émotions vraies et des images qui vous ressemblent.</p>
     <a class="scroll eyebrow" href="#galerie" data-cursor>Découvrir <i></i></a>
   </div>
 </section>
 
-<div class="mq" aria-hidden="true"><div><span>Photographe de mariage Paris</span><span>Séance couple</span><span>Fiançailles</span><span>Reportage sincère</span><span>Île-de-France</span><span>Photographe de mariage Paris</span><span>Séance couple</span><span>Fiançailles</span><span>Reportage sincère</span><span>Île-de-France</span></div></div>
+<div class="mq" aria-hidden="true"><div><span>Photographe de mariage Paris</span><span>Reportage de mariage</span><span>Mariage en Île-de-France</span><span>Cérémonie laïque</span><span>Vin d'honneur</span><span>Première danse</span><span>Mariage au château</span><span>Photographe de mariage Paris</span><span>Reportage de mariage</span><span>Mariage en Île-de-France</span><span>Cérémonie laïque</span><span>Vin d'honneur</span><span>Première danse</span><span>Mariage au château</span></div></div>
 
 <section class="man" aria-labelledby="mt">
   <div class="eyebrow" id="mt">Notre regard</div>
@@ -206,30 +215,42 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 
 <section class="gal" id="galerie" aria-labelledby="gt">
   <div class="gal-in">
-    <div class="gal-head"><h2 id="gt">Histoires <em>d'amour</em><br>en Île-de-France</h2><span class="hint">Faites défiler →</span></div>
+    <div class="gal-head"><h2 id="gt">Mariages <em>racontés</em><br>à Paris &amp; en Île-de-France</h2><span class="hint">Faites défiler →</span></div>
     <div class="track" id="track">
-      <figure class="card" data-cursor><div class="im"><img data-ph="3" alt="Mariage à Paris, sortie de mairie" loading="lazy"></div><figcaption><b>Mariage</b><span>Paris 75</span></figcaption></figure>
-      <figure class="card" data-cursor><div class="im"><img data-ph="4" alt="Séance couple à Versailles" loading="lazy"></div><figcaption><b>Séance couple</b><span>Versailles 78</span></figcaption></figure>
-      <figure class="card" data-cursor><div class="im"><img data-ph="5" alt="Mariage en Seine-et-Marne, lumière dorée" loading="lazy"></div><figcaption><b>Mariage</b><span>Seine-et-Marne 77</span></figcaption></figure>
-      <figure class="card" data-cursor><div class="im"><img data-ph="6" alt="Fiançailles sur les quais de Seine" loading="lazy"></div><figcaption><b>Fiançailles</b><span>Paris 75</span></figcaption></figure>
-      <figure class="card" data-cursor><div class="im"><img data-ph="7" alt="Cérémonie laïque en Essonne" loading="lazy"></div><figcaption><b>Cérémonie</b><span>Essonne 91</span></figcaption></figure>
-      <figure class="card" data-cursor><div class="im"><img data-ph="8" alt="Portrait de couple à Vincennes" loading="lazy"></div><figcaption><b>Séance couple</b><span>Val-de-Marne 94</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="3" alt="Mariés sortant de la mairie à Paris" loading="lazy"></div><figcaption><b>Mariage</b><span>Paris 75</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="4" alt="Mariage au château de Versailles" loading="lazy"></div><figcaption><b>Mariage</b><span>Versailles 78</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="5" alt="Cérémonie laïque en plein air" loading="lazy"></div><figcaption><b>Cérémonie</b><span>Seine-et-Marne 77</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="6" alt="Mariés dans un domaine de Seine-et-Marne" loading="lazy"></div><figcaption><b>Mariage</b><span>Fontainebleau 77</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="7" alt="Vin d'honneur, invités en plein rire" loading="lazy"></div><figcaption><b>Vin d'honneur</b><span>Essonne 91</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="8" alt="Première danse des mariés" loading="lazy"></div><figcaption><b>Première danse</b><span>Hauts-de-Seine 92</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="9" alt="Séance couple sur les quais de Seine" loading="lazy"></div><figcaption><b>Séance couple</b><span>Paris 75</span></figcaption></figure>
+      <figure class="card" data-cursor><div class="im"><img data-ph="10" alt="Mariage à Auvers-sur-Oise" loading="lazy"></div><figcaption><b>Mariage</b><span>Val-d'Oise 95</span></figcaption></figure>
     </div>
   </div>
 </section>
 
+<section class="sec day" id="deroule" aria-labelledby="dt">
+  <div class="sec-h"><div class="eyebrow">Reportage de mariage</div><h2 id="dt">Chaque moment de <em>votre journée</em></h2></div>
+  <div class="dg">
+    <article class="rv"><div class="im"><img data-ph="11" alt="Préparatifs de la mariée, robe et bouquet" loading="lazy"></div><h3>Les préparatifs</h3><p>La robe, le costume, les mains qui tremblent un peu. Nous arrivons tôt pour saisir le calme avant la fête.</p></article>
+    <article class="rv"><div class="im"><img data-ph="12" alt="Échange des alliances pendant la cérémonie" loading="lazy"></div><h3>La cérémonie</h3><p>Mairie, église ou cérémonie laïque. Nous restons discrets pour ne rien perdre des vœux et des larmes.</p></article>
+    <article class="rv"><div class="im"><img data-ph="13" alt="Photo de groupe au vin d'honneur" loading="lazy"></div><h3>Le vin d'honneur</h3><p>Photos de groupe organisées en quelques minutes, puis des portraits naturels de vos invités.</p></article>
+    <article class="rv"><div class="im"><img data-ph="14" alt="Première danse des mariés en soirée" loading="lazy"></div><h3>La soirée</h3><p>Discours, première danse, piste qui s'enflamme. Nous restons jusqu'au moment que vous choisissez.</p></article>
+  </div>
+</section>
+
 <section class="sec" id="prestations" aria-labelledby="st">
-  <div class="sec-h"><div class="eyebrow">Prestations</div><h2 id="st">Du premier rendez-vous au <em>dernier slow</em></h2></div>
+  <div class="sec-h"><div class="eyebrow">Prestations</div><h2 id="st">Le mariage au <em>cœur de tout</em></h2></div>
   <div class="svc">
-    <a href="#contact" data-cursor><span class="n">01</span><h3>Reportage de mariage</h3><p>De la préparation à la soirée dansante, un récit complet de votre journée par un photographe de mariage à Paris et en Île-de-France.</p><span class="ar">→</span></a>
-    <a href="#contact" data-cursor><span class="n">02</span><h3>Séance couple</h3><p>Une promenade à deux dans Paris, un parc, un château. Des portraits naturels, sans pose figée.</p><span class="ar">→</span></a>
-    <a href="#contact" data-cursor><span class="n">03</span><h3>Fiançailles &amp; demande</h3><p>Nous immortalisons la demande en mariage ou une séance d'engagement avant le grand jour.</p><span class="ar">→</span></a>
-    <a href="#contact" data-cursor><span class="n">04</span><h3>Mariage hors Île-de-France</h3><p>Provence, Bretagne, étranger : nous nous déplaçons pour raconter votre histoire où qu'elle ait lieu.</p><span class="ar">→</span></a>
+    <a href="#contact" data-cursor class="main"><span class="n">01</span><h3>Reportage de mariage</h3><p>De la préparation à la soirée dansante, le récit complet de votre mariage à Paris, en Île-de-France ou ailleurs. C'est notre métier principal.</p><span class="ar">→</span></a>
+    <a href="#contact" data-cursor><span class="n">02</span><h3>Séance couple avant mariage</h3><p>Une promenade à deux pour vous apprivoiser devant l'objectif avant le jour J.</p><span class="ar">→</span></a>
+    <a href="#contact" data-cursor><span class="n">03</span><h3>Fiançailles &amp; demande</h3><p>Nous immortalisons la demande en mariage ou une séance d'engagement.</p><span class="ar">→</span></a>
+    <a href="#contact" data-cursor><span class="n">04</span><h3>Mariage en France et à l'étranger</h3><p>Provence, Bretagne, Italie : nous nous déplaçons pour votre histoire.</p><span class="ar">→</span></a>
   </div>
 </section>
 
 <section class="sec zones" id="zones" aria-labelledby="zt">
-  <div class="sec-h"><div class="eyebrow">Zones d'intervention</div><h2 id="zt">Un photographe de mariage <em>près de chez vous</em></h2></div>
+  <div class="sec-h"><div class="eyebrow">Zones d'intervention</div><h2 id="zt">Photographe de mariage <em>près de chez vous</em></h2></div>
   <div class="zl">
     <div><small>75</small><h3>Paris</h3><p>Hôtels de ville, quais de Seine, Montmartre, Marais, Tuileries.</p></div>
     <div><small>77</small><h3>Seine-et-Marne</h3><p>Fontainebleau, Meaux, Provins, Vaux-le-Vicomte et domaines de campagne.</p></div>
@@ -240,7 +261,7 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
     <div><small>94</small><h3>Val-de-Marne</h3><p>Vincennes, Saint-Mandé, Nogent-sur-Marne, Créteil.</p></div>
     <div><small>95</small><h3>Val-d'Oise</h3><p>Auvers-sur-Oise, Cergy, Pontoise, Enghien-les-Bains.</p></div>
   </div>
-  <p class="seo-p">Que vous recherchiez un photographe de mariage à Paris, un photographe de couple à Versailles ou un reportage de mariage en Seine-et-Marne, Le Couple Photographe couvre les huit départements d'Île-de-France. Nous connaissons les lieux, les horaires de lumière et les contraintes de chaque mairie, pour que vous n'ayez à penser à rien le jour J.</p>
+  <p class="seo-p">Que vous recherchiez un photographe de mariage à Paris, à Versailles ou en Seine-et-Marne, Le Couple Photographe couvre les huit départements d'Île-de-France. Nous connaissons les lieux, les horaires de lumière et les contraintes de chaque mairie, pour que vous n'ayez à penser à rien le jour J.</p>
 </section>
 
 <section class="band" aria-label="Citation"><img data-ph="9" alt="" aria-hidden="true"><blockquote class="rv">« Les plus belles photos sont celles que vous n'avez pas vu prendre. »</blockquote></section>
@@ -269,7 +290,7 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
     <form id="form" novalidate>
       <div class="r2"><div class="fld"><label for="nom">Vos prénoms</label><input id="nom" autocomplete="name" required></div><div class="fld"><label for="mail">Email</label><input id="mail" type="email" autocomplete="email" required></div></div>
       <div class="r2"><div class="fld"><label for="date">Date</label><input id="date" type="date"></div><div class="fld"><label for="zone">Lieu</label><select id="zone"><option>Paris (75)</option><option>Seine-et-Marne (77)</option><option>Yvelines (78)</option><option>Essonne (91)</option><option>Hauts-de-Seine (92)</option><option>Seine-Saint-Denis (93)</option><option>Val-de-Marne (94)</option><option>Val-d'Oise (95)</option><option>Autre région</option></select></div></div>
-      <div class="fld"><label for="type">Projet</label><select id="type"><option>Reportage de mariage</option><option>Séance couple</option><option>Fiançailles / demande</option></select></div>
+      <div class="fld"><label for="type">Projet</label><select id="type"><option>Reportage de mariage</option><option>Séance couple avant mariage</option><option>Fiançailles / demande</option></select></div>
       <div class="fld"><label for="msg">Votre message</label><textarea id="msg"></textarea></div>
       <button class="btn" type="submit" data-cursor>Préparer mon message</button>
       <p class="note" id="note" role="status"></p>
@@ -285,8 +306,8 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 var $=function(s,c){return(c||document).querySelector(s)},$$=function(s,c){return[].slice.call((c||document).querySelectorAll(s))};
 var reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
 /* PHOTOS : remplacez chaque entrée par l'URL de votre vraie photo (ex. "photos/mariage-01.jpg") */
-var PHOTOS=[null,null,null,null,null,null,null,null,null,null];
-var HUES=[28,12,40,22,8,34,18,44,26,14];
+var PHOTOS=[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null];
+var HUES=[28,12,40,22,8,34,18,44,26,14,30,20,36,10,24];
 function ph(i){var h=HUES[i%HUES.length],a=(i*47)%360;
  var svg="<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 800' preserveAspectRatio='xMidYMid slice'><defs><radialGradient id='a' cx='"+(30+i*7%50)+"%' cy='"+(25+i*11%40)+"%' r='80%'><stop offset='0' stop-color='hsl("+h+",62%,62%)'/><stop offset='.55' stop-color='hsl("+(h-12)+",45%,26%)'/><stop offset='1' stop-color='hsl("+(h-20)+",30%,9%)'/></radialGradient><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 1 0 0 0 0 .9 0 0 0 0 .8 0 0 0 .18 0'/></filter></defs><rect width='600' height='800' fill='url(%23a)'/><ellipse cx='300' cy='560' rx='120' ry='230' fill='rgba(0,0,0,.35)'/><circle cx='300' cy='310' r='62' fill='rgba(0,0,0,.35)'/><rect width='600' height='800' filter='url(%23n)'/><text x='300' y='770' text-anchor='middle' font-family='sans-serif' font-size='18' letter-spacing='6' fill='rgba(255,255,255,.55)'>VOTRE PHOTO ICI</text></svg>";
  return"data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg.replace(/%23/g,'#'))}
