@@ -98,7 +98,7 @@ def combo_page(s,p):
     cards=''.join(parts)
     cons=s['conseils'][h(p['slug']+s['slug'],len(s['conseils']))]
     s1=top[0][0]; s2=top[1][0] if len(top)>1 else top[0][0]
-    lead_opts=["%s Pour %s, nous aimons le cadre de %s et celui de %s."%(p['intro'],low(s['name']),s1,s2),
+    lead_opts=["%s Pour %s, nous aimons le cadre de %s et celui de %s."%(p['intro'],POUR[s['slug']],s1,s2),
                "%s %s Nous vous proposons de commencer à %s, puis de poursuivre à %s."%(p['vibe'],s['lead'],s1,s2),
                "%s Une séance à %s, c'est aussi la possibilité de varier les ambiances entre %s et %s."%(s['lead'],p['name'],s1,s2)]
     lead=lead_opts[k]
