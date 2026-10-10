@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Deux décors, deux humeurs pour votre mariage à Puteaux. Sous les arbres de l'Île de Puteaux, nous vous proposons de marcher main dans la main entre les deux bras de Seine, le voile soulevé par le vent, pendant que la caméra suit vos pas. Puis cap sur l'Esplanade de La Défense : vos silhouettes en tenue de cérémonie face aux sculptures monumentales donnent un contraste graphique saisissant. Le teaser du soir, lui, se termine sur les Bords de Seine, quand vous échangez quelques mots au calme.",
+  "scene": "Pour un mariage à Puteaux, nous vous proposons trois décors proches : l'Île de Puteaux, l'Esplanade de La Défense et les Bords de Seine. Sous les arbres de l'Île de Puteaux, vous marchez main dans la main entre les deux bras de Seine, le voile soulevé par le vent, pendant que la caméra suit vos pas. Sur l'Esplanade de La Défense, vos silhouettes en tenue de cérémonie se détachent devant les sculptures monumentales. Le teaser du soir se termine sur les Bords de Seine, dans le calme.",
   "conseil": "Gardez les portraits de couple pour la fin de journée sur les Bords de Seine, quand la lumière s'adoucit. Le tram T2 s'arrête à Puteaux : si vos invités viennent en transports, indiquez-leur cette station plutôt que le RER A, plus chargé à La Défense.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Puteaux ?", "a": "L'Île de Puteaux offre une promenade ombragée entre deux bras de Seine, idéale pour des portraits romantiques. Pour un style plus urbain, l'Esplanade de La Défense et ses sculptures monumentales apportent un décor contemporain. Nous pouvons enchaîner les deux selon le temps dont vous disposez."},
-   {"q": "Un vidéaste mariage à Puteaux peut-il filmer la cérémonie civile ?", "a": "Oui, si la mairie l'autorise : nous vous conseillons de poser la question lors du dépôt de dossier. Nous filmons discrètement depuis le fond ou les côtés, sans gêner l'officier d'état civil, puis nous reprenons les images en mouvement à la sortie avec vos proches."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Puteaux ?",
+    "a": "Pour les photos de couple d'un mariage à Puteaux, l'Île de Puteaux offre une promenade ombragée entre deux bras de Seine, propice aux portraits romantiques. L'Esplanade de La Défense et ses sculptures monumentales donnent un décor plus urbain. Nous pouvons enchaîner les deux selon votre planning."
+   },
+   {
+    "q": "Un vidéaste mariage à Puteaux peut-il filmer la cérémonie civile ?",
+    "a": "Filmer une cérémonie civile de mariage à Puteaux dépend de l'accord de la mairie : posez la question lors du dépôt du dossier. Avec cet accord, nous filmons discrètement depuis le fond ou les côtés, puis nous reprenons les images en mouvement à la sortie avec vos proches."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Pelouses tendres, ventre arrondi, pieds nus : le Parc Eiffel se prête à une séance grossesse posée, allongée dans l'herbe, les mains croisées sur le bébé. Ensuite, quelques pas sur l'Île de Puteaux suffisent pour changer d'ambiance. À l'ombre des arbres, la lumière filtrée adoucit la peau et permet des profils en contre-jour, la robe fluide bougeant légèrement. Une courte séquence filmée garde le murmure que vous adressez à votre enfant, avec le bruit de l'eau en fond.",
+  "scene": "Un shooting grossesse à Puteaux se fait volontiers au Parc Eiffel, pour ses pelouses, puis sur l'Île de Puteaux, pour son ombre douce. Au Parc Eiffel, vous pouvez vous asseoir pieds nus dans l'herbe, les mains croisées sur le ventre. Sous les arbres de l'Île de Puteaux, la lumière filtrée adoucit la peau et dessine votre profil en contre-jour, robe fluide en mouvement. Une courte séquence filmée garde le mot murmuré au bébé, avec le bruit de l'eau.",
   "conseil": "L'Île de Puteaux reste ombragée : un atout en été, quand le soleil fatigue vite une future maman. Prévoyez une gourde et un plaid pour vous asseoir entre deux poses, et évitez les chaussures à talons sur les allées.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Puteaux au calme ?", "a": "Le Parc Eiffel et ses pelouses permettent de s'asseoir ou de s'allonger confortablement. L'Île de Puteaux, plus ombragée, garde une atmosphère tranquille entre deux bras de Seine. Nous choisissons avec vous selon la saison et votre niveau de fatigue."},
-   {"q": "À quel mois de grossesse prévoir la séance photo à Puteaux ?", "a": "Beaucoup de futures mamans choisissent la fin du deuxième trimestre ou le début du troisième, quand le ventre est bien visible mais que la marche reste facile. Le plus important reste votre confort : nous adaptons la durée et le trajet entre les spots."}
+   {
+    "q": "Où faire un shooting grossesse à Puteaux au calme ?",
+    "a": "Pour un shooting grossesse au calme à Puteaux, le Parc Eiffel et ses pelouses permettent de s'asseoir ou de s'allonger confortablement. L'Île de Puteaux, plus ombragée, garde une atmosphère tranquille entre deux bras de Seine. Nous choisissons le spot selon la saison et votre fatigue."
+   },
+   {
+    "q": "À quel mois de grossesse prévoir la séance photo à Puteaux ?",
+    "a": "La séance photo grossesse à Puteaux se programme souvent entre la fin du deuxième trimestre et le début du troisième, quand le ventre est visible et la marche facile. Votre confort passe avant tout : nous adaptons la durée et le trajet entre le Parc Eiffel et l'Île de Puteaux."
+   }
   ]
  },
  "couple": {
-  "scene": "Et si votre séance couple ressemblait à une balade du dimanche ? Nous partons des Bords de Seine, où vous marchez côte à côte sur les berges aménagées en vous racontant votre semaine. Un arrêt sur un banc, un fou rire, une épaule qui se penche. La suite se joue sur l'Esplanade de La Défense : entre les sculptures monumentales, vos regards complices tranchent avec l'échelle des lieux. Quelques plans filmés, au ralenti, montrent vos mains qui se cherchent.",
+  "scene": "Une séance couple à Puteaux peut ressembler à une balade du dimanche, des Bords de Seine jusqu'à l'Esplanade de La Défense. Sur les berges aménagées des Bords de Seine, vous marchez côte à côte en vous racontant votre semaine. Un banc, un fou rire, une épaule qui se penche. Sur l'Esplanade de La Défense, vos regards complices tranchent avec l'échelle des sculptures monumentales. Quelques plans filmés au ralenti montrent vos mains qui se cherchent.",
   "conseil": "Pour profiter d'une lumière douce sur les Bords de Seine, fixez le rendez-vous en fin de journée. En semaine, l'Esplanade de La Défense se remplit aux heures de bureau : le week-end, vous y aurez davantage d'espace pour vous.",
   "faq": [
-   {"q": "Quel lieu choisir pour une séance photo couple à Puteaux ?", "a": "Tout dépend de votre style. Les Bords de Seine et l'Île de Puteaux offrent une ambiance naturelle et romantique, tandis que l'Esplanade de La Défense donne des images plus urbaines. Nous pouvons combiner les deux en une même séance."},
-   {"q": "Peut-on faire une séance de fiançailles à La Défense ?", "a": "Oui, l'Esplanade de La Défense est un espace public piéton, et ses sculptures monumentales créent un décor fort pour une demande ou des photos de fiançailles. Nous privilégions les moments moins fréquentés pour préserver votre intimité."}
+   {
+    "q": "Quel lieu choisir pour une séance photo couple à Puteaux ?",
+    "a": "Pour une séance photo couple à Puteaux, les Bords de Seine et l'Île de Puteaux donnent une ambiance naturelle et romantique. L'Esplanade de La Défense apporte des images plus urbaines. Nous pouvons combiner ces décors pendant une même séance, selon votre style."
+   },
+   {
+    "q": "Peut-on faire une séance de fiançailles à La Défense ?",
+    "a": "Une séance de fiançailles sur l'Esplanade de La Défense, à Puteaux, est possible : c'est un espace public piéton, et les sculptures monumentales créent un décor fort pour une demande. Nous privilégions les moments moins fréquentés pour préserver votre intimité."
+   }
   ]
  },
  "famille": {
-  "scene": "Laissez courir les enfants : au Parc Eiffel, les pelouses accueillent les roulades, les parties de chat et les grands-parents assis qui regardent la scène. Nous captons ces instants sans pose imposée, à hauteur d'enfant. Ensuite, la promenade de l'Île de Puteaux devient terrain d'exploration, chacun ramassant feuilles et cailloux sous les arbres. Une photo de groupe, toutes générations réunies, prend place au bord de l'eau, et un petit film retrace l'après-midi.",
+  "scene": "Votre séance photo famille à Puteaux peut commencer au Parc Eiffel, où les enfants jouent librement sur les pelouses, puis continuer sur l'Île de Puteaux. Au Parc Eiffel, roulades et parties de chat se photographient à hauteur d'enfant, pendant que les grands-parents regardent la scène. Sur l'Île de Puteaux, la promenade devient terrain d'exploration : feuilles, cailloux, mains tendues. Une photo de groupe réunit les générations au bord de l'eau, et un petit film retrace l'après-midi.",
   "conseil": "Venez en tram T2, arrêt Puteaux, pour éviter de chercher une place avec une poussette. Le Parc Eiffel se prête bien aux petits, mais prévoyez un goûter et des vêtements de rechange si l'herbe est humide.",
   "faq": [
-   {"q": "Où faire une séance photo famille avec des enfants à Puteaux ?", "a": "Le Parc Eiffel convient bien aux familles grâce à ses pelouses où les enfants jouent librement. L'Île de Puteaux complète la séance avec une balade ombragée. Les deux lieux permettent des images naturelles, sans contrainte pour les plus jeunes."},
-   {"q": "Combien de temps dure un shooting famille à Puteaux ?", "a": "Nous adaptons la durée au rythme des enfants : une séance trop longue fatigue les petits. Nous préférons des pauses fréquentes et un rythme souple, en commençant par les jeux pour que chacun soit à l'aise avant les portraits."}
+   {
+    "q": "Où faire une séance photo famille avec des enfants à Puteaux ?",
+    "a": "Pour une séance photo famille avec des enfants à Puteaux, le Parc Eiffel convient bien grâce à ses pelouses où les petits jouent librement. L'Île de Puteaux complète la séance par une balade ombragée. Les deux lieux donnent des images naturelles, sans contrainte pour les plus jeunes."
+   },
+   {
+    "q": "Combien de temps dure un shooting famille à Puteaux ?",
+    "a": "Un shooting famille à Puteaux suit le rythme des enfants : une séance trop longue fatigue les petits. Nous prévoyons des pauses fréquentes au Parc Eiffel et commençons par les jeux, pour que chacun soit à l'aise avant les portraits de groupe."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Compte à rebours, cris, éclats de couleur : votre gender reveal mérite un décor dégagé. Sur l'Esplanade de La Défense, le sol clair et l'espace autour des sculptures monumentales font ressortir le rose ou le bleu, filmé en rafale et au ralenti. Vous préférez la verdure ? Les pelouses du Parc Eiffel accueillent la famille en cercle, prête à réagir. Nous plaçons un appareil sur vos visages, un autre sur les invités, pour ne rater aucune réaction.",
+  "scene": "Un gender reveal à Puteaux trouve deux décors dégagés : l'Esplanade de La Défense pour un fond urbain clair, le Parc Eiffel pour une ambiance verte. Compte à rebours, cris, éclats de couleur : sur l'Esplanade de La Défense, l'espace autour des sculptures monumentales fait ressortir le rose ou le bleu, filmé au ralenti. Au Parc Eiffel, la famille se place en cercle sur les pelouses, prête à réagir. Un appareil vise vos visages, un autre les invités.",
   "conseil": "Avant de choisir votre dispositif, vérifiez les règles du lieu pour les confettis, les fumigènes et les ballons : un parc ou une esplanade publique peut les limiter. Prévoyez aussi de ramasser chaque débris de couleur après le moment clé.",
   "faq": [
-   {"q": "Peut-on utiliser des fumigènes pour un gender reveal à Puteaux ?", "a": "Cela dépend du lieu : renseignez-vous auprès de la mairie ou du gestionnaire de l'espace avant le jour J. Si les fumigènes, confettis ou ballons ne sont pas autorisés, nous vous aidons à trouver une alternative, comme un gâteau ou une boîte surprise."},
-   {"q": "Où organiser un gender reveal en extérieur près de La Défense ?", "a": "L'Esplanade de La Défense offre un espace dégagé et lumineux, tandis que le Parc Eiffel propose des pelouses plus intimes. Nous vous conseillons sur l'emplacement le plus adapté au nombre d'invités et au dispositif choisi."}
+   {
+    "q": "Peut-on utiliser des fumigènes pour un gender reveal à Puteaux ?",
+    "a": "Les fumigènes pour un gender reveal à Puteaux dépendent des règles du lieu : renseignez-vous auprès de la mairie ou du gestionnaire de l'espace avant le jour J. Si fumigènes, confettis ou ballons sont refusés, nous vous aidons à choisir une alternative, comme un gâteau ou une boîte surprise."
+   },
+   {
+    "q": "Où organiser un gender reveal en extérieur près de La Défense ?",
+    "a": "Pour un gender reveal en extérieur près de La Défense, à Puteaux, l'Esplanade de La Défense offre un espace dégagé et lumineux, et le Parc Eiffel des pelouses plus intimes. Vérifiez les règles du lieu pour confettis, fumigènes et ballons ; nous conseillons l'emplacement selon le nombre d'invités."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un portrait d'affaires à quelques pas des bureaux : l'Esplanade de La Défense, avec ses lignes architecturales et ses sculptures monumentales, donne à votre image une allure résolument corporate. Nous cadrons serré pour LinkedIn, plus large pour un site. Votre équipe préfère une approche moins formelle ? Les Bords de Seine apportent une respiration naturelle, idéale pour une photo collective détendue. Une courte vidéo de présentation, tournée sur place, complète utilement votre page carrière.",
+  "scene": "Des photos professionnelles à Puteaux se font naturellement sur l'Esplanade de La Défense, pour un portrait corporate, et sur les Bords de Seine, pour une image plus détendue. Les lignes architecturales et les sculptures monumentales de l'Esplanade de La Défense donnent une allure d'affaires à votre portrait. Nous cadrons serré pour LinkedIn, plus large pour un site. Sur les Bords de Seine, la photo d'équipe respire davantage. Une courte vidéo de présentation, tournée sur place, complète votre page carrière.",
   "conseil": "Le RER A dessert La Défense : organisez la séance juste avant ou après une réunion pour limiter les déplacements. Évitez la pause déjeuner, période où l'esplanade est la plus fréquentée et où l'arrière-plan devient chargé.",
   "faq": [
-   {"q": "Où faire des photos professionnelles LinkedIn à La Défense ?", "a": "L'Esplanade de La Défense est un choix naturel pour un portrait corporate, avec un arrière-plan architectural reconnaissable. Nous pouvons aussi photographier dans vos locaux si vous disposez d'une pièce lumineuse. Nous livrons les formats adaptés à LinkedIn et à votre site."},
-   {"q": "Un photographe peut-il venir dans nos bureaux à Puteaux ?", "a": "Oui, nous nous déplaçons dans vos locaux avec un éclairage léger. Une pièce calme avec de la lumière naturelle suffit. Nous organisons un planning par collaborateur pour limiter l'impact sur votre journée de travail."}
+   {
+    "q": "Où faire des photos professionnelles LinkedIn à La Défense ?",
+    "a": "Pour des photos professionnelles LinkedIn à La Défense, côté Puteaux, l'Esplanade de La Défense offre un arrière-plan architectural reconnaissable. Nous pouvons aussi photographier dans vos locaux si une pièce est lumineuse. Nous livrons les formats adaptés à LinkedIn et à votre site."
+   },
+   {
+    "q": "Un photographe peut-il venir dans nos bureaux à Puteaux ?",
+    "a": "Pour des portraits professionnels dans vos bureaux à Puteaux, nous venons avec un éclairage léger. Une pièce calme avec de la lumière naturelle suffit. Nous organisons un planning par collaborateur pour limiter l'impact sur votre journée de travail."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Séminaire, convention ou soirée d'entreprise : nous couvrons le déroulé dans vos salles, des prises de parole aux échanges informels. Lors d'une pause, un portrait de groupe sur l'Esplanade de La Défense, devant les sculptures monumentales, ancre l'événement dans son quartier d'affaires. Pour un afterwork en extérieur, les Bords de Seine offrent une ambiance plus détendue, avec des images d'échanges spontanés. Le montage final prend la forme d'un film récapitulatif pour vos réseaux.",
+  "scene": "Pour un événement professionnel à Puteaux, nous couvrons le déroulé en salle et proposons des images extérieures sur l'Esplanade de La Défense ou les Bords de Seine. Séminaire, convention ou soirée d'entreprise : les prises de parole et les échanges informels sont suivis avec discrétion. Pendant une pause, un portrait de groupe devant les sculptures monumentales de l'Esplanade de La Défense ancre l'événement dans son quartier d'affaires. Un afterwork sur les Bords de Seine donne des images plus détendues. Le montage final devient un film récapitulatif pour vos réseaux.",
   "conseil": "Transmettez-nous le programme minuté et les badges d'accès à l'avance : les tours de La Défense imposent souvent un contrôle à l'entrée. Désignez un contact sur place pour nous guider vers la salle sans perte de temps.",
   "faq": [
-   {"q": "Comment se passe la couverture photo d'un séminaire à La Défense ?", "a": "Nous arrivons avant le début pour repérer la salle et la lumière. Pendant l'événement, nous restons discrets, en suivant le programme et la liste des intervenants clés. Une photo de groupe peut être faite sur l'Esplanade de La Défense si le planning le permet."},
-   {"q": "Faites-vous de la vidéo d'entreprise pour un événement à Puteaux ?", "a": "Oui, nous réalisons des vidéos récapitulatives ou des interviews courtes d'intervenants. Précisez-nous l'usage prévu, réseaux sociaux ou communication interne, afin que nous adaptions le format, la durée et le style du montage."}
+   {
+    "q": "Comment se passe la couverture photo d'un séminaire à La Défense ?",
+    "a": "La couverture photo d'un séminaire à La Défense, côté Puteaux, commence par un repérage de la salle et de la lumière avant l'ouverture. Pendant l'événement, nous suivons le programme et les intervenants clés. Une photo de groupe sur l'Esplanade de La Défense reste possible si le planning le permet."
+   },
+   {
+    "q": "Faites-vous de la vidéo d'entreprise pour un événement à Puteaux ?",
+    "a": "Pour un événement d'entreprise à Puteaux, nous réalisons des vidéos récapitulatives ou de courtes interviews d'intervenants. Précisez l'usage prévu, réseaux sociaux ou communication interne, afin que nous adaptions le format, la durée et le style du montage."
+   }
   ]
  },
  "solo": {
-  "scene": "Vous, au centre du cadre, et une ville qui change de visage en quelques minutes de marche. Le matin, l'Île de Puteaux offre une lumière tamisée sous les arbres, propice à des portraits intimes, un livre à la main ou le regard perdu vers l'eau. L'après-midi, les sculptures monumentales de l'Esplanade de La Défense jouent le contrepoint : silhouette affirmée, manteau au vent, attitude assurée. Quelques images en mouvement vous montrent en train de marcher, simplement.",
+  "scene": "Un portrait solo à Puteaux alterne deux ambiances proches : l'Île de Puteaux pour des images douces, l'Esplanade de La Défense pour une allure affirmée. Le matin, sous les arbres de l'Île de Puteaux, la lumière tamisée accompagne un livre à la main ou un regard vers l'eau. L'après-midi, les sculptures monumentales de l'Esplanade de La Défense jouent le contrepoint : silhouette nette, manteau au vent. Quelques images en mouvement vous montrent en train de marcher, simplement.",
   "conseil": "Apportez deux tenues contrastées : une plus douce pour l'Île de Puteaux, une plus structurée pour La Défense. Les deux spots sont proches, mais prévoyez des chaussures confortables pour le trajet à pied entre eux.",
   "faq": [
-   {"q": "Où faire un shooting portrait solo à Puteaux ?", "a": "L'Île de Puteaux convient aux portraits doux et naturels, l'Esplanade de La Défense aux images plus urbaines et affirmées. Nous construisons la séance autour de ce que vous voulez exprimer, en alternant les deux ambiances si vous le souhaitez."},
-   {"q": "Je ne suis pas à l'aise devant l'objectif, comment se passe la séance ?", "a": "Nous commençons par marcher et discuter, sans pose imposée. Les premières photos servent à vous habituer à l'appareil. Dites-nous ce que vous aimez ou non dans votre apparence : nous adaptons les angles et les cadrages."}
+   {
+    "q": "Où faire un shooting portrait solo à Puteaux ?",
+    "a": "Pour un shooting portrait solo à Puteaux, l'Île de Puteaux convient aux images douces et naturelles, l'Esplanade de La Défense aux portraits urbains et affirmés. Nous construisons la séance autour de ce que vous voulez exprimer, en alternant les deux ambiances si vous le souhaitez."
+   },
+   {
+    "q": "Je ne suis pas à l'aise devant l'objectif, comment se passe la séance ?",
+    "a": "Une séance portrait solo à Puteaux commence par une marche et une discussion, sans pose imposée, souvent sur l'Île de Puteaux. Les premières photos servent à vous habituer à l'appareil. Dites-nous ce que vous aimez ou non dans votre apparence : nous adaptons angles et cadrages."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Bougies soufflées, éclats de rire, toasts enchaînés : votre anniversaire se raconte en images vivantes. Avant la fête, nous vous proposons une séance au Parc Eiffel avec les invités, ballons en main, sur les pelouses. Pour des 30 ou 40 ans entre amis, l'Esplanade de La Défense offre un décor festif et urbain, idéal pour une photo de groupe originale devant les sculptures monumentales. Le clip de la soirée garde le moment du gâteau et les danses.",
+  "scene": "Votre anniversaire à Puteaux peut commencer par une photo de groupe au Parc Eiffel ou sur l'Esplanade de La Défense, avant la fête. Bougies soufflées, éclats de rire, toasts enchaînés : nous racontons la journée en images vivantes. Au Parc Eiffel, les invités posent ballons en main sur les pelouses. Pour des 30 ou 40 ans entre amis, l'Esplanade de La Défense offre un décor urbain et festif devant les sculptures monumentales. Le clip de la soirée garde le moment du gâteau et les danses.",
   "conseil": "Si vous prévoyez une photo de groupe en extérieur, fixez-la en début de soirée, avant le dîner. Le RER A et le tram T2 facilitent l'arrivée des invités : indiquez-leur clairement le point de rendez-vous.",
   "faq": [
-   {"q": "Peut-on faire des photos d'anniversaire au Parc Eiffel à Puteaux ?", "a": "Oui, les pelouses du Parc Eiffel se prêtent bien aux photos de groupe et aux jeux d'enfants. Renseignez-vous sur les règles du parc concernant les rassemblements et les décorations. Nous vous aidons à organiser le moment pour qu'il reste fluide."},
-   {"q": "Proposez-vous un vidéaste pour une fête d'anniversaire à Puteaux ?", "a": "Oui, nous filmons les moments forts : arrivée des invités, discours, gâteau, danses. Le montage final prend la forme d'un court film souvenir, à partager avec vos proches ou à conserver pour les prochaines années."}
+   {
+    "q": "Peut-on faire des photos d'anniversaire au Parc Eiffel à Puteaux ?",
+    "a": "Les photos d'anniversaire au Parc Eiffel, à Puteaux, sont possibles : les pelouses se prêtent aux photos de groupe et aux jeux d'enfants. Renseignez-vous sur les règles du parc pour les rassemblements et les décorations. Nous vous aidons à organiser le moment pour qu'il reste fluide."
+   },
+   {
+    "q": "Proposez-vous un vidéaste pour une fête d'anniversaire à Puteaux ?",
+    "a": "Pour une fête d'anniversaire à Puteaux, nous filmons les moments forts : arrivée des invités, discours, gâteau, danses. Le montage final prend la forme d'un court film souvenir, à partager avec vos proches ou à garder pour les années suivantes."
+   }
   ]
  },
  "diplome": {
-  "scene": "La toque vole, la toge se gonfle au vent : sur l'Esplanade de La Défense, ce geste prend une ampleur particulière, au milieu des sculptures monumentales. Nous saisissons le lancer en rafale, puis filmons votre marche fière, diplôme en main. Pour un moment plus personnel avec vos parents, les Bords de Seine permettent des portraits apaisés, au calme. Nous mettons en valeur votre parcours, sans en faire une formalité.",
+  "scene": "Une séance photo de remise de diplôme à Puteaux associe l'Esplanade de La Défense, pour le lancer de toque, et les Bords de Seine, pour les portraits en famille. La toque vole, la toge se gonfle au vent : au milieu des sculptures monumentales de l'Esplanade de La Défense, le geste prend de l'ampleur. Nous saisissons le lancer en rafale, puis filmons votre marche, diplôme en main. Sur les Bords de Seine, les portraits avec vos parents gagnent en calme. Votre parcours est mis en valeur, sans formalité.",
   "conseil": "Après la cérémonie, la lumière douce de fin de journée sur les Bords de Seine flatte les portraits en toge. Prévoyez une épingle ou deux pour maintenir la toque, l'esplanade étant souvent exposée au vent.",
   "faq": [
-   {"q": "Où faire une séance photo de remise de diplôme près de La Défense ?", "a": "L'Esplanade de La Défense est un décor naturel pour les jeunes diplômés, avec ses sculptures monumentales et ses grands espaces. Les Bords de Seine complètent la séance pour des portraits plus intimes, en famille ou entre amis."},
-   {"q": "Pouvez-vous photographier la cérémonie de diplôme puis faire un shooting à Puteaux ?", "a": "Oui, nous pouvons couvrir la cérémonie puis vous accompagner pour une séance en extérieur. Indiquez-nous le programme exact afin que nous soyons placés à l'entrée de la salle, puis nous organisons le trajet vers le spot choisi."}
+   {
+    "q": "Où faire une séance photo de remise de diplôme près de La Défense ?",
+    "a": "Pour une séance photo de remise de diplôme près de La Défense, à Puteaux, l'Esplanade de La Défense offre ses sculptures monumentales et ses grands espaces. Les Bords de Seine complètent la séance par des portraits plus intimes, en famille ou entre amis."
+   },
+   {
+    "q": "Pouvez-vous photographier la cérémonie de diplôme puis faire un shooting à Puteaux ?",
+    "a": "Après une cérémonie de diplôme, nous pouvons vous accompagner pour un shooting en extérieur à Puteaux. Indiquez-nous le programme exact pour que nous soyons à l'entrée de la salle, puis nous organisons le trajet vers l'Esplanade de La Défense ou les Bords de Seine."
+   }
   ]
  },
  "naissance": {
-  "scene": "Les premières heures de votre enfant se vivent souvent à la maternité, et un reportage n'y est possible qu'avec l'accord de l'établissement. Nous respectons ce cadre et privilégions la discrétion. Quelques jours plus tard, une sortie en poussette sur l'Île de Puteaux, sous les arbres, ou une première promenade au Parc Eiffel, peut prolonger l'histoire en douceur. Une courte vidéo conserve ces premiers pas de jeune famille.",
+  "scene": "Un reportage de naissance à Puteaux commence à la maternité, seulement avec l'accord de l'établissement, et peut se prolonger sur l'Île de Puteaux ou au Parc Eiffel. À la maternité, nous restons discrets et respectons le cadre fixé par l'équipe. Quelques jours plus tard, une sortie en poussette sous les arbres de l'Île de Puteaux prolonge l'histoire en douceur. Une première promenade au Parc Eiffel, à votre rythme, offre une scène paisible de jeune famille. Une courte vidéo conserve ces premiers pas.",
   "conseil": "Renseignez-vous auprès de la maternité sur ses règles de prise de vue avant le terme. Pour une sortie ensuite, l'Île de Puteaux est ombragée et calme, mais attendez que la maman soit bien reposée.",
   "faq": [
-   {"q": "Un photographe de naissance peut-il venir à la maternité près de Puteaux ?", "a": "Cela dépend de l'accord de l'établissement. Nous vous conseillons de poser la question à l'équipe médicale avant la naissance. Si la maternité refuse, nous proposons une séance à domicile dès votre retour, dans un cadre intime."},
-   {"q": "Quand faire les photos de la première sortie de bébé à Puteaux ?", "a": "Nous attendons que la maman et le bébé soient prêts, sans contrainte de date. Une courte promenade sur l'Île de Puteaux ou au Parc Eiffel suffit, avec des pauses régulières et un retour rapide si besoin."}
+   {
+    "q": "Un photographe de naissance peut-il venir à la maternité près de Puteaux ?",
+    "a": "Un photographe de naissance peut venir dans une maternité près de Puteaux uniquement avec l'accord de l'établissement. Posez la question à l'équipe médicale avant la naissance. Si la maternité refuse, nous proposons une séance naissance à domicile à Puteaux dès votre retour, dans un cadre intime."
+   },
+   {
+    "q": "Quand faire les photos de la première sortie de bébé à Puteaux ?",
+    "a": "Les photos de la première sortie de bébé à Puteaux se font quand la maman et le bébé sont prêts, sans date imposée. Une courte promenade sur l'Île de Puteaux ou au Parc Eiffel suffit, avec des pauses régulières et un retour rapide si besoin."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce chauffée, nous photographions les plis, les mains minuscules, les cils de votre nouveau-né endormi. Tout se fait doucement, au rythme des tétées. Si vous le souhaitez, un tirage final peut évoquer votre quartier : quelques clichés des parents seuls, pris plus tard sur l'Île de Puteaux ou les Bords de Seine, rappellent l'endroit où votre enfant a grandi. Une séquence filmée garde sa respiration paisible.",
+  "scene": "Une séance nouveau-né à Puteaux se déroule chez vous, dans une pièce chauffée, avec en option quelques images des parents sur l'Île de Puteaux ou les Bords de Seine. À la maison, nous photographions les plis, les mains minuscules et les cils de votre bébé endormi. Tout se fait doucement, au rythme des tétées. Plus tard, quelques clichés des parents sur l'Île de Puteaux ou les Bords de Seine rappellent le quartier où votre enfant grandit. Une séquence filmée garde sa respiration paisible.",
   "conseil": "Chauffez la pièce à environ 25 degrés et nourrissez le bébé juste avant notre arrivée. Si vous habitez près du tram T2, nous pouvons venir avec un équipement léger, sans encombrement.",
   "faq": [
-   {"q": "Faites-vous des séances nouveau-né à domicile à Puteaux ?", "a": "Oui, nous nous déplaçons chez vous pour éviter tout trajet au bébé. Nous apportons un éclairage doux et respectons le rythme de l'enfant, avec des pauses pour les tétées et les changes."},
-   {"q": "À quel âge faire un shooting nouveau-né à Puteaux ?", "a": "Les premiers jours sont idéaux pour capturer les plis et les mains du bébé, souvent endormi. Nous adaptons le moment à votre retour de maternité et à votre fatigue, sans jamais presser la séance."}
+   {
+    "q": "Faites-vous des séances nouveau-né à domicile à Puteaux ?",
+    "a": "Les séances nouveau-né à Puteaux se font à domicile, pour éviter tout trajet au bébé. Nous apportons un éclairage doux et respectons le rythme de l'enfant, avec des pauses pour les tétées et les changes."
+   },
+   {
+    "q": "À quel âge faire un shooting nouveau-né à Puteaux ?",
+    "a": "Un shooting nouveau-né à Puteaux se fait idéalement dans les premiers jours, pour garder les plis et les mains du bébé, souvent endormi. Nous adaptons le moment à votre retour de maternité et à votre fatigue, sans jamais presser la séance."
+   }
   ]
  }
 }

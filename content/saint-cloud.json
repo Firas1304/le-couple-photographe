@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Les grandes perspectives de Saint-Cloud donnent au jour J une allure presque solennelle. Nous vous proposons de descendre lentement les marches qui longent la Grande Cascade pendant que le film capte le bruit de l'eau et vos mains serrées. Plus haut, la Lanterne de Diogène offre un belvédère où Paris s'étend derrière vous : un cadre ample pour un baiser en plan large. Les allées du Parc de Saint-Cloud accueillent ensuite les photos de groupe, à l'ombre des arbres, avec témoins et familles.",
+  "scene": "Pour un mariage à Saint-Cloud, nous vous proposons la Grande Cascade, la Lanterne de Diogène et les allées du Parc de Saint-Cloud, dans un décor aux grandes perspectives. Vous descendez lentement les marches qui longent la Grande Cascade pendant que le film capte le bruit de l'eau et vos mains serrées. Plus haut, le belvédère de la Lanterne de Diogène place Paris derrière vous pour un baiser en plan large. Les allées ombragées accueillent ensuite les photos de groupe avec témoins et familles.",
   "conseil": "Le domaine est vaste et les distances à pied comptent avec une robe longue. Regroupez les portraits de couple autour de deux zones proches, et prévoyez des chaussures de rechange pour les allées en gravier.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Saint-Cloud ?", "a": "Le parc du domaine national se prête bien aux portraits de mariés : l'escalier d'eau de la Grande Cascade pour un décor monumental, et le belvédère de la Lanterne de Diogène pour un fond ouvert sur Paris en fin de journée."},
-   {"q": "Faut-il une autorisation pour filmer un mariage dans le parc de Saint-Cloud ?", "a": "Le domaine national peut encadrer les prises de vue, surtout avec du matériel ou un groupe nombreux. Renseignez-vous auprès du domaine avant la date ; nous adaptons ensuite notre équipement et nos déplacements à ce qui est autorisé."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Saint-Cloud ?",
+    "a": "Pour les photos de couple d'un mariage à Saint-Cloud, l'escalier d'eau de la Grande Cascade offre un décor monumental, et le belvédère de la Lanterne de Diogène un fond ouvert sur Paris en fin de journée. Les deux sont dans le Parc de Saint-Cloud."
+   },
+   {
+    "q": "Faut-il une autorisation pour filmer un mariage dans le parc de Saint-Cloud ?",
+    "a": "Filmer un mariage dans le Parc de Saint-Cloud peut être encadré par le domaine national, surtout avec du matériel ou un grand groupe. Renseignez-vous auprès du domaine avant la date ; nous adaptons ensuite notre équipement à ce qui est autorisé."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Une robe fluide, le vent qui la soulève, la Seine en contrebas : depuis le Pont de Saint-Cloud, votre silhouette se dessine nettement sur l'eau. Nous aimons ensuite rejoindre le Parc de Saint-Cloud pour des gestes plus intimes, vos mains posées sur le ventre au bord d'un bassin, votre partenaire qui écoute le bébé. Une courte séquence vidéo garde ces murmures et ces regards, sans mise en scène forcée. Les bancs des allées permettent de vous asseoir souvent.",
+  "scene": "Un shooting grossesse à Saint-Cloud associe le Pont de Saint-Cloud, au-dessus de la Seine, et les allées planes du Parc de Saint-Cloud près des bassins. Sur le pont, une robe fluide soulevée par le vent dessine votre silhouette sur l'eau. Au bord d'un bassin, vos mains se posent sur le ventre et votre partenaire écoute le bébé. Une courte séquence vidéo garde ces murmures et ces regards, sans mise en scène forcée. Les bancs des allées permettent de vous asseoir souvent.",
   "conseil": "Le parc est en pente par endroits. Évitez les montées vers le belvédère en fin de grossesse et privilégiez les allées planes près des bassins, en apportant de l'eau et une veste légère.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Saint-Cloud sans trop marcher ?", "a": "Nous privilégions les allées planes et les bassins du parc, accessibles depuis l'arrêt du tram T2 Parc de Saint-Cloud. Le pont sur la Seine reste aussi une option courte, avec une vue dégagée sur l'eau."},
-   {"q": "À combien de mois faire une séance grossesse au parc de Saint-Cloud ?", "a": "Le ventre est bien visible entre le septième et le huitième mois, et vous restez encore à l'aise pour marcher dans le domaine. Nous ajustons le parcours selon votre forme le jour de la séance."}
+   {
+    "q": "Où faire un shooting grossesse à Saint-Cloud sans trop marcher ?",
+    "a": "Pour un shooting grossesse à Saint-Cloud sans trop marcher, nous privilégions les allées planes et les bassins du Parc de Saint-Cloud, accessibles depuis l'arrêt du tram T2 Parc de Saint-Cloud. Le Pont de Saint-Cloud reste une option courte avec vue sur la Seine."
+   },
+   {
+    "q": "À combien de mois faire une séance grossesse au parc de Saint-Cloud ?",
+    "a": "Une séance grossesse au Parc de Saint-Cloud se prévoit entre le septième et le huitième mois : le ventre est bien visible et vous restez à l'aise pour marcher dans le domaine. Nous ajustons le parcours selon votre forme le jour même."
+   }
   ]
  },
  "couple": {
-  "scene": "Et si vous vous donniez rendez-vous en haut du domaine ? À la Lanterne de Diogène, Paris s'étale sous vos yeux et vous pouvez simplement parler, épaule contre épaule, pendant que nous restons à distance. La balade descend ensuite vers la Grande Cascade : course sur les marches, éclats de rire, un baiser près de l'eau. Le teaser vidéo suit ce fil sans interruption, comme une promenade de dimanche à deux, entre aristocratie des lieux et tendresse très simple.",
+  "scene": "Une séance couple à Saint-Cloud se construit comme une balade, du belvédère de la Lanterne de Diogène jusqu'aux marches de la Grande Cascade. En haut du domaine, Paris s'étale sous vos yeux et vous parlez simplement, épaule contre épaule, pendant que nous restons à distance. Plus bas, course sur les marches, éclats de rire, un baiser près de l'eau. Le teaser vidéo suit ce fil sans interruption, comme une promenade de dimanche à deux.",
   "conseil": "La Grande Cascade gagne en relief juste après une averse, quand la pierre brille. Gardez une date de repli souple : une séance couple décalée d'un jour après la pluie peut offrir des reflets plus riches.",
   "faq": [
-   {"q": "Quel est le bon endroit pour une séance photo de couple à Saint-Cloud ?", "a": "Le belvédère de la Lanterne de Diogène pour la vue sur Paris, puis la Grande Cascade pour un décor plus spectaculaire. Les deux se combinent dans une même balade à travers le parc."},
-   {"q": "Peut-on faire une séance fiançailles au parc de Saint-Cloud ?", "a": "Oui, le domaine se prête bien à une demande ou à des photos de fiançailles. Nous pouvons rester discrets à distance pour saisir la surprise, puis enchaîner avec quelques portraits plus posés dans les allées."}
+   {
+    "q": "Où faire une séance photo de couple à Saint-Cloud ?",
+    "a": "Pour une séance photo de couple à Saint-Cloud, le belvédère de la Lanterne de Diogène offre la vue sur Paris et la Grande Cascade un décor plus spectaculaire. Les deux se combinent dans une même balade à travers le Parc de Saint-Cloud."
+   },
+   {
+    "q": "Peut-on faire une séance fiançailles au parc de Saint-Cloud ?",
+    "a": "Une séance fiançailles au Parc de Saint-Cloud se prête bien à une demande surprise. Nous restons discrets à distance pour saisir le moment, puis enchaînons avec quelques portraits de couple plus posés dans les allées du domaine."
+   }
   ]
  },
  "famille": {
-  "scene": "Ici, les enfants ont de la place pour courir. Lancez une partie de chat dans les allées du Parc de Saint-Cloud : nous saisissons les élans, les chutes dans l'herbe, les grands-parents qui suivent en souriant. Près de la Grande Cascade, chacun s'assoit sur les marches pour un portrait de groupe étagé, tous les visages visibles. Les plus grands adoreront ensuite le Pont de Saint-Cloud et ses péniches sur la Seine, filmées en quelques plans pour votre petit film de famille.",
+  "scene": "Pour une séance photo famille à Saint-Cloud, les pelouses et allées du Parc de Saint-Cloud laissent aux enfants la place de courir, loin de la circulation. Lancez une partie de chat : nous saisissons les élans, les chutes dans l'herbe, les grands-parents qui suivent en souriant. Près de la Grande Cascade, chacun s'assoit sur les marches pour un portrait de groupe étagé. Les plus grands aimeront ensuite le Pont de Saint-Cloud et ses péniches sur la Seine, filmées en quelques plans.",
   "conseil": "Venez en Transilien jusqu'à la gare de Saint-Cloud ou en tram T2 pour éviter de chercher où vous garer avec poussette et sacs. Prévoyez un goûter à partager sur l'herbe à mi-séance.",
   "faq": [
-   {"q": "Où organiser un shooting photo famille à Saint-Cloud avec de jeunes enfants ?", "a": "Les pelouses et allées du parc laissent les enfants bouger librement, loin de la circulation. Nous gardons les marches de la cascade pour la photo de groupe, à un moment où tout le monde est encore disponible."},
-   {"q": "Une séance famille au parc de Saint-Cloud convient-elle aussi aux grands-parents ?", "a": "Oui, en choisissant un parcours court et des bancs pour souffler. Nous évitons les montées vers le belvédère si la marche est difficile et restons près des bassins, faciles d'accès."}
+   {
+    "q": "Où organiser un shooting photo famille à Saint-Cloud avec de jeunes enfants ?",
+    "a": "Pour un shooting photo famille à Saint-Cloud avec de jeunes enfants, les pelouses du Parc de Saint-Cloud laissent bouger librement. Nous gardons les marches de la Grande Cascade pour la photo de groupe, quand tout le monde est encore disponible."
+   },
+   {
+    "q": "Une séance famille au parc de Saint-Cloud convient-elle aussi aux grands-parents ?",
+    "a": "Une séance famille au Parc de Saint-Cloud convient aux grands-parents avec un parcours court et des bancs pour souffler. Nous évitons les montées vers la Lanterne de Diogène si la marche est difficile et restons près des bassins."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Trois, deux, un : le ballon s'ouvre et la couleur file dans le ciel au-dessus du Parc de Saint-Cloud ! Une pelouse dégagée, loin des promeneurs, laisse toute la place aux réactions de vos proches, que nous saisissons en rafale et en ralenti. Pour la photo souvenir, toute la troupe pose ensuite au pied de la Grande Cascade, pancartes rose ou bleu en main. Un dernier détour par la Lanterne de Diogène donne un portrait des futurs parents face à Paris.",
+  "scene": "Pour un gender reveal à Saint-Cloud, une pelouse dégagée du Parc de Saint-Cloud, loin des promeneurs, laisse la couleur filer dans le ciel et les réactions s'exprimer. Trois, deux, un : le ballon s'ouvre ! Nous saisissons vos proches en rafale et au ralenti. Toute la troupe pose ensuite au pied de la Grande Cascade, pancartes rose ou bleu en main. Un détour par la Lanterne de Diogène donne un portrait des futurs parents face à Paris.",
   "conseil": "Avant tout, vérifiez auprès du domaine national les règles sur les confettis, fumigènes et ballons : un parc protégé les encadre souvent. Un canon à poudre biodégradable ou un gâteau surprise reste une alternative festive et propre.",
   "faq": [
-   {"q": "Peut-on faire un gender reveal avec fumigène au parc de Saint-Cloud ?", "a": "Cela dépend des règles du domaine national, à vérifier avant de prévoir quoi que ce soit. Confettis, fumigènes et ballons y sont souvent encadrés. Nous vous aidons à choisir un dispositif compatible et un emplacement dégagé."},
-   {"q": "Comment filmer la révélation d'un gender reveal à Saint-Cloud ?", "a": "Nous plaçons un vidéaste face aux futurs parents et un photographe sur les réactions des invités. Une pelouse ouverte du parc évite les passants dans le champ et laisse la couleur ressortir sur le vert."}
+   {
+    "q": "Peut-on faire un gender reveal avec fumigène au parc de Saint-Cloud ?",
+    "a": "Un gender reveal avec fumigène au Parc de Saint-Cloud dépend des règles du domaine national, à vérifier avant tout. Confettis, fumigènes et ballons y sont souvent encadrés. Nous vous aidons à choisir un dispositif compatible et un emplacement dégagé."
+   },
+   {
+    "q": "Comment filmer la révélation d'un gender reveal à Saint-Cloud ?",
+    "a": "Pour filmer un gender reveal à Saint-Cloud, nous plaçons un vidéaste face aux futurs parents et un photographe sur les réactions des invités. Une pelouse ouverte du Parc de Saint-Cloud évite les passants dans le champ et fait ressortir la couleur."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un portrait corporate peut sortir du bureau sans perdre en sérieux. Sur le Pont de Saint-Cloud, la Seine et l'horizon urbain apportent un arrière-plan net et graphique, adapté à LinkedIn ou à une page équipe. Les allées arborées du Parc de Saint-Cloud offrent un fond plus doux pour des cadrages serrés en lumière naturelle. Une courte vidéo de présentation, tournée en plan fixe près des bassins, complète vos visuels pour votre site.",
+  "scene": "Vos portraits professionnels à Saint-Cloud peuvent sortir du bureau, sur le Pont de Saint-Cloud ou dans les allées du Parc de Saint-Cloud, sans perdre en sérieux. Sur le pont, la Seine et l'horizon urbain apportent un arrière-plan net et graphique, adapté à LinkedIn ou à une page équipe. Les allées arborées offrent un fond plus doux pour des cadrages serrés en lumière naturelle. Une courte vidéo de présentation, tournée en plan fixe près des bassins, complète vos visuels.",
   "conseil": "Le pont est exposé au vent et au bruit de la circulation : nous y réalisons plutôt les photos, et gardons les prises de parole filmées pour un coin calme du parc, en dehors des heures de forte fréquentation.",
   "faq": [
-   {"q": "Où faire des portraits professionnels en extérieur à Saint-Cloud ?", "a": "Le pont sur la Seine pour un décor urbain et structuré, et les allées du parc pour un rendu plus naturel. Nous choisissons selon le ton de votre marque et l'usage prévu : site, LinkedIn ou plaquette."},
-   {"q": "Un photographe peut-il venir dans nos locaux à Saint-Cloud pour une photo d'équipe ?", "a": "Oui, nous nous déplaçons dans vos locaux avec un éclairage d'appoint. Indiquez-nous le nombre de collaborateurs et une pièce disposant de lumière naturelle pour organiser des portraits rapides et homogènes."}
+   {
+    "q": "Où faire des portraits professionnels en extérieur à Saint-Cloud ?",
+    "a": "Pour des portraits professionnels en extérieur à Saint-Cloud, le Pont de Saint-Cloud donne un décor urbain et structuré, les allées du Parc de Saint-Cloud un rendu plus naturel. Nous choisissons selon le ton de votre marque et l'usage : site, LinkedIn ou plaquette."
+   },
+   {
+    "q": "Un photographe peut-il venir dans nos locaux à Saint-Cloud pour une photo d'équipe ?",
+    "a": "Un photographe peut venir dans vos locaux à Saint-Cloud pour la photo d'équipe, avec un éclairage d'appoint. Indiquez-nous le nombre de collaborateurs et une pièce avec lumière naturelle pour organiser des portraits professionnels rapides et homogènes."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Séminaire en Hauts-de-Seine, soirée de clôture, journée d'équipe : le domaine offre des respirations entre deux sessions. Nous couvrons les interventions, puis proposons une photo de groupe sur les marches de la Grande Cascade, cadre monumental qui donne de l'ampleur à vos équipes. Une marche jusqu'à la Lanterne de Diogène, avec Paris en toile de fond, fournit des images pour vos réseaux. La captation vidéo assemble ensuite les temps forts en un récapitulatif sobre.",
+  "scene": "Pour un séminaire ou une soirée d'entreprise à Saint-Cloud, nous couvrons les interventions puis proposons une photo de groupe sur les marches de la Grande Cascade. Ce cadre monumental donne de l'ampleur à vos équipes. Une marche jusqu'à la Lanterne de Diogène, avec Paris en toile de fond, fournit des images pour vos réseaux. La captation vidéo assemble ensuite les temps forts en un récapitulatif sobre, utile pendant des mois.",
   "conseil": "Prévoyez le cortège de groupe à pied avec un temps réaliste : le parc est grand. Une solution de repli abritée est utile, la météo pouvant écourter la photo collective en extérieur.",
   "faq": [
-   {"q": "Faire couvrir un séminaire d'entreprise à Saint-Cloud : comment s'organiser ?", "a": "Transmettez-nous le programme minuté, les intervenants clés et les zones à éviter. Nous combinons reportage en salle et quelques photos collectives en extérieur si le parc fait partie de votre journée."},
-   {"q": "Peut-on faire une photo de groupe de 50 personnes au parc de Saint-Cloud ?", "a": "Les marches de la Grande Cascade permettent d'étager un grand groupe pour que chacun soit visible. Vérifiez les conditions d'accueil des groupes auprès du domaine national ; nous gérons ensuite le placement rapidement."}
+   {
+    "q": "Faire couvrir un séminaire d'entreprise à Saint-Cloud : comment s'organiser ?",
+    "a": "Pour faire couvrir un séminaire d'entreprise à Saint-Cloud, transmettez-nous le programme minuté, les intervenants clés et les zones à éviter. Nous combinons reportage en salle et photos collectives en extérieur si le Parc de Saint-Cloud fait partie de la journée."
+   },
+   {
+    "q": "Peut-on faire une photo de groupe de 50 personnes au parc de Saint-Cloud ?",
+    "a": "Une photo de groupe de 50 personnes au Parc de Saint-Cloud se compose sur les marches de la Grande Cascade, qui permettent d'étager chacun. Vérifiez les conditions d'accueil des groupes auprès du domaine national ; nous gérons ensuite le placement rapidement."
+   }
   ]
  },
  "solo": {
-  "scene": "Seul face à Paris, depuis la Lanterne de Diogène : voilà un point de départ pour reprendre la place centrale. Prenez le temps de regarder la ville, nous travaillons votre profil et votre posture sans vous presser. Changement de tenue, puis descente vers la Grande Cascade, où l'escalier d'eau crée des lignes fortes autour de vous. Au retour, le Pont de Saint-Cloud permet quelques images en mouvement, marche décidée et cheveux au vent.",
+  "scene": "Un shooting portrait solo à Saint-Cloud peut partir de la Lanterne de Diogène, face à Paris, puis descendre vers la Grande Cascade et finir sur le Pont de Saint-Cloud. Au belvédère, prenez le temps de regarder la ville : nous travaillons votre profil et votre posture sans vous presser. Après un changement de tenue, l'escalier d'eau crée des lignes fortes autour de vous. Sur le pont, quelques images en mouvement gardent une marche décidée, cheveux au vent.",
   "conseil": "Pour vous changer entre deux tenues, il n'y a pas de cabine dans un parc. Portez une base neutre et ajoutez une veste ou un foulard, plutôt que de prévoir des tenues complètes.",
   "faq": [
-   {"q": "Où faire un shooting portrait solo à Saint-Cloud ?", "a": "Le belvédère de la Lanterne de Diogène pour une image ouverte sur Paris, la Grande Cascade pour un décor architectural, et le pont pour une ambiance plus urbaine. Nous composons le parcours selon votre style."},
-   {"q": "Une séance photo solo à Saint-Cloud convient-elle si je suis timide devant l'objectif ?", "a": "Oui. Le parc est assez vaste pour s'éloigner des passants et la séance se déroule comme une promenade. Nous parlons beaucoup, vous guidons sur les gestes et laissons les premières minutes servir d'échauffement."}
+   {
+    "q": "Où faire un shooting portrait solo à Saint-Cloud ?",
+    "a": "Pour un shooting portrait solo à Saint-Cloud, la Lanterne de Diogène offre une image ouverte sur Paris, la Grande Cascade un décor architectural, et le Pont de Saint-Cloud une ambiance plus urbaine. Le parcours se compose selon votre style."
+   },
+   {
+    "q": "Une séance photo solo à Saint-Cloud convient-elle si je suis timide devant l'objectif ?",
+    "a": "Une séance photo solo à Saint-Cloud convient aux personnes timides : le Parc de Saint-Cloud est assez vaste pour s'éloigner des passants. Nous parlons beaucoup, vous guidons sur les gestes et laissons les premières minutes servir d'échauffement."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Bougies soufflées, bouchons qui sautent, chansons de travers : votre fête mérite un décor à sa hauteur. Avant le repas, rassemblez les invités au pied de la Grande Cascade pour une grande photo joyeuse, tout le monde levant son verre. Un pique-nique d'anniversaire dans le Parc de Saint-Cloud se prête aux clichés spontanés, enfants qui jouent, amis qui trinquent. Les 30 ou 60 ans les plus romantiques finissent sur le Pont de Saint-Cloud, filmés au coucher du soleil.",
+  "scene": "Votre anniversaire à Saint-Cloud peut commencer par une grande photo de groupe au pied de la Grande Cascade, tous les invités levant leur verre. Bougies soufflées, bouchons qui sautent, chansons de travers : la fête mérite un décor à sa hauteur. Un pique-nique dans le Parc de Saint-Cloud se prête aux clichés spontanés, enfants qui jouent, amis qui trinquent. Les célébrations plus romantiques finissent sur le Pont de Saint-Cloud, filmées au coucher du soleil.",
   "conseil": "Un pique-nique dans un parc national suit des règles précises. Renseignez-vous auprès du domaine sur les espaces ouverts aux groupes et réservez un plan B en salle si la météo tourne.",
   "faq": [
-   {"q": "Peut-on fêter un anniversaire dans le parc de Saint-Cloud avec un photographe ?", "a": "Un pique-nique festif est envisageable selon les règles du domaine, à vérifier en amont. Nous couvrons alors la photo de groupe, le gâteau et les moments spontanés, puis quelques portraits du ou de la célébrée."},
-   {"q": "Faire filmer ses 40 ans à Saint-Cloud : quel format vidéo choisir ?", "a": "Un clip court rythmé par la musique de la soirée fonctionne bien à partager. Nous filmons les discours, le gâteau et la piste, puis montons un souvenir de quelques minutes."}
+   {
+    "q": "Peut-on fêter un anniversaire dans le parc de Saint-Cloud avec un photographe ?",
+    "a": "Fêter un anniversaire dans le Parc de Saint-Cloud avec un photographe est envisageable selon les règles du domaine, à vérifier en amont. Nous couvrons la photo de groupe, le gâteau et les moments spontanés, puis quelques portraits de la personne fêtée."
+   },
+   {
+    "q": "Faire filmer ses 40 ans à Saint-Cloud : quel format vidéo choisir ?",
+    "a": "Pour filmer des 40 ans à Saint-Cloud, un clip court rythmé par la musique de la soirée se partage facilement. Nous filmons les discours, le gâteau et la piste, puis montons un souvenir d'anniversaire de quelques minutes."
+   }
   ]
  },
  "diplome": {
-  "scene": "Toque lancée devant l'escalier d'eau de la Grande Cascade : le geste prend une dimension presque cérémonielle. Après la remise, prolongez la journée dans le Parc de Saint-Cloud avec vos parents, diplôme bien en main, pour des photos fières mais détendues. Au belvédère de la Lanterne de Diogène, un portrait face à Paris symbolise la suite du parcours. Quelques plans au ralenti de la toque en l'air rejoignent le film souvenir.",
+  "scene": "Une séance de remise de diplôme à Saint-Cloud se joue devant la Grande Cascade, où la toque lancée prend une dimension presque cérémonielle. Après la remise, prolongez la journée dans le Parc de Saint-Cloud avec vos parents, diplôme en main, pour des photos fières mais détendues. Au belvédère de la Lanterne de Diogène, un portrait face à Paris symbolise la suite du parcours. Quelques plans au ralenti de la toque en l'air rejoignent le film souvenir.",
   "conseil": "Les journées de remise de diplôme tombent souvent à la belle saison, quand le parc attire du monde l'après-midi. Venez tôt en tram T2 et réservez les photos de cascade à un moment plus calme.",
   "faq": [
-   {"q": "Où faire des photos de remise de diplôme près de Saint-Cloud ?", "a": "Le parc de Saint-Cloud offre des décors variés pour célébrer le diplôme après la cérémonie : la Grande Cascade pour le lancer de toque, la Lanterne de Diogène pour un portrait avec Paris en arrière-plan."},
-   {"q": "Peut-on lancer sa toque en l'air sans perdre la photo à Saint-Cloud ?", "a": "Oui, nous déclenchons en rafale et filmons au ralenti pour saisir le moment exact. Plusieurs lancers sont souvent nécessaires ; prévoyez une toque solide et un proche pour la rattraper."}
+   {
+    "q": "Où faire des photos de remise de diplôme près de Saint-Cloud ?",
+    "a": "Pour des photos de remise de diplôme à Saint-Cloud, la Grande Cascade se prête au lancer de toque et la Lanterne de Diogène à un portrait avec Paris en arrière-plan. La séance peut suivre la cérémonie dans le Parc de Saint-Cloud."
+   },
+   {
+    "q": "Peut-on lancer sa toque en l'air sans perdre la photo à Saint-Cloud ?",
+    "a": "Lancer sa toque à Saint-Cloud sans perdre la photo de diplôme est possible : nous déclenchons en rafale et filmons au ralenti. Plusieurs lancers sont souvent nécessaires ; prévoyez une toque solide et un proche pour la rattraper."
+   }
   ]
  },
  "naissance": {
-  "scene": "Le bébé est né, et la famille commence. Si la maternité donne son accord, nous saisissons les premiers regards et les petites mains agrippées à un doigt, dans le calme de la chambre. Quelques jours plus tard, une première sortie au Parc de Saint-Cloud peut prolonger ce reportage : poussette dans une allée ombragée, fratrie qui découvre le nouveau venu près d'un bassin. Le Pont de Saint-Cloud reste un clin d'œil discret au retour à la maison, filmé en un seul plan.",
+  "scene": "À Saint-Cloud, un reportage de naissance suit les premiers jours de bébé, à la maternité si l'établissement l'accepte, puis lors d'une sortie au Parc de Saint-Cloud. Dans le calme de la chambre, nous saisissons les premiers regards et les petites mains agrippées à un doigt. Quelques jours plus tard, la poussette avance dans une allée ombragée et la fratrie découvre le nouveau venu près d'un bassin. Le Pont de Saint-Cloud offre un clin d'œil discret au retour à la maison, filmé en un seul plan.",
   "conseil": "Les règles des maternités sur la photo et la vidéo varient beaucoup. Interrogez l'établissement dès la grossesse et désignez un proche qui nous prévient. La sortie au parc attend que maman soit bien reposée.",
   "faq": [
-   {"q": "Peut-on avoir un photographe de naissance à la maternité près de Saint-Cloud ?", "a": "Cela dépend entièrement de l'accord de l'établissement, qui fixe ses propres règles. Renseignez-vous avant le terme ; si la maternité refuse, nous proposons une séance à domicile dans les jours qui suivent."},
-   {"q": "Peut-on prolonger un reportage de naissance par une balade au parc de Saint-Cloud ?", "a": "Oui, une courte promenade dans une allée calme du parc permet de photographier la première sortie en famille. Nous restons brefs, à l'ombre, et adaptons tout au rythme du bébé et de la maman."}
+   {
+    "q": "Peut-on avoir un photographe de naissance à la maternité près de Saint-Cloud ?",
+    "a": "Un photographe de naissance à la maternité près de Saint-Cloud dépend entièrement de l'accord de l'établissement, qui fixe ses propres règles. Renseignez-vous avant le terme ; en cas de refus, nous proposons une séance à domicile à Saint-Cloud dans les jours suivants."
+   },
+   {
+    "q": "Peut-on prolonger un reportage de naissance par une balade au parc de Saint-Cloud ?",
+    "a": "Un reportage de naissance peut se prolonger par une courte promenade au Parc de Saint-Cloud, pour photographier la première sortie en famille. Nous restons brefs, à l'ombre, et adaptons tout au rythme du bébé et de la maman."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Tout commence à la maison, au chaud, bébé endormi dans vos bras. La séance nouveau-né se déroule chez vous, à Saint-Cloud, avec des plis de couverture, des cils, des pieds minuscules. Pour garder un lien avec la ville, nous pouvons ajouter un portrait des parents dans les allées du Parc de Saint-Cloud, ou sur le Pont de Saint-Cloud avec la Seine derrière vous, bébé contre la poitrine. Une courte vidéo douce capte les bâillements et les petits soupirs.",
+  "scene": "La séance nouveau-né à Saint-Cloud se déroule à la maison, au chaud, bébé endormi dans vos bras. Nous photographions les plis de couverture, les cils, les pieds minuscules. Pour garder un lien avec la ville, un portrait des parents dans les allées du Parc de Saint-Cloud ou sur le Pont de Saint-Cloud, bébé contre la poitrine, peut compléter la série. Une courte vidéo douce capte les bâillements et les petits soupirs.",
   "conseil": "Gardez l'extérieur très court et seulement par temps doux : un nouveau-né ne régule pas bien sa température. L'essentiel se fait à domicile, dans une pièce chauffée près d'une fenêtre.",
   "faq": [
-   {"q": "Séance photo nouveau-né à domicile à Saint-Cloud : comment préparer la pièce ?", "a": "Chauffez une pièce proche d'une fenêtre, dégagez un petit espace et prévoyez des tissus unis. Nous apportons le matériel de pose sécurisé et adaptons la séance aux tétées et aux siestes de bébé."},
-   {"q": "Quand réserver un photographe nouveau-né à Saint-Cloud ?", "a": "Contactez-nous pendant la grossesse avec la date prévue du terme. Nous fixons ensuite la séance dans les premiers jours après le retour à la maison, quand bébé dort encore beaucoup et se laisse installer facilement."}
+   {
+    "q": "Séance photo nouveau-né à domicile à Saint-Cloud : comment préparer la pièce ?",
+    "a": "Pour une séance photo nouveau-né à domicile à Saint-Cloud, chauffez une pièce proche d'une fenêtre, dégagez un petit espace et prévoyez des tissus unis. Nous apportons le matériel de pose sécurisé et suivons les tétées et siestes de bébé."
+   },
+   {
+    "q": "Quand réserver un photographe nouveau-né à Saint-Cloud ?",
+    "a": "Un photographe nouveau-né à Saint-Cloud se réserve pendant la grossesse, avec la date prévue du terme. La séance se fixe ensuite dans les premiers jours après le retour à la maison, quand bébé dort encore beaucoup."
+   }
   ]
  }
 }

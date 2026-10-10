@@ -1,98 +1,170 @@
 {
  "mariage": {
-  "scene": "Le jour de votre mariage à Meudon, la Terrasse de Meudon offre un balcon sur Paris pour la sortie des témoins et les portraits du couple, quand le ciel rougit au-dessus des toits. Plus tôt dans l'après-midi, les jardins de l'Observatoire de Meudon encadrent un premier regard discret au pied de la coupole historique. Côté film, une marche lente main dans la main sous les arbres de la Forêt de Meudon donne au teaser ses plans les plus tendres.",
+  "scene": "Pour un mariage à Meudon, nous vous proposons trois décors proches : la Terrasse de Meudon, l'Observatoire de Meudon et la Forêt de Meudon. La Terrasse de Meudon offre un balcon sur Paris pour les portraits du couple, quand le ciel rougit au coucher du soleil. Plus tôt, les jardins de l'Observatoire de Meudon encadrent un premier regard discret au pied de la coupole historique. Côté film, une marche lente main dans la main sous les arbres de la forêt donne au teaser ses plans les plus tendres.",
   "conseil": "Gardez le créneau du coucher de soleil libre pour monter sur la terrasse : c'est là que la vue sur Paris prend ses teintes chaudes. Prévoyez des chaussures de rechange, car les allées et les pentes de la ville abîment vite les talons fins.",
   "faq": [
-   {"q": "Où faire les photos de couple d'un mariage à Meudon ?", "a": "Nous vous proposons la Terrasse de Meudon pour la vue panoramique sur Paris en fin de journée, puis les sous-bois de la forêt pour des images plus intimes. Le choix dépend du trajet entre la cérémonie et la réception, que nous organisons avec vous."},
-   {"q": "Un photographe mariage à Meudon peut-il aussi filmer la journée ?", "a": "Oui, nous travaillons à deux : l'un photographie, l'autre réalise le film de votre mariage. Les préparatifs, la cérémonie, les portraits sur la terrasse et la soirée sont couverts sans que vous ayez à gérer deux équipes différentes."}
+   {
+    "q": "Où faire les photos de couple d'un mariage à Meudon ?",
+    "a": "Pour les photos de couple d'un mariage à Meudon, nous vous proposons la Terrasse de Meudon en fin de journée, face à Paris, puis les sous-bois de la Forêt de Meudon pour des images plus intimes. Le parcours suit le trajet entre cérémonie et réception."
+   },
+   {
+    "q": "Un photographe de mariage à Meudon peut-il aussi filmer la journée ?",
+    "a": "Un photographe de mariage à Meudon peut aussi filmer la journée : nous travaillons à deux, l'un à la photo, l'autre au film. Préparatifs, cérémonie, portraits sur la Terrasse de Meudon et soirée sont couverts par une seule équipe."
+   }
   ]
  },
  "grossesse": {
-  "scene": "Sous les grands arbres de la Forêt de Meudon, la lumière filtrée adoucit la peau et souligne la courbe du ventre : une robe fluide, une main posée, un pas lent dans l'allée suffisent. Nous pouvons ensuite rejoindre la Terrasse de Meudon, où le futur papa se place derrière vous face à Paris, les bras croisés sur le bébé à venir. Quelques secondes filmées de ce geste deviennent une séquence que vous reverrez avec émotion.",
+  "scene": "Un shooting grossesse à Meudon se fait idéalement dans la Forêt de Meudon, dont la lumière filtrée adoucit la peau, puis sur la Terrasse de Meudon face à Paris. Sous les grands arbres, une robe fluide, une main posée et un pas lent dans l'allée suffisent. Sur la terrasse, le futur papa se place derrière vous, les bras croisés sur le bébé à venir. Quelques secondes filmées de ce geste deviennent une séquence douce.",
   "conseil": "La forêt reste fraîche et ombragée même par beau temps : emportez un gilet léger entre deux prises. Choisissez une allée plate proche de l'entrée plutôt que les chemins vallonnés, pour marcher sans vous fatiguer en fin de grossesse.",
   "faq": [
-   {"q": "Où faire un shooting grossesse à Meudon en extérieur ?", "a": "Les sous-bois de la Forêt de Meudon offrent une lumière douce et des fonds verts très flatteurs pour le ventre arrondi. La terrasse, plus dégagée, convient aux portraits avec vue sur Paris, à condition de venir en fin de journée."},
-   {"q": "À combien de semaines prévoir une séance grossesse à Meudon ?", "a": "Nous conseillons généralement la fin du septième mois ou le début du huitième, quand le ventre est bien visible et que vous êtes encore à l'aise pour marcher quelques minutes dans les allées de la forêt."}
+   {
+    "q": "Où faire un shooting grossesse à Meudon en extérieur ?",
+    "a": "Pour un shooting grossesse à Meudon, les sous-bois de la Forêt de Meudon offrent une lumière douce et des fonds verts flatteurs pour le ventre arrondi. La Terrasse de Meudon, plus dégagée, convient aux portraits avec vue sur Paris en fin de journée."
+   },
+   {
+    "q": "À combien de semaines prévoir une séance grossesse à Meudon ?",
+    "a": "Une séance grossesse à Meudon se prévoit en général entre la fin du septième mois et le début du huitième. Le ventre est alors bien visible et vous restez à l'aise pour marcher quelques minutes dans les allées de la Forêt de Meudon."
+   }
   ]
  },
  "couple": {
-  "scene": "Montez la Rue Banes ensemble : ses escaliers et ses rues pentues créent des plans où l'un tire l'autre par la main, un rire à chaque palier. En haut, la Terrasse de Meudon ouvre l'horizon sur Paris pour un baiser à contre-jour au coucher du soleil. Envie de calme ? Les jardins de l'Observatoire de Meudon se prêtent aux confidences, filmées en plans larges comme dans un court métrage romantique.",
+  "scene": "En amoureux à Meudon, une séance photo couple relie la Rue Banes et ses escaliers pentus à la Terrasse de Meudon, avec sa vue sur Paris au coucher du soleil. Montez les marches ensemble : l'un tire l'autre par la main, un rire à chaque palier. En haut, la terrasse ouvre l'horizon pour un baiser à contre-jour. Envie de calme ? Les jardins de l'Observatoire de Meudon se prêtent aux confidences, filmées en plans larges comme un court métrage.",
   "conseil": "Les marches de la Rue Banes demandent des semelles qui accrochent : évitez les talons et les cuirs glissants. Arrivez une heure avant le coucher du soleil pour finir sur la terrasse quand la lumière dore la vue sur Paris.",
   "faq": [
-   {"q": "Quel est le plus bel endroit pour une séance photo couple à Meudon ?", "a": "Tout dépend de votre style. La Terrasse de Meudon convient aux couples qui aiment les grands panoramas, la Rue Banes à ceux qui préfèrent une ambiance de village avec escaliers, et la forêt aux séances plus intimes."},
-   {"q": "Peut-on faire une séance fiançailles à Meudon avec une vidéo ?", "a": "Oui. Pendant que l'un de nous photographie votre demande ou vos fiançailles, l'autre capte des images en mouvement. Vous recevez des photos et un petit film qui raconte la promenade entre les rues pentues et la terrasse."}
+   {
+    "q": "Où faire une séance photo couple à Meudon ?",
+    "a": "Pour une séance photo couple à Meudon, la Terrasse de Meudon convient aux amoureux des grands panoramas, la Rue Banes à ceux qui aiment une ambiance de village avec escaliers, et la Forêt de Meudon aux séances plus intimes."
+   },
+   {
+    "q": "Peut-on faire une séance fiançailles avec vidéo à Meudon ?",
+    "a": "Une séance fiançailles à Meudon peut associer photo et vidéo : l'un de nous photographie la demande, l'autre capte des images en mouvement. Vous recevez des photos et un petit film de la promenade entre la Rue Banes et la Terrasse de Meudon."
+   }
   ]
  },
  "famille": {
-  "scene": "Rien de tel qu'une balade en Forêt de Meudon pour que les enfants oublient l'appareil : course dans les feuilles, cache-cache derrière un tronc, épaules de papa pour voir plus haut. Ces instants filmés font un souvenir plein de vie. Nous terminons sur la Terrasse de Meudon, où toute la famille s'assoit face à Paris pour le portrait réunissant grands-parents et petits-enfants, dans une lumière plus douce.",
+  "scene": "La Forêt de Meudon est le cadre que nous conseillons pour une séance photo famille à Meudon, car les enfants y oublient vite l'appareil. Course dans les feuilles, cache-cache derrière un tronc, épaules de papa pour voir plus haut : ces instants filmés font un souvenir plein de vie. Nous terminons sur la Terrasse de Meudon, où toute la famille s'assoit face à Paris pour le portrait réunissant grands-parents et petits-enfants.",
   "conseil": "Les allées de la forêt conviennent aux poussettes tout-terrain, mais les chemins vallonnés fatiguent vite les petites jambes. Prévoyez un point de rendez-vous près d'une entrée et une heure hors sieste pour garder tout le monde de bonne humeur.",
   "faq": [
-   {"q": "Où faire une séance photo famille en forêt près de Meudon ?", "a": "La Forêt de Meudon, avec ses allées et ses sous-bois, se prête aux séances famille très naturelles. Nous choisissons ensemble une zone facile d'accès pour les enfants et les grands-parents, puis nous pouvons rejoindre la terrasse pour une photo de groupe."},
-   {"q": "Comment venir à une séance photo famille à Meudon sans voiture ?", "a": "Meudon est desservie par le RER C à Meudon-Val-Fleury et par le Transilien à la gare de Meudon. Nous fixons le rendez-vous en fonction de votre trajet pour éviter une longue marche aux enfants avant la séance."}
+   {
+    "q": "Où faire une séance photo famille en forêt à Meudon ?",
+    "a": "Pour une séance photo famille à Meudon, la Forêt de Meudon et ses allées se prêtent à des images très naturelles. Nous choisissons une zone facile d'accès pour les enfants et les grands-parents, puis nous rejoignons la Terrasse de Meudon pour la photo de groupe."
+   },
+   {
+    "q": "Comment venir à une séance photo famille à Meudon sans voiture ?",
+    "a": "Une séance photo famille à Meudon est accessible en transports : RER C à Meudon-Val-Fleury ou Transilien à la gare de Meudon. Nous fixons le rendez-vous selon votre trajet pour éviter une longue marche aux enfants avant la séance."
+   }
   ]
  },
  "gender-reveal": {
-  "scene": "Fille ou garçon ? À Meudon, l'annonce peut éclater dans une clairière de la Forêt de Meudon, entourée de vert, où la couleur du ballon ou du canon ressort nettement. Les réactions des proches sont saisies au ralenti, des cris aux embrassades. Pour une version plus intime, la Terrasse de Meudon offre un fond dégagé sur Paris : le couple ouvre la boîte, la caméra tourne, et la photo de l'éclat est prise au bon instant.",
+  "scene": "Fille ou garçon : pour un gender reveal à Meudon, une clairière de la Forêt de Meudon fait ressortir nettement la couleur du ballon ou du canon sur le vert. Les réactions des proches sont saisies au ralenti, des cris aux embrassades. Pour une version plus intime, la Terrasse de Meudon offre un fond dégagé sur Paris : le couple ouvre la boîte, la caméra tourne, et la photo de l'éclat est prise au bon instant.",
   "conseil": "Avant de choisir la forêt ou la terrasse, vérifiez les règles du lieu pour les confettis, les fumigènes et les ballons, souvent encadrés dans les espaces naturels. Prévoyez un sac pour tout ramasser et un plan de repli en cas de vent.",
   "faq": [
-   {"q": "Peut-on utiliser des fumigènes pour un gender reveal à Meudon ?", "a": "Cela dépend du lieu choisi. En forêt comme sur la terrasse, renseignez-vous auprès du gestionnaire sur les règles concernant fumigènes, confettis et ballons. Nous pouvons aussi vous proposer des alternatives, comme un gâteau ou une boîte, plus simples à autoriser."},
-   {"q": "Où organiser une gender reveal party en extérieur à Meudon ?", "a": "Une clairière de la Forêt de Meudon offre un cadre vert qui fait ressortir le rose ou le bleu. La Terrasse de Meudon convient à un petit groupe qui souhaite une vue sur Paris pour la photo d'annonce."}
+   {
+    "q": "Peut-on utiliser des fumigènes pour un gender reveal à Meudon ?",
+    "a": "Pour un gender reveal à Meudon, fumigènes, confettis et ballons dépendent des règles du lieu : renseignez-vous auprès du gestionnaire de la Forêt de Meudon ou de la Terrasse de Meudon. Un gâteau ou une boîte surprise reste une alternative simple à faire accepter."
+   },
+   {
+    "q": "Où organiser une gender reveal party en extérieur à Meudon ?",
+    "a": "Une gender reveal party en extérieur à Meudon trouve un cadre vert dans une clairière de la Forêt de Meudon, qui fait ressortir le rose ou le bleu. La Terrasse de Meudon convient à un petit groupe souhaitant une vue sur Paris pour la photo d'annonce."
+   }
   ]
  },
  "professionnels": {
-  "scene": "Un portrait LinkedIn sobre, avec Paris en arrière-plan flou depuis la Terrasse de Meudon, dit d'emblée que vous travaillez dans la métropole. Pour une identité plus singulière, la coupole de l'Observatoire de Meudon donne un fond architectural qui évoque la recherche, l'ingénierie ou la précision. Les rues pentues de la Rue Banes servent enfin à de courtes séquences vidéo de présentation, où vous marchez vers l'objectif en parlant de votre métier.",
+  "scene": "Un portrait professionnel à Meudon peut se faire sur la Terrasse de Meudon, avec Paris flou en arrière-plan, ou devant la coupole de l'Observatoire de Meudon. Le premier décor dit d'emblée que vous travaillez dans la métropole. Le second, plus architectural, évoque la recherche, l'ingénierie ou la précision. Les rues pentues de la Rue Banes servent enfin à de courtes séquences vidéo de présentation, où vous marchez vers l'objectif en parlant de votre métier.",
   "conseil": "Sur la terrasse, le vent peut décoiffer et le soleil de face fait plisser les yeux : venez de préférence par temps légèrement couvert. Prévoyez une veste de rechange pour varier les portraits sans changer de lieu.",
   "faq": [
-   {"q": "Où faire un portrait professionnel en extérieur à Meudon ?", "a": "Nous vous proposons la Terrasse de Meudon pour un fond urbain avec vue sur Paris, ou les abords de l'Observatoire de Meudon pour un décor plus architectural. Les deux se combinent facilement en une seule séance."},
-   {"q": "Un photographe corporate à Meudon peut-il venir dans nos bureaux ?", "a": "Oui, nous nous déplaçons dans vos locaux à Meudon pour les portraits d'équipe et les vidéos de présentation. Nous installons un coin portrait près d'une fenêtre, puis nous pouvons compléter par quelques images en extérieur si le temps le permet."}
+   {
+    "q": "Où faire un portrait professionnel en extérieur à Meudon ?",
+    "a": "Pour un portrait professionnel en extérieur à Meudon, nous proposons la Terrasse de Meudon pour un fond urbain avec vue sur Paris, ou les abords de l'Observatoire de Meudon pour un décor plus architectural. Les deux se combinent en une seule séance."
+   },
+   {
+    "q": "Un photographe corporate à Meudon peut-il venir dans nos bureaux ?",
+    "a": "Un photographe corporate peut venir dans vos bureaux à Meudon : nous y réalisons les portraits d'équipe et les vidéos de présentation. Un coin portrait est installé près d'une fenêtre, puis quelques images en extérieur complètent la série si le temps le permet."
+   }
   ]
  },
  "evenements-professionnels": {
-  "scene": "Votre séminaire se déroule à Meudon ? Entre deux sessions, nous emmenons les équipes sur la Terrasse de Meudon pour une photo de groupe face à Paris, utile ensuite pour la communication interne. Une activité de cohésion en Forêt de Meudon se raconte en images vivantes : consignes, entraide, sourires d'arrivée. La vidéo réunit les interventions en salle et ces moments dehors dans un film récapitulatif court, prêt à partager.",
+  "scene": "Pour un séminaire ou un événement professionnel à Meudon, nous couvrons les interventions en salle puis une photo de groupe sur la Terrasse de Meudon, face à Paris. Cette image sert ensuite à la communication interne. Une activité de cohésion en Forêt de Meudon se raconte en images vivantes : consignes, entraide, sourires d'arrivée. La vidéo réunit les interventions et ces moments dehors dans un film récapitulatif court, prêt à partager.",
   "conseil": "Prévoyez la photo de groupe en extérieur avant la pause déjeuner, quand tout le monde est encore présent et la tenue impeccable. Transmettez-nous le programme minuté pour caler les déplacements vers la terrasse sans retarder les interventions.",
   "faq": [
-   {"q": "Faire filmer un séminaire d'entreprise à Meudon, est-ce possible ?", "a": "Oui. Nous captons les interventions, les ateliers et les temps informels, puis nous montons un film court pour votre communication. Nous adaptons le dispositif au lieu et aux zones confidentielles que vous nous signalez à l'avance."},
-   {"q": "Où organiser une photo d'équipe en plein air lors d'un événement à Meudon ?", "a": "La Terrasse de Meudon permet une grande photo de groupe avec la vue sur Paris en fond. Pour une ambiance plus naturelle, une allée de la forêt fonctionne bien, à condition de prévoir le trajet dans le programme."}
+   {
+    "q": "Peut-on faire filmer un séminaire d'entreprise à Meudon ?",
+    "a": "Un séminaire d'entreprise à Meudon peut être filmé : nous captons les interventions, les ateliers et les temps informels, puis montons un film court pour votre communication. Le dispositif s'adapte au lieu et aux zones confidentielles signalées à l'avance."
+   },
+   {
+    "q": "Où organiser une photo d'équipe en plein air lors d'un événement à Meudon ?",
+    "a": "Pour la photo d'équipe en plein air d'un événement professionnel à Meudon, la Terrasse de Meudon permet un grand groupe avec Paris en fond. Une allée de la Forêt de Meudon offre une ambiance plus naturelle, à condition de prévoir le trajet dans le programme."
+   }
   ]
  },
  "solo": {
-  "scene": "Prenez la Rue Banes à votre rythme : un regard par-dessus l'épaule dans les escaliers, une pause appuyée contre un mur, et la ville devient votre décor. La promenade continue vers les jardins de l'Observatoire de Meudon, où la coupole donne un cadre graphique à un portrait plus posé. Si vous aimez la nature, quelques minutes dans la Forêt de Meudon offrent des plans en mouvement, cheveux au vent, pour un court film qui vous ressemble.",
+  "scene": "Un shooting solo à Meudon commence volontiers dans la Rue Banes, dont les escaliers et les rues pentues deviennent votre décor. Un regard par-dessus l'épaule dans les marches, une pause appuyée contre un mur : prenez votre rythme. La promenade continue vers les jardins de l'Observatoire de Meudon, où la coupole donne un cadre graphique à un portrait plus posé. Quelques minutes dans la Forêt de Meudon offrent enfin des plans en mouvement, cheveux au vent.",
   "conseil": "Changez de tenue entre la ville et la forêt pour obtenir deux ambiances bien distinctes en une seule séance. Les escaliers de la Rue Banes sont plus calmes le matin, ce qui vous laisse poser sans passants derrière vous.",
   "faq": [
-   {"q": "Où faire un shooting solo original à Meudon ?", "a": "La Rue Banes, avec ses escaliers et ses rues pentues, donne une ambiance de village très photogénique. Nous pouvons l'associer aux jardins de l'Observatoire ou aux sous-bois de la forêt pour varier les décors en une seule séance."},
-   {"q": "Je ne suis pas à l'aise devant l'objectif, une séance portrait à Meudon est-elle adaptée ?", "a": "Oui. La séance se vit comme une promenade : nous marchons, nous discutons et les poses viennent en chemin. Nous vous guidons pour les gestes et les cadrages, sans vous demander de jouer un rôle."}
+   {
+    "q": "Où faire un shooting solo original à Meudon ?",
+    "a": "Pour un shooting solo original à Meudon, la Rue Banes et ses escaliers donnent une ambiance de village très photogénique. Nous pouvons l'associer aux jardins de l'Observatoire de Meudon ou aux sous-bois de la Forêt de Meudon pour varier les décors en une séance."
+   },
+   {
+    "q": "Je ne suis pas à l'aise devant l'objectif : une séance portrait à Meudon est-elle adaptée ?",
+    "a": "Une séance portrait solo à Meudon convient aussi aux personnes timides, car elle se vit comme une promenade entre la Rue Banes et la forêt. Nous marchons, nous discutons, et nous vous guidons pour les gestes sans vous demander de jouer un rôle."
+   }
   ]
  },
  "anniversaire": {
-  "scene": "Trente bougies, soixante ou un premier anniversaire : avant de passer à table, réunissez vos invités sur la Terrasse de Meudon pour une photo de groupe joyeuse avec Paris en toile de fond. Les enfants peuvent ensuite courir dans la Forêt de Meudon pendant que nous saisissons les rires et les jeux sous les arbres. Le moment du gâteau, les bougies soufflées et les applaudissements forment le cœur du film souvenir de la fête.",
+  "scene": "Pour la photo de groupe d'un anniversaire à Meudon, réunissez vos invités sur la Terrasse de Meudon avant de passer à table, avec Paris en toile de fond. Trente bougies, soixante ou un premier anniversaire : chaque âge a sa place sur l'image. Les enfants peuvent ensuite courir dans la Forêt de Meudon pendant que nous saisissons les rires et les jeux sous les arbres. Le moment du gâteau, les bougies soufflées et les applaudissements forment le cœur du film souvenir.",
   "conseil": "Si la fête a lieu chez vous, prévoyez une courte sortie vers la terrasse en fin d'après-midi : la lumière y est plus chaude et le groupe encore frais. Désignez un proche pour rassembler tout le monde rapidement.",
   "faq": [
-   {"q": "Peut-on prendre un photographe pour un anniversaire à domicile à Meudon ?", "a": "Oui, nous venons chez vous ou dans la salle que vous avez réservée à Meudon. Nous couvrons l'arrivée des invités, les discours, le gâteau et les photos de groupe, puis nous pouvons ajouter une courte sortie en extérieur."},
-   {"q": "Où faire des photos de groupe pour des 50 ans à Meudon ?", "a": "La Terrasse de Meudon offre un fond dégagé sur Paris, idéal pour aligner une grande tablée d'invités. Nous organisons les rangs pour que chacun soit visible, puis nous laissons place à des photos plus spontanées."}
+   {
+    "q": "Peut-on prendre un photographe pour un anniversaire à domicile à Meudon ?",
+    "a": "Un photographe d'anniversaire peut venir chez vous à Meudon ou dans la salle réservée. Nous couvrons l'arrivée des invités, les discours, le gâteau et les photos de groupe, puis une courte sortie sur la Terrasse de Meudon si vous le souhaitez."
+   },
+   {
+    "q": "Où faire des photos de groupe pour des 50 ans à Meudon ?",
+    "a": "Pour les photos de groupe de 50 ans à Meudon, la Terrasse de Meudon offre un fond dégagé sur Paris, pratique pour aligner de nombreux invités. Nous organisons les rangs pour que chacun soit visible, puis laissons place à des images plus spontanées."
+   }
   ]
  },
  "diplome": {
-  "scene": "Toge sur les épaules, diplôme en main : la Terrasse de Meudon donne à votre réussite la vue sur Paris qu'elle mérite, et la toque lancée en l'air se découpe sur le ciel. Pour un portrait plus studieux, la coupole historique de l'Observatoire de Meudon rappelle les années de travail et de curiosité. Les marches de la Rue Banes accueillent enfin les photos avec vos amis de promo, filmées en séquence pour garder les éclats de rire.",
+  "scene": "Une séance photo de remise de diplôme à Meudon trouve son décor sur la Terrasse de Meudon, où la toque lancée en l'air se découpe sur le ciel de Paris. Toge sur les épaules, diplôme en main, vous tenez la pose face à la ville. Pour un portrait plus studieux, la coupole historique de l'Observatoire de Meudon rappelle les années de travail et de curiosité. Les marches de la Rue Banes accueillent enfin les photos avec vos amis de promo, filmées en séquence pour garder les éclats de rire.",
   "conseil": "Après la cérémonie, la lumière décline vite : rejoignez la terrasse sans tarder pour profiter du soleil bas. Gardez la toque bien attachée par vent fort, et prévoyez quelques lancers d'essai avant la photo finale.",
   "faq": [
-   {"q": "Où faire une séance photo de remise de diplôme à Meudon ?", "a": "Nous aimons la Terrasse de Meudon pour la toque lancée face à Paris, et les abords de l'Observatoire de Meudon pour un portrait plus solennel. La séance peut suivre directement votre cérémonie, selon le programme que vous nous transmettez."},
-   {"q": "Peut-on faire des photos de diplôme entre amis de promo à Meudon ?", "a": "Oui, nous photographions et filmons les groupes d'amis comme les familles. Les escaliers de la Rue Banes permettent de placer chacun sur une marche, avec une composition vivante et des sourires bien visibles."}
+   {
+    "q": "Où faire une séance photo de remise de diplôme à Meudon ?",
+    "a": "Pour une séance photo de remise de diplôme à Meudon, nous aimons la Terrasse de Meudon pour la toque lancée face à Paris, et les abords de l'Observatoire de Meudon pour un portrait plus solennel. La séance peut suivre directement votre cérémonie."
+   },
+   {
+    "q": "Peut-on faire des photos de diplôme entre amis de promo à Meudon ?",
+    "a": "Des photos de diplôme entre amis de promo à Meudon sont possibles : les escaliers de la Rue Banes permettent de placer chacun sur une marche. La composition reste vivante et les sourires bien visibles, en photo comme en vidéo."
+   }
   ]
  },
  "naissance": {
-  "scene": "Quand bébé arrive, chaque détail compte. Si la maternité donne son accord, nous saisissons en douceur la première tétée, les doigts minuscules et le regard des parents. Plus tard, une sortie apaisée dans la Forêt de Meudon, bébé contre vous en écharpe sous les arbres, ou un moment calme sur la Terrasse de Meudon face à Paris, prolongent ce récit. Le film qui en naît reste discret, presque chuchoté.",
+  "scene": "Un reportage de naissance à Meudon commence à la maternité, si l'établissement donne son accord, puis se prolonge par une sortie calme dans la Forêt de Meudon. Nous saisissons en douceur la première tétée, les doigts minuscules et le regard des parents. Plus tard, bébé contre vous en écharpe sous les arbres, ou un moment tranquille sur la Terrasse de Meudon face à Paris, prolongent ce récit. Le film qui en naît reste discret, presque chuchoté.",
   "conseil": "Renseignez-vous dès le troisième trimestre auprès de la maternité sur les règles de prise de vue, car l'accord de l'établissement est indispensable. Pour la balade en forêt, attendez que la maman soit bien reposée et choisissez une allée courte et plate.",
   "faq": [
-   {"q": "Peut-on faire un reportage naissance à la maternité près de Meudon ?", "a": "C'est possible uniquement avec l'accord de l'établissement, qui fixe ses propres règles. Nous vous conseillons de poser la question à l'avance. Si les photos ne sont pas autorisées, nous pouvons organiser la séance à votre retour à domicile."},
-   {"q": "Quand faire les premières photos de bébé en extérieur à Meudon ?", "a": "Nous attendons que la maman se sente prête et que le bébé ait quelques jours. Une courte balade dans une allée calme de la Forêt de Meudon, à l'abri du vent, suffit pour des images douces sans fatiguer personne."}
+   {
+    "q": "Peut-on faire un reportage naissance à la maternité près de Meudon ?",
+    "a": "Un reportage naissance en maternité près de Meudon n'est possible qu'avec l'accord de l'établissement, qui fixe ses propres règles. Posez la question à l'avance. Si les photos ne sont pas autorisées, la séance de naissance peut se faire à votre retour à domicile à Meudon."
+   },
+   {
+    "q": "Quand faire les premières photos de bébé en extérieur à Meudon ?",
+    "a": "Les premières photos de naissance en extérieur à Meudon se font quand la maman se sent prête et que le bébé a quelques jours. Une courte balade dans une allée calme de la Forêt de Meudon, à l'abri du vent, suffit pour des images douces."
+   }
   ]
  },
  "nouveau-ne": {
-  "scene": "Chez vous, dans une pièce chauffée, bébé dort enveloppé pendant que nous photographions ses mains, ses cils et ses plis de peau, sans jamais le forcer à prendre une pose. Si vous aimez l'idée d'un clin d'œil à votre ville, un tirage de la Terrasse de Meudon ou une branche ramassée en Forêt de Meudon peut décorer l'arrière-plan. Quelques plans filmés au ralenti gardent ses bâillements et ses étirements, si fragiles.",
+  "scene": "La séance nouveau-né à Meudon se déroule chez vous, dans une pièce chauffée, pendant que bébé dort enveloppé. Nous photographions ses mains, ses cils et ses plis de peau, sans jamais le forcer à prendre une pose. Pour un clin d'œil à votre ville, un tirage de la Terrasse de Meudon ou une branche ramassée en Forêt de Meudon peut décorer l'arrière-plan. Quelques plans filmés au ralenti gardent ses bâillements et ses étirements, si fragiles.",
   "conseil": "Prévoyez la séance à domicile dans les deux premières semaines, quand bébé dort encore profondément. Chauffez la pièce et nourrissez-le juste avant notre arrivée. Les sorties en forêt pourront attendre les premiers mois, une fois la saison plus douce.",
   "faq": [
-   {"q": "Un photographe nouveau-né se déplace-t-il à domicile à Meudon ?", "a": "Oui, la séance nouveau-né se fait chez vous, à Meudon ou dans les communes voisines. Nous apportons le matériel nécessaire, nous respectons le rythme du bébé et nous faisons des pauses pour les tétées et les changes."},
-   {"q": "Quelle est la durée d'un shooting nouveau-né à Meudon ?", "a": "Comptez une demi-journée environ, car tout se règle sur le sommeil et les repas du bébé. Nous ne pressons jamais le rythme : les photos se font quand il est apaisé, et les parents peuvent souffler entre deux prises."}
+   {
+    "q": "Un photographe nouveau-né se déplace-t-il à domicile à Meudon ?",
+    "a": "Un photographe nouveau-né se déplace à domicile à Meudon et dans les communes voisines. Nous apportons le matériel nécessaire, respectons le rythme du bébé et faisons des pauses pour les tétées et les changes pendant la séance."
+   },
+   {
+    "q": "Quelle est la durée d'un shooting nouveau-né à Meudon ?",
+    "a": "Un shooting nouveau-né à Meudon dure environ une demi-journée, car tout se règle sur le sommeil et les repas du bébé. Nous ne pressons jamais le rythme : les photos se font quand il est apaisé, et les parents soufflent entre deux prises."
+   }
   ]
  }
 }
