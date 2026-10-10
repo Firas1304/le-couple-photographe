@@ -26,3 +26,10 @@ Mariage en priorité : accueil (index 0-2), galerie (3-10), bandeau (9), journé
 - Pas de tarifs, avis ni adresse inventés : à fournir par le client.
 - Le formulaire de contact ne peut pas envoyer : il copie le message. À brancher sur un service (Formspree, etc.).
 - Les pages croisées prestation × ville sont limitées à 15 villes pour éviter le contenu dupliqué (risque Google).
+
+## Règle de synchronisation (obligatoire)
+Le propriétaire travaille en alternance sur le bureau (session locale, dossier sur le disque « DD Bleu ») et sur son téléphone (session cloud). GitHub est le point commun.
+- Au début de chaque session : `git pull` sur la branche `claude/great-cray-w6pth2` pour récupérer le dernier travail.
+- Après CHAQUE mise à jour : régénérer (`python3 build.py`), `git add -A`, `git commit` avec un message clair, puis `git push`. Ne jamais laisser du travail seulement en local.
+- Ne pousser que des photos compressées (~250 Ko, 1600 px de large) ; les originaux restent sur le disque.
+- Ne pas créer de pull request sans demande explicite.
