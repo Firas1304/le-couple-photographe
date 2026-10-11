@@ -68,7 +68,7 @@ if(f)f.addEventListener('submit',function(e){e.preventDefault();var v=function(i
   if(WA)note.innerHTML+=' Ou <a href="'+waLink(txt)+'" target="_blank" rel="noopener">écrivez-nous sur WhatsApp</a>.'};
  if(!FE){alt();return}
  var btn=f.querySelector('button[type=submit]');btn.disabled=true;note.textContent='Envoi en cours…';
- fetch(FE,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({name:v('nom'),email:v('mail'),_replyto:v('mail'),date:v('date'),lieu:v('zone'),projet:v('type'),message:v('msg')})})
+ fetch(FE,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({name:v('nom'),email:v('mail'),_replyto:v('mail'),_subject:'Nouvelle demande de devis - Le Couple Photographe',_template:'table',date:v('date'),lieu:v('zone'),projet:v('type'),message:v('msg')})})
  .then(function(r){if(!r.ok)throw 0;note.textContent='Merci, votre demande est bien envoyée. Nous revenons vers vous très vite.';f.reset()})
  .catch(function(){alt()}).then(function(){btn.disabled=false})});
 /* Google Analytics 4 : chargé seulement après consentement (RGPD). Actif si GA_ID est renseigné dans build.py */

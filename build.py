@@ -10,7 +10,7 @@ IG = 'https://www.instagram.com/le_couple_photographe/'
 GA_ID = ''      # identifiant Google Analytics 4, ex. 'G-XXXXXXXXXX' (vide = rien n'est chargé)
 GSC_TOKEN = ''  # jeton de vérification Google Search Console (balise meta), vide = aucune balise
 WHATSAPP = '33619779235'   # numéro international sans + ni espaces, ex. '33612345678' (vide = pas de bouton WhatsApp)
-FORM_ENDPOINT = ''  # URL Formspree, ex. 'https://formspree.io/f/xxxxxxx' (vide = le formulaire copie le message)
+FORM_ENDPOINT = 'https://formsubmit.co/ajax/lecouplephotographe@gmail.com'  # URL Formspree, ex. 'https://formspree.io/f/xxxxxxx' (vide = le formulaire copie le message)
 NAME = 'Le Couple Photographe'
 esc = html.escape
 
