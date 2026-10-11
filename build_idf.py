@@ -23,7 +23,11 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-def seed(a): return {'paris-1er':300}.get(a, 140+h(a,50))
+def seed(a):
+    if a.startswith('grossesse'): return 2000+h(a,5)   # vraies photos de grossesse (2000-2004)
+    return {'paris-1er':300}.get(a, 140+h(a,50))
+def gstrip(s,k,alt):
+    return B.strip(2000+h(k,2) if s=='grossesse' else seed(k)+4,alt)
 
 def place_list_links(depth,places,limit=None):
     return [(p['name'],'zones/%s/'%p['slug']) for p in (places[:limit] if limit else places)]
@@ -52,7 +56,7 @@ def service_page(i,s):
     orders=[[dep,pv,ste,con],[dep,ste,con,pv],[pv,dep,con,ste]]
     body=B.header(d)+B.hero(d,[('Accueil',''),('Prestations','services/'),(s['name'],None)],s['h1']+' <em>à Paris</em>' if False else s['h1']+' à Paris',esc(s['lead']),seed(s['slug']),s['nom']+' à Paris',ans=(G['reponse'] if G else '%s à Paris et en Île-de-France. Prestation : %s. %s %s'%(B.BRAND_DEF,s['nom'].lower(),s['photo'],s['video'])))
     body+='<section class="facts"><div><small>Zone</small><b>Paris et Île-de-France</b></div><div><small>Photo</small><b>Galerie privée retouchée</b></div><div><small>Vidéo</small><b>Film monté sur mesure</b></div><div><small>Devis</small><b>Personnalisé</b></div></section>'
-    body+=''.join(orders[i%3])+B.strip(seed(s['slug'])+4,s['nom'])+B.faq_html(faqs)
+    body+=''.join(orders[i%3])+gstrip(s['slug'],s['slug'],s['nom'])+B.faq_html(faqs)
     body+=B.links_block(d,'%s près de chez vous'%s['name'],zones+[('Toutes les zones','zones/')])+B.cta(d)+B.links_block(d,'Autres prestations',others)+B.footer(d)
     B.page(path,d,'%s à Paris et Île-de-France | Le Couple Photographe'%s['nom'],'%s à Paris et en Île-de-France. %s Demandez votre devis.'%(s['nom'],s['lead'].split('.')[0]+'.'),ld,body)
     return [path]
@@ -125,7 +129,7 @@ def combo_page(s,p):
     zones_near=[(q['name'],'services/%s/%s/'%(s['slug'],q['slug'])) for q in PLACES if q['slug'] in PRIORITY and q['slug']!=p['slug']][:6]
     body=B.header(d)+B.hero(d,[('Accueil',''),(s['name'],'services/%s/'%s['slug']),(p['name'],None)],H1[s['slug']]%esc(p['name']),esc(lead),seed(s['slug']+p['slug']),s['nom']+' à '+p['name'],ans='%s qui propose la prestation « %s » à %s (%s). Lieux de prise de vue possibles : %s. Devis personnalisé sur la page Devis.'%(B.BRAND_DEF,s['nom'].lower(),p['name'],dep_label(p),', '.join(n for n,_,_ in top[:3])))
     body+='<section class="facts"><div><small>Prestation</small><b>%s</b></div><div><small>Lieu</small><b>%s</b></div><div><small>Durée</small><b>%s</b></div><div><small>Livraison</small><b>Photo et vidéo</b></div></section>'%(esc(s['name']),esc(p['name']),esc(s['duree'].split(',')[0].rstrip('.')))
-    body+=''.join(orders[k])+B.strip(seed(p['slug'])+s['cats'].__len__(),'%s à %s'%(s['nom'],p['name']))+B.faq_html(faqs)+B.cta(d)
+    body+=''.join(orders[k])+(gstrip(s['slug'],p['slug'],'%s à %s'%(s['nom'],p['name'])) if s['slug']=='grossesse' else B.strip(seed(p['slug'])+s['cats'].__len__(),'%s à %s'%(s['nom'],p['name'])))+B.faq_html(faqs)+B.cta(d)
     body+=B.links_block(d,'%s ailleurs en Île-de-France'%s['name'],zones_near+[(s['name']+' en Île-de-France','services/%s/'%s['slug']),('Zone : '+p['name'],'zones/%s/'%p['slug'])])+B.footer(d)
     B.page(path,d,'%s à %s | Le Couple Photographe'%(s['nom'],p['name']),'%s à %s (%s). %s Devis personnalisé.'%(s['nom'],p['name'],dep_label(p),p['intro'].split('.')[0]+'.'),ld,body)
     return [path]

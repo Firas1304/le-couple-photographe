@@ -40,5 +40,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Mariés se tenant par la main dans une galerie du Louvre, photographe de mariage à Paris"
+ },
+ "2000": {
+  "file": "photos/grossesse-couple-parc-automne-banc.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Couple enlacé dans un parc en automne, séance photo grossesse en Île-de-France"
+ },
+ "2001": {
+  "file": "photos/grossesse-portrait-couple-couronne-fleurs.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait d'un couple, future maman avec couronne de fleurs, séance photo grossesse"
+ },
+ "2002": {
+  "file": "photos/grossesse-baiser-ventre-parc-automne.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Le futur papa embrasse le ventre de sa compagne, séance photo grossesse en automne"
+ },
+ "2003": {
+  "file": "photos/grossesse-couple-danse-prairie.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Couple qui danse sur une prairie, séance photo grossesse à Paris et en Île-de-France"
+ },
+ "2004": {
+  "file": "photos/grossesse-couple-mains-jointes-lac.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Futurs parents face à face, mains jointes au bord d'un lac, photographe grossesse"
  }
 }
