@@ -124,5 +124,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Baiser sur le front et échographie, séance photo grossesse en Île-de-France"
+ },
+ "2100": {
+  "file": "photos/famille-parents-enfant-escaliers-chateau.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Famille main dans la main, parents et enfant descendant les escaliers d'un château en Île-de-France, séance photo famille"
+ },
+ "2101": {
+  "file": "photos/famille-enfant-pissenlit-jardin-topiaires.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Un enfant offre un pissenlit à sa maman enceinte dans un jardin, séance photo famille en Île-de-France"
+ },
+ "2102": {
+  "file": "photos/famille-complicite-enfant-epaules-papa.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Enfant sur les épaules de son papa qui embrasse sa maman, séance photo famille à Paris et en Île-de-France"
+ },
+ "2103": {
+  "file": "photos/famille-portrait-trio-jardin-francais.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de famille, enfant sur les épaules de son père et maman enceinte, jardin à la française"
+ },
+ "2104": {
+  "file": "photos/famille-portrait-enfant-chaussons-bleus.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait d'un petit garçon tenant des chaussons de bébé bleus, photographe famille en Île-de-France"
  }
 }
