@@ -23,7 +23,7 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-REAL={'grossesse':(2000,38),'famille':(2100,10)}
+REAL={'grossesse':(2000,38),'famille':(2100,14)}
 def seed(a):
     if a=='famille'+'paris-1er': return 2108   # Louvre
     if a=='famille'+'paris-7e': return 2106   # tour Eiffel

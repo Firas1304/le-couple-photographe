@@ -328,5 +328,29 @@
   "w": 1000,
   "h": 1500,
   "alt": "Papa qui soulève son enfant devant la pyramide du Louvre, maman les bras ouverts, photographe famille à Paris"
+ },
+ "2110": {
+  "file": "photos/famille-complicite-maman-enfant-pyramide-louvre.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Maman et son enfant complices devant la pyramide du Louvre, séance photo famille à Paris"
+ },
+ "2111": {
+  "file": "photos/famille-baiser-enfant-galerie-colonnes-louvre.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Parents embrassant leur enfant sous les colonnes du Louvre, photographe famille à Paris"
+ },
+ "2112": {
+  "file": "photos/famille-jeu-enfant-colonnade-louvre.jpg",
+  "w": 1500,
+  "h": 1000,
+  "alt": "Famille qui joue avec son enfant sous la colonnade du Louvre, séance photo famille à Paris"
+ },
+ "2113": {
+  "file": "photos/famille-enfant-gateau-anniversaire-lion-louvre.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Un enfant à côté de son gâteau d'anniversaire sous les colonnes du Louvre, photographe famille et anniversaire à Paris"
  }
 }
