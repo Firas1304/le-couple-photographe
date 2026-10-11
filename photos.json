@@ -532,5 +532,29 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait de profil rieur sur le pont Alexandre III, séance photo solo à Paris"
+ },
+ "2230": {
+  "file": "photos/solo-portrait-en-pied-gilet-raye-porte-bleue-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en pied, gilet rayé et chapeau de paille devant une porte bleue à Paris, photographe portrait"
+ },
+ "2231": {
+  "file": "photos/solo-portrait-gilet-raye-sac-vanity-porte-bleue.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en gilet marinière tricoté devant une porte bleue à Paris, photographe portrait"
+ },
+ "2232": {
+  "file": "photos/solo-portrait-rieur-chapeau-paille-porte-bleue.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo rieur sous un chapeau de paille devant une porte bleue à Paris, séance photo solo"
+ },
+ "2233": {
+  "file": "photos/solo-portrait-sourire-chapeau-paille-rue-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo souriant, chapeau de paille et gilet rayé dans une rue de Paris, photographe portrait"
  }
 }
