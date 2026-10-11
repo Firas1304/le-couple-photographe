@@ -412,5 +412,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait de profil aux cheveux cuivrés et perles, séance photo solo à Paris"
+ },
+ "2210": {
+  "file": "photos/solo-portrait-accroupie-sac-selle-lunettes-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo accroupie avec lunettes de soleil et sac selle, shooting photo solo à Paris"
+ },
+ "2211": {
+  "file": "photos/solo-shooting-marche-rue-paris-perles.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en marche dans une rue de Paris, lunettes de soleil et sautoir de perles, photographe portrait"
+ },
+ "2212": {
+  "file": "photos/solo-portrait-colonne-vendome-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo devant la colonne Vendôme à Paris, photographe portrait à Paris 1er"
+ },
+ "2213": {
+  "file": "photos/solo-portrait-chemise-dentelle-palais-royal.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en chemise de dentelle crème dans la galerie du Palais-Royal, photographe portrait à Paris"
+ },
+ "2214": {
+  "file": "photos/solo-portrait-colonnes-palais-royal-short-blanc.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo adossée à une colonne de la galerie du Palais-Royal, shooting photo solo à Paris"
  }
 }
