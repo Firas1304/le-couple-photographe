@@ -23,8 +23,10 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-REAL={'grossesse':(2000,38),'famille':(2100,5)}
+REAL={'grossesse':(2000,38),'famille':(2100,10)}
 def seed(a):
+    if a=='famille'+'paris-1er': return 2108   # Louvre
+    if a=='famille'+'paris-7e': return 2106   # tour Eiffel
     if a=='grossessesceaux': return 2033   # parc de Sceaux
     if a=='grossesseparis-8e': return 2030   # pont Alexandre III, Paris 8e
     if a=='grossesseparis-1er': return 2014   # Palais-Royal : photos prises sur place
