@@ -208,5 +208,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Futur papa et future maman complices sur une colonne de Buren, Palais-Royal, photographe grossesse à Paris"
+ },
+ "2023": {
+  "file": "photos/grossesse-studio-noir-blanc-couple-ventre.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Couple en noir et blanc en studio, mains sur le ventre, séance photo grossesse à Paris et en Île-de-France"
+ },
+ "2024": {
+  "file": "photos/grossesse-studio-noir-blanc-coeur-mains.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mains en cœur sur le ventre en noir et blanc, shooting grossesse en studio"
+ },
+ "2025": {
+  "file": "photos/grossesse-studio-portrait-noir-blanc-robe-noire.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait noir et blanc d'une future maman en robe noire, photographe grossesse en studio"
+ },
+ "2026": {
+  "file": "photos/grossesse-studio-couple-ventre-nu-jean.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Couple enlacé en studio, ventre arrondi, séance photo grossesse à Paris"
+ },
+ "2027": {
+  "file": "photos/grossesse-studio-chaussons-bebe-ventre.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Chaussons de bébé tenus devant le ventre, séance photo grossesse en studio"
  }
 }

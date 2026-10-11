@@ -23,7 +23,7 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-REAL={'grossesse':(2000,23),'famille':(2100,5)}
+REAL={'grossesse':(2000,28),'famille':(2100,5)}
 def seed(a):
     if a=='grossesseparis-1er': return 2014   # Palais-Royal : photos prises sur place
     for k,(base,n) in REAL.items():   # vraies photos par prestation
