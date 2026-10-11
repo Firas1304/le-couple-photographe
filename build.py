@@ -9,7 +9,7 @@ DOMAIN = 'https://www.lecouplephotographe.fr'   # à remplacer par votre vrai do
 IG = 'https://www.instagram.com/le_couple_photographe/'
 GA_ID = ''      # identifiant Google Analytics 4, ex. 'G-XXXXXXXXXX' (vide = rien n'est chargé)
 GSC_TOKEN = ''  # jeton de vérification Google Search Console (balise meta), vide = aucune balise
-WHATSAPP = ''   # numéro international sans + ni espaces, ex. '33612345678' (vide = pas de bouton WhatsApp)
+WHATSAPP = '33619779235'   # numéro international sans + ni espaces, ex. '33612345678' (vide = pas de bouton WhatsApp)
 FORM_ENDPOINT = ''  # URL Formspree, ex. 'https://formspree.io/f/xxxxxxx' (vide = le formulaire copie le message)
 NAME = 'Le Couple Photographe'
 esc = html.escape
