@@ -233,3 +233,5 @@ footer{padding:60px var(--g) 30px;display:flex;justify-content:space-between;gap
 .answer{margin:0 var(--g) clamp(30px,5vw,60px);padding:22px 0 0;border-top:1px solid var(--gold);max-width:78ch}
 .answer b{display:block;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:400;margin-bottom:8px}
 .answer p{margin:0;font-size:clamp(16px,1.3vw,19px);line-height:1.6;color:var(--paper)}
+.wa{position:fixed;left:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:48;width:54px;height:54px;border-radius:50%;background:#25d366;color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 40px rgba(0,0,0,.5);transition:transform .5s var(--ease)}
+.wa:hover{transform:translateY(-3px) scale(1.05)}

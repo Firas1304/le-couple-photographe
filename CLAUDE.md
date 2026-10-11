@@ -21,6 +21,7 @@ Toutes les images sont des visuels de remplacement générés (`data-ph="N"` dan
 Mariage en priorité : accueil (index 0-2), galerie (3-10), bandeau (9), journée de mariage (11-14).
 
 ## Points ouverts
+- Formulaire + WhatsApp : renseigner `FORM_ENDPOINT` (URL Formspree) et `WHATSAPP` (ex. 33612345678) en haut de `build.py`, puis `python3 build.py`. Vides = formulaire qui copie le message, pas de bouton WhatsApp.
 - Nom de domaine réel : remplacer `DOMAIN` dans `build.py` (actuellement lecouplephotographe.fr, exemple).
 - Vérifier les textes de lieux/palaces/cultures (écrits sans source externe).
 - Pas de tarifs, avis ni adresse inventés : à fournir par le client.

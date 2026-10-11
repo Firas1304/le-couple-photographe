@@ -53,13 +53,24 @@ function loop(){
   if(band){var br=band.parentNode.getBoundingClientRect();band.style.transform='translateY('+((br.top-vh/2)*-.12)+'px)'}}
  requestAnimationFrame(loop)}
 loop();
-/* formulaire */
+/* formulaire : envoi Formspree si SITE_FORM, sinon copie du message ; bouton WhatsApp si SITE_WA */
+var WA=window.SITE_WA||'',FE=window.SITE_FORM||'';
+function waLink(t){return 'https://wa.me/'+WA+(t?'?text='+encodeURIComponent(t):'')}
+if(WA){var w=document.createElement('a');w.className='wa';w.href=waLink('Bonjour, je souhaite un devis pour un photographe/vidéaste.');w.target='_blank';w.rel='noopener';w.setAttribute('aria-label','Écrire sur WhatsApp');
+ w.innerHTML='<svg viewBox="0 0 32 32" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M16 3a13 13 0 0 0-11.2 19.6L3 29l6.6-1.7A13 13 0 1 0 16 3zm0 2.4a10.6 10.6 0 1 1-5.4 19.7l-.4-.2-3.9 1 1-3.8-.3-.4A10.6 10.6 0 0 1 16 5.4zm-4 5.4c-.3 0-.7.1-1 .5-.4.4-1.3 1.3-1.3 3.1s1.3 3.6 1.500 3.8c.2.300 2.600 4.100 6.4 5.6 3.100 1.200 3.700.9 4.400.9.700-.1 2.200-.9 2.500-1.800.3-.9.300-1.600.2-1.800-.1-.2-.4-.3-.8-.5l-2.300-1.100c-.3-.1-.6-.2-.8.200l-1 1.200c-.2.200-.4.300-.8.100-.4-.2-1.500-.6-2.900-1.800-1.100-1-1.800-2.200-2-2.600-.2-.4 0-.6.200-.8l.6-.6c.2-.2.200-.4.400-.6.100-.2 0-.5 0-.7l-1-2.400c-.3-.6-.5-.5-.8-.5z"/></svg>';
+ document.body.appendChild(w)}
 var f=$('#form');
 if(f)f.addEventListener('submit',function(e){e.preventDefault();var v=function(i){var el=$('#'+i);return el?el.value.trim():''},note=$('#note');
  if(!v('nom')||!/\S+@\S+\.\S+/.test(v('mail'))){note.textContent='Indiquez vos prénoms et un email valide.';return}
  var txt='Bonjour, nous sommes '+v('nom')+' ('+v('mail')+'). Projet : '+v('type')+', lieu : '+v('zone')+(v('date')?', date : '+v('date'):'')+'. '+v('msg');
- var done=function(){note.textContent='Message copié. Collez-le dans un message à @le_couple_photographe sur Instagram.'};
- try{navigator.clipboard.writeText(txt).then(done,function(){note.textContent=txt})}catch(x){note.textContent=txt}});
+ var alt=function(){var m='Message copié. Collez-le dans un message à @le_couple_photographe sur Instagram.';
+  try{navigator.clipboard.writeText(txt).then(function(){note.textContent=m},function(){note.textContent=txt})}catch(x){note.textContent=txt}
+  if(WA)note.innerHTML+=' Ou <a href="'+waLink(txt)+'" target="_blank" rel="noopener">écrivez-nous sur WhatsApp</a>.'};
+ if(!FE){alt();return}
+ var btn=f.querySelector('button[type=submit]');btn.disabled=true;note.textContent='Envoi en cours…';
+ fetch(FE,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({name:v('nom'),email:v('mail'),_replyto:v('mail'),date:v('date'),lieu:v('zone'),projet:v('type'),message:v('msg')})})
+ .then(function(r){if(!r.ok)throw 0;note.textContent='Merci, votre demande est bien envoyée. Nous revenons vers vous très vite.';f.reset()})
+ .catch(function(){alt()}).then(function(){btn.disabled=false})});
 /* Google Analytics 4 : chargé seulement après consentement (RGPD). Actif si GA_ID est renseigné dans build.py */
 var GA=window.SITE_GA||'';
 function loadGA(){if(window.__ga)return;window.__ga=1;var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id='+GA;document.head.appendChild(s);
