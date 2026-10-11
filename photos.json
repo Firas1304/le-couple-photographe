@@ -502,5 +502,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait solo en mouvement, cheveux au vent et ceinture en cuir, photographe portrait à Paris"
+ },
+ "2225": {
+  "file": "photos/solo-portrait-robe-blanche-pont-alexandre-iii-tour-eiffel.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en robe blanche sur le pont Alexandre III avec la tour Eiffel en fond, photographe portrait à Paris"
+ },
+ "2226": {
+  "file": "photos/solo-portrait-de-dos-tour-eiffel-balustrade-seine.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de dos face à la tour Eiffel, balustrade au bord de la Seine, shooting photo solo à Paris"
+ },
+ "2227": {
+  "file": "photos/solo-portrait-lampadaires-pont-alexandre-iii-dorures.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo entre les lampadaires et les dorures du pont Alexandre III, photographe portrait à Paris"
+ },
+ "2228": {
+  "file": "photos/solo-portrait-sourire-rouge-a-levres-pont-alexandre-iii.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo souriant au rouge à lèvres sur le pont Alexandre III, photographe portrait à Paris"
+ },
+ "2229": {
+  "file": "photos/solo-portrait-profil-rieur-pont-alexandre-iii.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de profil rieur sur le pont Alexandre III, séance photo solo à Paris"
  }
 }
