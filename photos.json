@@ -352,5 +352,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Un enfant à côté de son gâteau d'anniversaire sous les colonnes du Louvre, photographe famille et anniversaire à Paris"
+ },
+ "2200": {
+  "file": "photos/solo-portrait-paris-eglise-de-la-madeleine-robe-blanche.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en robe blanche devant l'église de la Madeleine à Paris, shooting photo solo"
+ },
+ "2201": {
+  "file": "photos/solo-portrait-sourire-madeleine-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo souriant devant les colonnes de la Madeleine, photographe portrait à Paris"
+ },
+ "2202": {
+  "file": "photos/solo-portrait-de-dos-noeud-noir-madeleine.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de dos avec nœud noir devant l'église de la Madeleine, shooting solo à Paris"
+ },
+ "2203": {
+  "file": "photos/solo-portrait-colonnes-madeleine-profil.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo de profil entre les colonnes de la Madeleine, photographe portrait à Paris"
+ },
+ "2204": {
+  "file": "photos/solo-portrait-pose-ludique-colonnes-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo avec une pose ludique devant les colonnes de la Madeleine, photographe portrait à Paris"
  }
 }
