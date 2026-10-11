@@ -24,10 +24,10 @@ def pick_spots(pl,sv,n=3):
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
 def seed(a):
-    if a.startswith('grossesse'): return 2000+h(a,9)   # vraies photos de grossesse (2000-2008)
+    if a.startswith('grossesse'): return 2000+h(a,14)   # vraies photos de grossesse (2000-2013)
     return {'paris-1er':300}.get(a, 140+h(a,50))
 def gstrip(s,k,alt):
-    return B.strip(2000+h(k,6) if s=='grossesse' else seed(k)+4,alt)
+    return B.strip(2000+h(k,11) if s=='grossesse' else seed(k)+4,alt)
 
 def place_list_links(depth,places,limit=None):
     return [(p['name'],'zones/%s/'%p['slug']) for p in (places[:limit] if limit else places)]
