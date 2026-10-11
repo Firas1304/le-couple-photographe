@@ -382,5 +382,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait solo avec une pose ludique devant les colonnes de la Madeleine, photographe portrait à Paris"
+ },
+ "2205": {
+  "file": "photos/solo-portrait-place-vendome-gilet-creme-jupe-boule.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en gilet crème et jupe noire place Vendôme à Paris, shooting photo solo"
+ },
+ "2206": {
+  "file": "photos/solo-portrait-lunettes-perles-place-vendome.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo avec lunettes de soleil et collier de perles place Vendôme, photographe portrait à Paris"
+ },
+ "2207": {
+  "file": "photos/solo-shooting-mode-rue-paris-place-vendome.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Shooting mode en pose dynamique place Vendôme à Paris, photographe portrait solo"
+ },
+ "2208": {
+  "file": "photos/solo-portrait-collier-perles-arcades-rue-de-rivoli.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo avec sautoirs de perles devant les arcades de la rue de Rivoli, photographe portrait à Paris"
+ },
+ "2209": {
+  "file": "photos/solo-portrait-profil-chevelure-cuivree-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de profil aux cheveux cuivrés et perles, séance photo solo à Paris"
  }
 }
