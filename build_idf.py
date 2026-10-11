@@ -23,7 +23,7 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-REAL={'grossesse':(2000,38),'famille':(2100,14),'solo':(2200,20)}
+REAL={'grossesse':(2000,38),'famille':(2100,14),'solo':(2200,25)}
 def seed(a):
     if a=='solo'+'paris-1er': return 2212   # colonne Vendôme (Paris 1er)
     if a=='solo'+'paris-8e': return 2200   # La Madeleine

@@ -472,5 +472,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait de profil avec lunettes de soleil et nœud noir, séance photo solo à Paris"
+ },
+ "2220": {
+  "file": "photos/solo-portrait-gros-plan-lunettes-perles-noeud-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en gros plan, lunettes de soleil et grosses perles, photographe portrait à Paris"
+ },
+ "2221": {
+  "file": "photos/solo-portrait-profil-sourire-noeud-noir-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de profil souriant avec nœud noir dans les cheveux, séance photo solo à Paris"
+ },
+ "2222": {
+  "file": "photos/solo-portrait-beaute-regard-sourire-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait beauté, regard et sourire, photographe portrait solo à Paris"
+ },
+ "2223": {
+  "file": "photos/solo-portrait-sourire-lumineux-collier-perles-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo au sourire lumineux et collier de perles, shooting photo à Paris"
+ },
+ "2224": {
+  "file": "photos/solo-portrait-mouvement-cheveux-ceinture-cuir-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en mouvement, cheveux au vent et ceinture en cuir, photographe portrait à Paris"
  }
 }
