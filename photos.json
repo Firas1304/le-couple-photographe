@@ -442,5 +442,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait solo adossée à une colonne de la galerie du Palais-Royal, shooting photo solo à Paris"
+ },
+ "2215": {
+  "file": "photos/solo-shooting-combinaison-pois-rue-haussmannienne-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en combinaison à pois dans une rue haussmannienne de Paris, shooting photo solo"
+ },
+ "2216": {
+  "file": "photos/solo-portrait-en-pied-combinaison-pois-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en pied, combinaison à pois et escarpins rouges, rue de Paris, photographe portrait"
+ },
+ "2217": {
+  "file": "photos/solo-portrait-sautoir-perles-ceinture-cuir-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo avec collier de grosses perles et ceinture en cuir, photographe portrait à Paris"
+ },
+ "2218": {
+  "file": "photos/solo-portrait-sourire-grille-fer-forge-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo souriant adossée à une grille en fer forgé à Paris, shooting photo solo"
+ },
+ "2219": {
+  "file": "photos/solo-portrait-profil-lunettes-noeud-noir-paris.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait de profil avec lunettes de soleil et nœud noir, séance photo solo à Paris"
  }
 }
