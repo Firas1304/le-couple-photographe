@@ -556,5 +556,41 @@
   "w": 1000,
   "h": 1500,
   "alt": "Portrait solo souriant, chapeau de paille et gilet rayé dans une rue de Paris, photographe portrait"
+ },
+ "4": {
+  "file": "photos/grossesse-parc-de-sceaux-banc-pierre-couple.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Futur papa et future maman en blanc sur un banc de pierre du parc de Sceaux, séance photo grossesse à Sceaux"
+ },
+ "5": {
+  "file": "photos/famille-tour-eiffel-pont-balustrade.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Parents et enfant devant la tour Eiffel sur un pont de la Seine, photographe famille à Paris"
+ },
+ "6": {
+  "file": "photos/grossesse-palais-royal-colonnes-buren-echographie.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Future maman avec échographie devant les colonnes de Buren au Palais-Royal, séance photo grossesse à Paris 1er"
+ },
+ "7": {
+  "file": "photos/solo-portrait-robe-blanche-pont-alexandre-iii-tour-eiffel.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en robe blanche sur le pont Alexandre III avec la tour Eiffel en fond, photographe portrait à Paris"
+ },
+ "8": {
+  "file": "photos/famille-pyramide-du-louvre-pull-beige-complicite.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Famille en pulls beiges assise devant la pyramide du Louvre, séance photo famille à Paris"
+ },
+ "10": {
+  "file": "photos/grossesse-pont-alexandre-iii-invalides.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Future maman sur le pont Alexandre III avec le dôme des Invalides en fond, photographe grossesse à Paris"
  }
 }
