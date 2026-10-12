@@ -652,5 +652,23 @@
   "w": 1000,
   "h": 1500,
   "alt": "Mariés avec un feu d'artifice de table devant le gâteau, soirée de mariage, photographe de mariage"
+ },
+ "2038": {
+  "file": "photos/grossesse-annonce-echographie-couple-gros-plan.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Futurs parents qui montrent leur échographie, annonce de grossesse, photographe grossesse en Île-de-France"
+ },
+ "2234": {
+  "file": "photos/solo-portrait-sac-vanity-rue-paris-gilet-raye.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Portrait solo en gilet rayé avec un sac vanity dans une rue de Paris, photographe portrait"
+ },
+ "2309": {
+  "file": "photos/mariage-soiree-photo-de-groupe-lunettes-coeur.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés et invités en photo de groupe avec des lunettes en forme de coeur, soirée de mariage, photographe de mariage"
  }
 }
