@@ -622,5 +622,35 @@
   "w": 1000,
   "h": 1500,
   "alt": "Marié qui porte la mariée sur une pelouse, bassin et topiaires, photographe de mariage"
+ },
+ "2305": {
+  "file": "photos/mariage-soiree-mariee-danse-guirlandes-lumineuses.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariée qui danse sous les guirlandes lumineuses, soirée de mariage en plein air, photographe de mariage"
+ },
+ "2306": {
+  "file": "photos/mariage-soiree-mariee-lunettes-coeur-danse.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariée qui danse avec des lunettes en forme de coeur, soirée de mariage, photographe de mariage"
+ },
+ "2307": {
+  "file": "photos/mariage-soiree-feu-d-artifice-gateau-maries.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés avec un feu d'artifice de table devant le gâteau, soirée de mariage, photographe de mariage"
+ },
+ "2308": {
+  "file": "photos/mariage-soiree-maries-dj-set-guirlandes.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés au DJ set sous les guirlandes lumineuses, soirée de mariage, photographe de mariage"
+ },
+ "14": {
+  "file": "photos/mariage-soiree-feu-d-artifice-gateau-maries.jpg",
+  "w": 1000,
+  "h": 1500,
+  "alt": "Mariés avec un feu d'artifice de table devant le gâteau, soirée de mariage, photographe de mariage"
  }
 }
