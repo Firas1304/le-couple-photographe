@@ -23,9 +23,10 @@ def pick_spots(pl,sv,n=3):
         if sp not in out: out.append(sp)
     return out[:n]
 def dep_label(pl): return '%s (%s)'%(DEPS[pl['dep']],pl['dep'])
-REAL={'mariage':(2300,10),'grossesse':(2000,39),'famille':(2100,14),'solo':(2200,35)}
+REAL={'mariage':(2300,22),'grossesse':(2000,65),'famille':(2100,14),'solo':(2200,35)}
 def seed(a):
     if a=='solo'+'paris-1er': return 2212   # colonne Vendôme (Paris 1er)
+    if a=='mariage'+'paris-1er': return 2311   # Louvre
     if a=='solo'+'paris-7e': return 2225   # tour Eiffel / pont Alexandre III
     if a=='solo'+'paris-8e': return 2200   # La Madeleine
     if a=='famille'+'paris-1er': return 2108   # Louvre
