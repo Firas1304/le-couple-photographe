@@ -166,8 +166,11 @@ def apply_photos(doc, depth):
         mm = re.search(r'alt="([^"]*)"', rest); orig = mm.group(1) if mm else ''
         rest = re.sub(r'\s*(alt|width|height|loading)="[^"]*"', '', rest)
         alt = p['alt'] if orig else ''
-        lazy = '' if int(i) in (0,1,2) else ' loading="lazy"'
-        return '<img src="%s%s" width="%d" height="%d" alt="%s"%s%s>' % ('../'*depth, p['file'], p['w'], p['h'], esc(alt,True), lazy, rest)
+        lazy = '' if (int(i) in (0,1,2) or 'class="hi"' in rest) else ' loading="lazy"'
+        pre = '../'*depth
+        sm = p['file'].replace('photos/','photos/s/',1)
+        sset = '' if (int(i) in (0,1,2) or 'class="hi"' in rest) else ' srcset="%s%s 640w, %s%s 1000w" sizes="(max-width:700px) 50vw, 360px"' % (pre, sm, pre, p['file'])
+        return '<img src="%s%s" width="%d" height="%d" alt="%s"%s%s%s>' % (pre, p['file'], p['w'], p['h'], esc(alt,True), lazy, sset, rest)
     return re.sub(r'<img data-ph="(\d+)"([^>]*)>', rep, doc)
 
 def page(path, depth, title, desc, ld, body, home=False):
@@ -186,7 +189,7 @@ BRAND_DEF = "Le Couple Photographe est un duo de photographes et vidéastes"
 
 def hero(depth, crumbs, h1, lead, seed, alt, ans=''):
     c = ' <span>/</span> '.join('<a href="%s">%s</a>'%(href(depth,p),n) if p is not None else '<span>%s</span>'%n for n,p in crumbs)
-    return '<main><section class="ph"><nav class="crumb" aria-label="Fil d\'Ariane">%s</nav><h1>%s</h1><p class="lead">%s</p><div class="acts"><a class="btn" href="%s" data-cursor>Demander un devis</a><a class="btn alt" href="#details" data-cursor>En savoir plus</a></div></section><div class="hero-img">%s</div>%s' % (c, h1, lead, href(depth,'contact/'), img(seed, alt), answer(ans) if ans else '')
+    return '<main><section class="ph"><nav class="crumb" aria-label="Fil d\'Ariane">%s</nav><h1>%s</h1><p class="lead">%s</p><div class="acts"><a class="btn" href="%s" data-cursor>Demander un devis</a><a class="btn alt" href="#details" data-cursor>En savoir plus</a></div></section><div class="hero-img">%s</div>%s' % (c, h1, lead, href(depth,'contact/'), img(seed, alt, 'hi'), answer(ans) if ans else '')
 
 # ---------- pages palaces ----------
 def load_page(kind, slug):
